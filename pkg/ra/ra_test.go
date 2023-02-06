@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/bonaysoft/engra/pkg/dal/model"
-	"github.com/go-playground/assert/v2"
+	"github.com/stretchr/testify/assert"
 )
 
 var wants = []model.Vocabulary{
