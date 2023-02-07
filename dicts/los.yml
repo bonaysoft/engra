@@ -1,0 +1,13 @@
+name: 9BA
+children:
+  - name: lose
+    children:
+      - name: loser
+      - name: losing
+      - name: loss
+        children:
+          - name: lossy
+          - name: lossless
+      - name: lost
+        children:
+          - name: lostness

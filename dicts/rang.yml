@@ -1,0 +1,24 @@
+name: 103A
+children:
+  - name: range
+    children:
+      - name: ranger
+      - name: rangefinder
+      - name: rangeland
+      - name: midrange
+  - name: arrange
+    children:
+      - name: arranger
+      - name: arranged
+      - name: arrangement
+      - name: rearrange
+        children:
+          - name: rearranged
+          - name: rearrangement
+      - name: prearrange
+        children:
+          - name: prearranged
+          - name: prearrangement
+      - name: disarrange
+        children:
+          - name: disarrangement

@@ -1,0 +1,19 @@
+name: 30B
+children:
+  - name: ward
+    children:
+      - name: warden
+      - name: warder
+  - name: award
+    children:
+      - name: awarding
+  - name: reward
+    children:
+      - name: rewarding
+        children:
+          - name: unrewarding
+      - name: unrewarded
+  - name: steward
+    children:
+      - name: stewardess
+      - name: stewardship

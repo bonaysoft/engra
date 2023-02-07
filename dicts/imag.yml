@@ -1,0 +1,29 @@
+name: F8A
+children:
+  - name: image
+    children:
+      - name: imaging
+      - name: imaged
+      - name: imagery
+      - name: imagist
+        children:
+          - name: imagistic
+      - name: afterimage
+  - name: imagine
+    children:
+      - name: imagining
+      - name: imagined
+        children:
+          - name: unimagined
+      - name: imaginal
+      - name: imaginable
+        children:
+          - name: unimaginable
+            children:
+              - name: unimaginably
+      - name: imaginary
+      - name: imagination
+      - name: imaginative
+        children:
+          - name: imaginatively
+          - name: unimaginative

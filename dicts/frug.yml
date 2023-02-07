@@ -1,0 +1,6 @@
+name: 259C
+children:
+  - name: frugal
+    children:
+      - name: frugally
+      - name: frugality

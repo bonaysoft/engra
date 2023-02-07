@@ -1,0 +1,11 @@
+name: 41FA
+children:
+  - name: source
+    children:
+      - name: sourcing
+      - name: resource
+        children:
+          - name: resourceless
+          - name: resourceful
+            children:
+              - name: resourcefulness

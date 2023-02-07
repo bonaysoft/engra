@@ -1,0 +1,23 @@
+name: E5A
+children:
+  - name: take
+    children:
+      - name: taker
+      - name: taking
+      - name: taken
+  - name: mistake
+    children:
+      - name: mistaking
+      - name: mistaken
+        children:
+          - name: mistakenly
+      - name: unmistakable
+        children:
+          - name: unmistakably
+  - name: undertake
+    children:
+      - name: undertaker
+      - name: undertaking
+  - name: overtake
+    children:
+      - name: overtaking

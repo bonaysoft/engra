@@ -1,0 +1,6 @@
+name: 295A
+children:
+  - name: camera
+    children:
+      - name: cameraman
+      - name: camerawork

@@ -1,0 +1,24 @@
+name: 119A
+children:
+  - name: vary
+    children:
+      - name: varying
+        children:
+          - name: unvarying
+      - name: varied
+        children:
+          - name: unvaried
+  - name: various
+    children:
+      - name: variously
+  - name: variety
+    children:
+      - name: varietal
+  - name: variable
+    children:
+      - name: variably
+        children:
+          - name: variability
+      - name: invariable
+        children:
+          - name: invariably

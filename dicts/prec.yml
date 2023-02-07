@@ -1,0 +1,19 @@
+name: 70D
+children:
+  - name: precious
+    children:
+      - name: preciously
+      - name: preciousness
+  - name: appreciate
+    children:
+      - name: appreciator
+      - name: appreciation
+      - name: appreciable
+        children:
+          - name: appreciably
+      - name: appreciative
+        children:
+          - name: appreciatively
+          - name: unappreciative
+      - name: unappreciated
+      - name: underappreciated

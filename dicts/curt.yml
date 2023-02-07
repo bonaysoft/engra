@@ -1,0 +1,6 @@
+name: 56E
+children:
+  - name: curtail
+    children:
+      - name: curtailed
+      - name: curtailment

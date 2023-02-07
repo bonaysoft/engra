@@ -1,0 +1,38 @@
+name: 23B
+children:
+  - name: cap
+    children:
+      - name: capping
+      - name: capped
+      - name: capper
+      - name: capful
+      - name: uncap
+        children:
+          - name: uncapped
+      - name: recap
+      - name: kneecap
+      - name: hubcap
+      - name: nightcap
+      - name: icecap
+      - name: skullcap
+      - name: whitecap
+  - name: cape
+    children:
+      - name: caped
+  - name: escape
+    children:
+      - name: escaping
+      - name: escaped
+      - name: escapee
+      - name: escapist
+      - name: escapism
+      - name: escapable
+        children:
+          - name: inescapable
+            children:
+              - name: inescapably
+  - name: handicap
+    children:
+      - name: handicapping
+      - name: handicapped
+      - name: handicapper

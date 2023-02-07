@@ -1,0 +1,8 @@
+name: 2B6A
+children:
+  - name: metal
+    children:
+      - name: metallic
+        children:
+          - name: metallicity
+          - name: nonmetallic

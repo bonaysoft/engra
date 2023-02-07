@@ -1,0 +1,8 @@
+name: 5G
+children:
+  - name: deceit
+    children:
+      - name: deceitful
+  - name: conceit
+    children:
+      - name: conceited

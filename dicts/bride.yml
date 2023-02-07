@@ -1,0 +1,9 @@
+name: 5D2A
+children:
+  - name: bride
+    children:
+      - name: bridal
+      - name: bridecake
+      - name: bridegroom
+      - name: bridesman
+      - name: bridesmaid

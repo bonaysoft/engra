@@ -1,0 +1,57 @@
+name: BC
+children:
+  - name: advertise
+    children:
+      - name: advertiser
+      - name: advertising
+      - name: advertised
+      - name: advertisement
+  - name: avert
+    children:
+      - name: averted
+  - name: divert
+    children:
+      - name: diverting
+      - name: diverted
+      - name: diversion
+      - name: diversionary
+  - name: subvert
+    children:
+      - name: subverted
+      - name: subversion
+      - name: subversive
+        children:
+          - name: subversively
+  - name: revert
+    children:
+      - name: reverting
+      - name: reverted
+      - name: revertible
+      - name: revertant
+  - name: invert
+    children:
+      - name: inverter
+      - name: inverted
+      - name: inverting
+  - name: convert
+    children:
+      - name: converter
+      - name: converted
+        children:
+          - name: unconverted
+      - name: convertible
+        children:
+          - name: convertibility
+      - name: conversion
+      - name: reconvert
+  - name: vertigo
+    children:
+      - name: vertiginous
+  - name: vertebra
+    children:
+      - name: vertebral
+        children:
+          - name: intervertebral
+      - name: vertebrate
+        children:
+          - name: invertebrate

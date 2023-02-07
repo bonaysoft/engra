@@ -1,0 +1,9 @@
+name: 3CCA
+children:
+  - name: street
+    children:
+      - name: streetlight
+      - name: streetlamp
+      - name: streetcar
+      - name: streetscape
+      - name: streetwise

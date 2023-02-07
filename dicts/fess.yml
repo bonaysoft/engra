@@ -1,0 +1,30 @@
+name: 1FG
+children:
+  - name: profess
+    children:
+      - name: professed
+      - name: professor
+        children:
+          - name: professorship
+          - name: professoriate
+      - name: profession
+        children:
+          - name: professional
+            children:
+              - name: professionally
+              - name: professionalism
+              - name: paraprofessional
+          - name: unprofessional
+            children:
+              - name: unprofessionally
+      - name: professionalize
+        children:
+          - name: professionalization
+  - name: confess
+    children:
+      - name: confessor
+      - name: confessed
+      - name: confession
+        children:
+          - name: confessional
+      - name: fess

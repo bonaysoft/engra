@@ -1,0 +1,16 @@
+name: 9BE
+children:
+  - name: analyze
+    children:
+      - name: analyzer
+      - name: analyzable
+  - name: paralysis
+    children:
+      - name: paralytic
+      - name: paralyze
+        children:
+          - name: paralyzing
+          - name: paralyzed
+  - name: dialysis
+    children:
+      - name: dialytic

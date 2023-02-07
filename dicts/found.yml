@@ -1,0 +1,21 @@
+name: C3A
+children:
+  - name: found
+    children:
+      - name: founding
+      - name: founded
+        children:
+          - name: unfounded
+      - name: founder
+        children:
+          - name: foundress
+          - name: foundering
+      - name: foundry
+  - name: foundation
+    children:
+      - name: foundationer
+      - name: foundational
+  - name: profound
+    children:
+      - name: profoundly
+      - name: profoundity

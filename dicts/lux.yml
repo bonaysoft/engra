@@ -1,0 +1,12 @@
+name: 24AC
+children:
+  - name: luxury
+    children:
+      - name: luxurious
+        children:
+          - name: luxuriously
+      - name: luxuriant
+        children:
+          - name: luxuriantly
+          - name: luxuriance
+      - name: luxuriate

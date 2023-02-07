@@ -1,0 +1,80 @@
+name: 2E
+children:
+  - name: effect
+    children:
+      - name: effective
+        children:
+          - name: effectively
+          - name: effectiveness
+          - name: ineffective
+            children:
+              - name: ineffectively
+              - name: ineffectiveness
+      - name: effectual
+        children:
+          - name: effectually
+          - name: ineffectual
+            children:
+              - name: ineffectually
+      - name: effector
+      - name: effectuate
+        children:
+          - name: effectuation
+  - name: perfect
+    children:
+      - name: perfectly
+      - name: perfecting
+      - name: perfective
+      - name: perfectible
+        children:
+          - name: perfectibility
+      - name: perfection
+        children:
+          - name: perfectionism
+          - name: perfectionist
+      - name: imperfect
+        children:
+          - name: imperfectly
+          - name: imperfection
+      - name: pluperfect
+  - name: affect
+    children:
+      - name: affective
+        children:
+          - name: affectively
+      - name: affectless
+      - name: affection
+        children:
+          - name: affectional
+          - name: affectionate
+            children:
+              - name: affectionately
+      - name: affecting
+      - name: affected
+        children:
+          - name: unaffected
+      - name: affectation
+      - name: disaffect
+        children:
+          - name: disaffected
+          - name: disaffection
+  - name: infect
+    children:
+      - name: infected
+        children:
+          - name: uninfected
+      - name: infection
+      - name: infectious
+        children:
+          - name: infectiously
+      - name: infective
+      - name: coinfection
+      - name: disinfect
+        children:
+          - name: disinfection
+          - name: disinfectant
+  - name: defect
+    children:
+      - name: defector
+      - name: defection
+      - name: defective

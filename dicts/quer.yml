@@ -1,0 +1,14 @@
+name: 5EA
+children:
+  - name: query
+  - name: conquer
+    children:
+      - name: conqueror
+      - name: conquering
+      - name: conquered
+        children:
+          - name: unconquered
+      - name: conquerable
+        children:
+          - name: unconquerable
+      - name: reconquer

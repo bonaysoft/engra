@@ -1,0 +1,6 @@
+name: 552A
+children:
+  - name: trance
+    children:
+      - name: entrance
+      - name: entranced

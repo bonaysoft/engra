@@ -1,0 +1,10 @@
+name: 2BEA
+children:
+  - name: tremble
+    children:
+      - name: trembly
+      - name: trembler
+      - name: trembling
+  - name: tremendous
+    children:
+      - name: tremendously

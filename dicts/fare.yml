@@ -1,0 +1,16 @@
+name: 1CFA
+children:
+  - name: fare
+    children:
+      - name: carfare
+      - name: airfare
+      - name: farer
+        children:
+          - name: wayfarer
+          - name: seafarer
+  - name: welfare
+    children:
+      - name: workfare
+  - name: warfare
+    children:
+      - name: biowarfare

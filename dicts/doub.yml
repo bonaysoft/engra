@@ -1,0 +1,15 @@
+name: 3FD
+children:
+  - name: doubt
+    children:
+      - name: doubter
+      - name: doubtful
+        children:
+          - name: doubtfully
+      - name: doubtless
+        children:
+          - name: doubtlessly
+      - name: doubting
+      - name: undoubted
+        children:
+          - name: undoubtedly

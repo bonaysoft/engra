@@ -1,0 +1,31 @@
+name: 14AB
+children:
+  - name: claim
+    children:
+      - name: claimant
+      - name: claimed
+        children:
+          - name: unclaimed
+      - name: quitclaim
+  - name: proclaim
+    children:
+      - name: proclaimed
+      - name: proclamation
+      - name: proclamatory
+  - name: reclaim
+    children:
+      - name: reclaimer
+      - name: reclaimed
+      - name: reclaiming
+      - name: reclaimable
+      - name: reclamation
+  - name: exclaim
+    children:
+      - name: exclamation
+      - name: exclamative
+      - name: exclamatory
+  - name: acclaim
+    children:
+      - name: acclaimed
+      - name: acclamation
+      - name: acclamatory

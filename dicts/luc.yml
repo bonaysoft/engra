@@ -1,0 +1,15 @@
+name: DDA
+children:
+  - name: lucid
+    children:
+      - name: lucidly
+      - name: lucidity
+      - name: pellucid
+      - name: elucidate
+        children:
+          - name: elucidation
+          - name: elucidative
+  - name: translucent
+    children:
+      - name: translucency
+      - name: translucence

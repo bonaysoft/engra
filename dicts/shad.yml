@@ -1,0 +1,21 @@
+name: 21AA
+children:
+  - name: shade
+    children:
+      - name: shady
+      - name: shadeless
+      - name: shading
+      - name: shaded
+        children:
+          - name: unshaded
+      - name: lampshade
+  - name: shadow
+    children:
+      - name: shadowy
+        children:
+          - name: shadowiness
+      - name: shadowless
+      - name: shadowed
+  - name: foreshadow
+    children:
+      - name: foreshadowing

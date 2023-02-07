@@ -1,0 +1,7 @@
+name: 2E6A
+children:
+  - name: ship
+    children:
+      - name: shipper
+      - name: shipping
+      - name: shipment

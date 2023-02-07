@@ -1,0 +1,19 @@
+name: 200A
+children:
+  - name: expand
+    children:
+      - name: expander
+      - name: expanding
+      - name: expanded
+      - name: expandable
+      - name: expanse
+        children:
+          - name: expansive
+            children:
+              - name: expansively
+              - name: expansiveness
+          - name: expansion
+            children:
+              - name: expansionary
+              - name: expansionist
+              - name: expansionism

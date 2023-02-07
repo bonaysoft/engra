@@ -1,0 +1,15 @@
+name: 1F2A
+children:
+  - name: sweet
+    children:
+      - name: sweetly
+      - name: sweetness
+      - name: sweetheart
+      - name: sweetie
+      - name: sweeten
+        children:
+          - name: sweetener
+          - name: sweetening
+          - name: sweetened
+            children:
+              - name: unsweetened

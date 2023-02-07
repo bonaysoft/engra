@@ -1,0 +1,19 @@
+name: 7FB
+children:
+  - name: origin
+    children:
+      - name: original
+        children:
+          - name: originally
+          - name: originality
+          - name: originalism
+          - name: unoriginal
+      - name: originate
+        children:
+          - name: originator
+          - name: originating
+          - name: origination
+          - name: originative
+      - name: aborigine
+        children:
+          - name: aboriginal

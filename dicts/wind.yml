@@ -1,0 +1,19 @@
+name: A3B
+children:
+  - name: wind
+    children:
+      - name: windy
+      - name: windless
+      - name: winder
+      - name: winding
+      - name: winded
+      - name: unwind
+        children:
+          - name: unwinding
+      - name: rewind
+  - name: window
+    children:
+      - name: windowless
+      - name: windowed
+      - name: windowsill
+      - name: windowpane

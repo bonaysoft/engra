@@ -1,0 +1,8 @@
+name: 3BB
+children:
+  - name: strangle
+    children:
+      - name: strangled
+      - name: strangler
+      - name: stranglehold
+      - name: strangulation

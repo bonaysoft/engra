@@ -1,0 +1,6 @@
+name: 3DEA
+children:
+  - name: stratum
+    children:
+      - name: substratum
+      - name: superstratum

@@ -1,0 +1,19 @@
+name: 80A
+children:
+  - name: essence
+    children:
+      - name: essential
+        children:
+          - name: essentially
+          - name: essentiality
+          - name: essentialist
+          - name: essentialism
+          - name: essentialize
+            children:
+              - name: essentialized
+          - name: inessential
+      - name: quintessence
+        children:
+          - name: quintessential
+            children:
+              - name: quintessentially

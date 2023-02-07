@@ -1,0 +1,8 @@
+name: 488A
+children:
+  - name: stain
+    children:
+      - name: staining
+      - name: stained
+      - name: unstained
+      - name: stainless

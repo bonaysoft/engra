@@ -1,0 +1,6 @@
+name: 38EA
+children:
+  - name: stupid
+    children:
+      - name: stupidly
+      - name: stupidity

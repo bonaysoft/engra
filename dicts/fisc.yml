@@ -1,0 +1,10 @@
+name: 4C3A
+children:
+  - name: fiscal
+    children:
+      - name: fiscally
+  - name: confiscate
+    children:
+      - name: confiscated
+      - name: confiscatory
+      - name: confiscable

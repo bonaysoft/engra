@@ -1,0 +1,12 @@
+name: 3F0A
+children:
+  - name: rare
+    children:
+      - name: rarely
+      - name: rarefy
+        children:
+          - name: rarefied
+      - name: rarity
+      - name: rarify
+        children:
+          - name: rarified

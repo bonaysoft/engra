@@ -1,0 +1,33 @@
+name: DFB
+children:
+  - name: satisfy
+    children:
+      - name: satisfying
+        children:
+          - name: satisfyingly
+          - name: unsatisfying
+      - name: satisfied
+        children:
+          - name: unsatisfied
+      - name: satisfaction
+      - name: satisfactory
+        children:
+          - name: satisfactorily
+          - name: unsatisfactory
+      - name: satisfiable
+      - name: dissatisfy
+        children:
+          - name: dissatisfied
+          - name: dissatisfaction
+          - name: dissatisfactory
+  - name: saturate
+    children:
+      - name: saturated
+        children:
+          - name: unsaturated
+          - name: polyunsaturated
+      - name: saturation
+      - name: desaturate
+        children:
+          - name: desaturation
+      - name: supersaturate

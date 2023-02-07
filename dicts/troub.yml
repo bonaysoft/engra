@@ -1,0 +1,14 @@
+name: D9B
+children:
+  - name: trouble
+    children:
+      - name: troubling
+      - name: troubled
+        children:
+          - name: untroubled
+      - name: troublesome
+      - name: troubleshoot
+        children:
+          - name: troubleshooter
+          - name: troubleshooting
+      - name: troublemaker

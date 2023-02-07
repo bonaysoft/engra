@@ -1,0 +1,6 @@
+name: 589A
+children:
+  - name: juice
+    children:
+      - name: juicer
+      - name: juicy

@@ -1,0 +1,27 @@
+name: CAA
+children:
+  - name: mark
+    children:
+      - name: marker
+      - name: marking
+      - name: marked
+        children:
+          - name: markedly
+          - name: unmarked
+      - name: landmark
+      - name: trademark
+      - name: bookmark
+      - name: birthmark
+      - name: watermark
+      - name: pockmark
+        children:
+          - name: pockmarked
+  - name: remark
+    children:
+      - name: remarked
+        children:
+          - name: unremarked
+      - name: remarkable
+        children:
+          - name: remarkably
+          - name: unremarkable

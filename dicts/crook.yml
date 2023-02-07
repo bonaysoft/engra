@@ -1,0 +1,13 @@
+name: 2CCC
+children:
+  - name: crook
+    children:
+      - name: crooked
+        children:
+          - name: crookedly
+          - name: crookedness
+      - name: crookneck
+        children:
+          - name: crooknecked
+      - name: crookback
+      - name: crookery

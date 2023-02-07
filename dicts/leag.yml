@@ -1,0 +1,6 @@
+name: 6EA
+children:
+  - name: league
+    children:
+      - name: leaguer
+      - name: beleaguered

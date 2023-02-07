@@ -1,0 +1,38 @@
+name: 1CA
+children:
+  - name: second
+    children:
+      - name: seconds
+      - name: secondly
+      - name: secondary
+        children:
+          - name: secondarily
+          - name: postsecondary
+      - name: millisecond
+      - name: microsecond
+      - name: nanosecond
+      - name: picosecond
+      - name: femtosecond
+  - name: execute
+    children:
+      - name: executor
+      - name: executed
+      - name: executable
+      - name: executive
+      - name: execution
+        children:
+          - name: executioner
+  - name: prosecute
+    children:
+      - name: prosecutor
+        children:
+          - name: prosecutorial
+      - name: prosecuting
+      - name: prosecution
+      - name: prosecutive
+      - name: prosecutable
+  - name: persecute
+    children:
+      - name: persecutor
+      - name: persecuted
+      - name: persecution

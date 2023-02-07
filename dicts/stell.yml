@@ -1,0 +1,5 @@
+name: 78D
+children:
+  - name: stellar
+    children:
+      - name: interstellar

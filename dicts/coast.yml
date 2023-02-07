@@ -1,0 +1,14 @@
+name: 2C9B
+children:
+  - name: coast
+    children:
+      - name: coastal
+        children:
+          - name: bicoastal
+          - name: intercoastal
+          - name: intracoastal
+      - name: coaster
+      - name: coasting
+      - name: coastline
+      - name: coastguard
+      - name: seacoast

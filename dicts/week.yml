@@ -1,0 +1,10 @@
+name: 27EA
+children:
+  - name: week
+    children:
+      - name: weekly
+      - name: weekend
+      - name: weekender
+      - name: weeknight
+      - name: midweek
+      - name: biweekly

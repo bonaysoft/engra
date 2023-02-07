@@ -1,0 +1,15 @@
+name: 1B8C
+children:
+  - name: dignity
+    children:
+      - name: dignitary
+      - name: indignity
+      - name: dignify
+        children:
+          - name: dignified
+            children:
+              - name: undignified
+  - name: indignant
+    children:
+      - name: indignantly
+      - name: indignation

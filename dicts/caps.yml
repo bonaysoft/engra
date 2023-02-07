@@ -1,0 +1,18 @@
+name: 46DA
+children:
+  - name: capsule
+    children:
+      - name: capsular
+      - name: capsulary
+      - name: capsulate
+        children:
+          - name: capsulated
+      - name: capsulize
+      - name: encapsule
+        children:
+          - name: encapsulant
+          - name: encapsulate
+            children:
+              - name: encapsulated
+              - name: encapsulation
+      - name: incapsulate

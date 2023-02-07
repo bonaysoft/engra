@@ -1,0 +1,6 @@
+name: 34EA
+children:
+  - name: shop
+    children:
+      - name: shopper
+      - name: shopping

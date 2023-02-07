@@ -1,0 +1,19 @@
+name: 120B
+children:
+  - name: old
+    children:
+      - name: olden
+      - name: oldster
+      - name: oldie
+      - name: oldness
+  - name: adolescent
+    children:
+      - name: adolescence
+  - name: abolish
+    children:
+      - name: abolishment
+  - name: abolition
+    children:
+      - name: abolitionist
+      - name: abolitionism
+      - name: abolitionize

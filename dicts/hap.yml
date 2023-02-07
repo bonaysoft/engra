@@ -1,0 +1,17 @@
+name: 1FCA
+children:
+  - name: happy
+    children:
+      - name: happily
+      - name: happiness
+      - name: unhappy
+        children:
+          - name: unhappily
+          - name: unhappiness
+  - name: happen
+    children:
+      - name: happening
+      - name: happenstance
+  - name: hapless
+    children:
+      - name: haplessly

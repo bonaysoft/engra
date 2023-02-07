@@ -1,0 +1,8 @@
+name: 4BAA
+children:
+  - name: magic
+    children:
+      - name: magician
+      - name: magical
+        children:
+          - name: magically

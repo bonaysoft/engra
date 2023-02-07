@@ -1,0 +1,12 @@
+name: 25AA
+children:
+  - name: large
+    children:
+      - name: largely
+      - name: largeness
+      - name: overlarge
+  - name: enlarge
+    children:
+      - name: enlarger
+      - name: enlarged
+      - name: enlargement

@@ -1,0 +1,51 @@
+name: 4FA
+children:
+  - name: minute
+    children:
+      - name: minutely
+      - name: minuteman
+      - name: arcminute
+  - name: minor
+    children:
+      - name: minority
+  - name: minister
+    children:
+      - name: ministerial
+      - name: ministry
+      - name: ministration
+  - name: administer
+    children:
+      - name: administering
+      - name: administered
+      - name: administrate
+        children:
+          - name: administrator
+          - name: administration
+          - name: admin
+          - name: administrative
+            children:
+              - name: administratively
+  - name: miniature
+    children:
+      - name: miniaturize
+        children:
+          - name: miniaturized
+          - name: miniaturization
+      - name: mini
+        children:
+          - name: minivan
+          - name: miniskirt
+          - name: minidress
+          - name: minicam
+          - name: minidisc
+          - name: miniseries
+  - name: diminish
+    children:
+      - name: diminishing
+      - name: diminished
+        children:
+          - name: undiminished
+      - name: diminishable
+      - name: diminishment
+      - name: diminution
+      - name: diminutive

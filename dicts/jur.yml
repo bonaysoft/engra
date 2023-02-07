@@ -1,0 +1,28 @@
+name: 29B
+children:
+  - name: jury
+    children:
+      - name: juror
+  - name: conjure
+    children:
+      - name: conjurer
+      - name: conjuring
+      - name: conjured
+      - name: conjuration
+  - name: jurist
+    children:
+      - name: juristic
+        children:
+          - name: juristical
+  - name: jurisprudence
+    children:
+      - name: jurisprudent
+        children:
+          - name: jurisprudential
+  - name: injure
+    children:
+      - name: injury
+      - name: injurious
+      - name: injured
+        children:
+          - name: uninjured

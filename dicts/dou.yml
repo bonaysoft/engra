@@ -1,0 +1,8 @@
+name: 3FC
+children:
+  - name: double
+    children:
+      - name: doubled
+      - name: redouble
+        children:
+          - name: redoubled

@@ -1,0 +1,25 @@
+name: 3DC
+children:
+  - name: vivid
+    children:
+      - name: vividly
+      - name: vividness
+  - name: revive
+    children:
+      - name: reviving
+      - name: revived
+      - name: revivify
+      - name: revival
+        children:
+          - name: revivalist
+          - name: revivalism
+  - name: survive
+    children:
+      - name: survivor
+      - name: surviving
+      - name: survival
+        children:
+          - name: survivalist
+          - name: survivable
+            children:
+              - name: survivability

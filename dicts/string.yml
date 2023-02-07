@@ -1,0 +1,22 @@
+name: 3BD
+children:
+  - name: string
+    children:
+      - name: stringer
+      - name: stringy
+      - name: stringed
+      - name: stringent
+        children:
+          - name: stringently
+      - name: stringency
+      - name: astringent
+      - name: shoestring
+      - name: drawstring
+      - name: bowstring
+      - name: superstring
+      - name: hamstring
+  - name: stringent
+    children:
+      - name: stringently
+      - name: stringency
+      - name: astringent

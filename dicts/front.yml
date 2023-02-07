@@ -1,0 +1,21 @@
+name: 13BA
+children:
+  - name: front
+    children:
+      - name: frontal
+        children:
+          - name: frontally
+          - name: frontality
+          - name: prefrontal
+  - name: frontier
+    children:
+      - name: frontiersman
+      - name: transfrontier
+  - name: affront
+    children:
+      - name: affronted
+  - name: confront
+    children:
+      - name: confrontation
+        children:
+          - name: confrontational

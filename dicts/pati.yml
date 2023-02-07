@@ -1,0 +1,21 @@
+name: 2FA
+children:
+  - name: patient
+    children:
+      - name: patiently
+      - name: patience
+      - name: impatient
+        children:
+          - name: impatiently
+          - name: impatience
+      - name: inpatient
+      - name: outpatient
+  - name: compatible
+    children:
+      - name: compatibly
+        children:
+          - name: compatibility
+      - name: incompatible
+        children:
+          - name: incompatibly
+          - name: incompatibility

@@ -1,0 +1,44 @@
+name: 29C
+children:
+  - name: just
+    children:
+      - name: justly
+      - name: justness
+      - name: unjust
+        children:
+          - name: unjustly
+  - name: justify
+    children:
+      - name: justifying
+      - name: justified
+        children:
+          - name: unjustified
+      - name: justifiable
+        children:
+          - name: justifiably
+          - name: unjustifiable
+            children:
+              - name: unjustifiably
+      - name: justification
+      - name: justificative
+      - name: justificatory
+  - name: adjust
+    children:
+      - name: adjustor
+      - name: adjuster
+      - name: adjusting
+      - name: adjusted
+        children:
+          - name: unadjusted
+      - name: adjustment
+      - name: adjustable
+        children:
+          - name: adjustability
+      - name: readjust
+        children:
+          - name: readjustment
+      - name: maladjusted
+      - name: maladjustment
+  - name: justice
+    children:
+      - name: injustice

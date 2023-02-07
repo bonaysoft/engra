@@ -1,0 +1,11 @@
+name: 31D
+children:
+  - name: royal
+    children:
+      - name: royally
+      - name: royalty
+      - name: royalism
+      - name: royalist
+        children:
+          - name: royalistic
+      - name: unroyal

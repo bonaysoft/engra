@@ -1,0 +1,39 @@
+name: 29A
+children:
+  - name: judge
+    children:
+      - name: judging
+      - name: judged
+      - name: judgeship
+      - name: judgment
+        children:
+          - name: judgmental
+            children:
+              - name: nonjudgmental
+      - name: misjudge
+        children:
+          - name: misjudgment
+      - name: prejudge
+        children:
+          - name: prejudgment
+      - name: adjudge
+  - name: adjudicate
+    children:
+      - name: adjudicator
+      - name: adjudicative
+      - name: adjudication
+  - name: prejudice
+    children:
+      - name: prejudicial
+      - name: prejudiced
+        children:
+          - name: unprejudiced
+  - name: judicial
+    children:
+      - name: judicially
+      - name: judiciary
+      - name: judicious
+        children:
+          - name: judiciously
+          - name: injudicious
+      - name: extrajudicial

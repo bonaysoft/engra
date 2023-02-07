@@ -1,0 +1,37 @@
+name: E3A
+children:
+  - name: real
+    children:
+      - name: really
+      - name: realness
+      - name: reality
+      - name: realism
+      - name: realist
+        children:
+          - name: realistic
+            children:
+              - name: realistically
+      - name: realize
+        children:
+          - name: realized
+          - name: realization
+          - name: realizable
+      - name: unreal
+        children:
+          - name: unreality
+          - name: unrealistic
+            children:
+              - name: unrealistically
+          - name: unrealize
+            children:
+              - name: unrealized
+              - name: unrealizable
+      - name: surreal
+        children:
+          - name: surreally
+          - name: surrealism
+          - name: surrealist
+            children:
+              - name: surrealistic
+                children:
+                  - name: surrealistically

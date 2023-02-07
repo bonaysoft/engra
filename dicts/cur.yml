@@ -1,0 +1,46 @@
+name: C7A
+children:
+  - name: curious
+    children:
+      - name: curiously
+      - name: curiosity
+      - name: incurious
+        children:
+          - name: incuriosity
+  - name: cure
+    children:
+      - name: cured
+      - name: curable
+        children:
+          - name: incurable
+            children:
+              - name: incurably
+      - name: curative
+      - name: curation
+  - name: secure
+    children:
+      - name: securely
+      - name: securing
+      - name: secured
+        children:
+          - name: unsecured
+      - name: security
+        children:
+          - name: securitize
+            children:
+              - name: securitization
+      - name: insecure
+        children:
+          - name: insecurity
+  - name: accurate
+    children:
+      - name: accurately
+      - name: accuracy
+      - name: inaccurate
+        children:
+          - name: inaccurately
+          - name: inaccuracy
+  - name: procure
+    children:
+      - name: procurer
+      - name: procurement

@@ -1,0 +1,7 @@
+name: 27A
+children:
+  - name: contagion
+    children:
+      - name: contagium
+      - name: contagiosity
+      - name: contagious

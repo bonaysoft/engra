@@ -1,0 +1,19 @@
+name: 1F7A
+children:
+  - name: read
+    children:
+      - name: reader
+        children:
+          - name: readerly
+          - name: readership
+      - name: reading
+      - name: readable
+        children:
+          - name: readability
+      - name: unread
+        children:
+          - name: unreadable
+      - name: misread
+        children:
+          - name: misreading
+      - name: reread

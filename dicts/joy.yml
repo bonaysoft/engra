@@ -1,0 +1,22 @@
+name: 201A
+children:
+  - name: joy
+    children:
+      - name: joyful
+        children:
+          - name: joyfully
+          - name: joyfulness
+      - name: joyous
+        children:
+          - name: joyously
+      - name: joyless
+      - name: overjoyed
+  - name: enjoy
+    children:
+      - name: enjoyable
+        children:
+          - name: enjoyably
+      - name: enjoyment
+  - name: rejoice
+    children:
+      - name: rejoicing

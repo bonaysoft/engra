@@ -1,0 +1,8 @@
+name: 1A7A
+children:
+  - name: counsel
+    children:
+      - name: counselor
+      - name: counsellor
+      - name: counseling
+      - name: counselling

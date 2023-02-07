@@ -1,0 +1,13 @@
+name: 1FF
+children:
+  - name: infant
+    children:
+      - name: infantine
+      - name: infantile
+        children:
+          - name: infantility
+          - name: infantilism
+          - name: infantilize
+      - name: infanticide
+        children:
+          - name: infanticidal

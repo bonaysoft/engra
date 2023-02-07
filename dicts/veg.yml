@@ -1,0 +1,16 @@
+name: 3DA
+children:
+  - name: vegetable
+    children:
+      - name: vegetarian
+        children:
+          - name: vegetarianism
+          - name: vegan
+      - name: vegetate
+        children:
+          - name: vegetated
+          - name: vegetation
+      - name: vegetative
+      - name: vegetal
+      - name: veggie
+      - name: veg

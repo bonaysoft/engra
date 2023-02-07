@@ -1,0 +1,123 @@
+name: 10A
+children:
+  - name: differ
+    children:
+      - name: differing
+      - name: difference
+      - name: different
+        children:
+          - name: differently
+          - name: differentiable
+          - name: differential
+            children:
+              - name: differentially
+          - name: differentiate
+            children:
+              - name: differentiating
+              - name: differentiated
+                children:
+                  - name: undifferentiated
+              - name: differentiation
+      - name: indifference
+        children:
+          - name: indifferent
+            children:
+              - name: indifferently
+  - name: confer
+    children:
+      - name: conferee
+      - name: conference
+        children:
+          - name: conferencing
+          - name: videoconference
+            children:
+              - name: videoconferencing
+  - name: prefer
+    children:
+      - name: preferred
+      - name: preferment
+      - name: preferable
+        children:
+          - name: preferably
+      - name: preference
+      - name: preferent
+        children:
+          - name: preferential
+            children:
+              - name: preferentially
+  - name: transfer
+    children:
+      - name: transferee
+      - name: transferal
+      - name: transference
+      - name: transferable
+        children:
+          - name: transferability
+  - name: offer
+    children:
+      - name: offering
+      - name: offered
+      - name: counteroffer
+      - name: proffer
+        children:
+          - name: proffered
+  - name: refer
+    children:
+      - name: referral
+      - name: referred
+      - name: reference
+        children:
+          - name: referencing
+          - name: referenced
+      - name: referent
+        children:
+          - name: referential
+      - name: referee
+        children:
+          - name: refereed
+          - name: refereeing
+  - name: suffer
+    children:
+      - name: sufferer
+      - name: suffering
+      - name: sufferance
+      - name: sufferable
+        children:
+          - name: insufferable
+            children:
+              - name: insufferably
+  - name: defer
+    children:
+      - name: deferral
+      - name: deferred
+      - name: deferment
+      - name: deference
+      - name: deferent
+        children:
+          - name: deferential
+            children:
+              - name: deferentially
+  - name: interfere
+    children:
+      - name: interfering
+      - name: interference
+      - name: interferent
+        children:
+          - name: interferential
+      - name: interferon
+  - name: infer
+    children:
+      - name: inference
+      - name: inferential
+        children:
+          - name: inferentially
+  - name: proliferate
+    children:
+      - name: proliferating
+      - name: proliferative
+      - name: proliferation
+        children:
+          - name: nonproliferation
+  - name: conifer
+    children:
+      - name: coniferous

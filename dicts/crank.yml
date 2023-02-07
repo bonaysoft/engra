@@ -1,0 +1,9 @@
+name: 2CCB
+children:
+  - name: crank
+    children:
+      - name: cranky
+        children:
+          - name: crankiness
+      - name: crankshaft
+      - name: crankcase

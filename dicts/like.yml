@@ -1,0 +1,15 @@
+name: B0A
+children:
+  - name: like
+    children:
+      - name: liking
+      - name: liked
+      - name: alike
+        children:
+          - name: unalike
+      - name: unlike
+      - name: likely
+        children:
+          - name: unlikely
+          - name: likelihood
+      - name: dislike

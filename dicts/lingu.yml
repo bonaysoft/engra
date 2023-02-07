@@ -1,0 +1,15 @@
+name: 1E0A
+children:
+  - name: linguist
+    children:
+      - name: linguistics
+      - name: linguistic
+        children:
+          - name: linguistically
+          - name: nonlinguistic
+          - name: extralinguistic
+          - name: ethnolinguistic
+          - name: metalinguistic
+      - name: psycholinguist
+        children:
+          - name: psycholinguistic

@@ -1,0 +1,16 @@
+name: 1E7A
+children:
+  - name: estimate
+    children:
+      - name: estimator
+      - name: estimated
+      - name: estimation
+      - name: estimable
+        children:
+          - name: inestimable
+      - name: overestimate
+        children:
+          - name: overestimation
+      - name: underestimate
+        children:
+          - name: underestimation

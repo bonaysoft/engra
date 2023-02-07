@@ -1,0 +1,17 @@
+name: 36CA
+children:
+  - name: temporal
+    children:
+      - name: temporality
+      - name: temporize
+      - name: atemporal
+  - name: temporary
+    children:
+      - name: temporarily
+  - name: contemporary
+    children:
+      - name: contemporize
+      - name: contemporaneity
+      - name: contemporaneous
+        children:
+          - name: contemporaneously

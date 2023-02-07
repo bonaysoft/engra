@@ -1,0 +1,6 @@
+name: 47B
+children:
+  - name: husband
+    children:
+      - name: husbandry
+      - name: husbandman

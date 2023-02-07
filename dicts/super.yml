@@ -1,0 +1,17 @@
+name: 205A
+children:
+  - name: super
+    children:
+      - name: superior
+        children:
+          - name: superiorly
+          - name: superiority
+  - name: superb
+    children:
+      - name: superbly
+  - name: supreme
+    children:
+      - name: supremely
+      - name: supremacy
+      - name: supremacism
+      - name: supremacist

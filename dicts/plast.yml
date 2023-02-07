@@ -1,0 +1,21 @@
+name: 523A
+children:
+  - name: plastic
+    children:
+      - name: plasticity
+      - name: plasticize
+        children:
+          - name: plasticizer
+          - name: plasticized
+          - name: plasticization
+      - name: plasticate
+        children:
+          - name: plasticator
+          - name: plasticated
+  - name: plaster
+    children:
+      - name: plasterer
+      - name: plastering
+      - name: plastered
+      - name: plasterwork
+      - name: plasterboard

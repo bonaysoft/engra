@@ -1,0 +1,28 @@
+name: 1A6A
+children:
+  - name: archive
+    children:
+      - name: archiving
+      - name: archived
+      - name: archival
+      - name: archivist
+  - name: archaic
+    children:
+      - name: archaism
+      - name: archaist
+        children:
+          - name: archaistic
+      - name: archaize
+  - name: archaeology
+    children:
+      - name: archaeologic
+        children:
+          - name: archaeological
+            children:
+              - name: archaeologically
+      - name: archaeologist
+  - name: archetype
+    children:
+      - name: archetypal
+        children:
+          - name: archetypical

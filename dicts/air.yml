@@ -1,0 +1,11 @@
+name: 3CB
+children:
+  - name: air
+    children:
+      - name: airy
+        children:
+          - name: airily
+          - name: airiness
+      - name: airing
+      - name: aired
+      - name: airless

@@ -1,0 +1,6 @@
+name: 2E0A
+children:
+  - name: afar
+    children:
+      - name: far
+      - name: insofar

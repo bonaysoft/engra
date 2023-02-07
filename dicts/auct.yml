@@ -1,0 +1,5 @@
+name: 3A5B
+children:
+  - name: auction
+    children:
+      - name: auctioneer

@@ -1,0 +1,16 @@
+name: 35BA
+children:
+  - name: fashion
+    children:
+      - name: fashioned
+      - name: fashioning
+      - name: fashionable
+        children:
+          - name: fashionably
+          - name: unfashionable
+            children:
+              - name: unfashionably
+      - name: fashionista
+      - name: refashion
+        children:
+          - name: refashioning

@@ -1,0 +1,30 @@
+name: 182A
+children:
+  - name: river
+    children:
+      - name: rivulet
+      - name: riverway
+      - name: riverbed
+      - name: riverside
+      - name: riverboat
+      - name: riverine
+      - name: upriver
+  - name: rival
+    children:
+      - name: rivalry
+        children:
+          - name: rivalrous
+      - name: unrivaled
+      - name: unrivalled
+  - name: derive
+    children:
+      - name: derived
+      - name: derivable
+      - name: derivate
+        children:
+          - name: derivative
+          - name: derivation
+  - name: arrive
+    children:
+      - name: arrival
+      - name: arriving

@@ -1,0 +1,24 @@
+name: 152A
+children:
+  - name: fix
+    children:
+      - name: fixer
+      - name: fixing
+      - name: fixed
+        children:
+          - name: fixedly
+          - name: unfixed
+      - name: fixable
+        children:
+          - name: unfixable
+      - name: fixity
+      - name: fixture
+  - name: fixate
+    children:
+      - name: fixator
+      - name: fixated
+      - name: fixation
+      - name: fixative
+  - name: affix
+    children:
+      - name: affixation

@@ -1,0 +1,32 @@
+name: D7A
+children:
+  - name: cover
+    children:
+      - name: covering
+      - name: covered
+      - name: coverage
+      - name: uncover
+        children:
+          - name: uncovering
+          - name: uncovered
+  - name: discover
+    children:
+      - name: discoverer
+      - name: discovery
+      - name: discoverable
+      - name: discovered
+        children:
+          - name: undiscovered
+      - name: rediscover
+        children:
+          - name: rediscovery
+  - name: covert
+    children:
+      - name: covertly
+      - name: coverture
+      - name: discovert
+        children:
+          - name: discoverture
+  - name: overt
+    children:
+      - name: overtly

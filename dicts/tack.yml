@@ -1,0 +1,17 @@
+name: 1AAB
+children:
+  - name: tack
+    children:
+      - name: tacking
+      - name: tacky
+        children:
+          - name: tackiness
+      - name: thumbtack
+      - name: hardtack
+  - name: attack
+    children:
+      - name: attacker
+      - name: attacking
+      - name: attacked
+      - name: cyberattack
+      - name: counterattack

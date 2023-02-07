@@ -1,0 +1,11 @@
+name: 172A
+children:
+  - name: card
+    children:
+      - name: cardboard
+      - name: cardholder
+      - name: keycard
+  - name: discard
+    children:
+      - name: discarded
+      - name: discarding

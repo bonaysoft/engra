@@ -1,0 +1,19 @@
+name: 164C
+children:
+  - name: explode
+    children:
+      - name: exploder
+      - name: exploding
+      - name: exploded
+        children:
+          - name: unexploded
+      - name: explosion
+      - name: explosive
+        children:
+          - name: explosives
+          - name: explosively
+          - name: explosiveness
+  - name: implode
+    children:
+      - name: imploding
+      - name: implosion

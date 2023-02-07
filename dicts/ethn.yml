@@ -1,0 +1,15 @@
+name: 1E8A
+children:
+  - name: ethnic
+    children:
+      - name: ethnical
+        children:
+          - name: ethnically
+      - name: ethnics
+      - name: ethnicity
+  - name: ethnography
+    children:
+      - name: ethnographic
+        children:
+          - name: ethnographical
+      - name: ethnographer

@@ -1,0 +1,10 @@
+name: 20EA
+children:
+  - name: grand
+    children:
+      - name: grandly
+      - name: grandness
+  - name: grandiose
+    children:
+      - name: grandiosely
+      - name: grandiosity

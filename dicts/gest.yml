@@ -1,0 +1,45 @@
+name: 91B
+children:
+  - name: gesture
+    children:
+      - name: gestural
+      - name: gesturing
+      - name: gesticulate
+        children:
+          - name: gesticulation
+  - name: suggest
+    children:
+      - name: suggested
+      - name: suggestion
+      - name: suggestive
+        children:
+          - name: suggestively
+          - name: suggestiveness
+      - name: suggestible
+        children:
+          - name: suggestibility
+  - name: digest
+    children:
+      - name: digester
+      - name: digested
+        children:
+          - name: undigested
+      - name: digestion
+      - name: digestible
+        children:
+          - name: digestibility
+      - name: digestive
+        children:
+          - name: aerodigestive
+      - name: indigest
+        children:
+          - name: indigested
+          - name: indigestion
+          - name: indigestive
+          - name: indigestible
+            children:
+              - name: indigestibility
+  - name: ingest
+    children:
+      - name: ingested
+      - name: ingestion

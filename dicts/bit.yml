@@ -1,0 +1,19 @@
+name: 132D
+children:
+  - name: bit
+    children:
+      - name: bitty
+  - name: bite
+    children:
+      - name: biter
+      - name: biting
+        children:
+          - name: bitingly
+  - name: bitter
+    children:
+      - name: bitterly
+      - name: bitterness
+      - name: bittersweet
+      - name: embitter
+        children:
+          - name: embittered

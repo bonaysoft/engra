@@ -1,0 +1,18 @@
+name: 23FA
+children:
+  - name: during
+    children:
+      - name: durable
+        children:
+          - name: durably
+          - name: durability
+      - name: duration
+  - name: endure
+    children:
+      - name: enduring
+        children:
+          - name: enduringly
+      - name: endurance
+      - name: endurable
+        children:
+          - name: unendurable

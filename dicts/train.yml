@@ -1,0 +1,14 @@
+name: AG
+children:
+  - name: train
+    children:
+      - name: trainer
+      - name: trainee
+      - name: training
+      - name: trained
+        children:
+          - name: untrained
+      - name: retrain
+        children:
+          - name: retraining
+      - name: trainload

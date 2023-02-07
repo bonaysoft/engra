@@ -1,0 +1,31 @@
+name: 43A
+children:
+  - name: impel
+    children:
+      - name: impeller
+      - name: impelled
+  - name: compel
+    children:
+      - name: compellable
+      - name: compelling
+        children:
+          - name: compellingly
+  - name: expel
+    children:
+      - name: expeller
+      - name: expellee
+      - name: expelled
+      - name: expellable
+      - name: expellant
+  - name: propel
+    children:
+      - name: propeller
+      - name: propellent
+      - name: propellant
+      - name: propelled
+  - name: repel
+    children:
+      - name: repellent
+      - name: repellant
+      - name: repellence
+      - name: repellency

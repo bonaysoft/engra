@@ -1,0 +1,16 @@
+name: 272A
+children:
+  - name: dense
+    children:
+      - name: densely
+      - name: density
+      - name: densify
+  - name: condense
+    children:
+      - name: condenser
+      - name: condensing
+      - name: condensed
+      - name: condensable
+      - name: condensate
+        children:
+          - name: condensation

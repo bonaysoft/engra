@@ -1,0 +1,35 @@
+name: 8DA
+children:
+  - name: person
+    children:
+      - name: personal
+        children:
+          - name: personally
+          - name: personality
+          - name: personalism
+          - name: personalist
+            children:
+              - name: personalistic
+          - name: personalize
+            children:
+              - name: personalized
+              - name: personalization
+              - name: depersonalize
+                children:
+                  - name: depersonalized
+                  - name: depersonalization
+          - name: impersonal
+            children:
+              - name: impersonally
+              - name: impersonality
+          - name: interpersonal
+          - name: transpersonal
+          - name: intrapersonal
+  - name: personify
+    children:
+      - name: personified
+      - name: personification
+  - name: impersonate
+    children:
+      - name: impersonator
+      - name: impersonation

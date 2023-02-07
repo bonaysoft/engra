@@ -1,0 +1,19 @@
+name: 27I
+children:
+  - name: taste
+    children:
+      - name: tasty
+      - name: tasting
+      - name: taster
+      - name: tasteless
+      - name: tasteful
+        children:
+          - name: tastefully
+      - name: tastemaker
+      - name: foretaste
+      - name: aftertaste
+      - name: distaste
+        children:
+          - name: distasteful
+            children:
+              - name: distastefully

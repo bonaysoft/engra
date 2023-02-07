@@ -1,0 +1,7 @@
+name: 694A
+children:
+  - name: soldier
+    children:
+      - name: soldierly
+      - name: soldiering
+      - name: soldiery

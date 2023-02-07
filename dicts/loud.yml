@@ -1,0 +1,8 @@
+name: 433A
+children:
+  - name: loud
+    children:
+      - name: loudness
+      - name: loudly
+      - name: aloud
+      - name: loudmouth

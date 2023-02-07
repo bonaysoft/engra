@@ -1,0 +1,14 @@
+name: 26C
+children:
+  - name: ponder
+    children:
+      - name: ponderable
+        children:
+          - name: imponderable
+      - name: ponderous
+        children:
+          - name: ponderously
+      - name: ponderance
+        children:
+          - name: preponderance
+      - name: preponderant

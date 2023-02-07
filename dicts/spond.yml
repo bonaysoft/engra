@@ -1,0 +1,22 @@
+name: BDA
+children:
+  - name: respond
+    children:
+      - name: responder
+      - name: respondent
+      - name: response
+        children:
+          - name: responsive
+            children:
+              - name: responsively
+              - name: responsiveness
+              - name: unresponsive
+                children:
+                  - name: unresponsiveness
+  - name: correspond
+    children:
+      - name: corresponding
+        children:
+          - name: correspondingly
+      - name: correspondent
+      - name: correspondence

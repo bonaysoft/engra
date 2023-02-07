@@ -1,0 +1,8 @@
+name: 579A
+children:
+  - name: hide
+    children:
+      - name: hiding
+      - name: hidden
+        children:
+          - name: hiddenness

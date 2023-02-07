@@ -1,0 +1,29 @@
+name: EEA
+children:
+  - name: type
+    children:
+      - name: typing
+      - name: typed
+      - name: typist
+  - name: typology
+    children:
+      - name: typological
+  - name: typical
+    children:
+      - name: typically
+      - name: typicality
+      - name: atypical
+        children:
+          - name: atypically
+      - name: untypical
+  - name: stereotype
+    children:
+      - name: stereotyping
+      - name: stereotyped
+      - name: stereotypy
+        children:
+          - name: stereotypic
+            children:
+              - name: stereotypical
+                children:
+                  - name: stereotypically

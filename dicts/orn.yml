@@ -1,0 +1,19 @@
+name: 2EDA
+children:
+  - name: ornament
+    children:
+      - name: ornamental
+        children:
+          - name: ornamentalist
+      - name: ornamented
+  - name: ornate
+    children:
+      - name: ornately
+      - name: inornate
+  - name: adorn
+    children:
+      - name: adorning
+      - name: adornment
+      - name: unadorned
+        children:
+          - name: unadornment

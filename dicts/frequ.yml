@@ -1,0 +1,9 @@
+name: 36FA
+children:
+  - name: frequent
+    children:
+      - name: frequently
+      - name: frequency
+      - name: infrequent
+        children:
+          - name: infrequency

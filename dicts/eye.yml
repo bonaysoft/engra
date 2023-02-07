@@ -1,0 +1,14 @@
+name: AAA
+children:
+  - name: eye
+    children:
+      - name: eyed
+      - name: eyeful
+      - name: eyeless
+      - name: eyedrop
+        children:
+          - name: eyedropper
+      - name: eyebrow
+      - name: eyelid
+      - name: eyehole
+      - name: eyelash

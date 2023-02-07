@@ -1,0 +1,5 @@
+name: 359B
+children:
+  - name: disk
+    children:
+      - name: diskette

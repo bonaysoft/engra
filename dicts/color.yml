@@ -1,0 +1,18 @@
+name: ECA
+children:
+  - name: color
+    children:
+      - name: colorful
+        children:
+          - name: colorfully
+      - name: colorless
+      - name: colorant
+      - name: coloring
+      - name: colored
+        children:
+          - name: uncolored
+          - name: multicolored
+      - name: coloration
+  - name: watercolor
+    children:
+      - name: watercolorist

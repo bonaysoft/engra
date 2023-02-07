@@ -1,0 +1,14 @@
+name: 14EB
+children:
+  - name: phenomenon
+    children:
+      - name: phenomenal
+        children:
+          - name: phenomenally
+      - name: phenomenology
+        children:
+          - name: phenomenological
+      - name: epiphenomenon
+        children:
+          - name: epiphenomenal
+      - name: phenom

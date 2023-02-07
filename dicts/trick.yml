@@ -1,0 +1,7 @@
+name: 3C7A
+children:
+  - name: trick
+    children:
+      - name: trickster
+      - name: tricky
+      - name: trickery

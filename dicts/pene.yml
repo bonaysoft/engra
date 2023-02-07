@@ -1,0 +1,11 @@
+name: 49CA
+children:
+  - name: penetrate
+    children:
+      - name: penetrator
+      - name: penetrating
+      - name: penetration
+      - name: penetrative
+      - name: interpenetrate
+        children:
+          - name: interpenetration

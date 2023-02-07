@@ -1,0 +1,13 @@
+name: 2G
+children:
+  - name: feature
+    children:
+      - name: featured
+      - name: featureless
+  - name: defeat
+    children:
+      - name: defeated
+        children:
+          - name: undefeated
+      - name: defeatist
+      - name: defeatism

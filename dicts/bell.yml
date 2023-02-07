@@ -1,0 +1,8 @@
+name: 2B1B
+children:
+  - name: embellish
+    children:
+      - name: embellished
+        children:
+          - name: unembellished
+      - name: embellishment

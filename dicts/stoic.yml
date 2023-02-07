@@ -1,0 +1,8 @@
+name: 5A9A
+children:
+  - name: stoic
+    children:
+      - name: stoical
+        children:
+          - name: stoically
+      - name: stoicism

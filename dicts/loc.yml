@@ -1,0 +1,43 @@
+name: 110A
+children:
+  - name: local
+    children:
+      - name: locally
+      - name: locale
+        children:
+          - name: locality
+          - name: allocate
+      - name: localism
+      - name: localize
+        children:
+          - name: localized
+          - name: localization
+      - name: virilocal
+      - name: uxorilocal
+      - name: matrilocal
+  - name: locate
+    children:
+      - name: locater
+      - name: located
+      - name: location
+        children:
+          - name: locational
+      - name: relocate
+        children:
+          - name: relocated
+          - name: relocation
+  - name: dislocate
+    children:
+      - name: dislocated
+      - name: dislocation
+  - name: allocate
+    children:
+      - name: allocator
+      - name: allocated
+      - name: allocative
+      - name: allocation
+        children:
+          - name: misallocation
+      - name: reallocate
+        children:
+          - name: reallocation

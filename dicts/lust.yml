@@ -1,0 +1,21 @@
+name: DDB
+children:
+  - name: luster
+    children:
+      - name: lusterless
+      - name: lustrous
+      - name: lackluster
+      - name: illustrate
+        children:
+          - name: illustrator
+          - name: illustrated
+          - name: illustration
+          - name: illustrative
+          - name: illustrious
+  - name: illustrate
+    children:
+      - name: illustrator
+      - name: illustrated
+      - name: illustration
+      - name: illustrative
+      - name: illustrious

@@ -1,0 +1,6 @@
+name: 242A
+children:
+  - name: rescue
+    children:
+      - name: rescuer
+      - name: rescued

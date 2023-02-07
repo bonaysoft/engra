@@ -1,0 +1,24 @@
+name: 2FC
+children:
+  - name: passion
+    children:
+      - name: passional
+      - name: passionless
+      - name: passionate
+        children:
+          - name: passionately
+  - name: compassion
+    children:
+      - name: compassionate
+        children:
+          - name: compassionately
+  - name: passive
+    children:
+      - name: passively
+      - name: passivity
+      - name: passiveness
+  - name: impassive
+    children:
+      - name: impassively
+      - name: impassivity
+      - name: impassible

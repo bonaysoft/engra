@@ -1,0 +1,13 @@
+name: 7AB
+children:
+  - name: friend
+    children:
+      - name: friendly
+        children:
+          - name: friendliness
+          - name: unfriendly
+      - name: friendship
+      - name: friendless
+      - name: befriend
+      - name: boyfriend
+      - name: girlfriend

@@ -1,0 +1,17 @@
+name: 11DB
+children:
+  - name: salary
+    children:
+      - name: salaried
+      - name: salaryman
+  - name: saline
+    children:
+      - name: salina
+      - name: salinity
+      - name: desalinize
+        children:
+          - name: desalinization
+      - name: desalinate
+        children:
+          - name: desalinated
+          - name: desalination

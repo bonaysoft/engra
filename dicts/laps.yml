@@ -1,0 +1,14 @@
+name: 26FA
+children:
+  - name: lapse
+    children:
+      - name: lapsed
+      - name: lapsable
+  - name: collapse
+    children:
+      - name: collapsing
+      - name: collapsed
+      - name: collapsible
+  - name: elapse
+    children:
+      - name: elapsed

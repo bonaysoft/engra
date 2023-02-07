@@ -1,0 +1,16 @@
+name: FCA
+children:
+  - name: intrude
+    children:
+      - name: intruder
+      - name: intruding
+      - name: intrusion
+      - name: intrusive
+        children:
+          - name: intrusiveness
+  - name: protrude
+    children:
+      - name: protruding
+      - name: protrusion
+      - name: protrusive
+      - name: protrusile

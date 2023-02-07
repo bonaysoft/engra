@@ -1,0 +1,9 @@
+name: 4C
+children:
+  - name: seat
+    children:
+      - name: seater
+      - name: seating
+      - name: seated
+      - name: unseat
+      - name: reseat

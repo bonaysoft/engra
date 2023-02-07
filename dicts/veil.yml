@@ -1,0 +1,12 @@
+name: 279A
+children:
+  - name: veil
+    children:
+      - name: veiled
+        children:
+          - name: veiling
+      - name: enveil
+      - name: unveil
+        children:
+          - name: unveiling
+          - name: unveiled

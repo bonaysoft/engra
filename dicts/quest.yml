@@ -1,0 +1,28 @@
+name: 5EB
+children:
+  - name: question
+    children:
+      - name: questioner
+      - name: questionnaire
+      - name: questionable
+        children:
+          - name: questionably
+          - name: unquestionable
+            children:
+              - name: unquestionably
+      - name: questioned
+        children:
+          - name: unquestioned
+      - name: questioning
+        children:
+          - name: questioningly
+          - name: unquestioning
+            children:
+              - name: unquestioningly
+  - name: request
+    children:
+      - name: requester
+      - name: requested
+  - name: conquest
+    children:
+      - name: preconquest

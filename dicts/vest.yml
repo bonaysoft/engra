@@ -1,0 +1,28 @@
+name: 18BA
+children:
+  - name: vest
+    children:
+      - name: vesting
+      - name: vested
+      - name: vestment
+  - name: vestibule
+    children:
+      - name: vestibular
+  - name: invest
+    children:
+      - name: investor
+      - name: investing
+      - name: invested
+      - name: investment
+      - name: investiture
+      - name: investitive
+      - name: reinvest
+        children:
+          - name: reinvestment
+      - name: disinvest
+        children:
+          - name: disinvestment
+  - name: divest
+    children:
+      - name: divested
+      - name: divestiture

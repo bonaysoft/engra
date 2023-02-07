@@ -1,0 +1,37 @@
+name: 21C
+children:
+  - name: access
+    children:
+      - name: accession
+      - name: accessible
+        children:
+          - name: accessibility
+          - name: inaccessible
+            children:
+              - name: inaccessibility
+  - name: process
+    children:
+      - name: processor
+        children:
+          - name: microprocessor
+          - name: multiprocessor
+          - name: coprocessor
+      - name: procession
+        children:
+          - name: processional
+      - name: processual
+      - name: processed
+        children:
+          - name: unprocessed
+      - name: reprocess
+  - name: necessary
+    children:
+      - name: necessarily
+      - name: necessity
+      - name: necessitate
+      - name: unnecessary
+        children:
+          - name: unnecessarily
+  - name: incessant
+    children:
+      - name: incessantly

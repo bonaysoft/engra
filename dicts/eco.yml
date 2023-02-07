@@ -1,0 +1,42 @@
+name: 123A
+children:
+  - name: economy
+    children:
+      - name: economic
+        children:
+          - name: uneconomic
+      - name: economics
+      - name: economical
+        children:
+          - name: economically
+          - name: uneconomical
+      - name: economism
+      - name: economist
+        children:
+          - name: economistic
+      - name: economize
+      - name: macroeconomy
+        children:
+          - name: macroeconomic
+          - name: macroeconomics
+          - name: macroeconomist
+      - name: microeconomy
+        children:
+          - name: microeconomic
+          - name: microeconomics
+      - name: econometric
+        children:
+          - name: econometrics
+      - name: geoeconomics
+      - name: socioeconomic
+  - name: ecology
+    children:
+      - name: ecologic
+        children:
+          - name: ecological
+            children:
+              - name: ecologically
+      - name: ecologist
+      - name: ecoregion
+      - name: ecosphere
+      - name: ecosystem

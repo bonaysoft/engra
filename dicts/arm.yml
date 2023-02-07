@@ -1,0 +1,37 @@
+name: 6AA
+children:
+  - name: arm
+    children:
+      - name: armless
+      - name: armful
+      - name: armpit
+      - name: armhole
+      - name: forearm
+      - name: arming
+      - name: armed
+        children:
+          - name: unarmed
+      - name: armament
+      - name: disarm
+        children:
+          - name: disarming
+            children:
+              - name: disarmingly
+          - name: disarmament
+      - name: rearm
+        children:
+          - name: rearmament
+      - name: firearm
+  - name: armor
+    children:
+      - name: armorer
+      - name: armored
+        children:
+          - name: unarmored
+  - name: alarm
+    children:
+      - name: alarming
+        children:
+          - name: alarmingly
+      - name: alarmist
+      - name: alarmism

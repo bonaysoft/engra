@@ -1,0 +1,12 @@
+name: 50CA
+children:
+  - name: future
+    children:
+      - name: futurity
+      - name: futurology
+        children:
+          - name: futurologist
+      - name: futurism
+      - name: futurist
+        children:
+          - name: futuristic

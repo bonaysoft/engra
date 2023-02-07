@@ -1,0 +1,7 @@
+name: 670A
+children:
+  - name: guy
+    children:
+      - name: tough-guy
+      - name: good-guy
+      - name: bad-guy

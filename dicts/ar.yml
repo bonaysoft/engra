@@ -1,0 +1,17 @@
+name: 54DB
+children:
+  - name: artery
+    children:
+      - name: arterial
+        children:
+          - name: arterialize
+            children:
+              - name: arterialization
+      - name: arteritis
+      - name: arteriology
+      - name: arteriotomy
+      - name: arteriography
+      - name: arteriosclerosis
+        children:
+          - name: arteriosclerotic
+      - name: arteriovenous

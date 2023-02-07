@@ -1,0 +1,32 @@
+name: A5A
+children:
+  - name: habit
+    children:
+      - name: habitual
+        children:
+          - name: habitually
+      - name: habituate
+        children:
+          - name: habituated
+          - name: habituation
+      - name: habitus
+  - name: habitation
+    children:
+      - name: habitant
+      - name: habitat
+        children:
+          - name: microhabitat
+  - name: habitable
+    children:
+      - name: habitability
+  - name: inhabit
+    children:
+      - name: inhabitant
+      - name: inhabitancy
+      - name: inhabited
+        children:
+          - name: uninhabited
+      - name: inhabitable
+        children:
+          - name: uninhabitable
+      - name: inhabitation

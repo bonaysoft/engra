@@ -1,0 +1,7 @@
+name: 424A
+children:
+  - name: allow
+    children:
+      - name: allowed
+      - name: allowable
+      - name: allowance

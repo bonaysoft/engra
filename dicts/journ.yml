@@ -1,0 +1,20 @@
+name: 217A
+children:
+  - name: journey
+    children:
+      - name: journeyman
+  - name: journal
+    children:
+      - name: journalism
+      - name: journalist
+        children:
+          - name: journalistic
+          - name: photojournalist
+          - name: photojournalism
+      - name: journaling
+  - name: adjourn
+    children:
+      - name: adjournment
+  - name: sojourn
+    children:
+      - name: sojourner

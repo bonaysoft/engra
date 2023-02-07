@@ -1,0 +1,22 @@
+name: 25BB
+children:
+  - name: rage
+    children:
+      - name: raging
+        children:
+          - name: ragingly
+      - name: raged
+        children:
+          - name: rageful
+            children:
+              - name: ragefully
+      - name: enrage
+        children:
+          - name: enraged
+      - name: outrage
+        children:
+          - name: outraged
+          - name: outrageous
+            children:
+              - name: outrageously
+              - name: outrageousness

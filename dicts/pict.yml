@@ -1,0 +1,15 @@
+name: 141A
+children:
+  - name: picture
+    children:
+      - name: picturesque
+        children:
+          - name: picturesquely
+  - name: pictorial
+    children:
+      - name: pictorially
+      - name: pictorialize
+  - name: depict
+    children:
+      - name: depiction
+      - name: depicture

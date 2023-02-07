@@ -1,0 +1,7 @@
+name: 1A5C
+children:
+  - name: condemn
+    children:
+      - name: condemned
+      - name: condemnable
+      - name: condemnatory

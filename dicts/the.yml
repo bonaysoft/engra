@@ -1,0 +1,9 @@
+name: C6A
+children:
+  - name: theology
+    children:
+      - name: theologian
+      - name: theological
+        children:
+          - name: theologically
+      - name: theologize

@@ -1,0 +1,10 @@
+name: E7B
+children:
+  - name: obedience
+    children:
+      - name: obedient
+        children:
+          - name: obediently
+      - name: disobedience
+        children:
+          - name: disobedient

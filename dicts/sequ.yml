@@ -1,0 +1,22 @@
+name: 1CC
+children:
+  - name: sequence
+    children:
+      - name: sequencer
+      - name: sequencing
+      - name: sequent
+        children:
+          - name: sequential
+            children:
+              - name: sequentially
+  - name: consequence
+    children:
+      - name: consequent
+        children:
+          - name: consequently
+          - name: consequential
+            children:
+              - name: inconsequential
+  - name: sequel
+    children:
+      - name: sequela

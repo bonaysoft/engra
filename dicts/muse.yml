@@ -1,0 +1,33 @@
+name: 167A
+children:
+  - name: music
+    children:
+      - name: musical
+        children:
+          - name: musicality
+          - name: musically
+          - name: unmusical
+          - name: extramusical
+      - name: musicology
+        children:
+          - name: musicologist
+          - name: musicological
+      - name: musician
+        children:
+          - name: musicianship
+      - name: musicale
+  - name: museum
+    children:
+      - name: museology
+  - name: muse
+    children:
+      - name: musing
+  - name: amuse
+    children:
+      - name: amusing
+        children:
+          - name: amusingly
+      - name: amused
+        children:
+          - name: unamused
+      - name: amusement

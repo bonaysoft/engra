@@ -1,0 +1,15 @@
+name: 23E
+children:
+  - name: capital
+    children:
+      - name: capitalism
+      - name: capitalist
+        children:
+          - name: capitalistic
+      - name: capitalize
+        children:
+          - name: capitalized
+          - name: capitalization
+          - name: recapitalize
+            children:
+              - name: recapitalization

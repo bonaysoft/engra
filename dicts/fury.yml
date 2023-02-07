@@ -1,0 +1,13 @@
+name: 3AEA
+children:
+  - name: fury
+    children:
+      - name: furious
+        children:
+          - name: furiously
+      - name: infuriate
+        children:
+          - name: infuriating
+            children:
+              - name: infuriatingly
+          - name: infuriated

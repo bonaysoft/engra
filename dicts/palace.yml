@@ -1,0 +1,5 @@
+name: 64EA
+children:
+  - name: palace
+    children:
+      - name: palatial

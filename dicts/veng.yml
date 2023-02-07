@@ -1,0 +1,12 @@
+name: 389A
+children:
+  - name: avenge
+    children:
+      - name: avenger
+      - name: avenging
+  - name: revenge
+    children:
+      - name: revengeful
+        children:
+          - name: revengefully
+      - name: unrevenged

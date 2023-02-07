@@ -1,0 +1,18 @@
+name: 230A
+children:
+  - name: alchemy
+    children:
+      - name: alchemist
+      - name: alchemical
+  - name: chemist
+    children:
+      - name: chemistry
+      - name: chemic
+        children:
+          - name: chemical
+            children:
+              - name: chemically
+  - name: chemotherapy
+    children:
+      - name: chemotherapeutic
+      - name: chemo

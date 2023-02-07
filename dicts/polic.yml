@@ -1,0 +1,11 @@
+name: C0A
+children:
+  - name: police
+    children:
+      - name: policing
+      - name: policeman
+      - name: policewoman
+  - name: policy
+    children:
+      - name: policymaker
+      - name: policyholder

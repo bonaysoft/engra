@@ -1,0 +1,22 @@
+name: D3B
+children:
+  - name: victor
+  - name: victory
+    children:
+      - name: victorious
+      - name: victoriously
+  - name: victim
+    children:
+      - name: victimless
+      - name: victimize
+        children:
+          - name: victimizer
+          - name: victimized
+          - name: victimization
+  - name: convict
+    children:
+      - name: conviction
+  - name: evict
+    children:
+      - name: evicted
+      - name: eviction

@@ -1,0 +1,12 @@
+name: 3EBA
+children:
+  - name: slug
+    children:
+      - name: slugger
+      - name: slugging
+      - name: sluggish
+        children:
+          - name: sluggishly
+          - name: sluggishness
+      - name: slugfest
+      - name: sluggard

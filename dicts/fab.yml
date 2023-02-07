@@ -1,0 +1,15 @@
+name: 1FB
+children:
+  - name: fable
+    children:
+      - name: fabler
+      - name: fabled
+      - name: fabulist
+      - name: fabulous
+        children:
+          - name: fabulously
+      - name: fabulosity
+  - name: affable
+    children:
+      - name: affably
+      - name: affability

@@ -1,0 +1,39 @@
+name: 94A
+children:
+  - name: center
+    children:
+      - name: centered
+      - name: centering
+      - name: decenter
+        children:
+          - name: decentered
+          - name: decentering
+      - name: epicenter
+      - name: supercenter
+      - name: multicenter
+      - name: orthocenter
+      - name: centerline
+      - name: centerfield
+      - name: centerboard
+      - name: centerfold
+      - name: centerpiece
+  - name: central
+    children:
+      - name: centrally
+      - name: centrality
+      - name: centralist
+      - name: centralism
+      - name: centralize
+        children:
+          - name: centralized
+          - name: centralization
+  - name: concentrate
+    children:
+      - name: concentrator
+      - name: concentrated
+      - name: concentrative
+      - name: concentration
+  - name: eccentric
+    children:
+      - name: eccentrically
+      - name: eccentricity

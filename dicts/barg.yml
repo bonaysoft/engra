@@ -1,0 +1,6 @@
+name: 326A
+children:
+  - name: bargain
+    children:
+      - name: bargainer
+      - name: bargaining

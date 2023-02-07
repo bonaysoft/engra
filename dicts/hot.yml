@@ -1,0 +1,6 @@
+name: C1A
+children:
+  - name: hot
+    children:
+      - name: hotline
+      - name: hotdog

@@ -1,0 +1,23 @@
+name: 1A4B
+children:
+  - name: cave
+    children:
+      - name: cava
+      - name: cavity
+      - name: caver
+      - name: caving
+      - name: caveman
+  - name: cavity
+    children:
+      - name: cavitate
+      - name: cavitation
+  - name: cavern
+    children:
+      - name: cavernous
+  - name: excavate
+    children:
+      - name: excavator
+      - name: excavated
+        children:
+          - name: unexcavated
+      - name: excavation

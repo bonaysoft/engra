@@ -1,0 +1,12 @@
+name: 156F
+children:
+  - name: result
+    children:
+      - name: resulting
+      - name: resultant
+  - name: insult
+    children:
+      - name: insulting
+        children:
+          - name: insultingly
+      - name: insulted

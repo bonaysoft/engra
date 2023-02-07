@@ -1,0 +1,29 @@
+name: 5EC
+children:
+  - name: inquire
+    children:
+      - name: inquiry
+      - name: inquirer
+      - name: inquiring
+        children:
+          - name: inquiringly
+  - name: acquire
+    children:
+      - name: acquirer
+      - name: acquired
+      - name: reacquire
+      - name: acquisition
+      - name: acquisitive
+        children:
+          - name: acquisitiveness
+  - name: require
+    children:
+      - name: required
+      - name: requirement
+  - name: requisite
+    children:
+      - name: requisition
+      - name: prerequisite
+  - name: exquisite
+    children:
+      - name: exquisitely

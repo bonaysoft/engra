@@ -1,0 +1,12 @@
+name: 4C6A
+children:
+  - name: dread
+    children:
+      - name: dreaded
+      - name: dreadful
+        children:
+          - name: dreadfully
+      - name: dreadlock
+        children:
+          - name: dreadlocked
+      - name: dreadnought

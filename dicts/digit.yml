@@ -1,0 +1,12 @@
+name: 380A
+children:
+  - name: digit
+    children:
+      - name: digital
+        children:
+          - name: digitally
+      - name: digitize
+        children:
+          - name: digitizer
+          - name: digitized
+          - name: digitization

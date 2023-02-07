@@ -1,0 +1,28 @@
+name: 19EA
+children:
+  - name: photon
+    children:
+      - name: photonic
+      - name: photonics
+  - name: photograph
+    children:
+      - name: photographer
+      - name: photography
+        children:
+          - name: photographic
+            children:
+              - name: photographically
+          - name: astrophotography
+      - name: photo
+        children:
+          - name: photochrome
+          - name: photochromy
+  - name: photocopy
+    children:
+      - name: photocopier
+      - name: photocopying
+      - name: photocopied
+  - name: photosynthesis
+    children:
+      - name: photosynthetic
+      - name: photosynthesize

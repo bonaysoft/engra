@@ -1,0 +1,9 @@
+name: 1FAA
+children:
+  - name: tight
+    children:
+      - name: tightly
+      - name: tightness
+      - name: tighten
+        children:
+          - name: tightening

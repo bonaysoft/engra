@@ -1,0 +1,14 @@
+name: 95A
+children:
+  - name: side
+    children:
+      - name: beside
+        children:
+          - name: besides
+      - name: inside
+        children:
+          - name: insider
+      - name: outside
+        children:
+          - name: outsider
+      - name: aside

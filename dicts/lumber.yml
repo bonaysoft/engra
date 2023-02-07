@@ -1,0 +1,8 @@
+name: 526A
+children:
+  - name: lumber
+    children:
+      - name: lumbering
+      - name: lumberman
+      - name: lumberjack
+      - name: lumberyard

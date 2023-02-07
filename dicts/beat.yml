@@ -1,0 +1,12 @@
+name: 62B
+children:
+  - name: beat
+    children:
+      - name: beater
+      - name: beating
+      - name: beaten
+        children:
+          - name: unbeaten
+      - name: beatable
+        children:
+          - name: unbeatable

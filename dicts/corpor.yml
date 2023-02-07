@@ -1,0 +1,19 @@
+name: 1E4B
+children:
+  - name: corporate
+    children:
+      - name: corporator
+      - name: corporative
+      - name: corporation
+      - name: corporatist
+      - name: corporatism
+      - name: corporatization
+  - name: incorporate
+    children:
+      - name: incorporator
+      - name: incorporated
+        children:
+          - name: unincorporated
+      - name: incorporation
+        children:
+          - name: reincorporation

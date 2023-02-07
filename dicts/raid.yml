@@ -1,0 +1,6 @@
+name: 10FB
+children:
+  - name: raid
+    children:
+      - name: raider
+      - name: raiding

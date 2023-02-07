@@ -1,0 +1,8 @@
+name: 10BA
+children:
+  - name: poison
+    children:
+      - name: poisoner
+      - name: poisoning
+      - name: poisoned
+      - name: poisonous

@@ -1,0 +1,9 @@
+name: 31DA
+children:
+  - name: bright
+    children:
+      - name: brightly
+      - name: brightness
+      - name: brighten
+        children:
+          - name: brightening

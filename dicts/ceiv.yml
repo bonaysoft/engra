@@ -1,0 +1,37 @@
+name: 5H
+children:
+  - name: receive
+    children:
+      - name: receiver
+        children:
+          - name: receivership
+      - name: receiving
+      - name: received
+      - name: receivable
+  - name: deceive
+    children:
+      - name: deceiver
+      - name: deceived
+  - name: conceive
+    children:
+      - name: conceivable
+        children:
+          - name: conceivably
+          - name: inconceivable
+            children:
+              - name: inconceivably
+      - name: misconceive
+        children:
+          - name: misconceived
+      - name: preconceive
+        children:
+          - name: preconceived
+  - name: perceive
+    children:
+      - name: perceiver
+      - name: perceived
+        children:
+          - name: unperceived
+      - name: perceiving
+      - name: perceivable
+      - name: misperceive

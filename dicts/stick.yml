@@ -1,0 +1,6 @@
+name: 4EA
+children:
+  - name: stick
+    children:
+      - name: sticker
+      - name: nonstick

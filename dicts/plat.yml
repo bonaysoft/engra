@@ -1,0 +1,11 @@
+name: 42E
+children:
+  - name: plate
+    children:
+      - name: plated
+      - name: plateful
+      - name: platelet
+      - name: plateau
+      - name: boilerplate
+      - name: breastplate
+      - name: copperplate

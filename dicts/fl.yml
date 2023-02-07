@@ -1,0 +1,34 @@
+name: 1A1A
+children:
+  - name: flag
+    children:
+      - name: flagged
+      - name: flagging
+        children:
+          - name: unflagging
+      - name: flagship
+      - name: flagpole
+      - name: flagstick
+  - name: flap
+    children:
+      - name: flapper
+      - name: flapping
+      - name: flapjack
+  - name: flip
+    children:
+      - name: flipper
+      - name: flipping
+      - name: flipside
+      - name: flip-flop
+        children:
+          - name: flip-flopper
+          - name: flip-flopping
+  - name: flick
+    children:
+      - name: flicker
+        children:
+          - name: flickering
+  - name: flutter
+    children:
+      - name: fluttering
+      - name: fluttery

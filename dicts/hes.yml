@@ -1,0 +1,16 @@
+name: 12BB
+children:
+  - name: hesitate
+    children:
+      - name: hesitating
+        children:
+          - name: hesitatingly
+          - name: unhesitating
+            children:
+              - name: unhesitatingly
+      - name: hesitation
+      - name: hesitant
+        children:
+          - name: hesitantly
+          - name: hesitancy
+          - name: hesitance

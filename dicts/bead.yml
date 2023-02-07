@@ -1,0 +1,9 @@
+name: 4AFA
+children:
+  - name: bead
+    children:
+      - name: beady
+      - name: beading
+      - name: beaded
+      - name: beadsman
+      - name: beadswoman

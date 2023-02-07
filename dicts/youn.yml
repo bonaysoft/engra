@@ -1,0 +1,13 @@
+name: 227C
+children:
+  - name: young
+    children:
+      - name: youngish
+      - name: youngster
+      - name: youth
+        children:
+          - name: youthful
+            children:
+              - name: youthfully
+              - name: youthfulness
+          - name: youthhood

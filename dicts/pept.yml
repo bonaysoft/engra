@@ -1,0 +1,5 @@
+name: 602B
+children:
+  - name: peptide
+    children:
+      - name: polypeptide

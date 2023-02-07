@@ -1,0 +1,16 @@
+name: 209A
+children:
+  - name: candle
+    children:
+      - name: candlelit
+      - name: candlestick
+      - name: candleholder
+      - name: candelabrum
+      - name: candelabra
+  - name: candid
+    children:
+      - name: candidly
+      - name: candor
+  - name: candidate
+    children:
+      - name: candidacy

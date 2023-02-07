@@ -1,0 +1,14 @@
+name: BAA
+children:
+  - name: fire
+    children:
+      - name: firing
+      - name: fired
+        children:
+          - name: unfired
+      - name: firefight
+        children:
+          - name: firefighter
+          - name: firefighting
+      - name: afire
+      - name: misfire

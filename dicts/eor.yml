@@ -1,0 +1,10 @@
+name: 32CA
+children:
+  - name: meteor
+    children:
+      - name: meteoric
+      - name: meteoroid
+      - name: meteorite
+        children:
+          - name: meteoritic
+          - name: meteoritics

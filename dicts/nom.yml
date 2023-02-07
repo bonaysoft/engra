@@ -1,0 +1,21 @@
+name: 26DA
+children:
+  - name: autonomy
+    children:
+      - name: autonomic
+      - name: autonomist
+      - name: autonomous
+        children:
+          - name: autonomously
+  - name: astronomy
+    children:
+      - name: astronomical
+        children:
+          - name: astronomically
+      - name: astronomer
+  - name: taxonomy
+    children:
+      - name: taxonomist
+      - name: taxonomic
+        children:
+          - name: taxonomically

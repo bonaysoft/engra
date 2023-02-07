@@ -1,0 +1,17 @@
+name: 18CA
+children:
+  - name: weigh
+    children:
+      - name: weigher
+      - name: weighing
+      - name: weighable
+      - name: weighbridge
+  - name: weight
+    children:
+      - name: weighty
+      - name: weightless
+      - name: weighting
+      - name: weighted
+        children:
+          - name: unweighted
+      - name: overweight

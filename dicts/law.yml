@@ -1,0 +1,21 @@
+name: 149A
+children:
+  - name: law
+    children:
+      - name: lawful
+        children:
+          - name: lawfully
+          - name: lawfulness
+          - name: unlawful
+            children:
+              - name: unlawfully
+      - name: lawless
+        children:
+          - name: lawlessness
+      - name: outlaw
+        children:
+          - name: outlawing
+      - name: lawyer
+        children:
+          - name: lawyerly
+          - name: lawyering

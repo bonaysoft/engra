@@ -1,0 +1,35 @@
+name: 51C
+children:
+  - name: similar
+    children:
+      - name: similarly
+      - name: similarity
+      - name: similitude
+      - name: dissimilar
+        children:
+          - name: dissimilarity
+          - name: dissimilate
+            children:
+              - name: dissimilation
+          - name: dissimilitude
+  - name: assimilate
+    children:
+      - name: assimilator
+      - name: assimilative
+      - name: assimilation
+  - name: facsimile
+    children:
+      - name: telefacsimile
+  - name: simulate
+    children:
+      - name: simulator
+      - name: simulated
+      - name: simulation
+      - name: dissimulate
+        children:
+          - name: dissimulation
+  - name: simultaneous
+    children:
+      - name: simultaneously
+      - name: simultaneity
+      - name: simulcast

@@ -1,0 +1,9 @@
+name: 78C
+children:
+  - name: star
+    children:
+      - name: starry
+      - name: starless
+      - name: starlike
+      - name: starring
+      - name: superstar

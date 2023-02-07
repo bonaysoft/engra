@@ -1,0 +1,6 @@
+name: 3C1A
+children:
+  - name: cow
+    children:
+      - name: cowgirl
+      - name: cowboy

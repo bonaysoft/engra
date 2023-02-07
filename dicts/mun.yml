@@ -1,0 +1,51 @@
+name: 63B
+children:
+  - name: immune
+    children:
+      - name: immunity
+      - name: immunology
+        children:
+          - name: immunologic
+            children:
+              - name: immunological
+                children:
+                  - name: immunologically
+          - name: immunologist
+      - name: immunize
+        children:
+          - name: immunized
+          - name: immunization
+      - name: autoimmune
+        children:
+          - name: autoimmunity
+  - name: commune
+    children:
+      - name: communal
+        children:
+          - name: communally
+          - name: communality
+          - name: communalism
+          - name: intercommunal
+      - name: community
+      - name: communism
+      - name: communist
+        children:
+          - name: communistic
+      - name: communitarian
+  - name: communion
+    children:
+      - name: communicant
+  - name: communicate
+    children:
+      - name: communicator
+      - name: communicating
+      - name: communicative
+        children:
+          - name: uncommunicative
+      - name: communication
+        children:
+          - name: communicational
+          - name: miscommunication
+      - name: communicable
+        children:
+          - name: communicability

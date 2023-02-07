@@ -1,0 +1,6 @@
+name: 60AA
+children:
+  - name: stride
+    children:
+      - name: astride
+      - name: bestride

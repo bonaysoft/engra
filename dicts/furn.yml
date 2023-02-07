@@ -1,0 +1,10 @@
+name: 2A1B
+children:
+  - name: furnish
+    children:
+      - name: furnisher
+      - name: furnished
+        children:
+          - name: unfurnished
+      - name: furnishment
+      - name: refurnish

@@ -1,0 +1,34 @@
+name: DAA
+children:
+  - name: peril
+    children:
+      - name: perilous
+        children:
+          - name: perilously
+      - name: imperil
+        children:
+          - name: imperiled
+  - name: experience
+    children:
+      - name: experienced
+      - name: experiencer
+      - name: experiential
+      - name: inexperience
+        children:
+          - name: inexperienced
+  - name: experiment
+    children:
+      - name: experimenter
+      - name: experimentation
+      - name: experimental
+        children:
+          - name: experimentally
+          - name: experimentalist
+          - name: experimentalism
+  - name: expert
+    children:
+      - name: expertly
+      - name: expertise
+      - name: inexpert
+        children:
+          - name: inexpertly

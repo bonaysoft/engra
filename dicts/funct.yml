@@ -1,0 +1,22 @@
+name: 187A
+children:
+  - name: function
+    children:
+      - name: functioning
+      - name: functionary
+      - name: functional
+        children:
+          - name: functionally
+          - name: functionality
+          - name: functionalism
+          - name: functionalist
+          - name: nonfunctional
+          - name: multifunctional
+      - name: malfunction
+        children:
+          - name: malfunctioning
+      - name: dysfunction
+        children:
+          - name: dysfunctional
+            children:
+              - name: dysfunctionality

@@ -1,0 +1,6 @@
+name: 5EEA
+children:
+  - name: beach
+    children:
+      - name: beachy
+      - name: beachcomber

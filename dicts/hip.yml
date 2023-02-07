@@ -1,0 +1,8 @@
+name: 50FA
+children:
+  - name: hip
+    children:
+      - name: hipster
+      - name: hipness
+      - name: hipped
+      - name: unhip

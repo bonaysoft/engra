@@ -1,0 +1,8 @@
+name: 3F7A
+children:
+  - name: aquatic
+    children:
+      - name: semiaquatic
+  - name: aquifer
+    children:
+      - name: aquiferous

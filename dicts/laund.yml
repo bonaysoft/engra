@@ -1,0 +1,9 @@
+name: 1A3E
+children:
+  - name: launder
+    children:
+      - name: launderer
+      - name: laundering
+      - name: laundered
+      - name: laundry
+      - name: launderette

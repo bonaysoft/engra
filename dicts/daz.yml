@@ -1,0 +1,17 @@
+name: 35AB
+children:
+  - name: daze
+    children:
+      - name: dazed
+        children:
+          - name: dazedly
+  - name: dazzle
+    children:
+      - name: dazzler
+      - name: dazzling
+        children:
+          - name: dazzlingly
+      - name: dazzled
+      - name: bedazzle
+        children:
+          - name: bedazzled

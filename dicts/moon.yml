@@ -1,0 +1,12 @@
+name: 1C8A
+children:
+  - name: moon
+    children:
+      - name: moony
+      - name: moonless
+      - name: moonlet
+      - name: moonrise
+      - name: moonwalk
+      - name: moonlit
+      - name: moonbeam
+      - name: honeymoon

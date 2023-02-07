@@ -1,0 +1,13 @@
+name: 3C8A
+children:
+  - name: category
+    children:
+      - name: subcategory
+      - name: categorical
+        children:
+          - name: categorically
+          - name: categoricalness
+      - name: categorize
+        children:
+          - name: categorized
+          - name: categorization

@@ -1,0 +1,11 @@
+name: 33DB
+children:
+  - name: strategy
+    children:
+      - name: strategic
+        children:
+          - name: strategical
+            children:
+              - name: strategically
+      - name: strategist
+      - name: strategize

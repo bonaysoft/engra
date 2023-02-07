@@ -1,0 +1,52 @@
+name: 12C
+children:
+  - name: motor
+    children:
+      - name: motoring
+      - name: motorized
+      - name: motorist
+      - name: motorman
+      - name: motorbike
+      - name: motorcar
+      - name: motorcoach
+      - name: motorboat
+      - name: motorsport
+      - name: motorcycle
+        children:
+          - name: motorcyclist
+          - name: motorcycling
+  - name: motion
+    children:
+      - name: motionless
+        children:
+          - name: motionlessly
+  - name: remote
+    children:
+      - name: remotely
+      - name: remoteness
+      - name: remote-control
+        children:
+          - name: remote-controlled
+  - name: promote
+    children:
+      - name: promoter
+      - name: promoted
+      - name: promotion
+        children:
+          - name: promotional
+  - name: demote
+    children:
+      - name: demotion
+  - name: motive
+    children:
+      - name: motivic
+      - name: motivate
+        children:
+          - name: motivator
+          - name: motivating
+          - name: motivated
+            children:
+              - name: unmotivated
+          - name: motivation
+            children:
+              - name: motivational

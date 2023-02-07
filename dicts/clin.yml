@@ -1,0 +1,31 @@
+name: D0C
+children:
+  - name: clinic
+    children:
+      - name: clinical
+        children:
+          - name: clinically
+          - name: subclinical
+          - name: preclinical
+      - name: clinician
+      - name: clinique
+  - name: decline
+    children:
+      - name: declining
+      - name: declinate
+        children:
+          - name: declination
+  - name: recline
+    children:
+      - name: recliner
+      - name: reclining
+  - name: incline
+    children:
+      - name: inclined
+      - name: inclinable
+      - name: inclinator
+      - name: inclination
+      - name: disincline
+        children:
+          - name: disinclined
+          - name: disinclination

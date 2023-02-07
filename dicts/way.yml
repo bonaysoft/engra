@@ -1,0 +1,26 @@
+name: 39G
+children:
+  - name: way
+    children:
+      - name: hallway
+      - name: doorway
+      - name: gateway
+      - name: walkway
+      - name: pathway
+      - name: waterway
+      - name: fairway
+      - name: roadway
+      - name: highway
+      - name: freeway
+      - name: railway
+      - name: subway
+      - name: driveway
+      - name: runway
+      - name: halfway
+      - name: underway
+      - name: sideways
+  - name: away
+    children:
+      - name: runaway
+      - name: getaway
+  - name: always

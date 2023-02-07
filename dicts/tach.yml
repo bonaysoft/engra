@@ -1,0 +1,13 @@
+name: 1AAA
+children:
+  - name: attach
+    children:
+      - name: attached
+        children:
+          - name: unattached
+      - name: attachment
+  - name: detach
+    children:
+      - name: detached
+      - name: detachment
+      - name: detachable

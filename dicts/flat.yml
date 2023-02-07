@@ -1,0 +1,37 @@
+name: 96C
+children:
+  - name: inflate
+    children:
+      - name: inflator
+      - name: inflating
+      - name: inflated
+      - name: inflation
+        children:
+          - name: inflationary
+          - name: hyperinflation
+            children:
+              - name: hyperinflationary
+          - name: disinflation
+            children:
+              - name: disinflationary
+      - name: inflatable
+      - name: reflate
+        children:
+          - name: reflation
+          - name: reflationary
+  - name: deflate
+    children:
+      - name: deflator
+      - name: deflating
+      - name: deflated
+      - name: deflation
+        children:
+          - name: deflationary
+  - name: flavor
+    children:
+      - name: flavorful
+      - name: flavorless
+      - name: flavoring
+      - name: flavored
+        children:
+          - name: unflavored

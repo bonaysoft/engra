@@ -1,0 +1,14 @@
+name: 2FFA
+children:
+  - name: wrong
+    children:
+      - name: wrongly
+      - name: wrongness
+      - name: wronged
+      - name: wrongful
+        children:
+          - name: wrongfully
+          - name: wrongfulness
+      - name: wrongdoing
+        children:
+          - name: wrongdoer

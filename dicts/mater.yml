@@ -1,0 +1,27 @@
+name: 84A
+children:
+  - name: mater
+    children:
+      - name: maternal
+        children:
+          - name: maternally
+      - name: maternity
+  - name: material
+    children:
+      - name: materially
+      - name: materiality
+      - name: materialism
+      - name: materialist
+        children:
+          - name: materialistic
+      - name: materialize
+        children:
+          - name: materialization
+          - name: dematerialize
+            children:
+              - name: dematerialization
+      - name: immaterial
+        children:
+          - name: immateriality
+      - name: nonmaterial
+      - name: metamaterial

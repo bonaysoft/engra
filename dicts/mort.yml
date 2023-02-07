@@ -1,0 +1,20 @@
+name: 106C
+children:
+  - name: mortal
+    children:
+      - name: mortally
+      - name: mortality
+      - name: immortal
+        children:
+          - name: immortality
+          - name: immortalize
+            children:
+              - name: immortalization
+  - name: mortuary
+    children:
+      - name: mortician
+  - name: mortify
+    children:
+      - name: mortifying
+      - name: mortified
+      - name: mortification

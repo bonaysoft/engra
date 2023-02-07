@@ -1,0 +1,11 @@
+name: 24FA
+children:
+  - name: solo
+    children:
+      - name: soloist
+  - name: sole
+    children:
+      - name: solely
+  - name: desolate
+    children:
+      - name: desolation

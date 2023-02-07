@@ -1,0 +1,19 @@
+name: 8CB
+children:
+  - name: impact
+    children:
+      - name: impactor
+      - name: impacting
+      - name: impacted
+      - name: impaction
+      - name: impactful
+  - name: compact
+    children:
+      - name: compactor
+      - name: compacting
+      - name: compacted
+      - name: compaction
+      - name: compactible
+      - name: compactly
+      - name: compactness
+      - name: subcompact

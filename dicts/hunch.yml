@@ -1,0 +1,9 @@
+name: 530A
+children:
+  - name: hunch
+    children:
+      - name: hunchy
+      - name: hunched
+      - name: hunchback
+        children:
+          - name: hunchbacked

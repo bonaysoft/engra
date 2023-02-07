@@ -1,0 +1,8 @@
+name: 640A
+children:
+  - name: then
+    children:
+      - name: thence
+        children:
+          - name: thenceforth
+          - name: thenceforward

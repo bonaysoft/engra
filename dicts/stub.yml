@@ -1,0 +1,14 @@
+name: 39AA
+children:
+  - name: stub
+    children:
+      - name: stubby
+      - name: stubbed
+      - name: stubborn
+        children:
+          - name: stubbornly
+          - name: stubbornness
+  - name: stubble
+    children:
+      - name: stubbly
+      - name: stubbled

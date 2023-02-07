@@ -1,0 +1,28 @@
+name: 1D2A
+children:
+  - name: urban
+    children:
+      - name: urbanite
+      - name: urbanity
+      - name: urbanology
+      - name: urbanist
+      - name: urbanism
+      - name: urbanize
+        children:
+          - name: urbanized
+          - name: urbanization
+      - name: urbane
+        children:
+          - name: inurbane
+            children:
+              - name: inurbanity
+      - name: interurban
+      - name: conurbation
+  - name: suburb
+    children:
+      - name: suburban
+      - name: suburbia
+      - name: suburbanite
+      - name: suburbanize
+        children:
+          - name: suburbanization

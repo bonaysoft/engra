@@ -1,0 +1,11 @@
+name: 41AA
+children:
+  - name: teach
+    children:
+      - name: teacher
+        children:
+          - name: teacherly
+      - name: teaching
+      - name: teachable
+        children:
+          - name: unteachable

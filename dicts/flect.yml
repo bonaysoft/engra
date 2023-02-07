@@ -1,0 +1,19 @@
+name: DCA
+children:
+  - name: reflect
+    children:
+      - name: reflector
+      - name: reflected
+      - name: reflection
+      - name: reflectance
+      - name: reflective
+        children:
+          - name: reflectively
+          - name: reflectivity
+          - name: reflectiveness
+          - name: unreflective
+  - name: deflect
+    children:
+      - name: deflector
+      - name: deflected
+      - name: deflection

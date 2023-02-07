@@ -1,0 +1,73 @@
+name: 9B
+children:
+  - name: gene
+    children:
+      - name: genotype
+        children:
+          - name: genotypic
+      - name: transgene
+        children:
+          - name: transgenic
+  - name: genome
+    children:
+      - name: genomic
+      - name: genomics
+  - name: genetic
+    children:
+      - name: genetics
+      - name: geneticist
+      - name: genetical
+        children:
+          - name: genetically
+      - name: allogeneic
+      - name: epigenetic
+      - name: ontogenetic
+  - name: genial
+    children:
+      - name: genially
+      - name: geniality
+  - name: genital
+    children:
+      - name: genitals
+      - name: genitalia
+      - name: genitourinary
+  - name: genealogy
+    children:
+      - name: genealogist
+  - name: ingenious
+    children:
+      - name: ingeniously
+      - name: ingenuity
+  - name: estrogen
+    children:
+      - name: estrogenic
+      - name: oestrogen
+      - name: phytoestrogen
+  - name: indigenous
+    children:
+      - name: indigenize
+        children:
+          - name: indigenization
+  - name: antigen
+    children:
+      - name: antigenic
+  - name: progeny
+    children:
+      - name: progenitor
+  - name: genre
+    children:
+      - name: subgenre
+  - name: genocide
+    children:
+      - name: genocidal
+  - name: homogeneous
+    children:
+      - name: homogeneity
+      - name: homogenous
+      - name: homogenize
+        children:
+          - name: homogenizing
+          - name: homogenization
+      - name: inhomogeneous
+        children:
+          - name: inhomogeneity

@@ -1,0 +1,11 @@
+name: 10C
+children:
+  - name: metaphor
+    children:
+      - name: metaphoric
+      - name: metaphorical
+        children:
+          - name: metaphorically
+  - name: euphoria
+    children:
+      - name: euphoric

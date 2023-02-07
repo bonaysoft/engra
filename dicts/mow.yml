@@ -1,0 +1,13 @@
+name: 5DEA
+children:
+  - name: mow
+    children:
+      - name: mower
+      - name: mowing
+      - name: mowed
+      - name: mown
+        children:
+          - name: unmown
+      - name: newmown
+      - name: haymow
+      - name: mowburnt

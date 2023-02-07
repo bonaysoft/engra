@@ -1,0 +1,10 @@
+name: C2E
+children:
+  - name: mourn
+    children:
+      - name: mourner
+      - name: mourning
+      - name: mournful
+        children:
+          - name: mournfully
+      - name: unmourned

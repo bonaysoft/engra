@@ -1,0 +1,21 @@
+name: 19FA
+children:
+  - name: marine
+    children:
+      - name: mariner
+      - name: submarine
+        children:
+          - name: submariner
+          - name: antisubmarine
+      - name: aeromarine
+      - name: transmarine
+      - name: ultramarine
+  - name: marinade
+    children:
+      - name: marinate
+        children:
+          - name: marinated
+  - name: marsh
+    children:
+      - name: marshy
+      - name: marshland

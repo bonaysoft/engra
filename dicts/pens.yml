@@ -1,0 +1,33 @@
+name: 26B
+children:
+  - name: pension
+    children:
+      - name: pensioner
+  - name: pensive
+    children:
+      - name: pensively
+  - name: compensate
+    children:
+      - name: compensator
+      - name: compensating
+      - name: compensated
+        children:
+          - name: uncompensated
+      - name: compensation
+      - name: compensatory
+      - name: compensable
+      - name: recompense
+      - name: overcompensate
+        children:
+          - name: overcompensation
+  - name: dispense
+    children:
+      - name: dispenser
+      - name: dispensary
+      - name: dispensing
+      - name: dispensation
+      - name: dispensable
+        children:
+          - name: indispensable
+            children:
+              - name: indispensability

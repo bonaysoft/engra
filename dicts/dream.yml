@@ -1,0 +1,14 @@
+name: 2DFA
+children:
+  - name: dream
+    children:
+      - name: dreamer
+      - name: dreamy
+        children:
+          - name: dreamily
+          - name: dreaminess
+      - name: dreamless
+      - name: dreamlike
+      - name: daydream
+        children:
+          - name: daydreaming

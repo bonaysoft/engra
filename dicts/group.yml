@@ -1,0 +1,12 @@
+name: A4B
+children:
+  - name: group
+    children:
+      - name: grouping
+      - name: grouped
+      - name: regroup
+        children:
+          - name: regrouping
+      - name: subgroup
+      - name: supergroup
+      - name: intergroup

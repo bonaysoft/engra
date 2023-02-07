@@ -1,0 +1,20 @@
+name: 134A
+children:
+  - name: die
+    children:
+      - name: dead
+        children:
+          - name: deadly
+            children:
+              - name: deadliness
+          - name: deadness
+          - name: deaden
+            children:
+              - name: deadening
+          - name: deadlock
+            children:
+              - name: deadlocked
+          - name: death
+            children:
+              - name: deathly
+              - name: deathless

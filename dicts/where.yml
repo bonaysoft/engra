@@ -1,0 +1,11 @@
+name: 1DFA
+children:
+  - name: where
+    children:
+      - name: somewhere
+      - name: anywhere
+      - name: everywhere
+      - name: elsewhere
+      - name: nowhere
+      - name: wherever
+      - name: whereas

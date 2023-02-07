@@ -1,0 +1,12 @@
+name: 1C4A
+children:
+  - name: altitude
+    children:
+      - name: altitudinal
+  - name: altar
+    children:
+      - name: altarpiece
+  - name: exalt
+    children:
+      - name: exalted
+      - name: exaltation

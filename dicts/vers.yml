@@ -1,0 +1,84 @@
+name: BB
+children:
+  - name: verse
+    children:
+      - name: versify
+        children:
+          - name: versifier
+          - name: versification
+  - name: versatile
+    children:
+      - name: versatility
+  - name: university
+  - name: universe
+    children:
+      - name: universal
+        children:
+          - name: universally
+          - name: universality
+          - name: universalism
+          - name: universalist
+            children:
+              - name: universalistic
+          - name: universalize
+            children:
+              - name: universalizing
+              - name: universalized
+              - name: universalization
+  - name: diverse
+    children:
+      - name: diversely
+      - name: diversity
+      - name: diversify
+        children:
+          - name: diversified
+          - name: diversification
+      - name: diversiform
+      - name: biodiverse
+        children:
+          - name: biodiversity
+  - name: converse
+    children:
+      - name: conversely
+      - name: conversant
+      - name: conversation
+        children:
+          - name: conversational
+            children:
+              - name: conversationally
+              - name: conversationalist
+  - name: reverse
+    children:
+      - name: reverser
+      - name: reversing
+      - name: reversed
+      - name: reversal
+      - name: reversion
+      - name: reversible
+        children:
+          - name: reversibility
+          - name: irreversible
+            children:
+              - name: irreversibly
+              - name: irreversibility
+  - name: adverse
+    children:
+      - name: adversely
+      - name: adversity
+      - name: adverseness
+      - name: adversary
+        children:
+          - name: adversarial
+  - name: inverse
+    children:
+      - name: inversely
+      - name: inversive
+      - name: inversion
+  - name: perverse
+    children:
+      - name: perversely
+      - name: perversity
+      - name: perversion
+  - name: traverse
+    children:
+      - name: traversal

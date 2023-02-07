@@ -1,0 +1,16 @@
+name: 3B7A
+children:
+  - name: scum
+    children:
+      - name: scummy
+  - name: obscure
+    children:
+      - name: obscurely
+      - name: obscurity
+      - name: obscuring
+      - name: obscured
+      - name: obscurant
+        children:
+          - name: obscurantism
+            children:
+              - name: obscurantist

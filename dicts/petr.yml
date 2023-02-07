@@ -1,0 +1,11 @@
+name: 558A
+children:
+  - name: petroleum
+    children:
+      - name: petrol
+        children:
+          - name: petrolic
+          - name: petrolize
+          - name: petroliferous
+      - name: petrochemistry
+      - name: petrolatum

@@ -1,0 +1,8 @@
+name: 467A
+children:
+  - name: wax
+    children:
+      - name: waxy
+      - name: waxing
+      - name: waxed
+      - name: waxen

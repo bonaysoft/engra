@@ -1,0 +1,50 @@
+name: 9C
+children:
+  - name: generous
+    children:
+      - name: generously
+      - name: generosity
+      - name: ungenerous
+  - name: generate
+    children:
+      - name: generator
+      - name: generating
+      - name: generated
+      - name: generation
+        children:
+          - name: generational
+      - name: generative
+      - name: regenerate
+        children:
+          - name: regenerating
+          - name: regeneration
+          - name: regenerative
+          - name: unregenerate
+  - name: degenerate
+    children:
+      - name: degeneration
+      - name: degenerative
+      - name: degeneracy
+  - name: general
+    children:
+      - name: generally
+      - name: generality
+      - name: generalist
+      - name: generalship
+      - name: generalize
+        children:
+          - name: generalizing
+          - name: generalized
+          - name: generalization
+          - name: generalizability
+  - name: generic
+    children:
+      - name: generically
+  - name: gender
+    children:
+      - name: genderless
+      - name: gendered
+      - name: engender
+      - name: transgender
+        children:
+          - name: transgendered

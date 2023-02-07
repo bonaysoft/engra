@@ -1,0 +1,12 @@
+name: 52DA
+children:
+  - name: mint
+    children:
+      - name: minty
+      - name: minto
+      - name: spearmint
+      - name: catmint
+      - name: mintage
+      - name: mintmark
+      - name: mintmaster
+      - name: remint

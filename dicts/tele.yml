@@ -1,0 +1,19 @@
+name: 125A
+children:
+  - name: telescope
+    children:
+      - name: telescoping
+      - name: telescopic
+        children:
+          - name: telescopically
+  - name: telegraph
+    children:
+      - name: telegrapher
+      - name: telegraphy
+        children:
+          - name: telegraphic
+  - name: televise
+    children:
+      - name: televisor
+      - name: television
+      - name: televisual

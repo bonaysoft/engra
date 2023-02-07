@@ -1,0 +1,5 @@
+name: 5F6A
+children:
+  - name: cigar
+    children:
+      - name: cigarette

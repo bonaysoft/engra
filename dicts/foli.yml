@@ -1,0 +1,8 @@
+name: 2BDA
+children:
+  - name: foliage
+    children:
+      - name: foliar
+      - name: foliose
+      - name: foliaceous
+      - name: folic

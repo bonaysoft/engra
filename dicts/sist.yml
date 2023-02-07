@@ -1,0 +1,75 @@
+name: 1J
+children:
+  - name: exist
+    children:
+      - name: existing
+      - name: existed
+      - name: existence
+      - name: existent
+        children:
+          - name: existential
+            children:
+              - name: existentialist
+              - name: existentialism
+      - name: coexist
+        children:
+          - name: coexisting
+          - name: coexistent
+          - name: coexistence
+      - name: preexist
+        children:
+          - name: preexistent
+          - name: preexistence
+      - name: nonexistent
+        children:
+          - name: nonexistence
+  - name: insist
+    children:
+      - name: insistent
+        children:
+          - name: insistently
+      - name: insistence
+  - name: persist
+    children:
+      - name: persistent
+        children:
+          - name: persistently
+      - name: persistence
+  - name: consist
+    children:
+      - name: consistent
+        children:
+          - name: consistently
+      - name: consistency
+      - name: consistence
+      - name: inconsistent
+        children:
+          - name: inconsistently
+          - name: inconsistency
+  - name: assist
+    children:
+      - name: assisting
+      - name: assisted
+        children:
+          - name: unassisted
+      - name: assistance
+      - name: assistant
+        children:
+          - name: assistantship
+      - name: assistive
+  - name: resist
+    children:
+      - name: resistor
+      - name: resister
+      - name: resisting
+      - name: resistance
+      - name: resistant
+      - name: resistive
+        children:
+          - name: resistivity
+      - name: irresistible
+        children:
+          - name: irresistibly
+  - name: subsist
+    children:
+      - name: subsistence

@@ -1,0 +1,15 @@
+name: E2A
+children:
+  - name: hard
+    children:
+      - name: hardness
+      - name: hardship
+      - name: hardy
+        children:
+          - name: hardiness
+      - name: hardly
+  - name: harden
+    children:
+      - name: hardener
+      - name: hardening
+      - name: hardened

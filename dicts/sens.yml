@@ -1,0 +1,71 @@
+name: 4CA
+children:
+  - name: sense
+    children:
+      - name: sensor
+      - name: sensing
+      - name: sensory
+        children:
+          - name: sensorial
+          - name: sensorium
+          - name: multisensory
+          - name: extrasensory
+      - name: senseless
+        children:
+          - name: senselessly
+          - name: senselessness
+  - name: sensual
+    children:
+      - name: sensually
+      - name: sensuality
+      - name: sensualist
+      - name: sensuous
+        children:
+          - name: sensuously
+  - name: sensitive
+    children:
+      - name: sensitively
+      - name: sensitivity
+      - name: oversensitive
+      - name: supersensitive
+      - name: hypersensitive
+        children:
+          - name: hypersensitivity
+      - name: sensitize
+        children:
+          - name: sensitizer
+          - name: sensitized
+          - name: sensitization
+          - name: desensitize
+            children:
+              - name: desensitizer
+              - name: desensitized
+              - name: desensitization
+  - name: sensible
+    children:
+      - name: sensibly
+      - name: sensibility
+      - name: insensible
+        children:
+          - name: insensibly
+          - name: insensibility
+  - name: nonsense
+    children:
+      - name: nonsensical
+  - name: sensation
+    children:
+      - name: sensational
+        children:
+          - name: sensationally
+      - name: sensationalize
+        children:
+          - name: sensationalized
+      - name: sensationalism
+      - name: sensationalist
+        children:
+          - name: sensationalistic
+  - name: consensus
+    children:
+      - name: consensual
+        children:
+          - name: consensually

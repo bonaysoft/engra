@@ -1,0 +1,29 @@
+name: 24A
+children:
+  - name: ball
+    children:
+      - name: ballroom
+      - name: football
+        children:
+          - name: footballer
+      - name: baseball
+      - name: basketball
+      - name: softball
+      - name: volleyball
+  - name: ballot
+    children:
+      - name: balloting
+  - name: balloon
+    children:
+      - name: balloonist
+      - name: ballooning
+  - name: ballistic
+    children:
+      - name: ballistics
+      - name: ballistically
+  - name: ballet
+    children:
+      - name: balletic
+  - name: ballad
+    children:
+      - name: balladeer

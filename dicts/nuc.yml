@@ -1,0 +1,16 @@
+name: 1CCA
+children:
+  - name: nucleus
+    children:
+      - name: nucleon
+      - name: nucleic
+      - name: nucleate
+        children:
+          - name: nucleated
+          - name: nucleation
+  - name: nuclear
+    children:
+      - name: nuclearize
+      - name: nuclearization
+      - name: denuclearize
+      - name: denuclearization

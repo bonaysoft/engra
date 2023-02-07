@@ -1,0 +1,5 @@
+name: 6BEA
+children:
+  - name: blackmail
+    children:
+      - name: blackmailer

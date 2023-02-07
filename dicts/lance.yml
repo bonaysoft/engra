@@ -1,0 +1,9 @@
+name: 522A
+children:
+  - name: lance
+    children:
+      - name: lancer
+      - name: lancet
+  - name: freelance
+    children:
+      - name: freelancer

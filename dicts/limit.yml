@@ -1,0 +1,17 @@
+name: 122C
+children:
+  - name: limit
+    children:
+      - name: limiter
+      - name: limiting
+      - name: limited
+        children:
+          - name: unlimited
+      - name: limitation
+      - name: limitable
+        children:
+          - name: illimitable
+      - name: limitative
+      - name: limitless
+        children:
+          - name: limitlessness

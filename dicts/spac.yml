@@ -1,0 +1,9 @@
+name: 1E5A
+children:
+  - name: space
+    children:
+      - name: spacecraft
+      - name: spaceship
+      - name: spacious
+        children:
+          - name: spaciousness

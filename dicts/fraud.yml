@@ -1,0 +1,12 @@
+name: 4C5A
+children:
+  - name: fraud
+    children:
+      - name: fraudster
+      - name: fraudulence
+      - name: fraudulent
+        children:
+          - name: fraudulently
+      - name: defraud
+        children:
+          - name: defrauded

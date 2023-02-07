@@ -1,0 +1,10 @@
+name: 5E9A
+children:
+  - name: weapon
+    children:
+      - name: weaponry
+      - name: weaponless
+      - name: weaponize
+        children:
+          - name: weaponized
+          - name: weaponization

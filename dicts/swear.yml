@@ -1,0 +1,8 @@
+name: 2BFA
+children:
+  - name: swear
+    children:
+      - name: swearing
+      - name: swore
+      - name: sworn
+      - name: swearword

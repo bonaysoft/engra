@@ -1,0 +1,6 @@
+name: 65CA
+children:
+  - name: thief
+    children:
+      - name: thieves
+      - name: theft

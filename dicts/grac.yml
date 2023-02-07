@@ -1,0 +1,25 @@
+name: 8AA
+children:
+  - name: grace
+    children:
+      - name: graceful
+        children:
+          - name: gracefully
+          - name: gracefulness
+          - name: ungraceful
+      - name: graceless
+        children:
+          - name: gracelessly
+      - name: gracious
+        children:
+          - name: graciously
+          - name: graciousness
+          - name: ungracious
+            children:
+              - name: ungraciously
+      - name: disgrace
+        children:
+          - name: disgraced
+          - name: disgraceful
+            children:
+              - name: disgracefully

@@ -1,0 +1,36 @@
+name: 41B
+children:
+  - name: count
+    children:
+      - name: counter
+      - name: counting
+      - name: counted
+        children:
+          - name: uncounted
+      - name: countable
+        children:
+          - name: uncountable
+      - name: countless
+      - name: countdown
+      - name: undercount
+      - name: headcount
+  - name: discount
+    children:
+      - name: discounter
+      - name: discounting
+      - name: discounted
+  - name: recount
+    children:
+      - name: recounting
+      - name: recounted
+  - name: account
+    children:
+      - name: accountant
+      - name: accounting
+      - name: accountancy
+      - name: accountable
+        children:
+          - name: accountability
+      - name: unaccountable
+        children:
+          - name: unaccountably

@@ -1,0 +1,49 @@
+name: FA
+children:
+  - name: simple
+    children:
+      - name: simply
+      - name: simplist
+        children:
+          - name: simplistic
+            children:
+              - name: simplistically
+      - name: simplify
+        children:
+          - name: simplified
+          - name: simplification
+          - name: oversimplify
+            children:
+              - name: oversimplified
+              - name: oversimplification
+  - name: simplicity
+    children:
+      - name: simplicial
+  - name: triple
+    children:
+      - name: triply
+      - name: tripling
+      - name: triplicate
+  - name: multiple
+    children:
+      - name: multiply
+        children:
+          - name: multiplier
+          - name: multiplicity
+          - name: multiplying
+          - name: multiplication
+          - name: multiplicative
+  - name: diploma
+    children:
+      - name: diplomat
+        children:
+          - name: diplomatic
+            children:
+              - name: diplomatically
+              - name: undiplomatic
+          - name: diplomatist
+      - name: diplomacy
+  - name: supple
+    children:
+      - name: supplely
+      - name: suppleness

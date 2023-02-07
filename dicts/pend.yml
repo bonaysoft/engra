@@ -1,0 +1,62 @@
+name: 26A
+children:
+  - name: pendulum
+    children:
+      - name: pendulous
+  - name: depend
+    children:
+      - name: dependant
+      - name: dependent
+      - name: dependence
+      - name: dependency
+      - name: dependable
+        children:
+          - name: dependably
+          - name: dependability
+          - name: undependable
+      - name: independent
+        children:
+          - name: independently
+          - name: independence
+      - name: interdepend
+        children:
+          - name: interdependent
+          - name: interdependence
+          - name: interdependency
+      - name: overdependence
+      - name: codependent
+        children:
+          - name: codependency
+  - name: suspend
+    children:
+      - name: suspender
+      - name: suspended
+      - name: suspense
+        children:
+          - name: suspenseful
+          - name: suspensive
+          - name: suspension
+  - name: spend
+    children:
+      - name: spender
+      - name: spending
+      - name: outspend
+      - name: overspend
+      - name: misspend
+  - name: expend
+    children:
+      - name: expended
+      - name: expendable
+      - name: expenditure
+      - name: expense
+        children:
+          - name: expensive
+            children:
+              - name: expensively
+              - name: inexpensive
+                children:
+                  - name: inexpensively
+  - name: perpendicular
+    children:
+      - name: perpendicularly
+      - name: perpendicularity

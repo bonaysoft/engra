@@ -1,0 +1,14 @@
+name: 527A
+children:
+  - name: craft
+    children:
+      - name: crafter
+      - name: craftsman
+      - name: craftswoman
+      - name: craftsperson
+      - name: craftsmanship
+      - name: crafting
+      - name: crafty
+        children:
+          - name: craftily
+          - name: craftiness

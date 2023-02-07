@@ -1,0 +1,21 @@
+name: 222A
+children:
+  - name: worth
+    children:
+      - name: worthless
+        children:
+          - name: worthlessness
+      - name: worthwhile
+      - name: worthy
+        children:
+          - name: worthiness
+          - name: unworthy
+            children:
+              - name: unworthiness
+  - name: worship
+    children:
+      - name: worshiper
+      - name: worshipful
+        children:
+          - name: worshipfully
+      - name: worshiping

@@ -1,0 +1,24 @@
+name: 105B
+children:
+  - name: proprietary
+    children:
+      - name: proprietor
+        children:
+          - name: proprietorship
+      - name: proprietress
+  - name: appropriate
+    children:
+      - name: appropriator
+      - name: appropriated
+      - name: appropriation
+        children:
+          - name: reappropriation
+      - name: appropriately
+      - name: appropriateness
+      - name: inappropriate
+        children:
+          - name: inappropriately
+          - name: inappropriateness
+      - name: misappropriate
+        children:
+          - name: misappropriation

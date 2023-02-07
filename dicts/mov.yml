@@ -1,0 +1,27 @@
+name: 12D
+children:
+  - name: move
+    children:
+      - name: mover
+      - name: moving
+        children:
+          - name: movingly
+          - name: unmoving
+      - name: moved
+        children:
+          - name: unmoved
+      - name: movement
+      - name: movable
+        children:
+          - name: unmovable
+          - name: immovable
+  - name: movie
+    children:
+      - name: moviegoer
+      - name: moviemaker
+  - name: remove
+    children:
+      - name: remover
+      - name: removal
+      - name: removed
+      - name: removable

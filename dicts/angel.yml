@@ -1,0 +1,17 @@
+name: 2D3A
+children:
+  - name: angel
+    children:
+      - name: angelic
+        children:
+          - name: angelical
+            children:
+              - name: angelically
+      - name: angelology
+        children:
+          - name: angelologic
+            children:
+              - name: angelological
+      - name: angelet
+      - name: angelhood
+      - name: angelophany

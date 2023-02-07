@@ -1,0 +1,19 @@
+name: 1EAA
+children:
+  - name: custom
+    children:
+      - name: customer
+      - name: customs
+      - name: customary
+        children:
+          - name: customarily
+      - name: customize
+        children:
+          - name: customized
+          - name: customization
+          - name: customizable
+      - name: accustom
+        children:
+          - name: accustomed
+            children:
+              - name: unaccustomed

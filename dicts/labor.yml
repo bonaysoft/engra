@@ -1,0 +1,26 @@
+name: 1C0A
+children:
+  - name: labor
+    children:
+      - name: laborer
+      - name: laboring
+      - name: labored
+      - name: laborious
+        children:
+          - name: laboriously
+      - name: laborage
+  - name: elaborate
+    children:
+      - name: elaborated
+      - name: elaboration
+      - name: elaborative
+        children:
+          - name: elaborately
+  - name: collaborate
+    children:
+      - name: collaborator
+      - name: collaborating
+      - name: collaboration
+        children:
+          - name: collaborationist
+      - name: collaborative

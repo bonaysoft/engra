@@ -1,0 +1,10 @@
+name: 606A
+children:
+  - name: cone
+    children:
+      - name: conic
+        children:
+          - name: conical
+  - name: conifer
+    children:
+      - name: coniferous

@@ -1,0 +1,12 @@
+name: 4A2A
+children:
+  - name: vaccine
+    children:
+      - name: vaccinia
+      - name: vaccinal
+      - name: vaccinee
+      - name: vaccinate
+        children:
+          - name: vaccinator
+          - name: vaccinated
+          - name: vaccination

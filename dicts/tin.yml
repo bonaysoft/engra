@@ -1,0 +1,38 @@
+name: 18C
+children:
+  - name: continue
+    children:
+      - name: continuity
+      - name: continuation
+      - name: continued
+      - name: continuing
+      - name: continuous
+        children:
+          - name: continuously
+      - name: continual
+        children:
+          - name: continually
+      - name: continuum
+      - name: discontinue
+        children:
+          - name: discontinuity
+          - name: discontinued
+          - name: discontinuous
+          - name: discontinuation
+      - name: discontinuance
+  - name: continent
+    children:
+      - name: continental
+      - name: subcontinent
+        children:
+          - name: subcontinental
+      - name: supercontinent
+      - name: intercontinental
+      - name: transcontinental
+  - name: pertinent
+    children:
+      - name: pertinently
+      - name: pertinence
+      - name: impertinent
+        children:
+          - name: impertinence

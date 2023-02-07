@@ -1,0 +1,9 @@
+name: 223B
+children:
+  - name: strength
+    children:
+      - name: strengthen
+        children:
+          - name: strengthener
+          - name: strengthening
+          - name: strengthened

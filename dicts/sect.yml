@@ -1,0 +1,5 @@
+name: 1CB
+children:
+  - name: sect
+    children:
+      - name: sectarian

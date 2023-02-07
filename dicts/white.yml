@@ -1,0 +1,11 @@
+name: 1B5A
+children:
+  - name: white
+    children:
+      - name: whitely
+      - name: whiteness
+      - name: whiten
+        children:
+          - name: whitener
+          - name: whitening
+          - name: whitened

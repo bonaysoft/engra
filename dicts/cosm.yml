@@ -1,0 +1,31 @@
+name: 264A
+children:
+  - name: cosmos
+    children:
+      - name: cosmic
+        children:
+          - name: cosmical
+            children:
+              - name: cosmically
+      - name: cosmology
+        children:
+          - name: cosmologic
+            children:
+              - name: cosmological
+          - name: cosmologist
+      - name: cosmism
+      - name: macrocosm
+      - name: microcosm
+        children:
+          - name: microcosmic
+      - name: cosmogony
+      - name: cosmonaut
+        children:
+          - name: cosmonautics
+  - name: cosmetic
+    children:
+      - name: cosmetics
+      - name: cosmetically
+      - name: cosmetology
+        children:
+          - name: cosmetologist

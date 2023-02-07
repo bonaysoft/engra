@@ -1,0 +1,17 @@
+name: 362A
+children:
+  - name: myth
+    children:
+      - name: mythic
+        children:
+          - name: mythical
+      - name: mythos
+      - name: mythology
+        children:
+          - name: mythologic
+            children:
+              - name: mythological
+          - name: mythologist
+      - name: mythologize
+        children:
+          - name: demythologize

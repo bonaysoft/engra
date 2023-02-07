@@ -1,0 +1,11 @@
+name: 30EA
+children:
+  - name: folk
+    children:
+      - name: folksy
+      - name: folktale
+      - name: folksong
+      - name: folklore
+        children:
+          - name: folklorist
+          - name: folkloric

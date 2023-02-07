@@ -1,0 +1,12 @@
+name: C6B
+children:
+  - name: enthuse
+    children:
+      - name: enthusiasm
+      - name: enthusiast
+        children:
+          - name: enthusiastic
+            children:
+              - name: enthusiastically
+              - name: unenthusiastic
+              - name: overenthusiastic

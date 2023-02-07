@@ -1,0 +1,23 @@
+name: B2B
+children:
+  - name: soluble
+    children:
+      - name: solubility
+      - name: insoluble
+  - name: absolute
+    children:
+      - name: absolutely
+      - name: absolutist
+      - name: absolutism
+      - name: absolution
+        children:
+          - name: absoluteness
+  - name: resolute
+    children:
+      - name: resolutely
+      - name: resolution
+        children:
+          - name: resoluteness
+      - name: irresolute
+        children:
+          - name: irresolution

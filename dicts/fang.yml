@@ -1,0 +1,6 @@
+name: 8CD
+children:
+  - name: fang
+    children:
+      - name: fanged
+      - name: defang

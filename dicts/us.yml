@@ -1,0 +1,47 @@
+name: 64A
+children:
+  - name: use
+    children:
+      - name: user
+      - name: used
+      - name: usage
+      - name: usable
+      - name: useable
+      - name: useless
+        children:
+          - name: uselessly
+      - name: useful
+        children:
+          - name: usefully
+          - name: usefulness
+      - name: unused
+        children:
+          - name: unusable
+      - name: reuse
+        children:
+          - name: reusable
+      - name: disuse
+        children:
+          - name: disused
+      - name: overuse
+        children:
+          - name: overused
+      - name: underuse
+        children:
+          - name: underused
+      - name: misuse
+      - name: peruse
+  - name: usual
+    children:
+      - name: usually
+      - name: unusual
+        children:
+          - name: unusually
+  - name: abuse
+    children:
+      - name: abuser
+      - name: abusive
+        children:
+          - name: abusively
+          - name: abusiveness
+      - name: disabuse

@@ -1,0 +1,11 @@
+name: 2D7A
+children:
+  - name: borrow
+    children:
+      - name: borrower
+      - name: borrowing
+      - name: borrowed
+  - name: harbor
+    children:
+      - name: harbour
+      - name: harbored

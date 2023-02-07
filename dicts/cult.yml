@@ -1,0 +1,35 @@
+name: 55B
+children:
+  - name: cult
+    children:
+      - name: cultic
+  - name: culture
+    children:
+      - name: cultural
+        children:
+          - name: culturally
+          - name: culturalist
+      - name: cultured
+        children:
+          - name: uncultured
+      - name: subculture
+        children:
+          - name: subcultural
+      - name: counterculture
+        children:
+          - name: countercultural
+      - name: multiculture
+        children:
+          - name: multicultural
+            children:
+              - name: multiculturalism
+              - name: multiculturalist
+  - name: cultivate
+    children:
+      - name: cultivator
+      - name: cultivated
+        children:
+          - name: uncultivated
+      - name: cultivation
+      - name: cultivar
+      - name: cultivable

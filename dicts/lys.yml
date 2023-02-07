@@ -1,0 +1,9 @@
+name: 9BC
+children:
+  - name: analysis
+    children:
+      - name: reanalysis
+      - name: analyst
+        children:
+          - name: cryptanalyst
+      - name: analysand

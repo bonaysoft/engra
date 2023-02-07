@@ -1,0 +1,12 @@
+name: 60D
+children:
+  - name: plenty
+    children:
+      - name: aplenty
+      - name: plentiful
+        children:
+          - name: plentifully
+  - name: replenish
+    children:
+      - name: replenished
+      - name: replenishment

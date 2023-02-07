@@ -1,0 +1,24 @@
+name: 71A
+children:
+  - name: vocal
+    children:
+      - name: vocally
+      - name: vocalist
+      - name: vocalism
+      - name: vocalize
+        children:
+          - name: vocalization
+      - name: multivocal
+  - name: vocabulary
+  - name: vocation
+    children:
+      - name: vocational
+        children:
+          - name: vocationally
+      - name: avocation
+        children:
+          - name: avocational
+  - name: advocate
+    children:
+      - name: advocator
+      - name: advocacy

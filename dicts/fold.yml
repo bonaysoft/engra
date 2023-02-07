@@ -1,0 +1,13 @@
+name: 286A
+children:
+  - name: fold
+    children:
+      - name: folder
+      - name: folding
+      - name: folded
+      - name: foldable
+      - name: enfold
+      - name: unfold
+        children:
+          - name: unfolding
+          - name: unfolded

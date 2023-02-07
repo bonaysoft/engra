@@ -1,0 +1,10 @@
+name: 7A
+children:
+  - name: component
+    children:
+      - name: componential
+      - name: multicomponent
+  - name: postpone
+    children:
+      - name: postponed
+      - name: postponement

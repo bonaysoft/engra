@@ -1,0 +1,12 @@
+name: 27AA
+children:
+  - name: search
+    children:
+      - name: searcher
+      - name: searching
+        children:
+          - name: searchingly
+      - name: searchable
+  - name: research
+    children:
+      - name: researcher

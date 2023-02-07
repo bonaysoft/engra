@@ -1,0 +1,22 @@
+name: 6C
+children:
+  - name: view
+    children:
+      - name: viewer
+      - name: viewing
+      - name: viewable
+      - name: viewpoint
+      - name: worldview
+      - name: overview
+      - name: preview
+      - name: rearview
+      - name: purview
+  - name: interview
+    children:
+      - name: interviewer
+      - name: interviewee
+  - name: review
+    children:
+      - name: reviewer
+      - name: reviewing
+      - name: reviewable

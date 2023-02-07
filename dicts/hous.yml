@@ -1,0 +1,10 @@
+name: 47A
+children:
+  - name: house
+    children:
+      - name: houseful
+      - name: housing
+      - name: household
+        children:
+          - name: householder
+      - name: warehouse

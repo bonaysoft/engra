@@ -1,0 +1,10 @@
+name: A6A
+children:
+  - name: board
+    children:
+      - name: boarder
+      - name: boarding
+      - name: boarded
+      - name: aboard
+      - name: inboard
+      - name: outboard

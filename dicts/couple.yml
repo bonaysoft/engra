@@ -1,0 +1,13 @@
+name: 41CA
+children:
+  - name: couple
+    children:
+      - name: coupler
+      - name: coupled
+      - name: couplet
+      - name: decouple
+        children:
+          - name: decoupling
+      - name: uncouple
+        children:
+          - name: uncoupled

@@ -1,0 +1,6 @@
+name: 65EA
+children:
+  - name: thousand
+    children:
+      - name: thousandth
+      - name: thousandfold

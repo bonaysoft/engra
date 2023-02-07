@@ -1,0 +1,16 @@
+name: 6FG
+children:
+  - name: waste
+    children:
+      - name: waster
+      - name: wasting
+      - name: wasted
+      - name: wastage
+      - name: wasteful
+        children:
+          - name: wastefully
+          - name: wastefulness
+      - name: wastewater
+      - name: wasteland
+      - name: wastepaper
+      - name: wastebasket

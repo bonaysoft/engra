@@ -1,0 +1,11 @@
+name: 252B
+children:
+  - name: carcinogen
+    children:
+      - name: carcinogenic
+        children:
+          - name: carcinogenicity
+      - name: carcinogenesis
+      - name: anticarcinogen
+        children:
+          - name: anticarcinogenic

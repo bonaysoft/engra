@@ -1,0 +1,8 @@
+name: 402A
+children:
+  - name: inoculate
+    children:
+      - name: inoculated
+      - name: inoculation
+      - name: inoculum
+      - name: inoculant

@@ -1,0 +1,7 @@
+name: 512A
+children:
+  - name: endorse
+    children:
+      - name: endorser
+      - name: endorsed
+      - name: endorsement

@@ -1,0 +1,36 @@
+name: AEA
+children:
+  - name: medium
+    children:
+      - name: media
+        children:
+          - name: multimedia
+          - name: hypermedia
+  - name: medial
+    children:
+      - name: medially
+  - name: mediate
+    children:
+      - name: mediator
+      - name: mediating
+      - name: mediated
+        children:
+          - name: unmediated
+      - name: mediation
+        children:
+          - name: mediational
+  - name: intermediate
+    children:
+      - name: intermediation
+      - name: intermediary
+  - name: immediate
+    children:
+      - name: immediately
+      - name: immediacy
+  - name: medieval
+    children:
+      - name: medievalist
+      - name: medievalism
+  - name: mediocre
+    children:
+      - name: mediocrity

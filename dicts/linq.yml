@@ -1,0 +1,9 @@
+name: 1EDC
+children:
+  - name: delinquent
+    children:
+      - name: delinquency
+  - name: relinquish
+    children:
+      - name: relinquishing
+      - name: relinquishment

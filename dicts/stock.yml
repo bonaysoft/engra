@@ -1,0 +1,14 @@
+name: 2ECA
+children:
+  - name: stock
+    children:
+      - name: restock
+        children:
+          - name: restocking
+      - name: overstock
+        children:
+          - name: overstocked
+      - name: stockpile
+        children:
+          - name: stockpiling
+          - name: stockpiled

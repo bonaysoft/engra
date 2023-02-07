@@ -1,0 +1,27 @@
+name: 1EB
+children:
+  - name: discrete
+    children:
+      - name: discretely
+      - name: discretion
+        children:
+          - name: discretionary
+          - name: indiscretion
+            children:
+              - name: nondiscretionary
+  - name: secret
+    children:
+      - name: secretly
+      - name: secrecy
+      - name: secretion
+      - name: secrete
+      - name: secretory
+      - name: secretive
+        children:
+          - name: secretively
+          - name: secretiveness
+  - name: secretary
+    children:
+      - name: secretarial
+      - name: secretariat
+      - name: undersecretary

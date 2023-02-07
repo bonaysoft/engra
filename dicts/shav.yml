@@ -1,0 +1,13 @@
+name: 36EA
+children:
+  - name: shave
+    children:
+      - name: shaver
+      - name: shaving
+      - name: shaved
+        children:
+          - name: unshaved
+      - name: shaven
+        children:
+          - name: unshaven
+      - name: aftershave

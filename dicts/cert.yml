@@ -1,0 +1,32 @@
+name: 199A
+children:
+  - name: certain
+    children:
+      - name: certainly
+      - name: certainty
+      - name: uncertain
+        children:
+          - name: uncertainly
+          - name: uncertainty
+  - name: ascertain
+    children:
+      - name: ascertainable
+      - name: ascertainment
+  - name: certify
+    children:
+      - name: certifier
+      - name: certifying
+      - name: certified
+        children:
+          - name: uncertified
+      - name: certifiable
+        children:
+          - name: certifiably
+      - name: certificate
+        children:
+          - name: certificated
+          - name: certification
+      - name: decertify
+        children:
+          - name: decertification
+      - name: recertification

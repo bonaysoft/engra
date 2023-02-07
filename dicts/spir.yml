@@ -1,0 +1,54 @@
+name: 76A
+children:
+  - name: spirit
+    children:
+      - name: spiritless
+      - name: spirited
+        children:
+          - name: spiritedly
+          - name: spiritedness
+  - name: spiritual
+    children:
+      - name: spiritually
+      - name: spirituality
+      - name: spiritualist
+      - name: spiritualism
+  - name: inspire
+    children:
+      - name: inspirer
+      - name: inspiring
+        children:
+          - name: uninspiring
+      - name: inspired
+        children:
+          - name: uninspired
+      - name: inspiratory
+      - name: inspiration
+        children:
+          - name: inspirational
+  - name: expire
+    children:
+      - name: expiring
+      - name: expired
+        children:
+          - name: unexpired
+      - name: expiration
+  - name: aspire
+    children:
+      - name: aspirant
+      - name: aspiring
+      - name: aspirate
+        children:
+          - name: aspirated
+          - name: aspiration
+            children:
+              - name: aspirational
+  - name: conspire
+    children:
+      - name: conspiracy
+      - name: conspirator
+        children:
+          - name: conspiratorial
+  - name: transpire
+    children:
+      - name: transpiration

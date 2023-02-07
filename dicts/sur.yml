@@ -1,0 +1,36 @@
+name: 109A
+children:
+  - name: sure
+    children:
+      - name: surely
+      - name: sureness
+      - name: surety
+      - name: unsure
+  - name: insure
+    children:
+      - name: insurer
+      - name: insurant
+      - name: insurance
+      - name: insurable
+        children:
+          - name: uninsurable
+      - name: insured
+        children:
+          - name: uninsured
+      - name: reinsure
+        children:
+          - name: reinsurance
+  - name: ensure
+  - name: assure
+    children:
+      - name: assured
+        children:
+          - name: assuredly
+      - name: assurance
+      - name: reassure
+        children:
+          - name: reassuring
+            children:
+              - name: reassuringly
+          - name: reassured
+          - name: reassurance

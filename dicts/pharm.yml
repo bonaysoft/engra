@@ -1,0 +1,19 @@
+name: 3A6A
+children:
+  - name: pharmacy
+    children:
+      - name: pharmacist
+      - name: pharmacology
+        children:
+          - name: pharmacologic
+            children:
+              - name: pharmacological
+          - name: pharmacologist
+      - name: pharmaceutic
+        children:
+          - name: pharmaceutical
+      - name: pharmaceutics
+      - name: pharmaceutist
+      - name: pharmacotherapy
+      - name: pharmacokinetic
+      - name: pharmacokinetics

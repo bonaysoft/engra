@@ -1,0 +1,7 @@
+name: 1G
+children:
+  - name: destine
+    children:
+      - name: destiny
+      - name: destined
+      - name: destination

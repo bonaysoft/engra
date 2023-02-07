@@ -1,0 +1,94 @@
+name: 3C
+children:
+  - name: college
+    children:
+      - name: collegial
+      - name: collegian
+      - name: collegium
+      - name: collegiate
+        children:
+          - name: intercollegiate
+  - name: elegant
+    children:
+      - name: elegantly
+      - name: elegance
+      - name: inelegant
+        children:
+          - name: inelegantly
+          - name: inelegance
+  - name: delegate
+    children:
+      - name: delegator
+      - name: delegation
+      - name: delegitimation
+  - name: relegate
+    children:
+      - name: relegation
+  - name: legion
+    children:
+      - name: legionary
+      - name: legionnaire
+  - name: legend
+    children:
+      - name: legendary
+        children:
+          - name: legendarily
+      - name: legendry
+  - name: allege
+    children:
+      - name: alleged
+        children:
+          - name: allegedly
+      - name: allegation
+      - name: allegiance
+  - name: allegory
+    children:
+      - name: allegorist
+      - name: allegoric
+        children:
+          - name: allegorical
+            children:
+              - name: allegorically
+      - name: allegorize
+        children:
+          - name: allegorization
+  - name: legal
+    children:
+      - name: legally
+      - name: legality
+      - name: legalist
+        children:
+          - name: legalistic
+      - name: legalism
+      - name: legalese
+      - name: legalize
+        children:
+          - name: legalization
+      - name: illegal
+        children:
+          - name: illegally
+          - name: illegality
+          - name: illegalize
+          - name: illegalization
+      - name: paralegal
+      - name: extralegal
+      - name: medicolegal
+  - name: legislate
+    children:
+      - name: legislator
+      - name: legislature
+      - name: legislative
+      - name: legislation
+  - name: legitimate
+    children:
+      - name: legitimately
+      - name: legitimation
+      - name: legitimacy
+        children:
+          - name: illegitimacy
+      - name: legitimize
+        children:
+          - name: legitimization
+      - name: illegitimate
+        children:
+          - name: illegitimately

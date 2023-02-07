@@ -1,0 +1,13 @@
+name: 6FA
+children:
+  - name: vacate
+    children:
+      - name: vacation
+        children:
+          - name: vacationer
+          - name: vacationist
+          - name: vac
+  - name: vacant
+    children:
+      - name: vacantly
+      - name: vacancy

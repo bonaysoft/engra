@@ -1,0 +1,37 @@
+name: 1CD
+children:
+  - name: sue
+  - name: ensue
+    children:
+      - name: ensuing
+  - name: pursue
+    children:
+      - name: pursuer
+      - name: pursuing
+      - name: pursued
+      - name: pursuit
+      - name: pursuance
+      - name: pursuant
+  - name: suit
+    children:
+      - name: suitor
+      - name: suiter
+      - name: suited
+        children:
+          - name: unsuited
+      - name: suitable
+        children:
+          - name: suitably
+          - name: suitability
+          - name: unsuitable
+            children:
+              - name: unsuitability
+      - name: suitcase
+      - name: snowsuit
+      - name: swimsuit
+      - name: wetsuit
+      - name: sweatsuit
+      - name: jumpsuit
+      - name: spacesuit
+      - name: lawsuit
+  - name: suite

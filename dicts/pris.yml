@@ -1,0 +1,27 @@
+name: 88F
+children:
+  - name: prison
+    children:
+      - name: prisoner
+      - name: imprison
+        children:
+          - name: imprisoned
+          - name: imprisonment
+  - name: surprise
+    children:
+      - name: surprised
+        children:
+          - name: unsurprised
+      - name: surprising
+        children:
+          - name: surprisingly
+          - name: unsurprising
+            children:
+              - name: unsurprisingly
+  - name: comprise
+    children:
+      - name: comprisal
+      - name: comprisable
+  - name: enterprise
+    children:
+      - name: enterprising

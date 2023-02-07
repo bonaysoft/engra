@@ -1,0 +1,15 @@
+name: 14CB
+children:
+  - name: frigid
+    children:
+      - name: frigidity
+      - name: frigidarium
+  - name: refrigerate
+    children:
+      - name: refrigerator
+      - name: refrigerant
+      - name: refrigerating
+      - name: refrigerated
+      - name: refrigeration
+      - name: refrigerative
+      - name: refrigeratory

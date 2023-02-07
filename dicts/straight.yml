@@ -1,0 +1,12 @@
+name: 3C5A
+children:
+  - name: straight
+    children:
+      - name: straightness
+      - name: straighten
+        children:
+          - name: straightening
+          - name: straightforward
+            children:
+              - name: straightforwardly
+          - name: straightforwardness

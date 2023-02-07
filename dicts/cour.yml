@@ -1,0 +1,21 @@
+name: 1BB
+children:
+  - name: courage
+    children:
+      - name: courageous
+        children:
+          - name: courageously
+      - name: encourage
+        children:
+          - name: encourager
+          - name: encouraging
+            children:
+              - name: encouragingly
+          - name: encouragement
+      - name: discourage
+        children:
+          - name: discouraging
+            children:
+              - name: discouragingly
+          - name: discouraged
+          - name: discouragement

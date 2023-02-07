@@ -1,0 +1,11 @@
+name: 106D
+children:
+  - name: murder
+    children:
+      - name: murderer
+      - name: murderess
+      - name: murdering
+      - name: murdered
+      - name: murderous
+        children:
+          - name: murderously

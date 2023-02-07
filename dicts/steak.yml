@@ -1,0 +1,6 @@
+name: 4EG
+children:
+  - name: steak
+    children:
+      - name: steakhouse
+      - name: beefsteak

@@ -1,0 +1,8 @@
+name: 6B0A
+children:
+  - name: Latin
+    children:
+      - name: Latinate
+      - name: Latinize
+        children:
+          - name: Latinization

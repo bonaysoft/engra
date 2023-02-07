@@ -1,0 +1,32 @@
+name: 13FA
+children:
+  - name: connect
+    children:
+      - name: connector
+      - name: connecting
+      - name: connected
+        children:
+          - name: connectedness
+          - name: unconnected
+      - name: connection
+      - name: connective
+        children:
+          - name: connectivity
+      - name: disconnect
+        children:
+          - name: disconnected
+            children:
+              - name: disconnectedness
+          - name: disconnection
+      - name: reconnect
+        children:
+          - name: reconnection
+      - name: interconnect
+        children:
+          - name: interconnected
+            children:
+              - name: interconnectedness
+          - name: interconnection
+          - name: interconnective
+            children:
+              - name: interconnectivity

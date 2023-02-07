@@ -1,0 +1,12 @@
+name: 42CA
+children:
+  - name: spark
+    children:
+      - name: sparker
+      - name: sparky
+      - name: sparking
+  - name: sparkle
+    children:
+      - name: sparkler
+      - name: sparkly
+      - name: sparkling

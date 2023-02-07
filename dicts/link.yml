@@ -1,0 +1,13 @@
+name: 30CA
+children:
+  - name: link
+    children:
+      - name: linkage
+      - name: linking
+      - name: linked
+      - name: interlink
+        children:
+          - name: interlinked
+      - name: uplink
+      - name: hyperlink
+      - name: cufflink

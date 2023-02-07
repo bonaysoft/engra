@@ -1,0 +1,10 @@
+name: 11EA
+children:
+  - name: figure
+    children:
+      - name: figural
+      - name: figurable
+      - name: figurate
+        children:
+          - name: figuration
+          - name: figurative

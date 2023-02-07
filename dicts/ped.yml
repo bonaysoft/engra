@@ -1,0 +1,49 @@
+name: 4BB
+children:
+  - name: pedal
+    children:
+      - name: pedaling
+      - name: uniped
+      - name: soliped
+      - name: biped
+        children:
+          - name: bipedal
+          - name: bipedalism
+      - name: tripedal
+      - name: quadruped
+        children:
+          - name: quadrupedal
+      - name: multiped
+  - name: pedestrian
+    children:
+      - name: pedestrianize
+  - name: pedigree
+    children:
+      - name: pedigreed
+  - name: expedite
+    children:
+      - name: expediter
+      - name: expedited
+      - name: expedition
+        children:
+          - name: expeditionist
+          - name: expeditionary
+      - name: expeditious
+        children:
+          - name: expeditiously
+      - name: expedient
+        children:
+          - name: expediently
+      - name: expediency
+      - name: expedience
+  - name: impede
+    children:
+      - name: impediment
+        children:
+          - name: impedimental
+      - name: unimpeded
+      - name: impedance
+  - name: peddle
+    children:
+      - name: peddler
+      - name: peddling

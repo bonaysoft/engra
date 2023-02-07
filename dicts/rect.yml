@@ -1,0 +1,76 @@
+name: 17A
+children:
+  - name: direct
+    children:
+      - name: directly
+      - name: directness
+      - name: indirect
+        children:
+          - name: indirectly
+          - name: indirection
+      - name: directive
+      - name: directory
+        children:
+          - name: directorial
+      - name: director
+        children:
+          - name: directress
+          - name: directorship
+          - name: directorate
+      - name: directing
+      - name: directed
+        children:
+          - name: undirected
+      - name: direction
+        children:
+          - name: directional
+            children:
+              - name: directionality
+              - name: unidirectional
+              - name: bidirectional
+              - name: multidirectional
+              - name: omnidirectional
+          - name: directionless
+      - name: misdirect
+        children:
+          - name: misdirected
+          - name: misdirection
+      - name: redirect
+        children:
+          - name: redirection
+  - name: correct
+    children:
+      - name: correctly
+      - name: correctness
+      - name: incorrect
+        children:
+          - name: incorrectly
+          - name: incorrectness
+      - name: corrector
+      - name: correcting
+      - name: corrected
+        children:
+          - name: uncorrected
+      - name: correction
+        children:
+          - name: correctional
+      - name: corrective
+      - name: correctable
+      - name: correctitude
+  - name: rectify
+    children:
+      - name: rectifier
+      - name: rectification
+  - name: erect
+    children:
+      - name: erector
+      - name: erection
+      - name: erective
+      - name: erectile
+  - name: resurrect
+    children:
+      - name: resurrection
+  - name: insurrection
+    children:
+      - name: insurrectionary
+      - name: insurrectionist

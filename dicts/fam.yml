@@ -1,0 +1,22 @@
+name: 1FD
+children:
+  - name: fame
+    children:
+      - name: famous
+        children:
+          - name: famously
+      - name: famed
+        children:
+          - name: unfamed
+          - name: farfamed
+      - name: defame
+        children:
+          - name: defamatory
+          - name: defamation
+      - name: infamy
+        children:
+          - name: infamous
+            children:
+              - name: infamously
+          - name: infamatory
+          - name: infamize

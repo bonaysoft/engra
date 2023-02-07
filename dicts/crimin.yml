@@ -1,0 +1,15 @@
+name: 1ED
+children:
+  - name: discriminate
+    children:
+      - name: discriminator
+      - name: discriminant
+      - name: discriminating
+        children:
+          - name: undiscriminating
+      - name: discrimination
+      - name: discriminative
+      - name: discriminatory
+      - name: indiscriminate
+        children:
+          - name: indiscriminately

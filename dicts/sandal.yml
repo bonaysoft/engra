@@ -1,0 +1,6 @@
+name: 6B4A
+children:
+  - name: sandal
+    children:
+      - name: sandaled
+      - name: sandalwood

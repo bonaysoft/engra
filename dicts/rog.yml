@@ -1,0 +1,13 @@
+name: 241A
+children:
+  - name: rogue
+    children:
+      - name: roguish
+  - name: arrogance
+    children:
+      - name: arrogant
+        children:
+          - name: arrogantly
+  - name: surrogate
+    children:
+      - name: surrogacy

@@ -1,0 +1,13 @@
+name: 500A
+children:
+  - name: gorge
+    children:
+      - name: engorge
+        children:
+          - name: engorged
+          - name: engorgement
+      - name: disgorge
+  - name: gorgeous
+    children:
+      - name: gorgeously
+      - name: gorgeousness

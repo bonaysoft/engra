@@ -1,0 +1,7 @@
+name: FCD
+children:
+  - name: thrust
+    children:
+      - name: thruster
+      - name: thrusting
+      - name: upthrust

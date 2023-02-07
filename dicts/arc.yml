@@ -1,0 +1,7 @@
+name: 30FA
+children:
+  - name: arc
+    children:
+      - name: arcing
+      - name: arcsecond
+      - name: arcminute

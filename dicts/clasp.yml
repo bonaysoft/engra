@@ -1,0 +1,7 @@
+name: 3D6C
+children:
+  - name: clasp
+    children:
+      - name: clasper
+      - name: clasped
+      - name: unclasp

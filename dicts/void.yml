@@ -1,0 +1,22 @@
+name: 6FE
+children:
+  - name: void
+    children:
+      - name: voiding
+      - name: voided
+      - name: voidable
+      - name: voidance
+      - name: voidage
+      - name: devoid
+  - name: avoid
+    children:
+      - name: avoiding
+      - name: avoided
+      - name: avoidance
+      - name: avoidable
+        children:
+          - name: avoidably
+          - name: unavoidable
+            children:
+              - name: unavoidably
+              - name: unavoidability

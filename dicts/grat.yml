@@ -1,0 +1,24 @@
+name: 8AB
+children:
+  - name: grateful
+    children:
+      - name: gratefully
+      - name: gratefulness
+      - name: ungrateful
+      - name: gratify
+        children:
+          - name: gratifying
+            children:
+              - name: gratifyingly
+          - name: gratified
+          - name: gratification
+      - name: gratitude
+      - name: ingrate
+        children:
+          - name: ingratitude
+  - name: congratulate
+    children:
+      - name: congratulation
+        children:
+          - name: congratulations
+      - name: congratulatory

@@ -1,0 +1,16 @@
+name: 111B
+children:
+  - name: illusion
+    children:
+      - name: illusionary
+      - name: illusionism
+      - name: illusionist
+        children:
+          - name: illusionistic
+      - name: illusive
+      - name: illusory
+      - name: disillusion
+        children:
+          - name: disillusioned
+          - name: disillusionment
+          - name: disillusionary

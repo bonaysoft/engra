@@ -1,0 +1,16 @@
+name: 1F5A
+children:
+  - name: migrate
+    children:
+      - name: migrant
+      - name: migrating
+      - name: migration
+      - name: migratory
+  - name: immigrate
+    children:
+      - name: immigration
+      - name: immigrant
+  - name: emigrate
+    children:
+      - name: emigration
+      - name: emigrant

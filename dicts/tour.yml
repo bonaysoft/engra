@@ -1,0 +1,18 @@
+name: 8BA
+children:
+  - name: tour
+    children:
+      - name: touring
+      - name: tourism
+        children:
+          - name: ecotourism
+      - name: tourist
+        children:
+          - name: touristy
+          - name: touristic
+          - name: ecotourist
+      - name: tourer
+  - name: contour
+    children:
+      - name: contoured
+  - name: detour

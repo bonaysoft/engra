@@ -1,0 +1,28 @@
+name: 7FA
+children:
+  - name: orient
+    children:
+      - name: oriental
+        children:
+          - name: orientalist
+          - name: orientalism
+      - name: orienting
+      - name: oriented
+      - name: orienteer
+        children:
+          - name: orienteering
+      - name: orientate
+        children:
+          - name: orientation
+      - name: reorient
+        children:
+          - name: reorientate
+          - name: reorientation
+      - name: disorient
+        children:
+          - name: disoriented
+          - name: disorienting
+          - name: disorientate
+            children:
+              - name: disorientated
+              - name: disorientation

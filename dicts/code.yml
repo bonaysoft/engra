@@ -1,0 +1,22 @@
+name: 17FA
+children:
+  - name: code
+    children:
+      - name: coder
+      - name: codon
+      - name: coding
+      - name: coded
+  - name: encode
+    children:
+      - name: encoder
+      - name: encoding
+      - name: encoded
+  - name: decode
+    children:
+      - name: decoder
+      - name: decoding
+      - name: decoded
+  - name: codify
+    children:
+      - name: codified
+      - name: codification

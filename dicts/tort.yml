@@ -1,0 +1,33 @@
+name: 107A
+children:
+  - name: tort
+    children:
+      - name: tortious
+  - name: tortoise
+    children:
+      - name: tortoiseshell
+  - name: torture
+    children:
+      - name: torturer
+      - name: torturing
+      - name: tortured
+      - name: torturous
+  - name: distort
+    children:
+      - name: distorting
+      - name: distorted
+        children:
+          - name: undistorted
+      - name: distortive
+      - name: distortion
+        children:
+          - name: distortionist
+  - name: contort
+    children:
+      - name: contorted
+      - name: contortion
+        children:
+          - name: contortionist
+  - name: retort
+    children:
+      - name: retortion

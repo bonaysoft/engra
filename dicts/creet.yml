@@ -1,0 +1,8 @@
+name: 1EA
+children:
+  - name: discreet
+    children:
+      - name: discreetly
+      - name: indiscreet
+        children:
+          - name: indiscreetly

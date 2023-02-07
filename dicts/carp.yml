@@ -1,0 +1,10 @@
+name: 2A3A
+children:
+  - name: carpet
+    children:
+      - name: carpeting
+      - name: carpeted
+        children:
+          - name: uncarpeted
+      - name: carpetbag
+      - name: carpetbagger

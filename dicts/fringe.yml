@@ -1,0 +1,6 @@
+name: 62AA
+children:
+  - name: fringe
+    children:
+      - name: fringed
+      - name: fringy

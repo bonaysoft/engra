@@ -1,0 +1,8 @@
+name: 5DFA
+children:
+  - name: greed
+    children:
+      - name: greedy
+        children:
+          - name: greedily
+          - name: greediness

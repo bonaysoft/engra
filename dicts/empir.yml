@@ -1,0 +1,12 @@
+name: 215B
+children:
+  - name: empire
+    children:
+      - name: imperium
+      - name: imperial
+        children:
+          - name: imperially
+          - name: imperialism
+          - name: imperialist
+            children:
+              - name: imperialistic

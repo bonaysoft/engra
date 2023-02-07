@@ -1,0 +1,38 @@
+name: 1AA
+children:
+  - name: grade
+    children:
+      - name: grader
+      - name: grading
+      - name: graded
+        children:
+          - name: ungraded
+      - name: gradation
+      - name: gradient
+  - name: upgrade
+    children:
+      - name: upgraded
+      - name: upgrading
+  - name: degrade
+    children:
+      - name: degraded
+      - name: degrading
+      - name: degradative
+      - name: degradation
+      - name: degradable
+      - name: biodegrade
+        children:
+          - name: biodegradable
+  - name: gradual
+    children:
+      - name: gradually
+      - name: gradualism
+  - name: graduate
+    children:
+      - name: graduated
+      - name: graduation
+      - name: postgraduate
+      - name: undergraduate
+      - name: grad
+        children:
+          - name: undergrad

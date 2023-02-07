@@ -1,0 +1,11 @@
+name: 5ADA
+children:
+  - name: sore
+    children:
+      - name: sorely
+      - name: soreness
+  - name: sorrow
+    children:
+      - name: sorrowful
+        children:
+          - name: sorrowfully

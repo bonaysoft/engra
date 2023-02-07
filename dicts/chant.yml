@@ -1,0 +1,22 @@
+name: C9A
+children:
+  - name: chant
+    children:
+      - name: chanter
+      - name: chanting
+      - name: chanteuse
+      - name: plainchant
+  - name: enchant
+    children:
+      - name: enchanter
+      - name: enchantress
+      - name: enchanting
+        children:
+          - name: enchantingly
+      - name: enchanted
+      - name: enchantment
+      - name: disenchant
+        children:
+          - name: disenchanting
+          - name: disenchanted
+          - name: disenchantment

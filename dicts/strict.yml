@@ -1,0 +1,29 @@
+name: 3BE
+children:
+  - name: strict
+    children:
+      - name: strictly
+      - name: strictness
+      - name: stricture
+  - name: restrict
+    children:
+      - name: restriction
+      - name: restricted
+        children:
+          - name: unrestricted
+      - name: restrictive
+        children:
+          - name: restrictively
+  - name: district
+    children:
+      - name: redistrict
+        children:
+          - name: redistricting
+  - name: constrict
+    children:
+      - name: constricted
+      - name: constrictive
+      - name: constrictor
+      - name: constriction
+      - name: vasoconstriction
+      - name: vasoconstrictor

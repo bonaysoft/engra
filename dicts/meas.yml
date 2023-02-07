@@ -1,0 +1,31 @@
+name: 44A
+children:
+  - name: measure
+    children:
+      - name: measuring
+      - name: measured
+        children:
+          - name: unmeasured
+      - name: measurable
+        children:
+          - name: measurably
+          - name: mensurability
+          - name: immeasurable
+            children:
+              - name: immeasurably
+          - name: unmeasurable
+      - name: measureless
+      - name: measurement
+      - name: mensurate
+        children:
+          - name: mensuration
+      - name: commensurate
+        children:
+          - name: commensuration
+          - name: incommensurate
+      - name: commensurable
+        children:
+          - name: commensurability
+          - name: incommensurable
+            children:
+              - name: incommensurability

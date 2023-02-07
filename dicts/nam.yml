@@ -1,0 +1,19 @@
+name: 77A
+children:
+  - name: name
+    children:
+      - name: namely
+      - name: named
+        children:
+          - name: unnamed
+      - name: nameless
+      - name: rename
+        children:
+          - name: renamed
+      - name: misname
+        children:
+          - name: misnamed
+      - name: nickname
+        children:
+          - name: nicknamed
+      - name: surname

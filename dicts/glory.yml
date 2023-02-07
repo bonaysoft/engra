@@ -1,0 +1,14 @@
+name: 32EA
+children:
+  - name: glory
+    children:
+      - name: glorious
+        children:
+          - name: gloriously
+          - name: inglorious
+            children:
+              - name: ingloriously
+      - name: glorify
+        children:
+          - name: glorified
+          - name: glorification

@@ -1,0 +1,11 @@
+name: 6BA
+children:
+  - name: crucial
+    children:
+      - name: crucially
+  - name: crucify
+    children:
+      - name: crucified
+  - name: crucifix
+    children:
+      - name: crucifixion

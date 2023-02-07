@@ -1,0 +1,46 @@
+name: 4I
+children:
+  - name: session
+    children:
+      - name: sessional
+      - name: intersession
+  - name: possess
+    children:
+      - name: possessor
+      - name: possessed
+      - name: possessory
+      - name: possession
+      - name: possessive
+        children:
+          - name: possessively
+          - name: possessiveness
+      - name: repossess
+        children:
+          - name: repossession
+      - name: dispossess
+        children:
+          - name: dispossessed
+          - name: dispossession
+      - name: prepossess
+        children:
+          - name: prepossessing
+            children:
+              - name: unprepossessing
+  - name: assess
+    children:
+      - name: assessor
+      - name: assessable
+      - name: assessment
+      - name: reassess
+        children:
+          - name: reassessment
+  - name: obsess
+    children:
+      - name: obsessed
+      - name: obsession
+        children:
+          - name: obsessional
+      - name: obsessive
+        children:
+          - name: obsessively
+          - name: obsessiveness

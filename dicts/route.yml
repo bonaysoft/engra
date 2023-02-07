@@ -1,0 +1,17 @@
+name: 3D7A
+children:
+  - name: route
+    children:
+      - name: router
+      - name: routing
+      - name: routed
+      - name: reroute
+        children:
+          - name: rerouting
+  - name: routine
+    children:
+      - name: routinely
+      - name: routinize
+        children:
+          - name: routinized
+          - name: routinization

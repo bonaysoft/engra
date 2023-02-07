@@ -1,0 +1,25 @@
+name: AJ
+children:
+  - name: treat
+    children:
+      - name: treater
+      - name: treatment
+      - name: treated
+        children:
+          - name: untreated
+      - name: treatable
+        children:
+          - name: untreatable
+      - name: mistreat
+        children:
+          - name: mistreated
+          - name: mistreatment
+      - name: maltreat
+        children:
+          - name: maltreatment
+      - name: retreat
+        children:
+          - name: retreating
+  - name: retreat
+    children:
+      - name: retreating

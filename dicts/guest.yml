@@ -1,0 +1,6 @@
+name: 154C
+children:
+  - name: guest
+    children:
+      - name: guesthouse
+      - name: guestroom

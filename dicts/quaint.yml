@@ -1,0 +1,15 @@
+name: 15I
+children:
+  - name: quaint
+    children:
+      - name: quaintly
+      - name: quaintness
+  - name: acquaint
+    children:
+      - name: acquainted
+        children:
+          - name: unacquainted
+      - name: acquaintance
+        children:
+          - name: acquaintanceship
+      - name: reacquaint

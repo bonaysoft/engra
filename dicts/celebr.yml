@@ -1,0 +1,12 @@
+name: 3CAA
+children:
+  - name: celebrate
+    children:
+      - name: celebrating
+      - name: celebrated
+        children:
+          - name: uncelebrated
+      - name: celebration
+      - name: celebratory
+      - name: celebrity
+      - name: celebrant

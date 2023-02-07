@@ -1,0 +1,12 @@
+name: 25FA
+children:
+  - name: pick
+    children:
+      - name: picky
+      - name: picker
+      - name: picking
+      - name: picked
+      - name: pickup
+      - name: pickpocket
+      - name: toothpick
+      - name: nitpick

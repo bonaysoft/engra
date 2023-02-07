@@ -1,0 +1,12 @@
+name: 1F0A
+children:
+  - name: start
+    children:
+      - name: starter
+      - name: starting
+      - name: restart
+      - name: upstart
+  - name: startle
+    children:
+      - name: startling
+      - name: startled

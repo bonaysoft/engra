@@ -1,0 +1,21 @@
+name: 2A0A
+children:
+  - name: vestige
+    children:
+      - name: vestigial
+  - name: investigate
+    children:
+      - name: investigator
+      - name: investigating
+      - name: investigated
+        children:
+          - name: uninvestigated
+      - name: investigation
+        children:
+          - name: investigational
+      - name: investigative
+      - name: investigatory
+      - name: investigable
+      - name: reinvestigate
+        children:
+          - name: reinvestigation

@@ -1,0 +1,12 @@
+name: 70C
+children:
+  - name: praise
+    children:
+      - name: praiseworthy
+  - name: appraise
+    children:
+      - name: appraiser
+      - name: appraisal
+      - name: reappraise
+        children:
+          - name: reappraisal

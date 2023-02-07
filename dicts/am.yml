@@ -1,0 +1,12 @@
+name: 265A
+children:
+  - name: amateur
+    children:
+      - name: amateurish
+      - name: amateurism
+  - name: amorous
+    children:
+      - name: amorist
+  - name: enamor
+    children:
+      - name: enamored

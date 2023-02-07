@@ -1,0 +1,8 @@
+name: 690A
+children:
+  - name: arithmetic
+    children:
+      - name: arithmetical
+        children:
+          - name: arithmetically
+      - name: nonarithmetic

@@ -1,0 +1,19 @@
+name: 5BB
+children:
+  - name: repeat
+    children:
+      - name: repeater
+      - name: repeating
+      - name: repeated
+        children:
+          - name: repeatedly
+      - name: repetition
+      - name: repeatable
+        children:
+          - name: repeatability
+          - name: unrepeatable
+      - name: repetitious
+      - name: repetitive
+        children:
+          - name: repetitively
+          - name: repetitiveness

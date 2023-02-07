@@ -1,0 +1,23 @@
+name: 74A
+children:
+  - name: hand
+    children:
+      - name: handful
+      - name: handy
+        children:
+          - name: handily
+  - name: handsome
+    children:
+      - name: handsomely
+      - name: handsomeness
+  - name: handcuff
+    children:
+      - name: handcuffed
+  - name: handle
+    children:
+      - name: handler
+      - name: handling
+      - name: mishandle
+        children:
+          - name: mishandling
+          - name: mishandled

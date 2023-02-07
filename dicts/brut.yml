@@ -1,0 +1,16 @@
+name: 3D4A
+children:
+  - name: brute
+    children:
+      - name: brutal
+        children:
+          - name: brutally
+          - name: brutality
+          - name: brutalism
+          - name: brutalize
+            children:
+              - name: brutalized
+              - name: brutalization
+      - name: brutish
+      - name: brutehood
+      - name: brutify

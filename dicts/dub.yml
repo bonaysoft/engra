@@ -1,0 +1,18 @@
+name: 3FE
+children:
+  - name: dubious
+    children:
+      - name: dubiously
+      - name: dubitable
+        children:
+          - name: indubitable
+            children:
+              - name: indubitably
+              - name: indubitability
+      - name: dubitant
+      - name: dubitate
+        children:
+          - name: dubitation
+          - name: dubitative
+            children:
+              - name: dubitatively

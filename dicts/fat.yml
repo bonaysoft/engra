@@ -1,0 +1,16 @@
+name: 1FE
+children:
+  - name: fate
+    children:
+      - name: fated
+      - name: fateful
+        children:
+          - name: fatefully
+      - name: fatal
+        children:
+          - name: fatally
+          - name: fatality
+          - name: fatalism
+          - name: fatalist
+            children:
+              - name: fatalistic

@@ -1,0 +1,5 @@
+name: 23CD
+children:
+  - name: chess
+    children:
+      - name: chessboard

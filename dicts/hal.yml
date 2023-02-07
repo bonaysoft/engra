@@ -1,0 +1,12 @@
+name: 3C2A
+children:
+  - name: inhale
+    children:
+      - name: inhaler
+      - name: inhalant
+      - name: inhalation
+  - name: exhale
+    children:
+      - name: exhaled
+      - name: exhalent
+      - name: exhalation

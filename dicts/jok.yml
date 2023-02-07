@@ -1,0 +1,10 @@
+name: 22CC
+children:
+  - name: joke
+    children:
+      - name: joker
+      - name: jokester
+      - name: jokey
+      - name: joking
+        children:
+          - name: jokingly

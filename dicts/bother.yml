@@ -1,0 +1,8 @@
+name: 560A
+children:
+  - name: bother
+    children:
+      - name: bothersome
+      - name: bothered
+        children:
+          - name: unbothered

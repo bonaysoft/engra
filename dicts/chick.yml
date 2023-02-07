@@ -1,0 +1,6 @@
+name: 1F6B
+children:
+  - name: chicken
+    children:
+      - name: chickenpox
+      - name: chickenshit

@@ -1,0 +1,6 @@
+name: 3EAA
+children:
+  - name: stamp
+    children:
+      - name: stamped
+      - name: stamping

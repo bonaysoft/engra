@@ -1,0 +1,16 @@
+name: DBA
+children:
+  - name: sacred
+    children:
+      - name: sacredness
+  - name: sacrament
+    children:
+      - name: sacramental
+        children:
+          - name: sacramentalism
+          - name: sacramentalist
+  - name: sacrifice
+    children:
+      - name: sacrificing
+      - name: sacrificed
+      - name: sacrificial

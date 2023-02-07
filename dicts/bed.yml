@@ -1,0 +1,12 @@
+name: 1D4A
+children:
+  - name: bed
+    children:
+      - name: abed
+      - name: bedding
+      - name: bedded
+      - name: embed
+        children:
+          - name: embedding
+          - name: embedded
+          - name: embeddedness

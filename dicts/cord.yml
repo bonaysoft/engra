@@ -1,0 +1,30 @@
+name: 1BC
+children:
+  - name: cordial
+    children:
+      - name: cordially
+      - name: cordiality
+  - name: record
+    children:
+      - name: recorder
+      - name: recording
+      - name: recorded
+        children:
+          - name: unrecorded
+      - name: recordable
+      - name: recordation
+      - name: prerecord
+  - name: accord
+    children:
+      - name: according
+        children:
+          - name: accordingly
+      - name: accordant
+      - name: accordance
+  - name: discord
+    children:
+      - name: discordant
+      - name: discordance
+  - name: accordion
+    children:
+      - name: accordionist

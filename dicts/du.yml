@@ -1,0 +1,31 @@
+name: 3FB
+children:
+  - name: dual
+    children:
+      - name: duality
+      - name: dualism
+      - name: dualist
+        children:
+          - name: dualistic
+      - name: dualize
+  - name: duplicate
+    children:
+      - name: duplicator
+      - name: duplicated
+        children:
+          - name: unduplicated
+      - name: duplication
+  - name: duel
+    children:
+      - name: dueling
+      - name: duelist
+  - name: duet
+    children:
+      - name: duettist
+  - name: dusk
+    children:
+      - name: dusky
+        children:
+          - name: duskiness
+          - name: duskily
+      - name: adusk

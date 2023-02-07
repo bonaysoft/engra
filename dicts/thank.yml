@@ -1,0 +1,12 @@
+name: 348A
+children:
+  - name: thank
+    children:
+      - name: thankful
+        children:
+          - name: thankfully
+          - name: thankfulness
+      - name: thanks
+        children:
+          - name: thanksgiving
+      - name: thankless

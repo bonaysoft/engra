@@ -1,0 +1,10 @@
+name: 334A
+children:
+  - name: stair
+    children:
+      - name: staircase
+      - name: stairway
+      - name: stairwell
+      - name: upstairs
+      - name: downstairs
+      - name: backstairs

@@ -1,0 +1,6 @@
+name: 7B
+children:
+  - name: compound
+    children:
+      - name: compounding
+      - name: compounded

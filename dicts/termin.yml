@@ -1,0 +1,46 @@
+name: 67B
+children:
+  - name: terminal
+    children:
+      - name: terminally
+  - name: terminate
+    children:
+      - name: terminator
+      - name: terminating
+      - name: terminated
+      - name: terminative
+      - name: termination
+  - name: exterminate
+    children:
+      - name: exterminator
+      - name: exterminating
+      - name: exterminated
+      - name: extermination
+  - name: determine
+    children:
+      - name: determiner
+      - name: determining
+      - name: determined
+        children:
+          - name: determinedly
+          - name: undetermined
+      - name: determinate
+        children:
+          - name: determination
+          - name: determinative
+          - name: indeterminate
+      - name: determinable
+        children:
+          - name: indeterminable
+      - name: determinacy
+        children:
+          - name: determinant
+          - name: indeterminacy
+      - name: determinism
+      - name: determinist
+        children:
+          - name: deterministic
+      - name: predetermine
+        children:
+          - name: predetermined
+          - name: predeterminate

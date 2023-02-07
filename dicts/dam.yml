@@ -1,0 +1,10 @@
+name: 1A5A
+children:
+  - name: damage
+    children:
+      - name: damaging
+      - name: damaged
+        children:
+          - name: undamaged
+      - name: damageable
+      - name: endamage

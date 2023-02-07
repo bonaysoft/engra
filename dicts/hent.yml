@@ -1,0 +1,13 @@
+name: 3D0A
+children:
+  - name: authentic
+    children:
+      - name: authentically
+      - name: authenticity
+      - name: authenticate
+        children:
+          - name: authenticated
+          - name: authentication
+      - name: inauthentic
+        children:
+          - name: inauthenticity

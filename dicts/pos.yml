@@ -1,0 +1,246 @@
+name: 7C
+children:
+  - name: pose
+    children:
+      - name: poser
+      - name: poseur
+      - name: posing
+      - name: posed
+  - name: propose
+    children:
+      - name: proposer
+      - name: proposed
+      - name: proposal
+      - name: proposition
+        children:
+          - name: propositional
+  - name: oppose
+    children:
+      - name: opposing
+      - name: opposed
+        children:
+          - name: unopposed
+      - name: opposable
+      - name: opposite
+        children:
+          - name: oppositely
+      - name: opposition
+        children:
+          - name: oppositional
+          - name: oppositionist
+  - name: expose
+    children:
+      - name: exposed
+        children:
+          - name: unexposed
+      - name: exposure
+      - name: overexpose
+        children:
+          - name: overexposed
+          - name: overexposure
+      - name: underexpose
+        children:
+          - name: underexposed
+          - name: underexposure
+  - name: compose
+    children:
+      - name: composer
+      - name: composing
+      - name: composed
+      - name: composure
+      - name: composite
+        children:
+          - name: composition
+            children:
+              - name: compositional
+      - name: recompose
+        children:
+          - name: recomposition
+      - name: decompose
+        children:
+          - name: decomposer
+          - name: decomposing
+          - name: decomposed
+          - name: decomposable
+            children:
+              - name: indecomposable
+              - name: undecomposable
+              - name: decomposability
+          - name: decomposition
+            children:
+              - name: photodecomposition
+  - name: dispose
+    children:
+      - name: disposer
+      - name: disposed
+        children:
+          - name: indisposed
+      - name: disposition
+        children:
+          - name: dispositional
+      - name: disposal
+      - name: disposable
+      - name: dispositive
+      - name: predispose
+        children:
+          - name: predisposing
+          - name: predisposed
+          - name: predisposition
+  - name: suppose
+    children:
+      - name: supposing
+      - name: supposed
+        children:
+          - name: supposedly
+      - name: supposition
+      - name: presuppose
+        children:
+          - name: presupposed
+          - name: presupposition
+  - name: impose
+    children:
+      - name: imposed
+      - name: imposing
+        children:
+          - name: unimposing
+      - name: imposition
+      - name: reimpose
+        children:
+          - name: reimposition
+      - name: superimpose
+        children:
+          - name: superimposed
+          - name: superimposition
+  - name: purpose
+    children:
+      - name: purposely
+      - name: purposeful
+        children:
+          - name: purposefully
+          - name: purposefulness
+      - name: purposeless
+        children:
+          - name: purposelessness
+      - name: purposive
+        children:
+          - name: purposiveness
+      - name: multipurpose
+  - name: juxtapose
+    children:
+      - name: juxtaposed
+      - name: juxtaposition
+  - name: oppose
+    children:
+      - name: opposing
+      - name: opposed
+        children:
+          - name: unopposed
+      - name: opposable
+      - name: opposite
+        children:
+          - name: oppositely
+      - name: opposition
+        children:
+          - name: oppositional
+          - name: oppositionist
+  - name: expose
+    children:
+      - name: exposed
+        children:
+          - name: unexposed
+      - name: exposure
+      - name: overexpose
+        children:
+          - name: overexposed
+          - name: overexposure
+      - name: underexpose
+        children:
+          - name: underexposed
+          - name: underexposure
+  - name: compose
+    children:
+      - name: composer
+      - name: composing
+      - name: composed
+      - name: composure
+      - name: composite
+        children:
+          - name: composition
+            children:
+              - name: compositional
+      - name: recompose
+        children:
+          - name: recomposition
+      - name: decompose
+        children:
+          - name: decomposer
+          - name: decomposing
+          - name: decomposed
+          - name: decomposable
+            children:
+              - name: indecomposable
+              - name: undecomposable
+              - name: decomposability
+          - name: decomposition
+            children:
+              - name: photodecomposition
+  - name: dispose
+    children:
+      - name: disposer
+      - name: disposed
+        children:
+          - name: indisposed
+      - name: disposition
+        children:
+          - name: dispositional
+      - name: disposal
+      - name: disposable
+      - name: dispositive
+      - name: predispose
+        children:
+          - name: predisposing
+          - name: predisposed
+          - name: predisposition
+  - name: suppose
+    children:
+      - name: supposing
+      - name: supposed
+        children:
+          - name: supposedly
+      - name: supposition
+      - name: presuppose
+        children:
+          - name: presupposed
+          - name: presupposition
+  - name: impose
+    children:
+      - name: imposed
+      - name: imposing
+        children:
+          - name: unimposing
+      - name: imposition
+      - name: reimpose
+        children:
+          - name: reimposition
+      - name: superimpose
+        children:
+          - name: superimposed
+          - name: superimposition
+  - name: purpose
+    children:
+      - name: purposely
+      - name: purposeful
+        children:
+          - name: purposefully
+          - name: purposefulness
+      - name: purposeless
+        children:
+          - name: purposelessness
+      - name: purposive
+        children:
+          - name: purposiveness
+      - name: multipurpose
+  - name: juxtapose
+    children:
+      - name: juxtaposed
+      - name: juxtaposition

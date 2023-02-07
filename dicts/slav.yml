@@ -1,0 +1,15 @@
+name: 1C1A
+children:
+  - name: slave
+    children:
+      - name: slaver
+        children:
+          - name: slavery
+      - name: slavish
+        children:
+          - name: slavishly
+      - name: slaveholder
+      - name: enslave
+        children:
+          - name: enslaved
+          - name: enslavement

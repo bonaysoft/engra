@@ -1,0 +1,7 @@
+name: CCE
+children:
+  - name: rash
+    children:
+      - name: rasher
+      - name: rashly
+      - name: rashness

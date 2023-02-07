@@ -1,0 +1,9 @@
+name: 5E1A
+children:
+  - name: rocket
+    children:
+      - name: rocketeer
+      - name: rocketry
+      - name: skyrocket
+        children:
+          - name: skyrocketing

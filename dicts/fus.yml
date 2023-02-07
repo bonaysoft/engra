@@ -1,0 +1,38 @@
+name: 9DB
+children:
+  - name: fuse
+    children:
+      - name: fusing
+      - name: fused
+      - name: fusion
+      - name: defuse
+        children:
+          - name: defusion
+  - name: confuse
+    children:
+      - name: confusing
+        children:
+          - name: confusingly
+      - name: confused
+        children:
+          - name: confusedly
+      - name: confusion
+  - name: refuse
+    children:
+      - name: refused
+      - name: refusal
+      - name: refusenik
+  - name: infuse
+    children:
+      - name: infuser
+      - name: infusion
+  - name: suffuse
+    children:
+      - name: suffused
+  - name: diffuse
+    children:
+      - name: diffuser
+      - name: diffused
+      - name: diffusely
+      - name: diffusive
+      - name: diffusion

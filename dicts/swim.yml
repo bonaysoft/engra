@@ -1,0 +1,10 @@
+name: 39EA
+children:
+  - name: swim
+    children:
+      - name: swimmer
+      - name: swimming
+        children:
+          - name: swimmingly
+      - name: swimsuit
+      - name: swimwear

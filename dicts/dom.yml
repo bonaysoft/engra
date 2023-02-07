@@ -1,0 +1,37 @@
+name: 7BA
+children:
+  - name: dome
+    children:
+      - name: domed
+      - name: semidome
+  - name: domestic
+    children:
+      - name: domestically
+      - name: domesticity
+      - name: domesticable
+      - name: domesticate
+        children:
+          - name: domesticator
+          - name: domesticated
+            children:
+              - name: undomesticated
+          - name: domestication
+      - name: semidomestic
+        children:
+          - name: semidomesticated
+  - name: dominate
+    children:
+      - name: dominator
+      - name: domination
+      - name: dominating
+      - name: dominated
+      - name: dominance
+      - name: dominant
+        children:
+          - name: dominantly
+      - name: predominate
+        children:
+          - name: predominance
+          - name: predominant
+            children:
+              - name: predominantly

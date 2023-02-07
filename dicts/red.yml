@@ -1,0 +1,6 @@
+name: 5E2A
+children:
+  - name: red
+    children:
+      - name: reddish
+      - name: infrared

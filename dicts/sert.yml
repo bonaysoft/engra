@@ -1,0 +1,37 @@
+name: EBB
+children:
+  - name: assert
+    children:
+      - name: asserted
+      - name: assertion
+      - name: assertive
+        children:
+          - name: assertively
+          - name: assertiveness
+          - name: unassertive
+      - name: reassert
+        children:
+          - name: reassertion
+  - name: desert
+    children:
+      - name: deserter
+      - name: deserted
+      - name: desertion
+      - name: desertification
+      - name: semidesert
+  - name: insert
+    children:
+      - name: inserted
+      - name: insertion
+      - name: reinsert
+        children:
+          - name: reinsertion
+  - name: exert
+    children:
+      - name: exertive
+      - name: exertion
+        children:
+          - name: inexertion
+      - name: overexert
+        children:
+          - name: overexertion

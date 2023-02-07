@@ -1,0 +1,6 @@
+name: DAB
+children:
+  - name: pirate
+    children:
+      - name: piratical
+      - name: pirated

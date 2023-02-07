@@ -1,0 +1,6 @@
+name: 5ABA
+children:
+  - name: funeral
+    children:
+      - name: funereal
+      - name: funerary

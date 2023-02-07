@@ -1,0 +1,17 @@
+name: 1EEA
+children:
+  - name: err
+    children:
+      - name: error
+      - name: erring
+        children:
+          - name: unerring
+            children:
+              - name: unerringly
+      - name: errant
+      - name: errancy
+      - name: inerrable
+      - name: inerrancy
+  - name: erratic
+    children:
+      - name: erratically

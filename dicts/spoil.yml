@@ -1,0 +1,15 @@
+name: 353A
+children:
+  - name: spoil
+    children:
+      - name: spoils
+      - name: spoiler
+      - name: spoiling
+      - name: spoiled
+        children:
+          - name: unspoiled
+      - name: spoilage
+      - name: spoilsport
+      - name: despoil
+        children:
+          - name: despoiler

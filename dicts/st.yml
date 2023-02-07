@@ -1,0 +1,173 @@
+name: 1A
+children:
+  - name: stage
+    children:
+      - name: staging
+      - name: staged
+      - name: stagy
+      - name: stagey
+      - name: stagehand
+      - name: stagecraft
+      - name: restage
+      - name: onstage
+      - name: upstage
+      - name: offstage
+      - name: backstage
+      - name: downstage
+      - name: soundstage
+      - name: stagecoach
+      - name: multistage
+  - name: stable
+    children:
+      - name: stably
+        children:
+          - name: stability
+      - name: instable
+        children:
+          - name: instability
+      - name: unstable
+      - name: stabilize
+        children:
+          - name: stabilizer
+          - name: stabilizing
+          - name: stabilized
+          - name: stabilization
+          - name: destabilize
+            children:
+              - name: destabilizing
+              - name: destabilized
+              - name: destabilization
+      - name: stableboy
+      - name: stableman
+      - name: stablemate
+  - name: establish
+    children:
+      - name: established
+        children:
+          - name: establishment
+      - name: reestablish
+        children:
+          - name: reestablishment
+      - name: disestablish
+        children:
+          - name: disestablishment
+  - name: store
+    children:
+      - name: stored
+      - name: storage
+      - name: storable
+      - name: storeroom
+      - name: bookstore
+      - name: drugstore
+      - name: superstore
+  - name: restore
+    children:
+      - name: restorer
+      - name: restored
+      - name: restoring
+      - name: restorative
+      - name: restoration
+  - name: stale
+    children:
+      - name: staleness
+  - name: rest
+    children:
+      - name: resting
+      - name: rested
+      - name: restful
+      - name: restless
+        children:
+          - name: restlessly
+          - name: restlessness
+      - name: restive
+        children:
+          - name: restiveness
+      - name: unrest
+      - name: restroom
+  - name: arrest
+    children:
+      - name: arresting
+      - name: arrested
+  - name: restaurant
+    children:
+      - name: restaurateur
+  - name: stem
+    children:
+      - name: stemmed
+      - name: stemware
+  - name: system
+    children:
+      - name: systemic
+        children:
+          - name: systemically
+      - name: systematic
+        children:
+          - name: systematical
+            children:
+              - name: systematically
+          - name: systematics
+      - name: systematize
+        children:
+          - name: systematized
+          - name: systematization
+      - name: subsystem
+  - name: instant
+    children:
+      - name: instantly
+      - name: instancy
+      - name: instantaneous
+        children:
+          - name: instantaneously
+  - name: instance
+    children:
+      - name: instantiate
+        children:
+          - name: instantiation
+  - name: substance
+    children:
+      - name: substantive
+        children:
+          - name: substantively
+      - name: substantial
+        children:
+          - name: substantially
+          - name: substantiality
+          - name: substantialize
+          - name: substantialist
+          - name: substantialism
+          - name: insubstantial
+      - name: substantiate
+        children:
+          - name: substantiated
+          - name: substantiation
+  - name: constant
+    children:
+      - name: constantly
+      - name: constancy
+      - name: inconstant
+        children:
+          - name: inconstancy
+  - name: contrast
+    children:
+      - name: contrasty
+      - name: contrasting
+      - name: contrasted
+      - name: contrastive
+  - name: distance
+    children:
+      - name: distancing
+      - name: distant
+        children:
+          - name: distantly
+  - name: distal
+    children:
+      - name: distally
+  - name: ecstasy
+    children:
+      - name: ecstatic
+        children:
+          - name: ecstatically
+      - name: ecstasize
+  - name: oust
+    children:
+      - name: ousting

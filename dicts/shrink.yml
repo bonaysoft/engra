@@ -1,0 +1,12 @@
+name: 4DFA
+children:
+  - name: shrink
+    children:
+      - name: shrinking
+        children:
+          - name: shrinkingly
+          - name: unshrinking
+      - name: shrinkage
+      - name: shrinkable
+      - name: shrinkproof
+      - name: headshrinker

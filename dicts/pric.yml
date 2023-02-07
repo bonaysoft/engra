@@ -1,0 +1,15 @@
+name: 70A
+children:
+  - name: price
+    children:
+      - name: pricy
+      - name: pricey
+      - name: pricing
+      - name: priced
+      - name: priceless
+      - name: overprice
+        children:
+          - name: overpriced
+      - name: underprice
+        children:
+          - name: underpriced

@@ -1,0 +1,10 @@
+name: 445A
+children:
+  - name: hate
+    children:
+      - name: hater
+      - name: hatred
+      - name: hated
+      - name: hateful
+        children:
+          - name: hatefully

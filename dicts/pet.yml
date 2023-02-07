@@ -1,0 +1,49 @@
+name: 5BA
+children:
+  - name: petition
+    children:
+      - name: petitioner
+      - name: petitioning
+      - name: petitionary
+  - name: compete
+    children:
+      - name: competitor
+      - name: competing
+      - name: competition
+      - name: competitive
+        children:
+          - name: competitively
+          - name: competitiveness
+          - name: uncompetitive
+      - name: competent
+        children:
+          - name: competently
+          - name: competence
+          - name: competency
+          - name: incompetent
+            children:
+              - name: incompetently
+              - name: incompetence
+              - name: incompetency
+  - name: appetite
+    children:
+      - name: appetizer
+      - name: appetizing
+        children:
+          - name: unappetizing
+      - name: appetitive
+      - name: appetence
+      - name: appetent
+  - name: impetus
+    children:
+      - name: impetuous
+        children:
+          - name: impetuously
+      - name: impetuosity
+  - name: perpetual
+    children:
+      - name: perpetually
+      - name: perpetuity
+      - name: perpetuate
+        children:
+          - name: perpetuation

@@ -1,0 +1,19 @@
+name: 1EC
+children:
+  - name: crime
+    children:
+      - name: criminal
+        children:
+          - name: criminally
+          - name: criminalist
+          - name: criminality
+          - name: criminology
+            children:
+              - name: criminological
+              - name: criminologist
+          - name: criminalize
+            children:
+              - name: criminalization
+              - name: decriminalize
+                children:
+                  - name: decriminalization

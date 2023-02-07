@@ -1,0 +1,20 @@
+name: 249A
+children:
+  - name: optimum
+    children:
+      - name: optimal
+        children:
+          - name: optimally
+          - name: suboptimal
+  - name: optimize
+    children:
+      - name: optimizing
+      - name: optimized
+      - name: optimization
+  - name: optimism
+    children:
+      - name: optimist
+        children:
+          - name: optimistic
+            children:
+              - name: optimistically

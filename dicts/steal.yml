@@ -1,0 +1,11 @@
+name: 24EA
+children:
+  - name: steal
+    children:
+      - name: stealer
+      - name: stealing
+      - name: stealth
+        children:
+          - name: stealthy
+            children:
+              - name: stealthily

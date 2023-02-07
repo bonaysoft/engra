@@ -1,0 +1,80 @@
+name: AC
+children:
+  - name: tract
+  - name: tractor
+    children:
+      - name: traction
+      - name: tractive
+  - name: contract
+    children:
+      - name: contractor
+      - name: contracting
+      - name: contracted
+      - name: contraction
+        children:
+          - name: contractionary
+      - name: contractile
+        children:
+          - name: contractility
+      - name: contractual
+        children:
+          - name: contractually
+      - name: subcontract
+        children:
+          - name: subcontractor
+          - name: subcontracting
+  - name: attract
+    children:
+      - name: attractor
+      - name: attractant
+      - name: attracting
+      - name: attracted
+      - name: attraction
+      - name: attractive
+        children:
+          - name: attractively
+          - name: attractiveness
+          - name: unattractive
+  - name: distract
+    children:
+      - name: distractor
+      - name: distracter
+      - name: distracting
+      - name: distracted
+        children:
+          - name: distractedly
+      - name: distraction
+      - name: distractive
+  - name: extract
+    children:
+      - name: extractor
+      - name: extracted
+      - name: extraction
+      - name: extractive
+      - name: extractable
+  - name: abstract
+    children:
+      - name: abstractly
+      - name: abstractness
+      - name: abstraction
+        children:
+          - name: abstractionist
+      - name: abstracted
+        children:
+          - name: abstractedly
+  - name: subtract
+    children:
+      - name: subtracter
+      - name: subtraction
+      - name: subtractive
+      - name: subtrahend
+  - name: detract
+    children:
+      - name: detractor
+  - name: retract
+    children:
+      - name: retractor
+      - name: retracted
+      - name: retraction
+      - name: retractive
+      - name: retractable

@@ -1,0 +1,12 @@
+name: 2B1A
+children:
+  - name: beauty
+    children:
+      - name: beautiful
+        children:
+          - name: beautifully
+      - name: beautician
+      - name: beautify
+        children:
+          - name: beautifier
+          - name: beautification

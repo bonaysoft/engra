@@ -1,0 +1,17 @@
+name: 146C
+children:
+  - name: insular
+    children:
+      - name: insularity
+      - name: insularism
+  - name: insulate
+    children:
+      - name: insulator
+      - name: insulating
+      - name: insulated
+        children:
+          - name: uninsulated
+      - name: insulation
+  - name: peninsula
+    children:
+      - name: peninsular

@@ -1,0 +1,40 @@
+name: 8EB
+children:
+  - name: operate
+    children:
+      - name: operator
+      - name: operating
+      - name: operation
+        children:
+          - name: operational
+            children:
+              - name: operationally
+              - name: operationalize
+                children:
+                  - name: operationalization
+      - name: operable
+        children:
+          - name: operability
+          - name: inoperable
+            children:
+              - name: interoperable
+              - name: interoperability
+  - name: operative
+    children:
+      - name: inoperative
+      - name: perioperative
+      - name: preoperative
+      - name: postoperative
+        children:
+          - name: postoperatively
+      - name: intraoperative
+  - name: cooperate
+    children:
+      - name: cooperator
+      - name: cooperating
+      - name: cooperation
+      - name: cooperative
+        children:
+          - name: cooperatively
+          - name: cooperativeness
+          - name: uncooperative

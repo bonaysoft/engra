@@ -1,0 +1,12 @@
+name: 4FBA
+children:
+  - name: bottle
+    children:
+      - name: bottled
+      - name: bottleneck
+      - name: bottler
+      - name: bottlebrush
+      - name: bottleful
+      - name: bottleholder
+      - name: inkbottle
+      - name: winebottle

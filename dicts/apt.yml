@@ -1,0 +1,22 @@
+name: 1ABA
+children:
+  - name: apt
+    children:
+      - name: aptly
+      - name: aptness
+      - name: aptitude
+      - name: inapt
+  - name: adapt
+    children:
+      - name: adaptor
+      - name: adapter
+      - name: adapted
+      - name: adaption
+        children:
+          - name: adaptation
+      - name: adaptable
+        children:
+          - name: adaptability
+      - name: adaptive
+        children:
+          - name: maladaptive

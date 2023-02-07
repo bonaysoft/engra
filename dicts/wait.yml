@@ -1,0 +1,12 @@
+name: 41BA
+children:
+  - name: wait
+    children:
+      - name: waiter
+      - name: waitress
+      - name: waitstaff
+      - name: waiting
+      - name: await
+        children:
+          - name: awaiting
+          - name: awaited

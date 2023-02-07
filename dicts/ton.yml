@@ -1,0 +1,28 @@
+name: E4A
+children:
+  - name: tone
+    children:
+      - name: toner
+      - name: toning
+      - name: toned
+      - name: tonic
+        children:
+          - name: diatonic
+      - name: tonal
+        children:
+          - name: tonality
+          - name: atonal
+            children:
+              - name: atonality
+      - name: toneless
+        children:
+          - name: tonelessly
+      - name: monotone
+        children:
+          - name: monotony
+          - name: monotonous
+            children:
+              - name: monotonously
+  - name: intone
+    children:
+      - name: intonation

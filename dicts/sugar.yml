@@ -1,0 +1,8 @@
+name: 574A
+children:
+  - name: sugar
+    children:
+      - name: sugary
+      - name: sugarless
+      - name: sugared
+      - name: sugarcane

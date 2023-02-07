@@ -1,0 +1,24 @@
+name: FD
+children:
+  - name: deploy
+    children:
+      - name: deployable
+      - name: deployment
+      - name: redeploy
+        children:
+          - name: redeployment
+      - name: ploy
+  - name: employ
+    children:
+      - name: employer
+      - name: employee
+      - name: employed
+        children:
+          - name: unemployed
+          - name: underemployed
+      - name: employable
+        children:
+          - name: unemployable
+      - name: employment
+        children:
+          - name: unemployment

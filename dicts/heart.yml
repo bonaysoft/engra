@@ -1,0 +1,23 @@
+name: 1BD
+children:
+  - name: heart
+    children:
+      - name: hearty
+        children:
+          - name: heartily
+          - name: heartiness
+      - name: hearted
+      - name: heartless
+        children:
+          - name: heartlessly
+          - name: heartlessness
+      - name: heartbreak
+        children:
+          - name: heartbreaker
+          - name: heartbreaking
+            children:
+              - name: heartbreakingly
+          - name: heartbroken
+      - name: wholehearted
+        children:
+          - name: wholeheartedly

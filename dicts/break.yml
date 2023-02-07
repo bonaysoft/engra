@@ -1,0 +1,14 @@
+name: 3AA
+children:
+  - name: break
+    children:
+      - name: breaker
+      - name: breakage
+      - name: breaking
+      - name: breakable
+        children:
+          - name: unbreakable
+      - name: breakfast
+      - name: breakdown
+      - name: breakthrough
+      - name: breakup

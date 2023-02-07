@@ -1,0 +1,11 @@
+name: 377A
+children:
+  - name: trap
+    children:
+      - name: trapper
+      - name: trapped
+      - name: trapdoor
+      - name: entrap
+        children:
+          - name: entrapped
+          - name: entrapment

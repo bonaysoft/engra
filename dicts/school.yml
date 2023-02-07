@@ -1,0 +1,11 @@
+name: D1A
+children:
+  - name: school
+    children:
+      - name: schooling
+      - name: schooled
+        children:
+          - name: unschooled
+      - name: preschool
+        children:
+          - name: preschooler

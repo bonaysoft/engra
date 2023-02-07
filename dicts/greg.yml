@@ -1,0 +1,41 @@
+name: A4A
+children:
+  - name: aggregate
+    children:
+      - name: aggregator
+      - name: aggregated
+      - name: aggregative
+      - name: aggregation
+      - name: disaggregate
+        children:
+          - name: disaggregated
+          - name: disaggregation
+  - name: congregate
+    children:
+      - name: congregant
+      - name: congregation
+        children:
+          - name: congregational
+            children:
+              - name: congregationalist
+  - name: gregarious
+    children:
+      - name: gregariousness
+  - name: egregious
+    children:
+      - name: egregiously
+  - name: segregate
+    children:
+      - name: segregator
+      - name: segregated
+      - name: segregation
+        children:
+          - name: segregationist
+      - name: segregable
+      - name: desegregate
+        children:
+          - name: desegregated
+          - name: desegregation
+      - name: resegregate
+        children:
+          - name: resegregation

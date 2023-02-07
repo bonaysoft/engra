@@ -1,0 +1,6 @@
+name: 648A
+children:
+  - name: staple
+    children:
+      - name: stapler
+      - name: stapled

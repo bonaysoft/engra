@@ -1,0 +1,40 @@
+name: 87A
+children:
+  - name: pare
+    children:
+      - name: paring
+      - name: pared
+  - name: parade
+  - name: prepare
+    children:
+      - name: preparer
+      - name: prepared
+        children:
+          - name: preparedness
+          - name: unprepared
+            children:
+              - name: unpreparedness
+      - name: preparation
+      - name: preparatory
+      - name: preparative
+  - name: separate
+    children:
+      - name: separator
+      - name: separating
+      - name: separated
+      - name: separation
+      - name: separatist
+      - name: separatism
+      - name: separately
+      - name: separateness
+      - name: separable
+        children:
+          - name: separably
+          - name: separability
+          - name: inseparable
+            children:
+              - name: inseparably
+              - name: inseparability
+  - name: apparel
+    children:
+      - name: apparatus

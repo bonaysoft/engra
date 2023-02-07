@@ -1,0 +1,35 @@
+name: 10EA
+children:
+  - name: radio
+    children:
+      - name: radiology
+        children:
+          - name: radiologist
+          - name: radiological
+      - name: radiograph
+        children:
+          - name: radiography
+          - name: radiographic
+            children:
+              - name: radiographical
+                children:
+                  - name: radiographically
+      - name: radiotherapy
+      - name: radioman
+      - name: radiometer
+        children:
+          - name: radiometric
+      - name: radiocarbon
+      - name: radionuclide
+      - name: radioisotope
+  - name: radiate
+    children:
+      - name: radiator
+      - name: radiation
+      - name: radiative
+      - name: radiated
+      - name: radiating
+      - name: irradiate
+        children:
+          - name: irradiated
+          - name: irradiation

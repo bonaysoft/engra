@@ -1,0 +1,55 @@
+name: 31A
+children:
+  - name: regular
+    children:
+      - name: regularly
+      - name: regularity
+      - name: regularize
+        children:
+          - name: regularized
+          - name: regularization
+      - name: irregular
+        children:
+          - name: irregularly
+          - name: irregularity
+  - name: regulate
+    children:
+      - name: regulator
+      - name: regulating
+      - name: regulated
+        children:
+          - name: unregulated
+      - name: regulation
+      - name: regulative
+      - name: regulatory
+      - name: deregulate
+        children:
+          - name: deregulated
+          - name: deregulatory
+          - name: deregulation
+  - name: region
+    children:
+      - name: regional
+        children:
+          - name: regionally
+          - name: regionalist
+          - name: regionalism
+      - name: regionalize
+        children:
+          - name: regionalization
+      - name: subregion
+  - name: regime
+    children:
+      - name: regimen
+  - name: regiment
+    children:
+      - name: regimental
+      - name: regimented
+      - name: regimentation
+  - name: regal
+    children:
+      - name: regally
+      - name: regalia
+  - name: regent
+    children:
+      - name: regency

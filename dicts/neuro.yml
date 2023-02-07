@@ -1,0 +1,17 @@
+name: ABB
+children:
+  - name: neuron
+    children:
+      - name: neuronal
+  - name: neural
+    children:
+      - name: neurosis
+      - name: neuritis
+  - name: neurotic
+    children:
+      - name: neurotically
+      - name: neuroticism
+  - name: neurosurgeon
+    children:
+      - name: neurosurgery
+      - name: neurosurgical

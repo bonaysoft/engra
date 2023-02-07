@@ -1,0 +1,10 @@
+name: 1AED
+children:
+  - name: delight
+    children:
+      - name: delighted
+        children:
+          - name: delightedly
+      - name: delightful
+        children:
+          - name: delightfully

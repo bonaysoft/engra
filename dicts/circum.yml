@@ -1,0 +1,13 @@
+name: 72B
+children:
+  - name: circumvent
+    children:
+      - name: circumvention
+  - name: circumference
+    children:
+      - name: circumferential
+  - name: circumstance
+    children:
+      - name: circumstantial
+        children:
+          - name: circumstantially

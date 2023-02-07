@@ -1,0 +1,54 @@
+name: 41A
+children:
+  - name: compute
+    children:
+      - name: computer
+        children:
+          - name: computerize
+            children:
+              - name: computerized
+              - name: computerization
+          - name: computernik
+          - name: minicomputer
+          - name: microcomputer
+          - name: supercomputer
+      - name: computing
+        children:
+          - name: supercomputing
+      - name: computed
+      - name: computation
+        children:
+          - name: computational
+            children:
+              - name: computationally
+      - name: computable
+  - name: dispute
+    children:
+      - name: disputant
+      - name: disputing
+      - name: disputed
+        children:
+          - name: undisputed
+      - name: disputation
+      - name: disputatious
+      - name: disputable
+        children:
+          - name: disputably
+          - name: indisputable
+            children:
+              - name: indisputably
+  - name: repute
+    children:
+      - name: reputed
+        children:
+          - name: reputedly
+      - name: reputable
+      - name: reputation
+        children:
+          - name: reputational
+      - name: disrepute
+        children:
+          - name: disreputable
+  - name: putative
+    children:
+      - name: putatively

@@ -1,0 +1,17 @@
+name: C3B
+children:
+  - name: fund
+    children:
+      - name: funder
+      - name: funding
+      - name: funded
+        children:
+          - name: unfunded
+      - name: superfund
+      - name: underfund
+        children:
+          - name: underfunded
+      - name: fundraise
+      - name: refund
+        children:
+          - name: refundable

@@ -1,0 +1,11 @@
+name: 145D
+children:
+  - name: external
+    children:
+      - name: externally
+      - name: externality
+      - name: externalize
+        children:
+          - name: externalizing
+          - name: externalized
+          - name: externalization

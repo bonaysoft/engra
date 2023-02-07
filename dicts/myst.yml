@@ -1,0 +1,22 @@
+name: 247A
+children:
+  - name: mystery
+    children:
+      - name: mysterious
+        children:
+          - name: mysteriously
+      - name: mystique
+  - name: mystic
+    children:
+      - name: mystical
+        children:
+          - name: mystically
+      - name: mysticism
+  - name: mystify
+    children:
+      - name: mystifying
+      - name: mystified
+      - name: mystification
+      - name: demystify
+        children:
+          - name: demystification

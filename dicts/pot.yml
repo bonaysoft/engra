@@ -1,0 +1,19 @@
+name: 53B
+children:
+  - name: potent
+    children:
+      - name: potently
+      - name: potential
+        children:
+          - name: potentially
+          - name: potentiality
+      - name: potency
+      - name: impotent
+        children:
+          - name: impotently
+          - name: impotency
+      - name: omnipotent
+        children:
+          - name: omnipotence
+      - name: prepotent
+      - name: multipotent

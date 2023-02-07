@@ -1,0 +1,12 @@
+name: BA
+children:
+  - name: converge
+    children:
+      - name: converging
+      - name: convergent
+      - name: convergence
+  - name: diverge
+    children:
+      - name: diverging
+      - name: divergent
+      - name: divergence

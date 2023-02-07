@@ -1,0 +1,5 @@
+name: 652A
+children:
+  - name: charisma
+    children:
+      - name: charismatic

@@ -1,0 +1,9 @@
+name: 1B6A
+children:
+  - name: sea
+    children:
+      - name: seafood
+      - name: seaside
+      - name: seagull
+      - name: seabird
+      - name: seashell

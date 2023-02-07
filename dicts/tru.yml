@@ -1,0 +1,35 @@
+name: 12DA
+children:
+  - name: "true"
+    children:
+      - name: truly
+      - name: truth
+        children:
+          - name: truthful
+            children:
+              - name: truthfully
+              - name: truthfulness
+      - name: untrue
+        children:
+          - name: untruth
+            children:
+              - name: untruthful
+                children:
+                  - name: untruthfully
+  - name: trust
+    children:
+      - name: trusty
+      - name: trustful
+      - name: trustee
+        children:
+          - name: trusteeship
+      - name: trusting
+        children:
+          - name: trustingly
+      - name: trusted
+      - name: distrust
+        children:
+          - name: distrustful
+      - name: mistrust
+        children:
+          - name: mistrustful

@@ -1,0 +1,17 @@
+name: 276A
+children:
+  - name: council
+    children:
+      - name: councilor
+      - name: councillor
+      - name: councilman
+      - name: councilwoman
+  - name: reconcile
+    children:
+      - name: reconciled
+        children:
+          - name: unreconciled
+      - name: reconciliation
+      - name: reconcilable
+        children:
+          - name: irreconcilable

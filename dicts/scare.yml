@@ -1,0 +1,9 @@
+name: 586A
+children:
+  - name: scare
+    children:
+      - name: scared
+      - name: scary
+        children:
+          - name: scarily
+          - name: scariness

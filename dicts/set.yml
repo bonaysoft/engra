@@ -1,0 +1,26 @@
+name: 4A
+children:
+  - name: set
+    children:
+      - name: setter
+      - name: settee
+      - name: setting
+      - name: setup
+  - name: offset
+    children:
+      - name: offsetting
+  - name: upset
+    children:
+      - name: upsetting
+  - name: settle
+    children:
+      - name: settler
+      - name: settling
+      - name: settled
+      - name: settlement
+      - name: unsettle
+        children:
+          - name: unsettled
+      - name: resettle
+        children:
+          - name: resettlement

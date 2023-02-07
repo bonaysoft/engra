@@ -1,0 +1,9 @@
+name: 7FC
+children:
+  - name: abort
+    children:
+      - name: aborted
+      - name: abortive
+      - name: abortion
+        children:
+          - name: abortionist

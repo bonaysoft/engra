@@ -1,0 +1,10 @@
+name: 352B
+children:
+  - name: channel
+    children:
+      - name: channeler
+      - name: channeling
+      - name: channeled
+      - name: channelize
+        children:
+          - name: channelization

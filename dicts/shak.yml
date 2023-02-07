@@ -1,0 +1,21 @@
+name: 1E9A
+children:
+  - name: shake
+    children:
+      - name: shaker
+      - name: shaking
+      - name: shaken
+        children:
+          - name: unshaken
+      - name: shaky
+        children:
+          - name: shakily
+          - name: shakiness
+      - name: shakable
+        children:
+          - name: unshakable
+            children:
+              - name: unshakably
+      - name: handshake
+        children:
+          - name: handshaking

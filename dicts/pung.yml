@@ -1,0 +1,6 @@
+name: 34B
+children:
+  - name: pungent
+    children:
+      - name: pungently
+      - name: pungency

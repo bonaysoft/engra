@@ -1,0 +1,30 @@
+name: 66C
+children:
+  - name: involve
+    children:
+      - name: involved
+        children:
+          - name: uninvolved
+      - name: involvement
+  - name: evolve
+    children:
+      - name: evolving
+      - name: evolved
+      - name: evolution
+        children:
+          - name: evolutional
+          - name: evolutionism
+          - name: evolutionist
+          - name: coevolution
+            children:
+              - name: coevolutionary
+      - name: evolutionary
+        children:
+          - name: evolutionarily
+  - name: revolve
+    children:
+      - name: revolver
+      - name: revolving
+  - name: devolve
+    children:
+      - name: devolution

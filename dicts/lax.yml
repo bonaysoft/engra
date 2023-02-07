@@ -1,0 +1,13 @@
+name: 24AA
+children:
+  - name: lax
+    children:
+      - name: laxity
+      - name: laxative
+  - name: relax
+    children:
+      - name: relaxed
+      - name: relaxing
+      - name: relaxer
+      - name: relaxant
+      - name: relaxation

@@ -1,0 +1,12 @@
+name: 35DA
+children:
+  - name: sick
+    children:
+      - name: sickly
+      - name: sickness
+      - name: sicken
+        children:
+          - name: sickening
+            children:
+              - name: sickeningly
+          - name: sickened

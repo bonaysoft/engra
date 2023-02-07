@@ -1,0 +1,5 @@
+name: 67AA
+children:
+  - name: shoulder
+    children:
+      - name: shouldered

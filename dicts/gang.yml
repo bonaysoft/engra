@@ -1,0 +1,8 @@
+name: 3A2A
+children:
+  - name: gang
+    children:
+      - name: gangster
+      - name: gangland
+      - name: gangbanger
+      - name: gangbuster

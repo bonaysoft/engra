@@ -1,0 +1,7 @@
+name: BG
+children:
+  - name: weird
+    children:
+      - name: weirdly
+      - name: weirdness
+      - name: weirdo

@@ -1,0 +1,6 @@
+name: 5A0A
+children:
+  - name: pattern
+    children:
+      - name: patterning
+      - name: patterned

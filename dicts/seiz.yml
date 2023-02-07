@@ -1,0 +1,7 @@
+name: 593A
+children:
+  - name: seize
+    children:
+      - name: seizing
+      - name: seized
+      - name: seizure

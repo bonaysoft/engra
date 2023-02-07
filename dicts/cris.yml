@@ -1,0 +1,8 @@
+name: 1EG
+children:
+  - name: hypocrisy
+    children:
+      - name: hypocrite
+      - name: hypocritical
+        children:
+          - name: hypocritically

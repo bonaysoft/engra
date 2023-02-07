@@ -1,0 +1,15 @@
+name: 2C
+children:
+  - name: profit
+    children:
+      - name: profitable
+        children:
+          - name: profitably
+          - name: profitability
+          - name: unprofitable
+      - name: profitless
+      - name: profiteer
+        children:
+          - name: profiteering
+      - name: profiterole
+      - name: nonprofit

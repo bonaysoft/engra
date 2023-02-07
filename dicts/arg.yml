@@ -1,0 +1,16 @@
+name: 291A
+children:
+  - name: argue
+    children:
+      - name: arguable
+        children:
+          - name: inarguable
+          - name: unarguable
+            children:
+              - name: unarguably
+          - name: arguably
+      - name: argument
+        children:
+          - name: argumentative
+          - name: argumentation
+          - name: counterargument

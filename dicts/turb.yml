@@ -1,0 +1,21 @@
+name: D9A
+children:
+  - name: turbine
+    children:
+      - name: turbo
+        children:
+          - name: turbofan
+          - name: turboprop
+  - name: turbulence
+    children:
+      - name: turbulent
+  - name: disturb
+    children:
+      - name: disturber
+      - name: disturbing
+        children:
+          - name: disturbingly
+      - name: disturbed
+        children:
+          - name: undisturbed
+      - name: disturbance

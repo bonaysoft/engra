@@ -1,0 +1,16 @@
+name: 30A
+children:
+  - name: aware
+    children:
+      - name: awareness
+      - name: unaware
+        children:
+          - name: unawares
+          - name: unawareness
+  - name: warrant
+    children:
+      - name: warranty
+      - name: warrantless
+      - name: warranted
+        children:
+          - name: unwarranted

@@ -15,11 +15,92 @@ import (
 	"github.com/bonaysoft/engra/pkg/dal/query"
 	"github.com/bonaysoft/engra/pkg/waibo"
 	"github.com/samber/lo"
+	"gopkg.in/yaml.v3"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )
 
+var trees = make([]*waibo.Node, 0)
+
+func loadTrees() {
+	filepath.WalkDir("dicts", func(path string, d fs.DirEntry, err error) error {
+		if d.IsDir() {
+			return nil
+		}
+
+		content, err := script.File(path).Bytes()
+		if err != nil {
+			return err
+		}
+
+		tree := waibo.NewNode()
+		if err := yaml.Unmarshal(content, tree); err != nil {
+			return err
+		}
+
+		trees = append(trees, tree)
+		return nil
+	})
+}
+
 func main() {
+	loadTrees()
+
+	dsn := "root:admin@tcp(127.0.0.1:3306)/dicts?charset=utf8mb4&parseTime=True&loc=Local"
+	gormdb, _ := gorm.Open(mysql.Open(dsn), &gorm.Config{
+		// Logger: logger.Default.LogMode(logger.Silent),
+	})
+	gormdb.AutoMigrate(model.Vocabulary{}, model.RootsAffixes{})
+	q := query.Use(gormdb)
+	words, err := q.Vocabulary.Where(q.Vocabulary.Id.Lte(13098)).Find()
+	if err != nil {
+		log.Println(err)
+		return
+	}
+
+	for idx, word := range words {
+		// 检查单词是否存在tree中，如果存在则跳过，如果不存在则查询
+		t, ok := lo.Find(trees, func(n *waibo.Node) bool { return n.Exist(word.Name) })
+		if ok {
+			fmt.Printf("[%s] found at tree %s\n", word.Name, t.Id)
+			continue
+		}
+
+		fmt.Println(idx, len(words), word.Name)
+		// createRoot(word.Name)
+		// time.Sleep(time.Millisecond * 100)
+		// 如果不存在则记录下来
+		word.NoRoot = true
+		if err := q.Vocabulary.Where(q.Vocabulary.Id.Eq(word.Id)).Save(word); err != nil {
+			return
+		}
+	}
+}
+
+func createRoot(word string) {
+	tree, err := waibo.FetchTree(word)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+
+	trees = append(trees, tree)
+	rootName := strings.Split(tree.Topic, "<br/>")[0]
+	f, err := os.Create(filepath.Join("dicts", strings.Trim(rootName, "-")+".yml"))
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+
+	ye := yaml.NewEncoder(f)
+	ye.SetIndent(2)
+	if err := ye.Encode(tree); err != nil {
+		fmt.Println(err)
+		return
+	}
+}
+
+func aaa() {
 	dsn := "root:admin@tcp(127.0.0.1:3306)/dicts?charset=utf8mb4&parseTime=True&loc=Local"
 	gormdb, _ := gorm.Open(mysql.Open(dsn), &gorm.Config{
 		// Logger: logger.Default.LogMode(logger.Silent),

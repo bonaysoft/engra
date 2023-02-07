@@ -1,0 +1,12 @@
+name: 2EBA
+children:
+  - name: hope
+    children:
+      - name: hopeful
+        children:
+          - name: hopefully
+          - name: hopefulness
+      - name: hopeless
+        children:
+          - name: hopelessly
+          - name: hopelessness

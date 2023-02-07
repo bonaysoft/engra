@@ -1,0 +1,7 @@
+name: 67CA
+children:
+  - name: slogan
+    children:
+      - name: sloganeer
+        children:
+          - name: sloganeering

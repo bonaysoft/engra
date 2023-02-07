@@ -1,0 +1,12 @@
+name: 84E
+children:
+  - name: mother
+    children:
+      - name: motherly
+      - name: motherless
+      - name: motherhood
+      - name: mothership
+      - name: godmother
+      - name: grandmother
+        children:
+          - name: grandmotherly

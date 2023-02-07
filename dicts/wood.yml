@@ -1,0 +1,20 @@
+name: C8A
+children:
+  - name: wood
+    children:
+      - name: woody
+      - name: wooded
+      - name: woods
+        children:
+          - name: woodsy
+      - name: wooden
+        children:
+          - name: woodenly
+          - name: woodenhead
+          - name: woodenheaded
+      - name: woodcut
+        children:
+          - name: woodcutter
+      - name: woodcarver
+        children:
+          - name: woodcarving

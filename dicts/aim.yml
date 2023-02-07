@@ -1,0 +1,8 @@
+name: 5DCA
+children:
+  - name: aim
+    children:
+      - name: aimless
+        children:
+          - name: aimlessly
+          - name: aimlessness

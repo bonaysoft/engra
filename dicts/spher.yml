@@ -1,0 +1,23 @@
+name: 1F9A
+children:
+  - name: sphere
+    children:
+      - name: spheric
+        children:
+          - name: spherical
+          - name: sphericity
+      - name: spheroid
+        children:
+          - name: spheroidal
+  - name: atmosphere
+    children:
+      - name: atmospheric
+      - name: atmospherics
+  - name: hemisphere
+    children:
+      - name: hemispheric
+        children:
+          - name: hemispherical
+  - name: stratosphere
+    children:
+      - name: stratospheric

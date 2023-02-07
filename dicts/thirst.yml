@@ -1,0 +1,8 @@
+name: 53EA
+children:
+  - name: thirst
+    children:
+      - name: thirsty
+        children:
+          - name: thirstily
+      - name: bloodthirsty

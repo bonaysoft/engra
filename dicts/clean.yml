@@ -1,0 +1,12 @@
+name: 1D3A
+children:
+  - name: clean
+    children:
+      - name: cleaner
+      - name: cleaning
+      - name: cleaned
+      - name: cleanup
+  - name: cleanse
+    children:
+      - name: cleanser
+      - name: cleansing

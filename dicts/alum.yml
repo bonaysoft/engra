@@ -1,0 +1,8 @@
+name: 636A
+children:
+  - name: alum
+    children:
+      - name: alumina
+        children:
+          - name: aluminous
+          - name: aluminite

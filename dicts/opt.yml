@@ -1,0 +1,19 @@
+name: 266B
+children:
+  - name: synopsis
+    children:
+      - name: synopsize
+      - name: synoptic
+        children:
+          - name: synoptical
+  - name: optic
+    children:
+      - name: optics
+      - name: opticist
+      - name: optician
+      - name: optical
+        children:
+          - name: optically
+      - name: panoptic
+        children:
+          - name: panopticon

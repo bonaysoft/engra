@@ -1,0 +1,24 @@
+name: 21FA
+children:
+  - name: horror
+    children:
+      - name: horrible
+        children:
+          - name: horribly
+      - name: horrid
+  - name: horrify
+    children:
+      - name: horrified
+      - name: horrifying
+        children:
+          - name: horrifyingly
+      - name: horrific
+        children:
+          - name: horrifically
+  - name: horrendous
+    children:
+      - name: horrendously
+  - name: abhor
+    children:
+      - name: abhorrent
+      - name: abhorrence

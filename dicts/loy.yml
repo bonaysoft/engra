@@ -1,0 +1,8 @@
+name: 6EE
+children:
+  - name: alloy
+    children:
+      - name: unalloyed
+      - name: superalloy
+      - name: thermalloy
+      - name: microalloy

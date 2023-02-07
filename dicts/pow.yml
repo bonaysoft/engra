@@ -1,0 +1,22 @@
+name: 53C
+children:
+  - name: power
+    children:
+      - name: powerful
+        children:
+          - name: powerfully
+      - name: powerless
+        children:
+          - name: powerlessness
+      - name: powered
+      - name: empower
+        children:
+          - name: empowering
+          - name: empowered
+          - name: empowerment
+          - name: disempower
+            children:
+              - name: disempowerment
+  - name: overpower
+    children:
+      - name: overpowering

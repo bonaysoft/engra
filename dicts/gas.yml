@@ -1,0 +1,12 @@
+name: 1BCC
+children:
+  - name: gas
+    children:
+      - name: gassy
+      - name: gassing
+      - name: gassed
+      - name: gasify
+        children:
+          - name: gasifier
+          - name: gasified
+          - name: gasification

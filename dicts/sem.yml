@@ -1,0 +1,26 @@
+name: 51B
+children:
+  - name: assemble
+    children:
+      - name: assembler
+      - name: assembling
+      - name: assembled
+        children:
+          - name: unassembled
+      - name: assemblage
+      - name: assembly
+        children:
+          - name: assemblyman
+          - name: assemblywoman
+          - name: subassembly
+      - name: reassemble
+        children:
+          - name: reassembly
+      - name: disassemble
+        children:
+          - name: disassembled
+          - name: disassembly
+  - name: resemble
+    children:
+      - name: resemblant
+      - name: resemblance

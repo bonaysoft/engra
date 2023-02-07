@@ -1,0 +1,20 @@
+name: D4A
+children:
+  - name: hair
+    children:
+      - name: hairy
+        children:
+          - name: hairiness
+      - name: hairless
+        children:
+          - name: hairlessness
+      - name: hairpin
+      - name: hairbrush
+      - name: hairdryer
+      - name: haircut
+      - name: hairstyle
+        children:
+          - name: hairstylist
+      - name: hairdresser
+        children:
+          - name: hairdressing

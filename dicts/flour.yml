@@ -1,0 +1,9 @@
+name: 18DC
+children:
+  - name: flour
+    children:
+      - name: floury
+      - name: floured
+  - name: flourish
+    children:
+      - name: flourishing

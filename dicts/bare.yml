@@ -1,0 +1,6 @@
+name: 2C3A
+children:
+  - name: bare
+    children:
+      - name: barely
+      - name: barefoot

@@ -1,0 +1,30 @@
+name: 1B2A
+children:
+  - name: decent
+    children:
+      - name: decently
+      - name: decency
+      - name: indecent
+        children:
+          - name: indecently
+      - name: indecency
+  - name: decorum
+    children:
+      - name: decorous
+        children:
+          - name: decorously
+          - name: indecorous
+  - name: decorate
+    children:
+      - name: decorator
+      - name: decorating
+      - name: decorated
+        children:
+          - name: undecorated
+      - name: decoration
+      - name: decorative
+        children:
+          - name: decoratively
+      - name: redecorate
+        children:
+          - name: redecoration

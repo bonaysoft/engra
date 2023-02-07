@@ -1,0 +1,7 @@
+name: 1F
+children:
+  - name: stay
+    children:
+      - name: stayer
+      - name: staying
+      - name: overstay

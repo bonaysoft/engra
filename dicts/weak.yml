@@ -1,0 +1,9 @@
+name: 33EA
+children:
+  - name: weak
+    children:
+      - name: weakly
+      - name: weakness
+      - name: weaken
+        children:
+          - name: weakening

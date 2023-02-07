@@ -1,0 +1,9 @@
+name: 564A
+children:
+  - name: hire
+    children:
+      - name: hirer
+      - name: hired
+      - name: hiring
+      - name: hireable
+      - name: hireling

@@ -1,0 +1,76 @@
+name: 1H
+children:
+  - name: state
+    children:
+      - name: statesman
+        children:
+          - name: statesmanship
+      - name: statewide
+      - name: stated
+      - name: statement
+      - name: restate
+        children:
+          - name: restatement
+      - name: overstate
+        children:
+          - name: overstated
+          - name: overstatement
+      - name: understate
+        children:
+          - name: understated
+          - name: understatement
+      - name: misstate
+        children:
+          - name: misstatement
+  - name: statistics
+    children:
+      - name: statistic
+        children:
+          - name: statistical
+            children:
+              - name: statistically
+      - name: statistician
+      - name: biostatistics
+  - name: estate
+  - name: station
+    children:
+      - name: stationing
+      - name: stationmaster
+      - name: workstation
+      - name: substation
+      - name: superstation
+      - name: stationary
+        children:
+          - name: geostationary
+      - name: stationery
+        children:
+          - name: stationer
+  - name: status
+  - name: statue
+    children:
+      - name: statuary
+      - name: statuesque
+      - name: statuette
+  - name: statute
+    children:
+      - name: statutory
+        children:
+          - name: statutorily
+  - name: static
+    children:
+      - name: statics
+      - name: statical
+        children:
+          - name: statically
+      - name: hydrostatic
+      - name: electrostatic
+  - name: thermostat
+    children:
+      - name: thermostatic
+        children:
+          - name: thermostatically
+  - name: prostate
+    children:
+      - name: prostatic
+      - name: prostatitis
+      - name: prostatectomy

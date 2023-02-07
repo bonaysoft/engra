@@ -1,0 +1,14 @@
+name: 278A
+children:
+  - name: trench
+    children:
+      - name: trencher
+      - name: trenchplough
+      - name: entrench
+        children:
+          - name: entrenched
+          - name: entrenchment
+  - name: entrench
+    children:
+      - name: entrenched
+      - name: entrenchment

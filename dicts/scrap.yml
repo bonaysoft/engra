@@ -1,0 +1,15 @@
+name: 3ECA
+children:
+  - name: scrape
+    children:
+      - name: scraper
+      - name: scraping
+      - name: scraped
+  - name: scrap
+    children:
+      - name: scrapper
+      - name: scrappy
+      - name: scrapping
+      - name: scrapped
+      - name: scrapheap
+      - name: scrapbasket

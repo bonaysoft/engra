@@ -1,0 +1,35 @@
+name: 21B
+children:
+  - name: succeed
+    children:
+      - name: succeeding
+      - name: success
+        children:
+          - name: successful
+            children:
+              - name: successfully
+          - name: unsuccessful
+            children:
+              - name: unsuccessfully
+      - name: successor
+      - name: succession
+        children:
+          - name: successional
+      - name: successive
+        children:
+          - name: successively
+  - name: proceed
+    children:
+      - name: proceeds
+      - name: proceeding
+  - name: exceed
+    children:
+      - name: exceeding
+        children:
+          - name: exceedingly
+      - name: excess
+        children:
+          - name: excessive
+            children:
+              - name: excessively
+              - name: excessiveness

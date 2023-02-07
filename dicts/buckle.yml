@@ -1,0 +1,11 @@
+name: 580A
+children:
+  - name: buckle
+    children:
+      - name: buckling
+      - name: buckled
+      - name: unbuckle
+      - name: turnbuckle
+      - name: swashbuckler
+        children:
+          - name: swashbuckling

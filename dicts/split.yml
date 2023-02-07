@@ -1,0 +1,6 @@
+name: 5AEA
+children:
+  - name: split
+    children:
+      - name: splitter
+      - name: splitting

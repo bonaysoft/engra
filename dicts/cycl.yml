@@ -1,0 +1,41 @@
+name: 72C
+children:
+  - name: cycle
+    children:
+      - name: cyclic
+        children:
+          - name: cyclical
+            children:
+              - name: cyclically
+      - name: cyclist
+      - name: cycling
+      - name: unicycle
+      - name: bicycle
+        children:
+          - name: bicyclist
+          - name: bicycling
+      - name: tricycle
+        children:
+          - name: tricyclic
+  - name: recycle
+    children:
+      - name: recycler
+      - name: recycling
+      - name: recyclable
+        children:
+          - name: recyclability
+  - name: cyclone
+    children:
+      - name: cyclonic
+  - name: encyclopedia
+    children:
+      - name: encyclopedist
+      - name: encyclopedic
+        children:
+          - name: encyclopedical
+      - name: encyclopaedia
+      - name: encyclopaedic
+        children:
+          - name: encyclopaedical
+          - name: encyclopaedist
+          - name: encyclopaedism

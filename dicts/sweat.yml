@@ -1,0 +1,11 @@
+name: 360A
+children:
+  - name: sweat
+    children:
+      - name: sweaty
+      - name: sweater
+      - name: sweating
+      - name: sweatsuit
+      - name: sweatshirt
+      - name: sweatband
+      - name: sweatshop

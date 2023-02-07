@@ -1,0 +1,5 @@
+name: 5BAA
+children:
+  - name: cash
+    children:
+      - name: cashier

@@ -1,0 +1,12 @@
+name: CDC
+children:
+  - name: clear
+    children:
+      - name: clearly
+      - name: clearing
+      - name: cleared
+        children:
+          - name: uncleared
+      - name: clearance
+      - name: clearness
+      - name: clearinghouse

@@ -1,0 +1,21 @@
+name: 1A8A
+children:
+  - name: temper
+    children:
+      - name: tempering
+      - name: tempered
+        children:
+          - name: untempered
+      - name: temperature
+      - name: temperate
+        children:
+          - name: intemperate
+      - name: temperance
+        children:
+          - name: intemperance
+      - name: temperament
+        children:
+          - name: temperamental
+            children:
+              - name: temperamentally
+      - name: distemper

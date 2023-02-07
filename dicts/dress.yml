@@ -1,0 +1,17 @@
+name: 233A
+children:
+  - name: dress
+    children:
+      - name: dresser
+      - name: dressy
+      - name: dressing
+      - name: dressed
+      - name: undress
+        children:
+          - name: undressed
+      - name: underdress
+        children:
+          - name: underdressed
+      - name: overdress
+        children:
+          - name: overdressed

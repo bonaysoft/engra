@@ -1,0 +1,25 @@
+name: 15F
+children:
+  - name: know
+    children:
+      - name: knower
+      - name: knowable
+        children:
+          - name: knowability
+          - name: unknowable
+      - name: knowing
+      - name: known
+        children:
+          - name: unknown
+  - name: knowledge
+    children:
+      - name: knowledgeable
+        children:
+          - name: knowledgeably
+      - name: foreknowledge
+  - name: acknowledge
+    children:
+      - name: acknowledged
+        children:
+          - name: unacknowledged
+      - name: acknowledgment

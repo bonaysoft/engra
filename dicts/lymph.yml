@@ -1,0 +1,17 @@
+name: 464A
+children:
+  - name: lymph
+    children:
+      - name: lymphatic
+      - name: lymphoid
+      - name: lymphoma
+      - name: lymphocyte
+        children:
+          - name: lymphocytic
+      - name: lymphedema
+      - name: lymphoblastic
+      - name: lymphadenopathy
+      - name: perilymph
+      - name: endolymph
+        children:
+          - name: endolymphatic

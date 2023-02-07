@@ -1,0 +1,28 @@
+name: CFA
+children:
+  - name: place
+    children:
+      - name: placer
+      - name: placement
+      - name: placeless
+      - name: anyplace
+      - name: someplace
+      - name: birthplace
+      - name: workplace
+      - name: homeplace
+      - name: marketplace
+      - name: commonplace
+  - name: misplace
+    children:
+      - name: misplacement
+  - name: replace
+    children:
+      - name: replaced
+      - name: replaceable
+        children:
+          - name: irreplaceable
+      - name: replacement
+  - name: displace
+    children:
+      - name: displaced
+      - name: displacement

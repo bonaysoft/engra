@@ -1,0 +1,12 @@
+name: 2CAB
+children:
+  - name: plural
+    children:
+      - name: plurality
+      - name: pluralism
+      - name: pluralist
+        children:
+          - name: pluralistic
+      - name: pluralize
+        children:
+          - name: pluralization

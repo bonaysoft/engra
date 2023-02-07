@@ -1,0 +1,12 @@
+name: 405A
+children:
+  - name: sinus
+    children:
+      - name: sinusitis
+      - name: sinusoid
+        children:
+          - name: sinusoidal
+  - name: insinuate
+    children:
+      - name: insinuating
+      - name: insinuation

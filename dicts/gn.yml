@@ -1,0 +1,14 @@
+name: 9A
+children:
+  - name: pregnant
+    children:
+      - name: pregnancy
+      - name: pregnable
+      - name: impregnate
+        children:
+          - name: impregnation
+          - name: impregnable
+          - name: impregnant
+  - name: benign
+    children:
+      - name: benignly

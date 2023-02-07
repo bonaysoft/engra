@@ -1,0 +1,16 @@
+name: 31C
+children:
+  - name: reign
+    children:
+      - name: reigning
+      - name: reigned
+      - name: sovereign
+        children:
+          - name: sovereignty
+  - name: sovereign
+    children:
+      - name: sovereignty
+  - name: foreign
+    children:
+      - name: foreigner
+      - name: foreignness

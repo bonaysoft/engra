@@ -1,0 +1,9 @@
+name: 302A
+children:
+  - name: barb
+    children:
+      - name: barbed
+      - name: barbate
+  - name: barber
+    children:
+      - name: barbershop

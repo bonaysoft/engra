@@ -1,0 +1,8 @@
+name: 1FL
+children:
+  - name: prophet
+    children:
+      - name: prophetess
+      - name: prophetic
+        children:
+          - name: prophetically

@@ -1,0 +1,42 @@
+name: 24D
+children:
+  - name: bold
+    children:
+      - name: boldly
+      - name: boldness
+      - name: boldface
+      - name: embolden
+  - name: metabolism
+    children:
+      - name: metabolic
+        children:
+          - name: metabolically
+      - name: metabolite
+      - name: metabolize
+  - name: hyperbole
+    children:
+      - name: hyperbolic
+        children:
+          - name: hyperbolically
+  - name: symbol
+    children:
+      - name: symbolic
+        children:
+          - name: symbolical
+            children:
+              - name: symbolically
+      - name: symbolist
+        children:
+          - name: symbolistic
+      - name: symbolism
+      - name: symbolize
+        children:
+          - name: symbolization
+      - name: symbolise
+        children:
+          - name: symbolisation
+      - name: symbolatry
+      - name: symbololatry
+      - name: symbology
+      - name: insymbol
+      - name: intersymbol

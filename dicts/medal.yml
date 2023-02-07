@@ -1,0 +1,5 @@
+name: 2B6B
+children:
+  - name: medal
+    children:
+      - name: medalist

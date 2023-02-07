@@ -1,0 +1,9 @@
+name: 3F6A
+children:
+  - name: dormant
+    children:
+      - name: dormancy
+      - name: dormitive
+      - name: dormitory
+      - name: dorm
+      - name: dormer

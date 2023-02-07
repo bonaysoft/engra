@@ -1,0 +1,14 @@
+name: 4C4A
+children:
+  - name: cloud
+    children:
+      - name: cloudy
+        children:
+          - name: cloudiness
+      - name: cloudless
+      - name: clouding
+      - name: clouded
+        children:
+          - name: unclouded
+      - name: cloudburst
+      - name: thundercloud

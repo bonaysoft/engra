@@ -1,0 +1,13 @@
+name: 221A
+children:
+  - name: aesthetic
+    children:
+      - name: aesthetically
+      - name: aesthetics
+      - name: aesthetician
+      - name: aestheticism
+      - name: aestheticist
+      - name: aestheticize
+        children:
+          - name: aestheticization
+      - name: aesthete

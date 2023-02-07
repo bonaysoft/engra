@@ -48,3 +48,8 @@ func TestName(t *testing.T) {
 
 	fmt.Println(strings.IndexRune("123→", 8594))
 }
+
+func TestFetchTree(t *testing.T) {
+	n, err := FetchTree("him")
+	fmt.Println(n, err)
+}

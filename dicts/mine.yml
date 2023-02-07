@@ -1,0 +1,20 @@
+name: 328A
+children:
+  - name: mine
+    children:
+      - name: miner
+      - name: mined
+      - name: mineral
+        children:
+          - name: mineralogy
+            children:
+              - name: mineralogical
+          - name: mineralize
+            children:
+              - name: mineralizing
+              - name: mineralized
+              - name: mineralization
+  - name: undermine
+    children:
+      - name: undermining
+      - name: undermined

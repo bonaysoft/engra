@@ -1,0 +1,13 @@
+name: 227B
+children:
+  - name: juvenile
+    children:
+      - name: juvenility
+      - name: juvenescent
+      - name: juvenescence
+  - name: rejuvenate
+    children:
+      - name: rejuvenator
+      - name: rejuvenating
+      - name: rejuvenated
+      - name: rejuvenation

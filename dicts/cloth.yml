@@ -1,0 +1,19 @@
+name: 178A
+children:
+  - name: cloth
+    children:
+      - name: clothier
+  - name: clothes
+    children:
+      - name: clothespin
+      - name: clothesline
+      - name: clotheshorse
+      - name: nightclothes
+      - name: underclothes
+      - name: underclothing
+  - name: clothe
+    children:
+      - name: clothing
+      - name: clothed
+        children:
+          - name: unclothed

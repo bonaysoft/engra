@@ -1,0 +1,8 @@
+name: 30E
+children:
+  - name: regard
+    children:
+      - name: regards
+      - name: regarding
+      - name: regardless
+      - name: disregard

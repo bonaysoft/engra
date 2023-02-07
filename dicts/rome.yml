@@ -1,0 +1,18 @@
+name: 250A
+children:
+  - name: Roman
+    children:
+      - name: Romanesque
+  - name: romance
+    children:
+      - name: romantic
+        children:
+          - name: romantical
+            children:
+              - name: romantically
+          - name: romanticist
+          - name: romanticism
+          - name: romanticize
+            children:
+              - name: romanticized
+          - name: unromantic

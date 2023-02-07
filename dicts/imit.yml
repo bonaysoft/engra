@@ -1,0 +1,10 @@
+name: F8B
+children:
+  - name: imitate
+    children:
+      - name: imitator
+      - name: imitative
+      - name: imitation
+      - name: imitable
+        children:
+          - name: inimitable

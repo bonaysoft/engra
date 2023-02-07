@@ -1,0 +1,7 @@
+name: 498A
+children:
+  - name: starve
+    children:
+      - name: starving
+      - name: starved
+      - name: starvation

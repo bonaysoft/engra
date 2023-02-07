@@ -1,0 +1,22 @@
+name: 85B
+children:
+  - name: case
+    children:
+      - name: encase
+        children:
+          - name: encasement
+  - name: casual
+    children:
+      - name: casually
+      - name: casualty
+      - name: casualness
+  - name: cascade
+    children:
+      - name: cascading
+  - name: occasion
+    children:
+      - name: occasional
+        children:
+          - name: occasionally
+          - name: occasionality
+          - name: occasionalism

@@ -1,0 +1,11 @@
+name: 51EA
+children:
+  - name: glamor
+    children:
+      - name: glamorous
+        children:
+          - name: glamorously
+          - name: unglamorous
+      - name: glamorize
+        children:
+          - name: glamorization

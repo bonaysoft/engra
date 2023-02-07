@@ -1,0 +1,22 @@
+name: 68B
+children:
+  - name: novel
+    children:
+      - name: novelist
+        children:
+          - name: novelistic
+      - name: novelize
+        children:
+          - name: novelization
+      - name: novelty
+      - name: novella
+      - name: novelette
+  - name: novice
+    children:
+      - name: noviciate
+      - name: novitiate
+  - name: renovate
+    children:
+      - name: renovator
+      - name: renovated
+      - name: renovation

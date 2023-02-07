@@ -1,0 +1,13 @@
+name: 9FB
+children:
+  - name: probe
+    children:
+      - name: probing
+  - name: probable
+    children:
+      - name: probably
+      - name: probability
+      - name: improbable
+        children:
+          - name: improbably
+          - name: improbability

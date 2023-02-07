@@ -1,0 +1,12 @@
+name: 5FB
+children:
+  - name: cursory
+    children:
+      - name: cursorial
+  - name: precursor
+    children:
+      - name: precursory
+  - name: discursive
+    children:
+      - name: discursively
+      - name: discursiveness

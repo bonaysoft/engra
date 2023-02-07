@@ -1,0 +1,21 @@
+name: 38A
+children:
+  - name: head
+    children:
+      - name: heading
+      - name: headed
+      - name: ahead
+      - name: forehead
+      - name: overhead
+  - name: behead
+    children:
+      - name: beheading
+      - name: beheaded
+  - name: headline
+    children:
+      - name: headliner
+      - name: headlining
+      - name: headlined
+  - name: headquarter
+    children:
+      - name: headquarters

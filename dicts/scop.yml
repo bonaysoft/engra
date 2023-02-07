@@ -1,0 +1,18 @@
+name: 8A
+children:
+  - name: scope
+    children:
+      - name: scopic
+      - name: scoped
+  - name: stethoscope
+    children:
+      - name: stethoscopy
+        children:
+          - name: stethoscopic
+  - name: episcopal
+    children:
+      - name: episcopalian
+      - name: episcopalism
+      - name: episcopate
+      - name: episcopacy
+      - name: episcopize

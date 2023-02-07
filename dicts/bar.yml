@@ -1,0 +1,13 @@
+name: FAD
+children:
+  - name: barometer
+    children:
+      - name: barometry
+        children:
+          - name: barometric
+  - name: baron
+    children:
+      - name: barony
+        children:
+          - name: baronial
+      - name: baronet

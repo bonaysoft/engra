@@ -1,0 +1,56 @@
+name: A9A
+children:
+  - name: exit
+    children:
+      - name: exiting
+  - name: initial
+    children:
+      - name: initially
+      - name: initialize
+        children:
+          - name: initialization
+  - name: initiate
+    children:
+      - name: initiator
+      - name: initiatory
+      - name: initiative
+      - name: initiating
+      - name: initiated
+        children:
+          - name: uninitiated
+  - name: commence
+    children:
+      - name: commencement
+      - name: recommence
+  - name: transit
+    children:
+      - name: transition
+        children:
+          - name: transitional
+      - name: transitory
+      - name: transitive
+        children:
+          - name: transitively
+          - name: transitivity
+          - name: intransitive
+            children:
+              - name: intransitively
+  - name: perish
+    children:
+      - name: perishable
+        children:
+          - name: imperishable
+            children:
+              - name: imperishably
+              - name: imperishability
+  - name: arbiter
+    children:
+      - name: arbitral
+      - name: arbitrate
+        children:
+          - name: arbitrator
+          - name: arbitration
+  - name: arbitrary
+    children:
+      - name: arbitrarily
+      - name: arbitrariness

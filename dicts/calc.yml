@@ -1,0 +1,32 @@
+name: 207A
+children:
+  - name: calculate
+    children:
+      - name: calculator
+      - name: calculating
+      - name: calculated
+        children:
+          - name: calculatedly
+          - name: uncalculated
+      - name: calculation
+      - name: calculative
+      - name: calculable
+        children:
+          - name: incalculable
+            children:
+              - name: incalculably
+      - name: recalculate
+        children:
+          - name: recalculation
+      - name: miscalculate
+        children:
+          - name: miscalculation
+  - name: calculus
+    children:
+      - name: calculous
+  - name: calcium
+    children:
+      - name: calcify
+        children:
+          - name: calcified
+          - name: calcification

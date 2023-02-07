@@ -1,0 +1,14 @@
+name: 330A
+children:
+  - name: automatic
+    children:
+      - name: automatically
+      - name: automaticity
+      - name: semiautomatic
+      - name: automatism
+      - name: automatics
+  - name: automate
+    children:
+      - name: automaton
+      - name: automated
+      - name: automation

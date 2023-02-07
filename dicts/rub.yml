@@ -1,0 +1,16 @@
+name: 33AA
+children:
+  - name: rub
+    children:
+      - name: rubbing
+      - name: rubdown
+  - name: rubber
+    children:
+      - name: rubbery
+      - name: rubberware
+      - name: rubberneck
+        children:
+          - name: rubbernecker
+  - name: rubble
+    children:
+      - name: rubbish

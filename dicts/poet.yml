@@ -1,0 +1,12 @@
+name: 31CA
+children:
+  - name: poet
+    children:
+      - name: poetess
+      - name: poetic
+        children:
+          - name: poetical
+          - name: poetically
+      - name: poetics
+      - name: poetry
+      - name: poem

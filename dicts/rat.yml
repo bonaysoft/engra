@@ -1,0 +1,38 @@
+name: A2A
+children:
+  - name: rate
+    children:
+      - name: rater
+      - name: rating
+      - name: rated
+        children:
+          - name: unrated
+      - name: overrate
+        children:
+          - name: overrated
+      - name: underrate
+        children:
+          - name: underrated
+  - name: ration
+    children:
+      - name: rationing
+      - name: rational
+        children:
+          - name: rationality
+          - name: rationalism
+          - name: rationalist
+            children:
+              - name: rationalistic
+      - name: rationale
+      - name: rationalize
+        children:
+          - name: rationalized
+          - name: rationalization
+      - name: irrational
+        children:
+          - name: irrationally
+          - name: irrationality
+  - name: ratify
+    children:
+      - name: ratifier
+      - name: ratification

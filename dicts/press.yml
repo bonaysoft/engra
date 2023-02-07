@@ -1,0 +1,121 @@
+name: 14A
+children:
+  - name: press
+    children:
+      - name: presser
+      - name: pressing
+      - name: pressed
+      - name: pressman
+      - name: pressroom
+  - name: pressure
+    children:
+      - name: pressured
+      - name: pressurize
+        children:
+          - name: pressurized
+      - name: pressurization
+      - name: depressurize
+        children:
+          - name: depressurizing
+          - name: depressurized
+          - name: depressurization
+  - name: express
+    children:
+      - name: expressly
+      - name: expressed
+        children:
+          - name: unexpressed
+      - name: expressive
+        children:
+          - name: expressively
+          - name: expressivity
+          - name: expressiveness
+          - name: inexpressive
+      - name: expressible
+        children:
+          - name: inexpressible
+            children:
+              - name: inexpressibly
+      - name: expression
+        children:
+          - name: expressionless
+          - name: expressionism
+          - name: expressionist
+            children:
+              - name: expressionistic
+          - name: overexpression
+      - name: expressway
+  - name: impress
+    children:
+      - name: impressed
+        children:
+          - name: unimpressed
+      - name: impressive
+        children:
+          - name: impressively
+          - name: unimpressive
+      - name: impression
+        children:
+          - name: impressional
+          - name: impressionable
+          - name: impressionism
+          - name: impressionist
+            children:
+              - name: impressionistic
+          - name: misimpression
+      - name: impressment
+  - name: depress
+    children:
+      - name: depressor
+      - name: depressed
+      - name: depressing
+        children:
+          - name: depressingly
+      - name: depression
+      - name: depressive
+      - name: depressant
+        children:
+          - name: antidepressant
+  - name: compress
+    children:
+      - name: compressor
+      - name: compressed
+        children:
+          - name: uncompressed
+      - name: compression
+      - name: compressive
+      - name: compressible
+        children:
+          - name: compressibility
+          - name: incompressible
+      - name: decompress
+        children:
+          - name: decompression
+  - name: oppress
+    children:
+      - name: oppressor
+      - name: oppressed
+      - name: oppression
+      - name: oppressive
+        children:
+          - name: oppressively
+          - name: oppressiveness
+  - name: repress
+    children:
+      - name: repressor
+      - name: repressed
+      - name: repression
+      - name: repressive
+      - name: repressible
+        children:
+          - name: irrepressible
+            children:
+              - name: irrepressibly
+  - name: suppress
+    children:
+      - name: suppressor
+      - name: suppressant
+      - name: suppression
+      - name: suppressive
+      - name: suppressible
+      - name: suppressed

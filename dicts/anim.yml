@@ -1,0 +1,34 @@
+name: 192A
+children:
+  - name: animal
+    children:
+      - name: animality
+      - name: animalism
+      - name: animalist
+        children:
+          - name: animalistic
+      - name: animalize
+        children:
+          - name: animalization
+  - name: animate
+    children:
+      - name: animator
+      - name: animating
+      - name: animated
+        children:
+          - name: animatedly
+      - name: animation
+      - name: animative
+      - name: reanimate
+        children:
+          - name: reanimation
+      - name: inanimate
+        children:
+          - name: inanimation
+      - name: exanimate
+        children:
+          - name: exanimation
+  - name: unanimous
+    children:
+      - name: unanimously
+      - name: unanimity

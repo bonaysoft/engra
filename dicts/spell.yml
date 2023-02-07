@@ -1,0 +1,10 @@
+name: 43DA
+children:
+  - name: spell
+    children:
+      - name: speller
+      - name: spelling
+      - name: misspell
+        children:
+          - name: misspelling
+          - name: misspelled

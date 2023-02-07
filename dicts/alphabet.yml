@@ -1,0 +1,15 @@
+name: 49BA
+children:
+  - name: alphabet
+    children:
+      - name: alphabetic
+        children:
+          - name: alphabetical
+            children:
+              - name: alphabetically
+      - name: alphabetize
+        children:
+          - name: alphabetized
+      - name: analphabet
+        children:
+          - name: analphabetic

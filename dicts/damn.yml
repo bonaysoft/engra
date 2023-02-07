@@ -1,0 +1,11 @@
+name: 1A5B
+children:
+  - name: damn
+    children:
+      - name: damning
+      - name: damned
+      - name: damnation
+      - name: damnable
+        children:
+          - name: damnably
+      - name: damnify

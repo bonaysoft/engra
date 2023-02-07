@@ -1,0 +1,99 @@
+name: 8E
+children:
+  - name: spectacle
+    children:
+      - name: spectacular
+        children:
+          - name: spectacularly
+          - name: unspectacular
+      - name: spectacled
+        children:
+          - name: bespectacled
+  - name: aspect
+  - name: expect
+    children:
+      - name: expectant
+        children:
+          - name: expectantly
+      - name: expectancy
+      - name: expectable
+      - name: expected
+        children:
+          - name: expectedly
+          - name: unexpected
+            children:
+              - name: unexpectedly
+              - name: unexpectedness
+  - name: inspect
+    children:
+      - name: inspection
+      - name: inspector
+        children:
+          - name: inspectorate
+  - name: prospect
+    children:
+      - name: prospector
+      - name: prospecting
+      - name: prospective
+      - name: prospectus
+      - name: bioprospecting
+  - name: respect
+    children:
+      - name: respecter
+      - name: respecting
+      - name: respected
+      - name: respectable
+        children:
+          - name: respectably
+          - name: respectability
+      - name: respectful
+        children:
+          - name: respectfully
+      - name: respective
+        children:
+          - name: respectively
+          - name: irrespective
+      - name: disrespect
+        children:
+          - name: disrespected
+          - name: disrespectful
+            children:
+              - name: disrespectfully
+  - name: suspect
+    children:
+      - name: suspected
+        children:
+          - name: unsuspected
+      - name: unsuspecting
+      - name: suspicion
+      - name: suspicious
+        children:
+          - name: suspiciously
+          - name: suspiciousness
+      - name: suspectable
+  - name: perspective
+    children:
+      - name: perspectively
+      - name: perspectival
+      - name: perspectograph
+  - name: retrospect
+    children:
+      - name: retrospection
+      - name: retrospective
+        children:
+          - name: retrospectively
+  - name: spectrum
+    children:
+      - name: spectroscope
+        children:
+          - name: spectroscopy
+            children:
+              - name: spectroscopic
+              - name: spectroscopist
+      - name: spectrograph
+        children:
+          - name: spectrographic
+      - name: spectrometer
+        children:
+          - name: spectrometry
+      - name: spectrophotometer

@@ -1,0 +1,9 @@
+name: 48BA
+children:
+  - name: hazard
+    children:
+      - name: hazardous
+      - name: biohazard
+  - name: haphazard
+    children:
+      - name: haphazardly

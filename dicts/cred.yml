@@ -1,0 +1,42 @@
+name: B7A
+children:
+  - name: credible
+    children:
+      - name: credibly
+      - name: credibility
+      - name: incredible
+        children:
+          - name: incredibly
+  - name: credit
+    children:
+      - name: creditor
+      - name: credited
+        children:
+          - name: uncredited
+      - name: creditable
+        children:
+          - name: creditably
+          - name: creditability
+      - name: creditworthy
+        children:
+          - name: creditworthiness
+  - name: accredit
+    children:
+      - name: accrediting
+      - name: accredited
+        children:
+          - name: unaccredited
+      - name: accreditation
+  - name: discredit
+    children:
+      - name: discrediting
+      - name: discredited
+      - name: discreditable
+  - name: credence
+    children:
+      - name: credent
+      - name: credential
+        children:
+          - name: credentialing
+          - name: credentialed
+          - name: credentialism

@@ -1,0 +1,17 @@
+name: 378A
+children:
+  - name: character
+    children:
+      - name: characteristic
+        children:
+          - name: characteristically
+          - name: uncharacteristic
+            children:
+              - name: uncharacteristically
+      - name: characterless
+      - name: characterology
+        children:
+          - name: characterological
+      - name: characterize
+        children:
+          - name: characterization

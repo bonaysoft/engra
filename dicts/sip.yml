@@ -1,0 +1,8 @@
+name: 656A
+children:
+  - name: dissipate
+    children:
+      - name: dissipator
+      - name: dissipated
+      - name: dissipation
+      - name: dissipative

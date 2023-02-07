@@ -1,0 +1,11 @@
+name: 48AA
+children:
+  - name: noble
+    children:
+      - name: nobly
+      - name: noblesse
+      - name: nobleman
+      - name: noblewoman
+      - name: ennoble
+        children:
+          - name: ennobling

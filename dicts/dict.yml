@@ -1,0 +1,46 @@
+name: 2DB
+children:
+  - name: dictate
+    children:
+      - name: dictated
+      - name: dictation
+      - name: dictator
+        children:
+          - name: dictatory
+            children:
+              - name: dictatorial
+          - name: dictatorship
+  - name: predict
+    children:
+      - name: predictor
+      - name: predicted
+      - name: prediction
+      - name: predictive
+      - name: predictable
+        children:
+          - name: predictably
+          - name: predictability
+      - name: unpredicted
+      - name: unpredictable
+        children:
+          - name: unpredictably
+          - name: unpredictability
+  - name: indict
+    children:
+      - name: indictor
+      - name: indictee
+      - name: indictable
+      - name: indictment
+      - name: indicted
+        children:
+          - name: unindicted
+  - name: contradict
+    children:
+      - name: contradiction
+      - name: contradictory
+  - name: addict
+    children:
+      - name: addicting
+      - name: addicted
+      - name: addiction
+      - name: addictive

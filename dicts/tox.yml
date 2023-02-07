@@ -1,0 +1,22 @@
+name: 19CA
+children:
+  - name: toxic
+    children:
+      - name: toxicity
+      - name: toxicant
+      - name: nontoxic
+      - name: toxicology
+        children:
+          - name: toxicological
+          - name: toxicologist
+      - name: intoxicant
+        children:
+          - name: intoxicate
+            children:
+              - name: intoxicating
+              - name: intoxicated
+              - name: intoxication
+  - name: toxin
+    children:
+      - name: endotoxin
+      - name: antitoxin

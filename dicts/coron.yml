@@ -1,0 +1,11 @@
+name: 365B
+children:
+  - name: corona
+    children:
+      - name: coronal
+      - name: coronary
+      - name: coronate
+        children:
+          - name: coronation
+      - name: coronavirus
+      - name: coronagraph

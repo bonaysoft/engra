@@ -1,0 +1,38 @@
+name: 11C
+children:
+  - name: tense
+    children:
+      - name: tensor
+      - name: tensely
+      - name: tenseness
+      - name: tensile
+      - name: tensity
+      - name: tension
+        children:
+          - name: hypertension
+          - name: hypotension
+      - name: tensive
+        children:
+          - name: hypertensive
+            children:
+              - name: antihypertensive
+          - name: hypotensive
+  - name: intense
+    children:
+      - name: intensely
+      - name: intensity
+      - name: intension
+      - name: intensive
+        children:
+          - name: intensively
+      - name: intensify
+        children:
+          - name: intensifier
+          - name: intensifying
+          - name: intensified
+          - name: intensification
+  - name: extensive
+    children:
+      - name: extensively
+      - name: extensiveness
+      - name: coextensive

@@ -1,0 +1,10 @@
+name: 1B3B
+children:
+  - name: tranquil
+    children:
+      - name: tranquilly
+      - name: tranquility
+      - name: tranquilize
+        children:
+          - name: tranquilizer
+          - name: tranquilizing

@@ -1,0 +1,17 @@
+name: E4B
+children:
+  - name: tune
+    children:
+      - name: tuner
+      - name: tuning
+      - name: tuned
+      - name: tuneful
+      - name: tuneless
+        children:
+          - name: tunelessly
+      - name: tunable
+      - name: attune
+        children:
+          - name: attuned
+          - name: attunement
+      - name: retune

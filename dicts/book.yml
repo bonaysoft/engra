@@ -1,0 +1,14 @@
+name: C5B
+children:
+  - name: book
+    children:
+      - name: booker
+      - name: booking
+      - name: booked
+      - name: overbook
+        children:
+          - name: overbooked
+      - name: bookseller
+      - name: bookshop
+      - name: bookshelf
+      - name: bookcase

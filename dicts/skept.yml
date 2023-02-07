@@ -1,0 +1,8 @@
+name: 8C
+children:
+  - name: skeptic
+    children:
+      - name: skeptical
+        children:
+          - name: skeptically
+      - name: skepticism

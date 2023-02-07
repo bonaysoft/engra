@@ -1,0 +1,16 @@
+name: 171A
+children:
+  - name: think
+    children:
+      - name: thinker
+      - name: thinking
+      - name: thought
+        children:
+          - name: thoughtful
+            children:
+              - name: thoughtfully
+              - name: thoughtfulness
+          - name: thoughtless
+            children:
+              - name: thoughtlessly
+              - name: thoughtlessness

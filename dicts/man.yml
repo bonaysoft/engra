@@ -1,0 +1,13 @@
+name: 1AFA
+children:
+  - name: manor
+    children:
+      - name: manorial
+  - name: permanent
+    children:
+      - name: permanently
+      - name: permanence
+      - name: permanency
+      - name: impermanent
+        children:
+          - name: impermanence

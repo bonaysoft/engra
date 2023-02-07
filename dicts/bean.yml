@@ -1,0 +1,5 @@
+name: 5FCA
+children:
+  - name: bean
+    children:
+      - name: soybean

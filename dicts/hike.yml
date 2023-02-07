@@ -1,0 +1,10 @@
+name: 47DA
+children:
+  - name: hike
+    children:
+      - name: hiker
+      - name: hiking
+  - name: hitchhike
+    children:
+      - name: hitchhiker
+      - name: hitchhiking

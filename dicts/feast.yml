@@ -1,0 +1,5 @@
+name: C6E
+children:
+  - name: feast
+    children:
+      - name: feasting

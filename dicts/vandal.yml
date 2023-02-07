@@ -1,0 +1,8 @@
+name: 5B3A
+children:
+  - name: vandal
+    children:
+      - name: vandalize
+        children:
+          - name: vandalized
+      - name: vandalism

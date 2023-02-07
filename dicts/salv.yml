@@ -1,0 +1,9 @@
+name: F0B
+children:
+  - name: salvage
+    children:
+      - name: salvager
+      - name: salvaged
+      - name: salvageable
+        children:
+          - name: unsalvageable

@@ -1,0 +1,21 @@
+name: A8A
+children:
+  - name: father
+    children:
+      - name: fatherly
+        children:
+          - name: fatherliness
+          - name: unfatherly
+      - name: fathering
+      - name: fatherless
+      - name: fatherhood
+      - name: fatherlike
+      - name: fathership
+      - name: godfather
+      - name: forefather
+      - name: grandfather
+        children:
+          - name: grandfatherly
+          - name: grandfathered
+      - name: housefather
+      - name: unfathered

@@ -1,0 +1,16 @@
+name: 2EAA
+children:
+  - name: list
+    children:
+      - name: listing
+      - name: listed
+        children:
+          - name: unlisted
+      - name: enlist
+        children:
+          - name: enlistee
+          - name: enlistment
+      - name: delist
+        children:
+          - name: delisting
+      - name: checklist

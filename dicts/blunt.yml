@@ -1,0 +1,7 @@
+name: 1B1C
+children:
+  - name: blunt
+    children:
+      - name: bluntly
+      - name: bluntness
+      - name: blunted

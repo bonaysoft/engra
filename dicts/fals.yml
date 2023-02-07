@@ -1,0 +1,15 @@
+name: 10DC
+children:
+  - name: "false"
+    children:
+      - name: falsely
+      - name: falseness
+      - name: falsehood
+      - name: falsity
+      - name: falsetto
+  - name: falsify
+    children:
+      - name: falsifier
+      - name: falsified
+      - name: falsification
+      - name: falsifiable

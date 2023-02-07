@@ -1,0 +1,6 @@
+name: 1E4A
+children:
+  - name: corps
+    children:
+      - name: corpsman
+      - name: corpse

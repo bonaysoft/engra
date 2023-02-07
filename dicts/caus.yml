@@ -1,0 +1,11 @@
+name: 1C3A
+children:
+  - name: cause
+    children:
+      - name: causal
+        children:
+          - name: causally
+          - name: causality
+      - name: causative
+      - name: causation
+      - name: because

@@ -1,0 +1,16 @@
+name: 2D6A
+children:
+  - name: drama
+    children:
+      - name: dramatic
+        children:
+          - name: undramatic
+          - name: dramatically
+      - name: dramatics
+      - name: dramatist
+      - name: psychodrama
+  - name: melodrama
+    children:
+      - name: melodramatic
+        children:
+          - name: melodramatically

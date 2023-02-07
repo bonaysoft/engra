@@ -1,0 +1,8 @@
+name: 578A
+children:
+  - name: assassin
+    children:
+      - name: assassinate
+        children:
+          - name: assassinated
+          - name: assassination

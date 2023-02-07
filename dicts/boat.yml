@@ -1,0 +1,6 @@
+name: 25EA
+children:
+  - name: boat
+    children:
+      - name: boater
+      - name: boating

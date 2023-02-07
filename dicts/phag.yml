@@ -1,0 +1,8 @@
+name: 3BEA
+children:
+  - name: esophagus
+    children:
+      - name: esophagitis
+      - name: esophageal
+        children:
+          - name: gastroesophageal

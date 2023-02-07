@@ -1,0 +1,17 @@
+name: 39B
+children:
+  - name: via
+    children:
+      - name: viatic
+      - name: viameter
+      - name: viaduct
+  - name: trivia
+    children:
+      - name: trivial
+        children:
+          - name: trivially
+      - name: triviality
+      - name: trivialize
+        children:
+          - name: trivialization
+      - name: nontrivial

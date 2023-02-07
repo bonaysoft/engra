@@ -1,0 +1,37 @@
+name: 88A
+children:
+  - name: comprehend
+    children:
+      - name: comprehending
+        children:
+          - name: uncomprehending
+            children:
+              - name: uncomprehendingly
+      - name: comprehension
+        children:
+          - name: incomprehension
+      - name: comprehensible
+        children:
+          - name: comprehensibility
+          - name: incomprehensible
+            children:
+              - name: incomprehensibly
+                children:
+                  - name: incomprehensibility
+  - name: comprehensive
+    children:
+      - name: comprehensively
+      - name: comprehensiveness
+  - name: apprehend
+    children:
+      - name: apprehension
+        children:
+          - name: inapprehension
+      - name: apprehensible
+      - name: apprehensive
+        children:
+          - name: apprehensively
+      - name: misapprehend
+        children:
+          - name: misapprehension
+          - name: misapprehensive

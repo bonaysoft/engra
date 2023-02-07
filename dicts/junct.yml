@@ -1,0 +1,10 @@
+name: A7C
+children:
+  - name: junction
+    children:
+      - name: junctional
+      - name: juncture
+  - name: adjunct
+    children:
+      - name: adjunction
+      - name: adjunctive

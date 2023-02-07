@@ -1,0 +1,11 @@
+name: 22EA
+children:
+  - name: bone
+    children:
+      - name: boney
+      - name: boneless
+      - name: boned
+      - name: bonesetter
+        children:
+          - name: bonesetting
+      - name: debone

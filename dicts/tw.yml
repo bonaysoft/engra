@@ -1,0 +1,15 @@
+name: 3FG
+children:
+  - name: twin
+    children:
+      - name: twinborn
+  - name: twine
+    children:
+      - name: twined
+      - name: twining
+      - name: intertwine
+        children:
+          - name: intertwined
+      - name: entwine
+        children:
+          - name: entwined

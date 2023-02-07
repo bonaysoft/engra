@@ -1,0 +1,8 @@
+name: 612A
+children:
+  - name: rural
+    children:
+      - name: rurality
+      - name: ruralist
+      - name: ruralism
+      - name: ruralize

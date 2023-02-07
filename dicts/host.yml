@@ -1,0 +1,14 @@
+name: 154A
+children:
+  - name: host
+    children:
+      - name: hostess
+      - name: hosting
+  - name: hostel
+    children:
+      - name: hostelry
+      - name: hotel
+  - name: hostile
+    children:
+      - name: hostility
+  - name: hostage

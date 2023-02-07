@@ -1,0 +1,36 @@
+name: 86A
+children:
+  - name: class
+    children:
+      - name: classy
+      - name: classless
+      - name: classism
+      - name: classroom
+      - name: classmate
+      - name: classwork
+      - name: underclass
+      - name: underclassman
+      - name: upperclassman
+      - name: outclass
+  - name: classic
+    children:
+      - name: classical
+        children:
+          - name: classically
+          - name: postclassic
+          - name: semiclassical
+      - name: classicist
+      - name: classicism
+      - name: classicize
+      - name: neoclassic
+        children:
+          - name: neoclassical
+          - name: neoclassicism
+  - name: classify
+    children:
+      - name: classifier
+      - name: classified
+        children:
+          - name: classifieds
+          - name: unclassified
+      - name: classification

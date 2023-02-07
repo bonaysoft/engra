@@ -1,0 +1,16 @@
+name: 18B
+children:
+  - name: tenant
+    children:
+      - name: tenancy
+      - name: tenement
+  - name: tenacity
+    children:
+      - name: tenacious
+        children:
+          - name: tenaciously
+  - name: tenure
+    children:
+      - name: tenured
+        children:
+          - name: untenured

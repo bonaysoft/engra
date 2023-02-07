@@ -1,0 +1,10 @@
+name: F1B
+children:
+  - name: merchant
+    children:
+      - name: merchantman
+      - name: merchantable
+      - name: merchandise
+        children:
+          - name: merchandiser
+          - name: merchandising

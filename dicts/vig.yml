@@ -1,0 +1,27 @@
+name: 3DB
+children:
+  - name: vigor
+    children:
+      - name: vigorous
+        children:
+          - name: vigorously
+      - name: invigorate
+        children:
+          - name: invigorator
+          - name: invigorating
+          - name: invigorated
+          - name: invigoration
+          - name: invigorative
+          - name: reinvigorate
+            children:
+              - name: reinvigorated
+              - name: reinvigoration
+  - name: vigil
+    children:
+      - name: vigilance
+      - name: vigilant
+        children:
+          - name: vigilantly
+  - name: vigilante
+    children:
+      - name: vigilantism

@@ -1,0 +1,33 @@
+name: C4A
+children:
+  - name: alien
+    children:
+      - name: alienness
+      - name: alienable
+        children:
+          - name: inalienable
+          - name: unalienable
+      - name: alienist
+      - name: alienate
+        children:
+          - name: alienating
+          - name: alienated
+          - name: alienation
+  - name: alter
+    children:
+      - name: altering
+      - name: altered
+        children:
+          - name: unaltered
+      - name: alterable
+        children:
+          - name: unalterable
+      - name: alteration
+  - name: alternate
+    children:
+      - name: alternately
+      - name: alternating
+      - name: alternation
+      - name: alternative
+        children:
+          - name: alternatively

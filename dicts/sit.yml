@@ -1,0 +1,25 @@
+name: 4B
+children:
+  - name: sit
+    children:
+      - name: sitter
+      - name: sitting
+      - name: babysit
+        children:
+          - name: babysitter
+          - name: babysitting
+  - name: site
+    children:
+      - name: siting
+      - name: website
+      - name: worksite
+      - name: homesite
+  - name: situate
+    children:
+      - name: situating
+      - name: situated
+        children:
+          - name: situatedness
+      - name: situation
+        children:
+          - name: situational

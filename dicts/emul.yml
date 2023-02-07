@@ -1,0 +1,6 @@
+name: F8C
+children:
+  - name: emulate
+    children:
+      - name: emulator
+      - name: emulation

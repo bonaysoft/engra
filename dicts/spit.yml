@@ -1,0 +1,9 @@
+name: 8H
+children:
+  - name: despite
+    children:
+      - name: despiteful
+      - name: spite
+        children:
+          - name: spiteful
+          - name: spitefully

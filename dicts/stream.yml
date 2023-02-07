@@ -1,0 +1,22 @@
+name: 1FEA
+children:
+  - name: stream
+    children:
+      - name: streamer
+      - name: streaming
+      - name: streambed
+      - name: upstream
+      - name: midstream
+      - name: downstream
+      - name: bloodstream
+      - name: airstream
+      - name: slipstream
+  - name: mainstream
+    children:
+      - name: mainstreaming
+      - name: mainstreamed
+  - name: streamline
+    children:
+      - name: streamliner
+      - name: streamlining
+      - name: streamlined

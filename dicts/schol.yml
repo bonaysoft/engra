@@ -1,0 +1,10 @@
+name: D1B
+children:
+  - name: scholar
+    children:
+      - name: scholarly
+      - name: scholarship
+      - name: scholastic
+        children:
+          - name: scholasticism
+          - name: interscholastic

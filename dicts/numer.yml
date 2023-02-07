@@ -1,0 +1,7 @@
+name: 1C7A
+children:
+  - name: enumerate
+    children:
+      - name: enumerator
+      - name: enumeration
+      - name: enumerable

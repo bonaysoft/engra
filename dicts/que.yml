@@ -1,0 +1,6 @@
+name: 42FC
+children:
+  - name: queue
+    children:
+      - name: queuer
+      - name: dequeue

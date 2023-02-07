@@ -1,0 +1,13 @@
+name: 2DDA
+children:
+  - name: agriculture
+    children:
+      - name: agriculturist
+      - name: agricultural
+        children:
+          - name: agriculturalist
+          - name: nonagricultural
+  - name: agrarian
+    children:
+      - name: agrarianism
+      - name: agrarianize

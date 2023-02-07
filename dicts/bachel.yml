@@ -1,0 +1,8 @@
+name: 3A1B
+children:
+  - name: bachelor
+    children:
+      - name: bachelorette
+      - name: bachelorhood
+      - name: bachelorship
+      - name: bachelordom

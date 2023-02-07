@@ -1,0 +1,33 @@
+name: 25A
+children:
+  - name: instrument
+    children:
+      - name: instrumental
+        children:
+          - name: instrumentally
+          - name: instrumentality
+          - name: instrumentalist
+          - name: instrumentalism
+          - name: instrumentalization
+      - name: instrumented
+      - name: instrumentation
+      - name: instrumentarium
+  - name: industry
+    children:
+      - name: industrial
+        children:
+          - name: industrially
+          - name: industrialist
+          - name: industrialism
+          - name: industrialize
+            children:
+              - name: industrializing
+              - name: industrialized
+              - name: industrialization
+              - name: deindustrialize
+                children:
+                  - name: deindustrialization
+      - name: industrious
+        children:
+          - name: industriously
+          - name: industriousness

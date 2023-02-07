@@ -1,0 +1,6 @@
+name: 5C2A
+children:
+  - name: lean
+    children:
+      - name: leaning
+      - name: leanness

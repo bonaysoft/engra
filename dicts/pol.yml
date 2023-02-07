@@ -1,0 +1,12 @@
+name: 6DCA
+children:
+  - name: monopoly
+    children:
+      - name: monopolism
+      - name: monopolist
+        children:
+          - name: monopolistic
+      - name: monopolize
+        children:
+          - name: monopolized
+          - name: monopolization

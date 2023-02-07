@@ -1,0 +1,46 @@
+name: ADA
+children:
+  - name: social
+    children:
+      - name: socially
+      - name: socialism
+      - name: socialist
+        children:
+          - name: socialistic
+      - name: socialize
+        children:
+          - name: socializing
+          - name: socialized
+          - name: socialization
+      - name: socialite
+      - name: sociality
+      - name: asocial
+      - name: antisocial
+      - name: prosocial
+      - name: psychosocial
+        children:
+          - name: biopsychosocial
+      - name: homosocial
+  - name: sociology
+    children:
+      - name: sociological
+        children:
+          - name: sociologically
+      - name: sociobiology
+        children:
+          - name: sociobiological
+      - name: sociolinguistic
+      - name: socioeconomic
+  - name: society
+    children:
+      - name: societal
+  - name: associate
+    children:
+      - name: associated
+      - name: associative
+      - name: association
+        children:
+          - name: associational
+      - name: disassociate
+        children:
+          - name: disassociation

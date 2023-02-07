@@ -1,0 +1,14 @@
+name: 2D2A
+children:
+  - name: combine
+    children:
+      - name: combining
+      - name: combined
+      - name: combination
+      - name: combinatory
+        children:
+          - name: combinatorial
+      - name: recombine
+        children:
+          - name: recombinant
+          - name: recombination

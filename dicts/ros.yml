@@ -1,0 +1,10 @@
+name: 382A
+children:
+  - name: rose
+    children:
+      - name: rosery
+      - name: rosette
+      - name: roseate
+      - name: roseleaf
+      - name: rosebush
+      - name: rosewood

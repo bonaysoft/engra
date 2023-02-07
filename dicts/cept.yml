@@ -1,0 +1,62 @@
+name: 5F
+children:
+  - name: accept
+    children:
+      - name: acceptor
+      - name: accepted
+      - name: acceptance
+      - name: acceptable
+        children:
+          - name: acceptably
+          - name: acceptability
+          - name: unacceptable
+            children:
+              - name: unacceptably
+  - name: except
+    children:
+      - name: excepting
+      - name: exceptive
+      - name: exception
+        children:
+          - name: exceptional
+            children:
+              - name: exceptionally
+              - name: exceptionality
+      - name: unexceptional
+      - name: exceptionable
+        children:
+          - name: exceptionably
+      - name: unexceptionable
+  - name: concept
+    children:
+      - name: conception
+        children:
+          - name: misconception
+          - name: preconception
+      - name: conceptual
+        children:
+          - name: conceptually
+          - name: conceptualist
+          - name: conceptualism
+      - name: conceptualize
+        children:
+          - name: conceptualization
+            children:
+              - name: reconceptualization
+  - name: intercept
+    children:
+      - name: interceptor
+      - name: interception
+  - name: deception
+    children:
+      - name: deceptious
+      - name: deceptive
+        children:
+          - name: deceptively
+  - name: precept
+    children:
+      - name: preceptor
+  - name: susceptible
+    children:
+      - name: susceptibly
+      - name: susceptibility

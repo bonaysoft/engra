@@ -1,0 +1,21 @@
+name: 22B
+children:
+  - name: promise
+    children:
+      - name: promising
+        children:
+          - name: promisingly
+          - name: unpromising
+      - name: promised
+      - name: promissory
+      - name: compromise
+        children:
+          - name: compromiser
+          - name: compromising
+            children:
+              - name: uncompromising
+                children:
+                  - name: uncompromisingly
+          - name: compromised
+            children:
+              - name: uncompromised

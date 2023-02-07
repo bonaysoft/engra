@@ -1,0 +1,20 @@
+name: 17B
+children:
+  - name: right
+    children:
+      - name: rightly
+      - name: rightful
+        children:
+          - name: rightfully
+      - name: righteous
+        children:
+          - name: righteously
+          - name: righteousness
+          - name: unrighteous
+      - name: rightness
+  - name: upright
+    children:
+      - name: uprightness
+  - name: copyright
+    children:
+      - name: copyrighted

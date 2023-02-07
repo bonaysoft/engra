@@ -1,0 +1,32 @@
+name: 9FA
+children:
+  - name: prove
+    children:
+      - name: proving
+      - name: proved
+        children:
+          - name: unproved
+      - name: proven
+        children:
+          - name: unproven
+      - name: provable
+        children:
+          - name: unprovable
+  - name: approve
+    children:
+      - name: approval
+      - name: approving
+        children:
+          - name: approvingly
+      - name: approved
+        children:
+          - name: unapproved
+      - name: disapprove
+        children:
+          - name: disapproval
+          - name: disapproving
+          - name: disapprovingly
+  - name: disprove
+    children:
+      - name: disproval
+      - name: disprovable

@@ -1,0 +1,23 @@
+name: FAA
+children:
+  - name: grave
+    children:
+      - name: gravely
+      - name: gravity
+        children:
+          - name: antigravity
+      - name: gravimeter
+  - name: aggravate
+    children:
+      - name: aggravating
+      - name: aggravated
+      - name: aggravation
+  - name: gravitate
+    children:
+      - name: gravitation
+        children:
+          - name: gravitational
+            children:
+              - name: gravitationally
+      - name: graviton
+      - name: gravitative

@@ -1,0 +1,14 @@
+name: 14CC
+children:
+  - name: frost
+    children:
+      - name: frosty
+      - name: frostily
+      - name: frosting
+      - name: frosted
+      - name: defrost
+        children:
+          - name: defroster
+          - name: defrosted
+      - name: hoarfrost
+      - name: permafrost

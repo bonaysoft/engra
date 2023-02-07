@@ -1,0 +1,7 @@
+name: 2CD
+children:
+  - name: naive
+    children:
+      - name: naively
+      - name: naivete
+      - name: naivety

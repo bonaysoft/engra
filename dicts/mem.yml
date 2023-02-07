@@ -1,0 +1,15 @@
+name: C2A
+children:
+  - name: memoir
+    children:
+      - name: memoirist
+  - name: remember
+    children:
+      - name: remembering
+      - name: remembered
+        children:
+          - name: unremembered
+      - name: rememberable
+      - name: remembrance
+      - name: disremember
+      - name: misremember

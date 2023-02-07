@@ -1,0 +1,16 @@
+name: 26EA
+children:
+  - name: conflict
+    children:
+      - name: conflicting
+      - name: conflicted
+      - name: conflictual
+  - name: afflict
+    children:
+      - name: afflicted
+      - name: affliction
+  - name: inflict
+    children:
+      - name: inflictor
+      - name: inflictive
+      - name: infliction

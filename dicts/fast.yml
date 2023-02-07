@@ -1,0 +1,11 @@
+name: 284A
+children:
+  - name: fast
+    children:
+      - name: faster
+      - name: fastest
+  - name: fasten
+    children:
+      - name: fastener
+      - name: fastening
+      - name: unfasten

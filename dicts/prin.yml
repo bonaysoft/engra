@@ -1,0 +1,17 @@
+name: 81C
+children:
+  - name: prince
+    children:
+      - name: princess
+      - name: princely
+      - name: princeling
+      - name: princedom
+  - name: principal
+    children:
+      - name: principally
+      - name: principalship
+      - name: principle
+        children:
+          - name: principled
+            children:
+              - name: unprincipled

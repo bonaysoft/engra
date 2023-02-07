@@ -1,0 +1,17 @@
+name: 1F1C
+children:
+  - name: heritage
+    children:
+      - name: heritable
+        children:
+          - name: heritability
+  - name: inherit
+    children:
+      - name: inheritor
+      - name: inheritress
+      - name: inherited
+      - name: inheritance
+      - name: inheritable
+      - name: disinherit
+        children:
+          - name: disinherited

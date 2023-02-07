@@ -1,11 +1,58 @@
 package waibo
 
 import (
+	"encoding/json"
 	"fmt"
 	"strings"
 
 	"github.com/antchfx/htmlquery"
+	"github.com/go-resty/resty/v2"
+	"github.com/samber/lo"
 )
+
+type Node struct {
+	Id       string `json:"id" yaml:"name"`
+	Topic    string `json:"topic" yaml:"-"`
+	Children []Node `json:"children" yaml:"children,omitempty"`
+}
+
+func (n *Node) Exist(word string) bool {
+	if n.Id == word {
+		return true
+	}
+
+	if len(n.Children) == 0 {
+		return false
+	}
+
+	_, ok := lo.Find(n.Children, func(item Node) bool { return item.Exist(word) })
+	return ok
+}
+
+func NewNode() *Node {
+	return &Node{}
+}
+
+var hc = resty.New()
+
+func FetchTree(word string) (*Node, error) {
+	resp, err := hc.R().Get("https://www.waibo.wang/r/" + word)
+	if err != nil {
+		return nil, err
+	}
+
+	sIdx := strings.Index(resp.String(), "load_jsmind(") + 12
+	eIdx := strings.Index(resp.String(), ", 'rootMap');")
+	result := strings.Replace(resp.String()[sIdx:eIdx], "\"", "\\\"", -1)
+	result = strings.Replace(result, "'", "\"", -1)
+
+	tree := NewNode()
+	if err := json.Unmarshal([]byte(result), tree); err != nil {
+		return nil, err
+	}
+
+	return tree, nil
+}
 
 func Search2(word string) ([]string, string) {
 	doc, err := htmlquery.LoadURL("https://www.waibo.wang/r/" + word)

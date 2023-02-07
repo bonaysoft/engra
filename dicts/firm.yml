@@ -1,0 +1,36 @@
+name: 12CA
+children:
+  - name: firm
+    children:
+      - name: firmly
+      - name: firmness
+      - name: firmament
+      - name: infirm
+        children:
+          - name: infirmity
+          - name: infirmary
+  - name: confirm
+    children:
+      - name: confirmed
+        children:
+          - name: unconfirmed
+      - name: confirmation
+      - name: confirmatory
+      - name: reconfirm
+        children:
+          - name: reconfirmation
+      - name: disconfirm
+  - name: affirm
+    children:
+      - name: affirming
+      - name: affirmable
+      - name: affirmation
+      - name: affirmative
+        children:
+          - name: affirmatively
+      - name: reaffirm
+        children:
+          - name: reaffirmation
+      - name: disaffirm
+        children:
+          - name: disaffirmation

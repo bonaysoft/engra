@@ -1,0 +1,25 @@
+name: 36A
+children:
+  - name: close
+    children:
+      - name: closing
+      - name: closed
+      - name: closely
+      - name: closer
+      - name: closest
+      - name: closeness
+      - name: closure
+  - name: closet
+    children:
+      - name: closeted
+  - name: enclose
+    children:
+      - name: enclosed
+      - name: enclosure
+  - name: disclose
+    children:
+      - name: disclosure
+      - name: undisclosed
+  - name: foreclose
+    children:
+      - name: foreclosure

@@ -1,0 +1,13 @@
+name: FAB
+children:
+  - name: grieve
+    children:
+      - name: grieving
+      - name: grieved
+      - name: grievance
+      - name: grievous
+        children:
+          - name: grievously
+      - name: aggrieve
+        children:
+          - name: aggrieved

@@ -1,0 +1,19 @@
+name: 2E1A
+children:
+  - name: chrome
+    children:
+      - name: chromium
+      - name: chromed
+  - name: chromosome
+    children:
+      - name: chromosomal
+  - name: monochrome
+    children:
+      - name: monochromat
+        children:
+          - name: monochromator
+          - name: monochromatic
+            children:
+              - name: monochromaticity
+          - name: monochromatize
+          - name: monochromatism

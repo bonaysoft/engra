@@ -1,0 +1,7 @@
+name: 22CB
+children:
+  - name: jewel
+    children:
+      - name: jewelry
+      - name: jeweler
+      - name: jeweled

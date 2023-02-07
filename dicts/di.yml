@@ -1,0 +1,21 @@
+name: 25CA
+children:
+  - name: diet
+    children:
+      - name: dieting
+      - name: dieter
+      - name: dietary
+      - name: dietetic
+        children:
+          - name: dietetics
+      - name: dietitian
+      - name: dietician
+  - name: diary
+    children:
+      - name: diarial
+      - name: diarist
+      - name: diarize
+  - name: dial
+    children:
+      - name: dialing
+      - name: redial

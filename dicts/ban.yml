@@ -1,0 +1,13 @@
+name: 1D5A
+children:
+  - name: ban
+    children:
+      - name: banning
+      - name: banned
+  - name: banal
+    children:
+      - name: banality
+  - name: banish
+    children:
+      - name: banished
+      - name: banishment

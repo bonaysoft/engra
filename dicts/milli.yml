@@ -1,0 +1,13 @@
+name: 1CDB
+children:
+  - name: million
+    children:
+      - name: millionaire
+        children:
+          - name: millionairess
+          - name: multimillionaire
+      - name: millionth
+  - name: billion
+    children:
+      - name: billionth
+      - name: billionaire

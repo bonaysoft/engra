@@ -1,0 +1,12 @@
+name: 4E6A
+children:
+  - name: snob
+    children:
+      - name: snobby
+      - name: snobbish
+        children:
+          - name: snobbishness
+      - name: snobbery
+      - name: snobling
+      - name: snobism
+      - name: snobbism

@@ -1,0 +1,8 @@
+name: 2F
+children:
+  - name: feasible
+    children:
+      - name: feasibly
+      - name: feasibility
+      - name: unfeasible
+      - name: infeasible

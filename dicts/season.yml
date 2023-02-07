@@ -1,0 +1,14 @@
+name: 181A
+children:
+  - name: season
+    children:
+      - name: seasonal
+        children:
+          - name: seasonally
+          - name: seasonality
+          - name: unseasonal
+      - name: seasoning
+      - name: seasoned
+      - name: preseason
+      - name: postseason
+      - name: offseason

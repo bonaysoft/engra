@@ -1,0 +1,19 @@
+name: 18FA
+children:
+  - name: territory
+    children:
+      - name: territorial
+        children:
+          - name: territorially
+          - name: territoriality
+          - name: exterritorial
+          - name: extraterritorial
+            children:
+              - name: extraterritoriality
+  - name: terrace
+    children:
+      - name: terracing
+      - name: terraced
+  - name: terrestrial
+    children:
+      - name: extraterrestrial

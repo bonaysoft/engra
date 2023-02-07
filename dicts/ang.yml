@@ -1,0 +1,19 @@
+name: 173A
+children:
+  - name: angle
+    children:
+      - name: angler
+      - name: angled
+      - name: angular
+        children:
+          - name: angularity
+      - name: angulation
+      - name: triangle
+        children:
+          - name: triangular
+          - name: triangulate
+            children:
+              - name: triangulation
+      - name: rectangle
+        children:
+          - name: rectangular

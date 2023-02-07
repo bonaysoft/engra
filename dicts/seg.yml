@@ -1,0 +1,8 @@
+name: FDC
+children:
+  - name: segment
+    children:
+      - name: segmented
+      - name: segmental
+      - name: segmentary
+      - name: segmentation

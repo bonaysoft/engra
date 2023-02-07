@@ -1,0 +1,15 @@
+name: B9C
+children:
+  - name: punish
+    children:
+      - name: punisher
+      - name: punishable
+      - name: punishment
+      - name: punishing
+      - name: punished
+        children:
+          - name: unpunished
+      - name: punitive
+        children:
+          - name: punitively
+      - name: impunity

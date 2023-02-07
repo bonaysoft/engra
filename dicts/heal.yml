@@ -1,0 +1,22 @@
+name: F2C
+children:
+  - name: heal
+    children:
+      - name: healer
+      - name: healing
+      - name: healed
+        children:
+          - name: unhealed
+  - name: health
+    children:
+      - name: healthy
+        children:
+          - name: healthily
+      - name: healthful
+        children:
+          - name: healthfully
+          - name: healthfulness
+      - name: unhealthy
+        children:
+          - name: unhealthily
+          - name: unhealthful

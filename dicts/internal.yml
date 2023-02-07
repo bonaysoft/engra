@@ -1,0 +1,11 @@
+name: 3E7A
+children:
+  - name: internal
+    children:
+      - name: internally
+      - name: internality
+      - name: internalize
+        children:
+          - name: internalizing
+          - name: internalized
+          - name: internalization

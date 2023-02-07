@@ -1,0 +1,16 @@
+name: 51CA
+children:
+  - name: bureau
+    children:
+      - name: bureaucracy
+      - name: bureaucrat
+        children:
+          - name: bureaucratic
+            children:
+              - name: bureaucratically
+          - name: bureaucratism
+          - name: bureaucratese
+          - name: bureaucratize
+            children:
+              - name: bureaucratized
+              - name: bureaucratization

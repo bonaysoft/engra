@@ -1,0 +1,23 @@
+name: 101A
+children:
+  - name: govern
+    children:
+      - name: governor
+        children:
+          - name: governorship
+          - name: governess
+      - name: governing
+      - name: governed
+        children:
+          - name: ungoverned
+      - name: government
+        children:
+          - name: governmental
+            children:
+              - name: governmentally
+              - name: nongovernmental
+              - name: intergovernmental
+      - name: governance
+      - name: governable
+        children:
+          - name: ungovernable

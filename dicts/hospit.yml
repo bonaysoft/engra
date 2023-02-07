@@ -1,0 +1,14 @@
+name: 154B
+children:
+  - name: hospital
+    children:
+      - name: hospitalize
+        children:
+          - name: hospitalized
+          - name: hospitalization
+  - name: hospitable
+    children:
+      - name: hospitality
+      - name: inhospitable
+        children:
+          - name: inhospitality

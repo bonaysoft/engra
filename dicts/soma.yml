@@ -1,0 +1,10 @@
+name: 6A4A
+children:
+  - name: somatic
+    children:
+      - name: somatology
+        children:
+          - name: somatological
+      - name: somatotherapy
+      - name: somatotype
+      - name: asomatous

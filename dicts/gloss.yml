@@ -1,0 +1,11 @@
+name: 401A
+children:
+  - name: gloss
+    children:
+      - name: glossy
+      - name: glossed
+  - name: glossary
+    children:
+      - name: glossarial
+      - name: glossarist
+      - name: glossator

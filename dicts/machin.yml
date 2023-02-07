@@ -1,0 +1,8 @@
+name: 1B0A
+children:
+  - name: machine
+    children:
+      - name: machining
+      - name: machined
+      - name: machinist
+      - name: machinery

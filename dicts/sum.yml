@@ -1,0 +1,64 @@
+name: 9EA
+children:
+  - name: sum
+    children:
+      - name: summa
+      - name: summary
+        children:
+          - name: summarily
+          - name: summarize
+            children:
+              - name: summarization
+      - name: summation
+      - name: summative
+  - name: summit
+    children:
+      - name: summiteer
+      - name: summitry
+  - name: consummate
+    children:
+      - name: consummator
+      - name: consummately
+      - name: consummation
+      - name: consummatory
+      - name: unconsummated
+  - name: assume
+    children:
+      - name: assumed
+      - name: assuming
+        children:
+          - name: unassuming
+      - name: assumption
+      - name: reassume
+  - name: resume
+    children:
+      - name: resumption
+  - name: consume
+    children:
+      - name: consumer
+        children:
+          - name: consumerism
+      - name: consuming
+      - name: consumed
+      - name: consumable
+      - name: consumptive
+      - name: consumption
+        children:
+          - name: overconsumption
+  - name: presume
+    children:
+      - name: presuming
+      - name: presumed
+        children:
+          - name: presumedly
+      - name: presumption
+      - name: presumable
+        children:
+          - name: presumably
+      - name: presumptive
+        children:
+          - name: presumptively
+      - name: presumptuous
+  - name: subsume
+    children:
+      - name: subsumption

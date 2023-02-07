@@ -1,0 +1,30 @@
+name: 92A
+children:
+  - name: serve
+    children:
+      - name: server
+      - name: serving
+      - name: servant
+        children:
+          - name: manservant
+          - name: maidservant
+  - name: service
+    children:
+      - name: servicer
+      - name: servicing
+      - name: serviceable
+        children:
+          - name: serviceability
+      - name: serviceman
+      - name: servicewoman
+  - name: deserve
+    children:
+      - name: deserving
+        children:
+          - name: undeserving
+      - name: deserved
+        children:
+          - name: deservedly
+          - name: undeserved
+            children:
+              - name: undeservedly

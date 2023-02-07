@@ -1,0 +1,8 @@
+name: 4A1A
+children:
+  - name: idol
+    children:
+      - name: idolism
+      - name: idolize
+        children:
+          - name: idolization

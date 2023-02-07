@@ -1,0 +1,11 @@
+name: 19ED
+children:
+  - name: emphasis
+    children:
+      - name: emphatic
+        children:
+          - name: emphatically
+      - name: emphasize
+        children:
+          - name: overemphasize
+      - name: overemphasis

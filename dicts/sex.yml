@@ -1,0 +1,27 @@
+name: 162A
+children:
+  - name: sex
+    children:
+      - name: sexy
+        children:
+          - name: sexiness
+      - name: sexless
+      - name: sexism
+      - name: sexist
+      - name: sexology
+  - name: sexual
+    children:
+      - name: sexually
+      - name: sexuality
+      - name: nonsexual
+      - name: bisexual
+        children:
+          - name: bisexuality
+      - name: sexualize
+        children:
+          - name: sexualized
+          - name: sexualization
+      - name: asexual
+        children:
+          - name: asexually
+      - name: transsexual

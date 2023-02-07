@@ -1,0 +1,38 @@
+name: F4A
+children:
+  - name: atom
+    children:
+      - name: atomic
+        children:
+          - name: subatomic
+          - name: interatomic
+      - name: atomics
+      - name: atomism
+      - name: atomist
+        children:
+          - name: atomistic
+      - name: atomize
+        children:
+          - name: atomizer
+          - name: atomized
+          - name: atomization
+  - name: anatomy
+    children:
+      - name: anatomist
+      - name: anatomic
+        children:
+          - name: anatomical
+            children:
+              - name: anatomically
+  - name: dichotomy
+    children:
+      - name: dichotomous
+        children:
+          - name: dichotomously
+      - name: dichotomize
+        children:
+          - name: dichotomized
+          - name: dichotomization
+  - name: epitome
+    children:
+      - name: epitomize

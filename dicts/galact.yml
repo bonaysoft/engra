@@ -1,0 +1,9 @@
+name: 2C7B
+children:
+  - name: galactic
+    children:
+      - name: intergalactic
+      - name: extragalactic
+      - name: supergalactic
+      - name: pregalactic
+      - name: metagalactic

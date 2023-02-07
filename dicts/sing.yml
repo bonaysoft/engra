@@ -1,0 +1,7 @@
+name: 2A6A
+children:
+  - name: sing
+    children:
+      - name: singer
+      - name: singing
+      - name: song

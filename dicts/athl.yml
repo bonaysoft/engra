@@ -1,0 +1,10 @@
+name: 2B3A
+children:
+  - name: athlete
+    children:
+      - name: athletic
+        children:
+          - name: athletically
+      - name: athletics
+      - name: athleticism
+      - name: nonathlete

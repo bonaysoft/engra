@@ -1,0 +1,6 @@
+name: 4CCA
+children:
+  - name: average
+    children:
+      - name: averaged
+      - name: averageness

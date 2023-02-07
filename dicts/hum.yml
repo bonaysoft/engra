@@ -1,0 +1,72 @@
+name: 48A
+children:
+  - name: humble
+    children:
+      - name: humbly
+      - name: humbleness
+      - name: humbling
+      - name: humbled
+  - name: humility
+  - name: humiliate
+    children:
+      - name: humiliator
+      - name: humiliating
+      - name: humiliated
+      - name: humiliation
+      - name: humiliatory
+  - name: humor
+    children:
+      - name: humoral
+      - name: humorous
+        children:
+          - name: humorously
+      - name: humorless
+        children:
+          - name: humorlessly
+      - name: humorist
+  - name: humid
+    children:
+      - name: humidor
+      - name: humidity
+      - name: humidify
+        children:
+          - name: humidifier
+          - name: humidification
+      - name: dehumidify
+        children:
+          - name: dehumidifier
+          - name: dehumidification
+  - name: human
+    children:
+      - name: humanly
+      - name: humanness
+      - name: humanoid
+      - name: humankind
+      - name: humanize
+        children:
+          - name: humanized
+          - name: humanization
+          - name: dehumanize
+            children:
+              - name: dehumanizing
+              - name: dehumanized
+              - name: dehumanization
+      - name: humanity
+        children:
+          - name: humanitarian
+            children:
+              - name: humanitarianism
+          - name: inhumanity
+      - name: humanism
+      - name: humanist
+        children:
+          - name: humanistic
+      - name: inhuman
+        children:
+          - name: inhumanize
+      - name: superhuman
+  - name: humane
+    children:
+      - name: humanely
+      - name: humaneness
+      - name: inhumane

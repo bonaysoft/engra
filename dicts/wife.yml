@@ -1,0 +1,9 @@
+name: 3EFA
+children:
+  - name: wife
+    children:
+      - name: wifely
+      - name: midwife
+      - name: alewife
+      - name: fishwife
+      - name: housewife

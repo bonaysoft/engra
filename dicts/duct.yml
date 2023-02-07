@@ -1,0 +1,91 @@
+name: CB
+children:
+  - name: reduce
+    children:
+      - name: reducer
+      - name: reducing
+      - name: reduced
+      - name: reducible
+        children:
+          - name: irreducible
+            children:
+              - name: irreducibly
+      - name: reductor
+      - name: reductive
+      - name: reduction
+        children:
+          - name: reductionism
+          - name: reductionist
+            children:
+              - name: reductionistic
+      - name: reductase
+  - name: introduce
+    children:
+      - name: introduced
+      - name: introduction
+      - name: introductory
+      - name: reintroduce
+        children:
+          - name: reintroduction
+  - name: deduce
+    children:
+      - name: deduct
+        children:
+          - name: deduction
+          - name: deductive
+          - name: deductible
+            children:
+              - name: deductibility
+  - name: seduce
+    children:
+      - name: seducer
+      - name: seduction
+      - name: seductress
+      - name: seductive
+        children:
+          - name: seductively
+          - name: seductiveness
+  - name: induce
+    children:
+      - name: inducer
+      - name: induced
+      - name: inducement
+      - name: induct
+        children:
+          - name: induction
+          - name: inductive
+          - name: inductee
+          - name: inductance
+  - name: duct
+    children:
+      - name: ductal
+      - name: ductile
+        children:
+          - name: ductility
+      - name: ductwork
+      - name: ventiduct
+      - name: aqueduct
+  - name: conduct
+    children:
+      - name: conducting
+        children:
+          - name: superconducting
+      - name: conductor
+        children:
+          - name: superconductor
+          - name: semiconductor
+      - name: conduction
+      - name: conductive
+        children:
+          - name: conductivity
+            children:
+              - name: superconductivity
+          - name: superconductive
+      - name: conductance
+      - name: superconduct
+      - name: misconduct
+  - name: abduct
+    children:
+      - name: abductor
+      - name: abductee
+      - name: abduction

@@ -1,0 +1,75 @@
+name: 4DC
+children:
+  - name: project
+    children:
+      - name: projector
+      - name: projected
+      - name: projecting
+      - name: projectile
+      - name: projective
+      - name: projection
+        children:
+          - name: projectionist
+  - name: reject
+    children:
+      - name: rejecter
+      - name: rejected
+      - name: rejection
+        children:
+          - name: rejectionist
+  - name: subject
+    children:
+      - name: subjection
+      - name: subjective
+        children:
+          - name: subjectively
+      - name: subjectivity
+      - name: subjectivist
+      - name: subjectivism
+      - name: intersubjective
+        children:
+          - name: intersubjectivity
+  - name: object
+    children:
+      - name: objector
+      - name: objective
+        children:
+          - name: objectivity
+          - name: objectively
+          - name: objectivist
+          - name: objectivism
+          - name: nonobjective
+      - name: objection
+        children:
+          - name: objectionable
+            children:
+              - name: unobjectionable
+      - name: objectify
+        children:
+          - name: objectification
+  - name: inject
+    children:
+      - name: injector
+      - name: injected
+      - name: injection
+      - name: injectable
+  - name: eject
+    children:
+      - name: ejector
+      - name: ejected
+      - name: ejecta
+      - name: ejection
+  - name: interject
+    children:
+      - name: interjection
+  - name: abject
+    children:
+      - name: abjectly
+      - name: abjection
+  - name: conjecture
+    children:
+      - name: conjectural
+      - name: conjecturable
+  - name: adjective
+    children:
+      - name: adjectival

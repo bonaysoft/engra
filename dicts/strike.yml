@@ -1,0 +1,5 @@
+name: 58DA
+children:
+  - name: strike
+    children:
+      - name: striker

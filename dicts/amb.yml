@@ -1,0 +1,33 @@
+name: 16EA
+children:
+  - name: ambition
+    children:
+      - name: ambitious
+        children:
+          - name: ambitiously
+          - name: unambitious
+          - name: overambitious
+  - name: ambiguity
+    children:
+      - name: ambiguous
+        children:
+          - name: ambiguously
+  - name: ambassador
+    children:
+      - name: ambassadorship
+      - name: embassy
+  - name: amble
+    children:
+      - name: ambler
+      - name: preamble
+        children:
+          - name: preambulate
+      - name: ambulant
+      - name: ambulance
+      - name: ambulate
+        children:
+          - name: ambulation
+          - name: ambulatory
+          - name: circumambulate
+            children:
+              - name: circumambulation

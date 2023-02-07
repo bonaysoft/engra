@@ -1,0 +1,9 @@
+name: 6G
+children:
+  - name: wise
+    children:
+      - name: wisely
+      - name: wisdom
+      - name: unwise
+        children:
+          - name: unwisely

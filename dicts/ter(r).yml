@@ -1,0 +1,35 @@
+name: 12AA
+children:
+  - name: terror
+    children:
+      - name: terrorist
+        children:
+          - name: terroristic
+      - name: terrorism
+        children:
+          - name: bioterrorism
+          - name: cyberterrorism
+          - name: antiterrorism
+          - name: counterterrorism
+      - name: terrorize
+        children:
+          - name: terrorized
+          - name: terrorization
+  - name: terrible
+    children:
+      - name: terribly
+  - name: terrify
+    children:
+      - name: terrified
+      - name: terrifying
+        children:
+          - name: terrifyingly
+  - name: terrific
+    children:
+      - name: terrifically
+  - name: deter
+    children:
+      - name: deterrent
+      - name: deterrence
+      - name: determent
+      - name: undeterred

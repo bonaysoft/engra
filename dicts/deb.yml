@@ -1,0 +1,10 @@
+name: 1E2A
+children:
+  - name: debt
+    children:
+      - name: debtor
+      - name: debtee
+      - name: indebt
+      - name: indebted
+        children:
+          - name: indebtedness

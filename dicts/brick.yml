@@ -1,0 +1,10 @@
+name: 3AB
+children:
+  - name: brick
+    children:
+      - name: brickwork
+      - name: brickyard
+      - name: bricklayer
+        children:
+          - name: bricklaying
+      - name: brickbat

@@ -1,0 +1,15 @@
+name: 403A
+children:
+  - name: hypnosis
+    children:
+      - name: autohypnosis
+  - name: hypnotic
+    children:
+      - name: hypnotically
+      - name: hypnotist
+      - name: hypnotism
+      - name: hypnotize
+        children:
+          - name: hypnotized
+          - name: hypnotizable
+          - name: dehypnotize

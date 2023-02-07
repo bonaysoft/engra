@@ -1,0 +1,10 @@
+name: 6BFA
+children:
+  - name: loan
+    children:
+      - name: loaner
+      - name: loanee
+      - name: loaned
+      - name: loanable
+      - name: reloan
+      - name: loanword

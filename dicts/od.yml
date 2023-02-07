@@ -1,0 +1,14 @@
+name: 196A
+children:
+  - name: period
+    children:
+      - name: periodic
+        children:
+          - name: periodical
+            children:
+              - name: periodically
+          - name: periodicity
+      - name: periodize
+        children:
+          - name: periodization
+  - name: exodus

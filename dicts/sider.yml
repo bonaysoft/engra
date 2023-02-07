@@ -1,0 +1,27 @@
+name: 14BA
+children:
+  - name: consider
+    children:
+      - name: considering
+        children:
+          - name: unconsidering
+      - name: considered
+        children:
+          - name: unconsidered
+      - name: consideration
+      - name: considerate
+        children:
+          - name: considerately
+          - name: inconsiderate
+            children:
+              - name: inconsiderately
+      - name: considerable
+        children:
+          - name: considerably
+          - name: inconsiderable
+            children:
+              - name: inconsiderably
+      - name: reconsider
+        children:
+          - name: reconsideration
+      - name: disconsider

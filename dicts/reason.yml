@@ -1,0 +1,17 @@
+name: 2E3A
+children:
+  - name: reason
+    children:
+      - name: reasoning
+      - name: reasoned
+      - name: reasonable
+        children:
+          - name: reasonably
+          - name: reasonableness
+      - name: unreason
+        children:
+          - name: unreasoning
+          - name: unreasonable
+            children:
+              - name: unreasonably
+              - name: unreasonableness

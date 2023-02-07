@@ -1,0 +1,19 @@
+name: 1ADA
+children:
+  - name: companion
+    children:
+      - name: companionable
+        children:
+          - name: companionably
+      - name: companionship
+      - name: companionate
+  - name: company
+    children:
+      - name: accompany
+        children:
+          - name: accompanist
+          - name: accompanying
+          - name: accompanied
+            children:
+              - name: unaccompanied
+          - name: accompaniment

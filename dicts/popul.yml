@@ -1,0 +1,38 @@
+name: 50B
+children:
+  - name: popular
+    children:
+      - name: popularly
+      - name: popularity
+      - name: popularize
+        children:
+          - name: popularizer
+          - name: popularized
+          - name: popularization
+      - name: unpopular
+        children:
+          - name: unpopularity
+  - name: populate
+    children:
+      - name: populated
+        children:
+          - name: unpopulated
+          - name: underpopulated
+      - name: population
+        children:
+          - name: subpopulation
+      - name: repopulate
+        children:
+          - name: repopulation
+      - name: depopulate
+        children:
+          - name: depopulated
+          - name: depopulation
+      - name: overpopulate
+        children:
+          - name: overpopulated
+          - name: overpopulation
+  - name: populace
+    children:
+      - name: populist
+      - name: populism

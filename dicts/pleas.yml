@@ -1,0 +1,28 @@
+name: E9C
+children:
+  - name: please
+    children:
+      - name: pleaser
+      - name: pleasing
+        children:
+          - name: pleasingly
+      - name: pleased
+      - name: displease
+        children:
+          - name: displeased
+  - name: pleasure
+    children:
+      - name: pleasurable
+        children:
+          - name: pleasurably
+      - name: displeasure
+  - name: pleasant
+    children:
+      - name: pleasantly
+      - name: pleasantness
+      - name: pleasantry
+      - name: unpleasant
+        children:
+          - name: unpleasantly
+          - name: unpleasantness
+          - name: unpleasantry

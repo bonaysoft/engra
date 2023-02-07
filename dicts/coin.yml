@@ -1,0 +1,7 @@
+name: 605A
+children:
+  - name: coin
+    children:
+      - name: coiner
+      - name: coined
+      - name: coinage

@@ -1,0 +1,5 @@
+name: 64AA
+children:
+  - name: bequeath
+    children:
+      - name: bequeathal

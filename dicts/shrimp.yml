@@ -1,0 +1,6 @@
+name: 5EDA
+children:
+  - name: shrimp
+    children:
+      - name: shrimper
+      - name: shrimping

@@ -1,0 +1,10 @@
+name: 9BB
+children:
+  - name: loose
+    children:
+      - name: loosely
+      - name: looseness
+      - name: loosen
+        children:
+          - name: loosening
+          - name: loosened

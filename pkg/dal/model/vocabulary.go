@@ -8,4 +8,5 @@ type Vocabulary struct {
 	Parts     string `json:"parts"`
 	Intro     string `json:"intro"`
 	Etymology string `json:"etymology"`
+	NoRoot    bool   `json:"no_root"`
 }

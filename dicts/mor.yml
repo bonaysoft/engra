@@ -1,0 +1,28 @@
+name: 19AA
+children:
+  - name: moral
+    children:
+      - name: morally
+      - name: morality
+      - name: moralism
+      - name: moralist
+        children:
+          - name: moralistic
+      - name: moralize
+        children:
+          - name: moralizing
+          - name: moralization
+      - name: immoral
+        children:
+          - name: immorally
+          - name: immorality
+      - name: amoral
+        children:
+          - name: amorality
+  - name: morale
+    children:
+      - name: demoralize
+        children:
+          - name: demoralizing
+          - name: demoralized
+          - name: demoralization

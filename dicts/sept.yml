@@ -1,0 +1,9 @@
+name: 492B
+children:
+  - name: septic
+    children:
+      - name: septicity
+      - name: septicize
+  - name: antiseptic
+    children:
+      - name: antisepticize

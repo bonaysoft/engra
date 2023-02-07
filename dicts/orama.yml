@@ -1,0 +1,5 @@
+name: 57DA
+children:
+  - name: panorama
+    children:
+      - name: panoramic

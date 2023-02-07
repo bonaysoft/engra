@@ -1,0 +1,15 @@
+name: 4ED
+children:
+  - name: stigma
+    children:
+      - name: stigmata
+      - name: stigmatism
+      - name: stigmatize
+        children:
+          - name: stigmatizing
+          - name: stigmatized
+          - name: stigmatization
+  - name: instigate
+    children:
+      - name: instigator
+      - name: instigation

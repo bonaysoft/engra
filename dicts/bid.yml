@@ -1,0 +1,8 @@
+name: 584A
+children:
+  - name: forbid
+    children:
+      - name: forbidding
+        children:
+          - name: forbiddingly
+      - name: forbidden

@@ -1,0 +1,24 @@
+name: 1AD
+children:
+  - name: progress
+    children:
+      - name: progressive
+        children:
+          - name: progressively
+          - name: progressiveness
+          - name: progressivity
+      - name: progression
+      - name: progressism
+      - name: progressist
+  - name: congress
+    children:
+      - name: congressman
+      - name: congresswoman
+      - name: congressperson
+      - name: congressional
+  - name: regress
+    children:
+      - name: regression
+      - name: regressive
+        children:
+          - name: autoregressive

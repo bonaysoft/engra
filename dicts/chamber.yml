@@ -1,0 +1,9 @@
+name: 295B
+children:
+  - name: chamber
+    children:
+      - name: chambered
+      - name: chambermaid
+      - name: chamberpot
+      - name: bedchamber
+      - name: antechamber

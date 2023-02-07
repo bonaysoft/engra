@@ -1,0 +1,52 @@
+name: 44C
+children:
+  - name: meter
+    children:
+      - name: metre
+      - name: metric
+        children:
+          - name: metrical
+            children:
+              - name: metrically
+      - name: metrics
+      - name: metered
+      - name: millimeter
+        children:
+          - name: submillimeter
+      - name: micrometer
+      - name: thermometer
+      - name: perimeter
+      - name: nanometer
+      - name: voltmeter
+  - name: diameter
+    children:
+      - name: diametral
+      - name: diametric
+        children:
+          - name: diametrical
+            children:
+              - name: diametrically
+      - name: semidiameter
+  - name: parameter
+    children:
+      - name: parametric
+  - name: symmetry
+    children:
+      - name: symmetric
+        children:
+          - name: symmetrical
+            children:
+              - name: symmetrically
+      - name: axisymmetric
+        children:
+          - name: axisymmetrical
+      - name: supersymmetry
+        children:
+          - name: supersymmetric
+      - name: asymmetry
+        children:
+          - name: asymmetric
+            children:
+              - name: asymmetrical
+                children:
+                  - name: asymmetrically

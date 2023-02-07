@@ -1,0 +1,25 @@
+name: 3DD
+children:
+  - name: vital
+    children:
+      - name: vitally
+        children:
+          - name: vitality
+          - name: vitalism
+      - name: vitalize
+        children:
+          - name: vitalization
+          - name: revitalize
+            children:
+              - name: revitalization
+          - name: devitalize
+            children:
+              - name: devitalization
+  - name: vitamin
+    children:
+      - name: vitamine
+        children:
+          - name: vitaminology
+      - name: multivitamin
+      - name: avitaminosis
+      - name: devitaminize

@@ -1,0 +1,11 @@
+name: 15C
+children:
+  - name: ignore
+    children:
+      - name: ignoring
+      - name: ignored
+      - name: ignorance
+      - name: ignorant
+        children:
+          - name: ignorantly
+      - name: ignoramus

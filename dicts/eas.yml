@@ -1,0 +1,16 @@
+name: 281A
+children:
+  - name: ease
+    children:
+      - name: easing
+  - name: easy
+    children:
+      - name: easily
+      - name: easiness
+      - name: uneasy
+        children:
+          - name: uneasily
+          - name: uneasiness
+  - name: disease
+    children:
+      - name: diseased

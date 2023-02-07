@@ -1,0 +1,12 @@
+name: 2BBA
+children:
+  - name: prosper
+    children:
+      - name: prosperity
+      - name: prosperous
+  - name: desperate
+    children:
+      - name: desperately
+      - name: desperation
+      - name: desperateness
+      - name: desperado

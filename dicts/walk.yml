@@ -1,0 +1,7 @@
+name: 24BA
+children:
+  - name: walk
+    children:
+      - name: walker
+      - name: walking
+      - name: walkable

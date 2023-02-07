@@ -1,0 +1,8 @@
+name: 26BA
+children:
+  - name: carnivore
+    children:
+      - name: carnivorous
+  - name: carnival
+    children:
+      - name: carnivalesque

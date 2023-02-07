@@ -1,0 +1,10 @@
+name: 2F5A
+children:
+  - name: regret
+    children:
+      - name: regretful
+        children:
+          - name: regretfully
+      - name: regrettable
+        children:
+          - name: regrettably

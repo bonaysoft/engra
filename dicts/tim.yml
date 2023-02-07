@@ -1,0 +1,19 @@
+name: 2EA
+children:
+  - name: time
+    children:
+      - name: timer
+      - name: timely
+        children:
+          - name: timeliness
+          - name: untimely
+      - name: timed
+        children:
+          - name: untimed
+      - name: timeless
+        children:
+          - name: timelessly
+          - name: timelessness
+      - name: sometime
+      - name: sometimes
+      - name: anytime

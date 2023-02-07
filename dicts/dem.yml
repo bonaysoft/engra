@@ -1,0 +1,30 @@
+name: 180A
+children:
+  - name: democracy
+    children:
+      - name: democrat
+        children:
+          - name: democratic
+            children:
+              - name: democratically
+              - name: undemocratic
+          - name: democratism
+          - name: democratize
+            children:
+              - name: democratizing
+              - name: democratized
+              - name: democratization
+  - name: epidemic
+    children:
+      - name: epidemical
+      - name: epidemiology
+        children:
+          - name: epidemiologic
+            children:
+              - name: epidemiological
+                children:
+                  - name: epidemiologically
+          - name: epidemiologist
+  - name: endemic
+    children:
+      - name: endemism

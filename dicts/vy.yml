@@ -1,0 +1,5 @@
+name: 6D
+children:
+  - name: envy
+    children:
+      - name: envied

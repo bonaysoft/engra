@@ -1,0 +1,8 @@
+name: 2EFA
+children:
+  - name: shine
+    children:
+      - name: shiner
+      - name: shiny
+      - name: shining
+      - name: shined

@@ -1,0 +1,6 @@
+name: 672A
+children:
+  - name: club
+    children:
+      - name: clubby
+      - name: clubbed

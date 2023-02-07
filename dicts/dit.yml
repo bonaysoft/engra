@@ -1,0 +1,39 @@
+name: 28B
+children:
+  - name: edit
+    children:
+      - name: editing
+      - name: edited
+        children:
+          - name: unedited
+      - name: edition
+      - name: editor
+        children:
+          - name: editorship
+          - name: editorial
+            children:
+              - name: editorially
+              - name: editorialist
+              - name: editorialize
+          - name: subeditor
+  - name: tradition
+    children:
+      - name: traditional
+        children:
+          - name: traditionally
+          - name: untraditional
+          - name: nontraditional
+      - name: traditionalism
+      - name: traditionalist
+        children:
+          - name: traditionalistic
+  - name: traitor
+    children:
+      - name: traitoress
+      - name: traitorous
+        children:
+          - name: traitorously
+  - name: rent
+    children:
+      - name: renter
+      - name: rented

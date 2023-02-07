@@ -1,0 +1,7 @@
+name: 676A
+children:
+  - name: blame
+    children:
+      - name: blaming
+      - name: blamed
+      - name: blameless

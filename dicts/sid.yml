@@ -1,0 +1,47 @@
+name: 4F
+children:
+  - name: preside
+    children:
+      - name: presider
+      - name: presiding
+      - name: presidium
+      - name: presidency
+      - name: president
+        children:
+          - name: presidential
+            children:
+              - name: presidentially
+  - name: reside
+    children:
+      - name: residence
+      - name: residency
+      - name: resident
+        children:
+          - name: residential
+          - name: nonresident
+            children:
+              - name: nonresidential
+  - name: residue
+    children:
+      - name: residual
+        children:
+          - name: residuals
+      - name: residuum
+  - name: subside
+    children:
+      - name: subsiding
+      - name: subsidence
+  - name: subsidy
+    children:
+      - name: subsidize
+        children:
+          - name: subsidized
+            children:
+              - name: unsubsidized
+          - name: subsidization
+      - name: subsidiary
+        children:
+          - name: subsidiarity
+  - name: dissident
+    children:
+      - name: dissidence

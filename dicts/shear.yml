@@ -1,0 +1,8 @@
+name: 56C
+children:
+  - name: shear
+    children:
+      - name: shearer
+      - name: sheared
+      - name: shearing
+      - name: shorn

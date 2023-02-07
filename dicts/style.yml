@@ -1,0 +1,21 @@
+name: 12EA
+children:
+  - name: style
+    children:
+      - name: styling
+      - name: stylist
+        children:
+          - name: stylistic
+            children:
+              - name: stylistically
+              - name: stylistics
+      - name: stylish
+        children:
+          - name: stylishly
+          - name: stylishness
+      - name: stylize
+        children:
+          - name: stylized
+          - name: stylization
+      - name: restyle
+      - name: freestyle

@@ -1,0 +1,63 @@
+name: 1I
+children:
+  - name: institute
+    children:
+      - name: institution
+        children:
+          - name: institutional
+            children:
+              - name: institutionally
+              - name: institutionalism
+              - name: institutionalize
+                children:
+                  - name: institutionalized
+                  - name: institutionalization
+      - name: reinstitute
+        children:
+          - name: reinstitution
+  - name: constitute
+    children:
+      - name: constitution
+        children:
+          - name: constitutional
+            children:
+              - name: constitutionally
+              - name: constitutionality
+              - name: constitutionalist
+              - name: constitutionalism
+              - name: unconstitutional
+                children:
+                  - name: unconstitutionally
+                  - name: unconstitutionality
+      - name: constitutive
+      - name: reconstitute
+        children:
+          - name: reconstituted
+          - name: reconstitution
+  - name: constituent
+    children:
+      - name: constituency
+  - name: substitute
+    children:
+      - name: substituting
+      - name: substituted
+      - name: substitution
+        children:
+          - name: substitutionary
+      - name: substitutive
+      - name: substitutable
+        children:
+          - name: substitutability
+  - name: prostitute
+    children:
+      - name: prostitution
+  - name: destitute
+    children:
+      - name: destitution
+  - name: superstition
+    children:
+      - name: superstitionist
+      - name: superstitious
+        children:
+          - name: superstitiously
+          - name: superstitiousness

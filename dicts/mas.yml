@@ -1,0 +1,13 @@
+name: 35FA
+children:
+  - name: masculine
+    children:
+      - name: masculinity
+      - name: masculinize
+        children:
+          - name: masculinized
+          - name: masculinization
+      - name: emasculate
+        children:
+          - name: emasculated
+          - name: emasculation

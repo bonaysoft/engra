@@ -1,0 +1,11 @@
+name: 344A
+children:
+  - name: bad
+    children:
+      - name: badly
+      - name: badness
+      - name: worse
+        children:
+          - name: worsen
+          - name: worsening
+      - name: worst

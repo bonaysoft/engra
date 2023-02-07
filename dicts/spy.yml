@@ -1,0 +1,8 @@
+name: 8I
+children:
+  - name: spy
+    children:
+      - name: spying
+      - name: spymaster
+      - name: spyglass
+      - name: spyware

@@ -1,0 +1,46 @@
+name: A1A
+children:
+  - name: glass
+    children:
+      - name: glassed
+      - name: glassy
+  - name: glaze
+    children:
+      - name: glazing
+      - name: glazed
+        children:
+          - name: unglazed
+  - name: gleam
+    children:
+      - name: gleaming
+  - name: glare
+    children:
+      - name: glaring
+  - name: glow
+    children:
+      - name: glower
+        children:
+          - name: glowering
+      - name: glowing
+        children:
+          - name: glowingly
+      - name: aglow
+      - name: glowworm
+  - name: glitter
+    children:
+      - name: glittering
+      - name: glittery
+  - name: glance
+    children:
+      - name: glancing
+        children:
+          - name: glancingly
+  - name: glimpse
+    children:
+      - name: glimpsed
+  - name: gloom
+    children:
+      - name: gloomy
+        children:
+          - name: gloomily
+          - name: gloominess

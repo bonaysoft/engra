@@ -1,0 +1,27 @@
+name: 179A
+children:
+  - name: negate
+    children:
+      - name: negation
+        children:
+          - name: negationist
+      - name: abnegation
+  - name: negative
+    children:
+      - name: negatively
+      - name: negativity
+      - name: negativism
+  - name: renege
+    children:
+      - name: renegade
+  - name: negotiation
+    children:
+      - name: negotiate
+        children:
+          - name: negotiator
+          - name: negotiating
+      - name: negotiable
+      - name: renegotiate
+        children:
+          - name: renegotiated
+          - name: renegotiation

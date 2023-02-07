@@ -1,0 +1,12 @@
+name: 36DA
+children:
+  - name: maze
+    children:
+      - name: mazy
+  - name: amaze
+    children:
+      - name: amazed
+      - name: amazing
+        children:
+          - name: amazingly
+      - name: amazement

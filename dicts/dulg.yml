@@ -1,0 +1,11 @@
+name: 48CA
+children:
+  - name: indulge
+    children:
+      - name: indulgence
+      - name: indulgent
+        children:
+          - name: indulgently
+      - name: overindulge
+        children:
+          - name: overindulgence

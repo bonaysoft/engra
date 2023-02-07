@@ -1,0 +1,14 @@
+name: 8F
+children:
+  - name: spice
+    children:
+      - name: spicy
+      - name: spiced
+      - name: spicery
+      - name: allspice
+  - name: conspicuous
+    children:
+      - name: conspicuously
+      - name: inconspicuous
+        children:
+          - name: inconspicuously

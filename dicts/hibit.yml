@@ -1,0 +1,34 @@
+name: A5B
+children:
+  - name: exhibit
+    children:
+      - name: exhibited
+      - name: exhibitor
+      - name: exhibition
+        children:
+          - name: exhibitioner
+      - name: exhibitionism
+      - name: exhibitionist
+        children:
+          - name: exhibitionistic
+  - name: inhibit
+    children:
+      - name: inhibitor
+      - name: inhibiting
+      - name: inhibited
+        children:
+          - name: uninhibited
+      - name: inhibitory
+      - name: inhibition
+        children:
+          - name: disinhibition
+  - name: prohibit
+    children:
+      - name: prohibitor
+      - name: prohibited
+      - name: prohibitive
+        children:
+          - name: prohibitively
+      - name: prohibition
+        children:
+          - name: prohibitionist

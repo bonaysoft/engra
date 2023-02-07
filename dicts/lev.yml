@@ -1,0 +1,31 @@
+name: D2A
+children:
+  - name: lever
+    children:
+      - name: leverage
+        children:
+          - name: leveraging
+          - name: leveraged
+  - name: levy
+    children:
+      - name: levying
+  - name: alleviate
+    children:
+      - name: alleviation
+      - name: alleviatory
+  - name: elevate
+    children:
+      - name: elevator
+      - name: elevated
+      - name: elevation
+      - name: elevatory
+  - name: relevant
+    children:
+      - name: relevantly
+      - name: relevance
+      - name: relevancy
+      - name: irrelevant
+        children:
+          - name: irrelevantly
+          - name: irrelevance
+          - name: irrelevancy

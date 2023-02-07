@@ -1,0 +1,22 @@
+name: FBB
+children:
+  - name: doctor
+    children:
+      - name: doctoring
+      - name: doctoral
+      - name: doctorate
+      - name: postdoctoral
+      - name: postdoc
+      - name: predoctoral
+  - name: doctrine
+    children:
+      - name: doctrinal
+        children:
+          - name: doctrinally
+      - name: doctrinaire
+        children:
+          - name: doctrinairism
+      - name: doctrinarian
+      - name: indoctrinate
+        children:
+          - name: indoctrination

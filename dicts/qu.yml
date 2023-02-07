@@ -1,0 +1,10 @@
+name: 4F8A
+children:
+  - name: antique
+    children:
+      - name: antiqued
+      - name: antiquated
+      - name: antiquity
+      - name: antiquary
+        children:
+          - name: antiquarian

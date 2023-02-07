@@ -1,0 +1,19 @@
+name: 1C6A
+children:
+  - name: oral
+    children:
+      - name: orally
+      - name: intraoral
+      - name: transoral
+  - name: adore
+    children:
+      - name: adorer
+      - name: adored
+      - name: adoring
+        children:
+          - name: adoringly
+      - name: adorable
+        children:
+          - name: adorably
+      - name: adoration
+      - name: adoratory

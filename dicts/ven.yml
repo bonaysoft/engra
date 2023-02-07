@@ -1,0 +1,46 @@
+name: 32A
+children:
+  - name: revenue
+    children:
+      - name: revenuer
+  - name: intervene
+    children:
+      - name: intervener
+      - name: intervenor
+      - name: intervening
+      - name: intervention
+        children:
+          - name: interventionist
+          - name: interventionism
+  - name: convenient
+    children:
+      - name: conveniently
+      - name: convenience
+      - name: inconvenient
+        children:
+          - name: inconveniently
+  - name: convene
+    children:
+      - name: convener
+      - name: convention
+        children:
+          - name: conventioneer
+          - name: conventional
+            children:
+              - name: conventionally
+              - name: conventionality
+              - name: conventionalism
+              - name: conventionalize
+                children:
+                  - name: conventionalized
+              - name: unconventional
+                children:
+                  - name: unconventionally
+                  - name: unconventionality
+      - name: reconvene
+  - name: covenant
+    children:
+      - name: covenantor
+      - name: covenanter
+      - name: covenantee
+      - name: covenantal

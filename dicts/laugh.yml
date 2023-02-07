@@ -1,0 +1,13 @@
+name: 331A
+children:
+  - name: laugh
+    children:
+      - name: laugher
+      - name: laughter
+      - name: laughing
+        children:
+          - name: laughingly
+          - name: laughingstock
+      - name: laughable
+        children:
+          - name: laughably

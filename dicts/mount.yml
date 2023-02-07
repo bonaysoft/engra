@@ -1,0 +1,29 @@
+name: 139A
+children:
+  - name: mountain
+    children:
+      - name: mountainous
+      - name: mountaineer
+        children:
+          - name: mountaineering
+      - name: mountaintop
+      - name: mountainside
+      - name: intermountain
+  - name: mount
+    children:
+      - name: mounting
+      - name: mounted
+        children:
+          - name: unmounted
+      - name: mountable
+      - name: remount
+      - name: dismount
+  - name: amount
+    children:
+      - name: paramount
+      - name: tantamount
+  - name: surmount
+    children:
+      - name: surmountable
+        children:
+          - name: insurmountable

@@ -1,0 +1,24 @@
+name: F1A
+children:
+  - name: mercy
+    children:
+      - name: merciless
+        children:
+          - name: mercilessly
+      - name: merciful
+        children:
+          - name: mercifully
+          - name: unmerciful
+            children:
+              - name: unmercifully
+  - name: commerce
+    children:
+      - name: commercial
+        children:
+          - name: commercially
+          - name: commercialist
+          - name: commercialize
+            children:
+              - name: commercialized
+              - name: commercialization
+          - name: noncommercial

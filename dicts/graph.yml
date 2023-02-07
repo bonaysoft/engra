@@ -1,0 +1,57 @@
+name: 1DA
+children:
+  - name: graph
+    children:
+      - name: graphing
+      - name: graphic
+      - name: graphics
+      - name: graphical
+        children:
+          - name: graphically
+  - name: autograph
+    children:
+      - name: autographed
+  - name: telegraph
+    children:
+      - name: telegrapher
+      - name: telegraphy
+        children:
+          - name: telegraphic
+  - name: historiography
+    children:
+      - name: historiographer
+      - name: historiographic
+        children:
+          - name: historiographical
+  - name: monograph
+    children:
+      - name: monography
+        children:
+          - name: monographic
+  - name: polygraph
+    children:
+      - name: polygrapher
+  - name: choreograph
+    children:
+      - name: choreographer
+      - name: choreography
+        children:
+          - name: choreographic
+  - name: pornography
+    children:
+      - name: pornographic
+      - name: pornographer
+  - name: iconography
+    children:
+      - name: iconographic
+        children:
+          - name: iconographical
+  - name: tomography
+    children:
+      - name: tomographic
+  - name: paragraph
+    children:
+      - name: paragrapher
+      - name: paragraphic
+        children:
+          - name: paragraphical

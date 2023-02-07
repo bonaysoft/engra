@@ -1,0 +1,15 @@
+name: 5AA
+children:
+  - name: faith
+    children:
+      - name: faithful
+        children:
+          - name: faithfully
+          - name: faithfulness
+          - name: unfaithful
+            children:
+              - name: unfaithfulness
+      - name: faithless
+        children:
+          - name: faithlessness
+      - name: interfaith

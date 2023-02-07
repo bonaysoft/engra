@@ -1,0 +1,12 @@
+name: 46FA
+children:
+  - name: brew
+    children:
+      - name: brewer
+      - name: brewing
+      - name: brewery
+      - name: brewpub
+      - name: brewmaster
+      - name: microbrew
+        children:
+          - name: microbrewery

@@ -1,0 +1,19 @@
+name: 6DA
+children:
+  - name: biology
+    children:
+      - name: biologic
+        children:
+          - name: biological
+            children:
+              - name: biologically
+      - name: biologist
+  - name: biochemistry
+    children:
+      - name: biochemist
+      - name: biochemical
+        children:
+          - name: biochemically
+  - name: amphibian
+    children:
+      - name: amphibious

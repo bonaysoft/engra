@@ -1,0 +1,15 @@
+name: 1B0B
+children:
+  - name: mechanic
+    children:
+      - name: mechanical
+        children:
+          - name: mechanically
+      - name: mechanism
+      - name: mechanist
+        children:
+          - name: mechanistic
+      - name: mechanize
+        children:
+          - name: mechanized
+          - name: mechanization

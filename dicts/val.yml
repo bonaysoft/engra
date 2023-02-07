@@ -1,0 +1,66 @@
+name: 45A
+children:
+  - name: value
+    children:
+      - name: valuing
+      - name: valued
+      - name: valuable
+        children:
+          - name: invaluable
+      - name: valueless
+      - name: revalue
+        children:
+          - name: revalued
+          - name: revaluation
+      - name: devalue
+        children:
+          - name: devalued
+          - name: devaluation
+      - name: overvalue
+        children:
+          - name: overvalued
+          - name: overvaluation
+      - name: undervalue
+        children:
+          - name: undervalued
+          - name: undervaluation
+  - name: evaluate
+    children:
+      - name: evaluator
+      - name: evaluative
+      - name: evaluation
+      - name: evaluable
+  - name: valor
+    children:
+      - name: valorous
+      - name: valorize
+        children:
+          - name: valorization
+  - name: ambivalence
+    children:
+      - name: ambivalent
+        children:
+          - name: ambivalently
+  - name: valid
+    children:
+      - name: validly
+      - name: validity
+      - name: validate
+        children:
+          - name: validator
+          - name: validating
+          - name: validated
+          - name: validation
+      - name: invalid
+        children:
+          - name: invalidity
+          - name: invalidism
+          - name: invalidate
+            children:
+              - name: invalidation
+  - name: valiant
+    children:
+      - name: valiantly
+  - name: prevalent
+    children:
+      - name: prevalence

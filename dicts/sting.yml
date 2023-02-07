@@ -1,0 +1,30 @@
+name: 4EB
+children:
+  - name: sting
+    children:
+      - name: stinger
+      - name: stinging
+      - name: stingy
+        children:
+          - name: stingiest
+          - name: stinginess
+  - name: stingy
+    children:
+      - name: stingiest
+      - name: stinginess
+  - name: distinguish
+    children:
+      - name: distinguishing
+      - name: distinguished
+        children:
+          - name: undistinguished
+      - name: distinguishable
+        children:
+          - name: indistinguishable
+  - name: extinguish
+    children:
+      - name: extinguisher
+      - name: extinguished
+      - name: extinguishable
+        children:
+          - name: inextinguishable

@@ -1,0 +1,11 @@
+name: 99D
+children:
+  - name: manifest
+    children:
+      - name: manifestly
+      - name: manifestation
+      - name: manifesto
+  - name: infest
+    children:
+      - name: infested
+      - name: infestation

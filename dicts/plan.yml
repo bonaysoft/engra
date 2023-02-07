@@ -1,0 +1,23 @@
+name: 42A
+children:
+  - name: plan
+    children:
+      - name: planer
+      - name: planar
+      - name: planish
+      - name: planometer
+      - name: planner
+      - name: planning
+      - name: planned
+        children:
+          - name: unplanned
+  - name: plane
+    children:
+      - name: planeload
+      - name: biplane
+      - name: warplane
+      - name: aeroplane
+      - name: spaceplane
+      - name: seaplane
+      - name: sailplane
+      - name: floatplane

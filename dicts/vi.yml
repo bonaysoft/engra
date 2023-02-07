@@ -1,0 +1,22 @@
+name: 39A
+children:
+  - name: previous
+    children:
+      - name: previously
+  - name: obvious
+    children:
+      - name: obviously
+      - name: obviousness
+  - name: deviate
+    children:
+      - name: deviated
+      - name: deviation
+        children:
+          - name: deviationist
+      - name: deviant
+      - name: deviance
+        children:
+          - name: deviancy
+      - name: devious
+        children:
+          - name: deviously

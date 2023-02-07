@@ -1,0 +1,31 @@
+name: 68A
+children:
+  - name: new
+    children:
+      - name: newish
+      - name: newness
+      - name: newly
+  - name: renew
+    children:
+      - name: renewal
+      - name: renewed
+      - name: renewable
+        children:
+          - name: renewables
+          - name: nonrenewable
+  - name: news
+    children:
+      - name: newsy
+      - name: newsboy
+      - name: newsman
+      - name: newswoman
+      - name: newsmaker
+      - name: newspeople
+      - name: newsroom
+      - name: newsdesk
+      - name: newspaper
+        children:
+          - name: newspaperman
+      - name: newsprint
+      - name: newsgroup
+      - name: newsreel

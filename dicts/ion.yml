@@ -1,0 +1,9 @@
+name: 48EA
+children:
+  - name: ion
+    children:
+      - name: ionic
+      - name: ionize
+        children:
+          - name: ionizer
+          - name: ionization

@@ -1,0 +1,34 @@
+name: 7DA
+children:
+  - name: force
+    children:
+      - name: forcing
+      - name: forced
+        children:
+          - name: unforced
+      - name: forceful
+        children:
+          - name: forcefully
+          - name: forcefulness
+      - name: forcible
+        children:
+          - name: forcibly
+      - name: counterforce
+      - name: workforce
+  - name: enforce
+    children:
+      - name: enforcer
+      - name: enforced
+      - name: enforcement
+      - name: enforceable
+        children:
+          - name: enforceability
+          - name: unenforceable
+  - name: reinforce
+    children:
+      - name: reinforcer
+      - name: reinforcing
+      - name: reinforced
+        children:
+          - name: unreinforced
+      - name: reinforcement

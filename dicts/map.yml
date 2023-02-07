@@ -1,0 +1,13 @@
+name: 5E6A
+children:
+  - name: map
+    children:
+      - name: mapper
+      - name: mapping
+      - name: mapped
+        children:
+          - name: unmapped
+      - name: remap
+        children:
+          - name: remapping
+      - name: bitmap

@@ -1,0 +1,11 @@
+name: 25DA
+children:
+  - name: smoke
+    children:
+      - name: smoker
+      - name: smoking
+      - name: smoked
+      - name: smoky
+        children:
+          - name: smokiness
+      - name: smokeless

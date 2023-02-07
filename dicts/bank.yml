@@ -1,0 +1,16 @@
+name: 1D8A
+children:
+  - name: bank
+    children:
+      - name: banker
+      - name: banking
+      - name: banked
+      - name: bankable
+      - name: bankroll
+      - name: banknote
+      - name: bankbook
+      - name: interbank
+      - name: nonbank
+      - name: riverbank
+      - name: snowbank
+      - name: databank

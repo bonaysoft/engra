@@ -1,0 +1,20 @@
+name: 240A
+children:
+  - name: ire
+    children:
+      - name: ireful
+      - name: irate
+      - name: irascible
+  - name: irritate
+    children:
+      - name: irritated
+      - name: irritating
+        children:
+          - name: irritatingly
+      - name: irritation
+      - name: irritative
+      - name: irritant
+      - name: irritable
+        children:
+          - name: irritably
+          - name: irritability

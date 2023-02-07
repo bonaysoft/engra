@@ -1,0 +1,13 @@
+name: 3AC
+children:
+  - name: fraction
+    children:
+      - name: fractional
+        children:
+          - name: fractionally
+      - name: fractionated
+      - name: fractionation
+  - name: fracture
+    children:
+      - name: fractured
+      - name: fracturing

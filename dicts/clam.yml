@@ -1,0 +1,6 @@
+name: 3D6A
+children:
+  - name: clam
+    children:
+      - name: clamshell
+      - name: clambake

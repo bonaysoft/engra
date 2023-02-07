@@ -1,0 +1,28 @@
+name: 54A
+children:
+  - name: acid
+    children:
+      - name: acidly
+      - name: acidic
+      - name: acidity
+      - name: acidify
+        children:
+          - name: acidifier
+          - name: acidification
+      - name: acidosis
+      - name: acidimeter
+      - name: antacid
+      - name: subacid
+      - name: polyacid
+      - name: hyperacid
+  - name: acute
+    children:
+      - name: acutely
+      - name: acuteness
+  - name: cute
+    children:
+      - name: cutely
+      - name: cuteness
+  - name: acupuncture
+    children:
+      - name: acupuncturist

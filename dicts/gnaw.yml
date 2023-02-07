@@ -1,0 +1,8 @@
+name: 607A
+children:
+  - name: gnaw
+    children:
+      - name: gnawer
+      - name: gnawing
+      - name: gnawed
+      - name: gnawn

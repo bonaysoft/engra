@@ -1,0 +1,7 @@
+name: 3BCA
+children:
+  - name: parliament
+    children:
+      - name: parliamentary
+      - name: parliamentarian
+      - name: parliamentarism

@@ -1,0 +1,8 @@
+name: 5CBA
+children:
+  - name: scorn
+    children:
+      - name: scorned
+      - name: scornful
+        children:
+          - name: scornfully

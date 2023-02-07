@@ -1,0 +1,13 @@
+name: 57E
+children:
+  - name: maximum
+    children:
+      - name: maximize
+        children:
+          - name: maximization
+      - name: maximal
+        children:
+          - name: maximally
+          - name: submaximal
+      - name: maxim
+      - name: max

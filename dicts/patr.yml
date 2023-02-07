@@ -1,0 +1,30 @@
+name: A8C
+children:
+  - name: patron
+    children:
+      - name: patroness
+      - name: patronage
+      - name: patronize
+        children:
+          - name: patronizing
+            children:
+              - name: patronizingly
+          - name: patronized
+          - name: patronization
+  - name: patriot
+    children:
+      - name: patriotic
+        children:
+          - name: patriotically
+          - name: unpatriotic
+      - name: patriotism
+  - name: patriarch
+    children:
+      - name: patriarchy
+        children:
+          - name: patriarchic
+      - name: patriarchal
+      - name: patriarchate
+  - name: expatriate
+    children:
+      - name: expatriation

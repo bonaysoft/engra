@@ -1,0 +1,103 @@
+name: 11A
+children:
+  - name: tend
+    children:
+      - name: tending
+      - name: tended
+        children:
+          - name: untended
+      - name: tendency
+      - name: tendence
+      - name: tendentious
+  - name: tender
+    children:
+      - name: tenderly
+      - name: tenderness
+      - name: tenderize
+        children:
+          - name: tenderizer
+      - name: tenderfoot
+      - name: goaltender
+      - name: goaltending
+  - name: attend
+    children:
+      - name: attender
+      - name: attendee
+      - name: attending
+      - name: attended
+        children:
+          - name: unattended
+      - name: attendance
+      - name: attendant
+      - name: attention
+        children:
+          - name: attentional
+          - name: inattention
+      - name: attentive
+        children:
+          - name: attentively
+          - name: attentiveness
+          - name: inattentive
+            children:
+              - name: inattentiveness
+  - name: extend
+    children:
+      - name: extender
+      - name: extending
+      - name: extended
+      - name: extendable
+      - name: overextend
+        children:
+          - name: overextended
+      - name: extent
+      - name: extensor
+      - name: extensible
+      - name: extension
+        children:
+          - name: extensional
+          - name: overextension
+          - name: hyperextension
+  - name: tendon
+    children:
+      - name: tendonitis
+  - name: intend
+    children:
+      - name: intending
+      - name: intended
+        children:
+          - name: unintended
+      - name: intendment
+      - name: intendant
+        children:
+          - name: intendance
+      - name: superintend
+        children:
+          - name: superintendent
+            children:
+              - name: superintendence
+  - name: contend
+    children:
+      - name: contender
+      - name: contending
+      - name: contention
+      - name: contentious
+        children:
+          - name: contentiousness
+  - name: pretend
+    children:
+      - name: pretender
+      - name: pretending
+      - name: pretended
+      - name: pretense
+      - name: pretension
+      - name: pretentious
+        children:
+          - name: pretentiously
+          - name: pretentiousness
+          - name: unpretentious
+  - name: portend
+    children:
+      - name: portent
+      - name: portentous
+        children:
+          - name: portentously

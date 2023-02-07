@@ -1,0 +1,10 @@
+name: CCB
+children:
+  - name: erase
+    children:
+      - name: eraser
+      - name: erasing
+      - name: erased
+      - name: erasable
+      - name: erasure
+      - name: erasion

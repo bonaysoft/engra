@@ -1,0 +1,9 @@
+name: 40BB
+children:
+  - name: affiliate
+    children:
+      - name: affiliated
+        children:
+          - name: unaffiliated
+      - name: affiliation
+      - name: affiliative

@@ -1,0 +1,70 @@
+name: 2CA
+children:
+  - name: nation
+    children:
+      - name: national
+        children:
+          - name: nationally
+          - name: nationality
+          - name: nationalism
+          - name: nationalist
+            children:
+              - name: nationalistic
+          - name: nationalize
+            children:
+              - name: nationalized
+              - name: nationalization
+              - name: denationalize
+                children:
+                  - name: denationalization
+              - name: renationalize
+                children:
+                  - name: renationalization
+          - name: international
+            children:
+              - name: internationally
+              - name: internationalist
+              - name: internationalism
+              - name: internationalize
+                children:
+                  - name: internationalization
+          - name: transnational
+            children:
+              - name: transnationally
+              - name: transnationalism
+  - name: native
+    children:
+      - name: natively
+      - name: nativist
+      - name: nativism
+      - name: nativity
+  - name: nature
+    children:
+      - name: natural
+        children:
+          - name: naturally
+          - name: unnatural
+            children:
+              - name: unnaturally
+          - name: naturalness
+          - name: naturalism
+          - name: naturalist
+            children:
+              - name: naturalistic
+          - name: naturalize
+            children:
+              - name: naturalized
+              - name: naturalization
+          - name: supernatural
+            children:
+              - name: supernaturally
+              - name: supernaturalism
+          - name: preternatural
+            children:
+              - name: preternaturally
+      - name: denature
+        children:
+          - name: denatured
+  - name: innate
+    children:
+      - name: innately

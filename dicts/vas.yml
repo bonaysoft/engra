@@ -1,0 +1,9 @@
+name: 4D6A
+children:
+  - name: vascular
+    children:
+      - name: intravascular
+      - name: avascular
+      - name: vasculitis
+      - name: vascularity
+      - name: vasculature

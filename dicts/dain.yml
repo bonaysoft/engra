@@ -1,0 +1,10 @@
+name: 1B8A
+children:
+  - name: dainty
+    children:
+      - name: daintily
+  - name: disdain
+    children:
+      - name: disdainful
+        children:
+          - name: disdainfully

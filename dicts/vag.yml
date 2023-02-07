@@ -1,0 +1,11 @@
+name: 271A
+children:
+  - name: vague
+    children:
+      - name: vaguely
+      - name: vagueness
+  - name: extravagant
+    children:
+      - name: extravagantly
+      - name: extravagance
+      - name: extravaganza

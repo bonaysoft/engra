@@ -1,0 +1,25 @@
+name: 4EC
+children:
+  - name: distinct
+    children:
+      - name: distinctly
+      - name: distinctness
+      - name: distinctive
+        children:
+          - name: distinctively
+          - name: distinctiveness
+      - name: distinction
+        children:
+          - name: contradistinction
+      - name: indistinct
+        children:
+          - name: indistinctly
+  - name: extinct
+    children:
+      - name: extinction
+  - name: instinct
+    children:
+      - name: instinctual
+      - name: instinctive
+        children:
+          - name: instinctively

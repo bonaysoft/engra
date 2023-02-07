@@ -1,0 +1,13 @@
+name: 98C
+children:
+  - name: ravage
+    children:
+      - name: ravages
+      - name: ravaging
+      - name: ravaged
+  - name: raven
+    children:
+      - name: ravening
+      - name: ravenous
+        children:
+          - name: ravenously

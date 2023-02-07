@@ -1,0 +1,10 @@
+name: 5FD
+children:
+  - name: course
+    children:
+      - name: courser
+      - name: coursing
+      - name: coursework
+      - name: courseware
+      - name: watercourse
+      - name: racecourse

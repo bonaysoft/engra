@@ -1,0 +1,26 @@
+name: 27H
+children:
+  - name: tact
+    children:
+      - name: tactful
+        children:
+          - name: tactfully
+      - name: tactless
+  - name: tactile
+    children:
+      - name: tactility
+  - name: intact
+    children:
+      - name: intactness
+  - name: tactic
+    children:
+      - name: tactical
+        children:
+          - name: tactically
+      - name: tactician
+      - name: syntactic
+        children:
+          - name: syntactical
+            children:
+              - name: syntactically
+      - name: stereotactic

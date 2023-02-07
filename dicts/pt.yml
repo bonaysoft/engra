@@ -1,0 +1,13 @@
+name: 5BD
+children:
+  - name: symptom
+    children:
+      - name: symptomless
+      - name: symptomology
+      - name: symptomatic
+        children:
+          - name: symptomatical
+            children:
+              - name: symptomatically
+      - name: symptomatology
+      - name: asymptomatic

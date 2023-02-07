@@ -1,0 +1,9 @@
+name: 1BDB
+children:
+  - name: astronaut
+    children:
+      - name: astronautess
+      - name: astronautic
+        children:
+          - name: astronautical
+      - name: astronautics

@@ -1,0 +1,11 @@
+name: 550A
+children:
+  - name: titan
+    children:
+      - name: titanium
+        children:
+          - name: titanic
+          - name: titanous
+          - name: titaniferous
+          - name: titanate
+          - name: ferrotitanium

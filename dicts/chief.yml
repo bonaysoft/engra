@@ -1,0 +1,12 @@
+name: 23K
+children:
+  - name: chief
+    children:
+      - name: chiefly
+      - name: chiefdom
+  - name: mischief
+    children:
+      - name: mischievous
+        children:
+          - name: mischievously
+          - name: mischievousness

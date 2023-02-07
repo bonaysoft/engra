@@ -1,0 +1,6 @@
+name: 25C
+children:
+  - name: destroy
+    children:
+      - name: destroyer
+      - name: destroyed

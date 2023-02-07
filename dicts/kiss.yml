@@ -1,0 +1,6 @@
+name: 588A
+children:
+  - name: kiss
+    children:
+      - name: kisser
+      - name: kissing

@@ -1,0 +1,5 @@
+name: 5A
+children:
+  - name: cable
+    children:
+      - name: cablegram

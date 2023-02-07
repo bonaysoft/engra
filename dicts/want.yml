@@ -1,0 +1,8 @@
+name: 6FH
+children:
+  - name: want
+    children:
+      - name: wanting
+      - name: wanted
+        children:
+          - name: unwanted

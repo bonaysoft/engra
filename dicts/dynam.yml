@@ -1,0 +1,27 @@
+name: 1E3B
+children:
+  - name: dynamic
+    children:
+      - name: dynamical
+        children:
+          - name: dynamically
+      - name: dynamics
+      - name: aerodynamic
+        children:
+          - name: aerodynamics
+      - name: hemodynamic
+        children:
+          - name: hemodynamics
+      - name: hydrodynamic
+        children:
+          - name: hydrodynamics
+      - name: thermodynamic
+        children:
+          - name: thermodynamics
+      - name: electrodynamic
+        children:
+          - name: electrodynamics
+      - name: chromodynamics
+  - name: dynamite
+    children:
+      - name: dynamiter

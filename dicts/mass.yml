@@ -1,0 +1,18 @@
+name: 44FA
+children:
+  - name: mass
+    children:
+      - name: massive
+        children:
+          - name: massively
+          - name: massiveness
+      - name: massless
+      - name: massing
+      - name: massed
+  - name: amass
+    children:
+      - name: amassing
+  - name: massage
+    children:
+      - name: massager
+      - name: massaged

@@ -1,0 +1,8 @@
+name: 5B6A
+children:
+  - name: thorn
+    children:
+      - name: thorny
+      - name: thornless
+      - name: thornbush
+      - name: hawthorn

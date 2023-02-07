@@ -1,0 +1,37 @@
+name: 99A
+children:
+  - name: defend
+    children:
+      - name: defender
+      - name: defendant
+      - name: defendable
+      - name: defending
+      - name: defended
+        children:
+          - name: undefended
+      - name: fend
+        children:
+          - name: fender
+      - name: defense
+        children:
+          - name: defensible
+            children:
+              - name: indefensible
+          - name: defensive
+            children:
+              - name: defensively
+          - name: defenseman
+          - name: defenseless
+  - name: offend
+    children:
+      - name: offender
+      - name: offended
+      - name: offending
+      - name: offense
+        children:
+          - name: offensive
+            children:
+              - name: offensively
+              - name: offensiveness
+              - name: inoffensive
+          - name: offence

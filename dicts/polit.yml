@@ -1,0 +1,29 @@
+name: C0C
+children:
+  - name: polity
+    children:
+      - name: politic
+        children:
+          - name: political
+            children:
+              - name: politically
+              - name: sociopolitical
+          - name: politician
+          - name: politicking
+          - name: politico
+          - name: politicize
+            children:
+              - name: politicizing
+              - name: politicized
+              - name: politicization
+              - name: depoliticize
+                children:
+                  - name: depoliticizing
+                  - name: depoliticized
+                  - name: depoliticization
+          - name: geopolitic
+            children:
+              - name: geopolitics
+              - name: geopolitical
+      - name: politics
+      - name: politique

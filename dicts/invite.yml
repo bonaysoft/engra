@@ -1,0 +1,22 @@
+name: 280A
+children:
+  - name: invite
+    children:
+      - name: invitee
+      - name: inviting
+        children:
+          - name: invitingly
+          - name: uninviting
+      - name: invited
+        children:
+          - name: uninvited
+      - name: invitation
+        children:
+          - name: invitational
+      - name: invitatory
+      - name: reinvite
+        children:
+          - name: reinvition
+      - name: disinvite
+        children:
+          - name: disinvitation

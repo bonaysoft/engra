@@ -1,0 +1,34 @@
+name: 72A
+children:
+  - name: circle
+    children:
+      - name: circling
+      - name: circled
+      - name: semicircle
+      - name: encircle
+        children:
+          - name: encircled
+          - name: encirclement
+  - name: circuit
+    children:
+      - name: circuity
+      - name: circuitry
+      - name: circuitous
+        children:
+          - name: circuitously
+  - name: circular
+    children:
+      - name: circularly
+      - name: circularity
+      - name: noncircular
+      - name: semicircular
+  - name: circulate
+    children:
+      - name: circulator
+      - name: circulating
+      - name: circulation
+      - name: recirculate
+        children:
+          - name: recirculating
+          - name: recirculated
+          - name: recirculation

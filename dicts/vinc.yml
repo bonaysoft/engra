@@ -1,0 +1,24 @@
+name: D3A
+children:
+  - name: convince
+    children:
+      - name: convinced
+        children:
+          - name: unconvinced
+      - name: convincing
+        children:
+          - name: convincingly
+          - name: unconvincing
+            children:
+              - name: unconvincingly
+  - name: province
+    children:
+      - name: provincial
+        children:
+          - name: provincially
+          - name: provinciality
+          - name: provincialist
+          - name: provincialism
+  - name: evince
+    children:
+      - name: evincible

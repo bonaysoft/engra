@@ -1,0 +1,6 @@
+name: 2CFA
+children:
+  - name: door
+    children:
+      - name: indoor
+      - name: indoors

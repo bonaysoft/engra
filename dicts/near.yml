@@ -1,0 +1,9 @@
+name: 2F6A
+children:
+  - name: near
+    children:
+      - name: nearer
+      - name: nearest
+      - name: nearness
+      - name: nearly
+      - name: nearby

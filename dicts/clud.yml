@@ -1,0 +1,37 @@
+name: 36C
+children:
+  - name: include
+    children:
+      - name: including
+      - name: included
+      - name: inclusion
+        children:
+          - name: inclusionary
+      - name: inclusive
+        children:
+          - name: inclusively
+          - name: inclusiveness
+  - name: exclude
+    children:
+      - name: excluder
+      - name: excluding
+      - name: excluded
+      - name: exclusion
+        children:
+          - name: exclusionary
+          - name: exclusionism
+  - name: conclude
+    children:
+      - name: concluding
+      - name: conclusion
+      - name: conclusory
+      - name: conclusive
+        children:
+          - name: conclusively
+          - name: inconclusive
+            children:
+              - name: inconclusively
+  - name: preclude
+    children:
+      - name: preclusion
+      - name: preclusive

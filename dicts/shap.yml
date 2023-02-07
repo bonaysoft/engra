@@ -1,0 +1,14 @@
+name: E8A
+children:
+  - name: shape
+    children:
+      - name: shaper
+      - name: shaping
+      - name: shaped
+        children:
+          - name: unshaped
+      - name: shapely
+      - name: shapeless
+      - name: reshape
+        children:
+          - name: reshaping

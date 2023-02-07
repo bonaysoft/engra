@@ -1,0 +1,6 @@
+name: 5E8A
+children:
+  - name: struggle
+    children:
+      - name: struggler
+      - name: struggling

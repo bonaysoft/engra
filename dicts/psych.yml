@@ -1,0 +1,37 @@
+name: B1A
+children:
+  - name: psyche
+    children:
+      - name: psyched
+      - name: psychedelic
+        children:
+          - name: psychedelia
+      - name: psych
+  - name: psychic
+    children:
+      - name: psychical
+        children:
+          - name: psychically
+      - name: intrapsychic
+  - name: psychotherapy
+    children:
+      - name: psychotherapist
+      - name: psychotherapeutic
+  - name: psychosis
+    children:
+      - name: psychotic
+  - name: psychiatry
+    children:
+      - name: psychiatrist
+      - name: psychiatric
+        children:
+          - name: psychiatrically
+  - name: psychology
+    children:
+      - name: psychologist
+      - name: psychologic
+        children:
+          - name: psychological
+            children:
+              - name: psychologically
+      - name: parapsychology

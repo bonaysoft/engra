@@ -1,0 +1,36 @@
+name: 108A
+children:
+  - name: detect
+    children:
+      - name: detector
+        children:
+          - name: photodetector
+      - name: detective
+      - name: detecting
+      - name: detected
+        children:
+          - name: undetected
+      - name: detection
+      - name: detectable
+        children:
+          - name: detectability
+          - name: undetectable
+      - name: detectaphone
+  - name: protect
+    children:
+      - name: protector
+        children:
+          - name: protectress
+          - name: protectorate
+      - name: protecting
+      - name: protected
+        children:
+          - name: unprotected
+      - name: protection
+        children:
+          - name: protectionist
+          - name: protectionism
+      - name: protective
+        children:
+          - name: protectively
+          - name: protectiveness

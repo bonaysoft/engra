@@ -1,0 +1,14 @@
+name: 1B1A
+children:
+  - name: blind
+    children:
+      - name: blindly
+      - name: blindness
+      - name: blinder
+      - name: blinding
+        children:
+          - name: blindingly
+      - name: blinded
+  - name: blindfold
+    children:
+      - name: blindfolded

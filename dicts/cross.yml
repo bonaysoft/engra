@@ -1,0 +1,14 @@
+name: 6BF
+children:
+  - name: cross
+    children:
+      - name: crossly
+      - name: crossed
+        children:
+          - name: uncrossed
+      - name: crossing
+      - name: crosswalk
+      - name: crossroad
+      - name: crossword
+      - name: crossbar
+      - name: crisscross

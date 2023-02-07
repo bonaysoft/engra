@@ -1,0 +1,11 @@
+name: 293A
+children:
+  - name: rich
+    children:
+      - name: richly
+      - name: richness
+      - name: enrich
+        children:
+          - name: enriching
+          - name: enriched
+          - name: enrichment

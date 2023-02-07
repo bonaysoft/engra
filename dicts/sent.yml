@@ -1,0 +1,41 @@
+name: 80D
+children:
+  - name: present
+    children:
+      - name: presently
+      - name: presenter
+      - name: presented
+      - name: presentable
+      - name: presentment
+      - name: presentation
+        children:
+          - name: presentational
+      - name: omnipresent
+      - name: represent
+        children:
+          - name: representing
+          - name: representation
+          - name: representable
+          - name: representative
+            children:
+              - name: representativeness
+              - name: unrepresentative
+          - name: unrepresented
+          - name: overrepresentation
+          - name: misrepresent
+            children:
+              - name: misrepresentation
+          - name: underrepresented
+            children:
+              - name: underrepresentation
+          - name: nonrepresentational
+  - name: absent
+    children:
+      - name: absently
+      - name: absentee
+        children:
+          - name: absenteeism
+      - name: absentminded
+        children:
+          - name: absentmindedly
+      - name: absence

@@ -1,0 +1,9 @@
+name: 4B8A
+children:
+  - name: hysteria
+    children:
+      - name: hysteric
+        children:
+          - name: hysterical
+            children:
+              - name: hysterically

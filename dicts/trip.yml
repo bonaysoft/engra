@@ -1,0 +1,6 @@
+name: 6B9A
+children:
+  - name: trip
+    children:
+      - name: tripper
+      - name: tripwire

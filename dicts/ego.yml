@@ -1,0 +1,9 @@
+name: 350A
+children:
+  - name: ego
+    children:
+      - name: egoism
+      - name: egoist
+        children:
+          - name: egoistic
+      - name: superego

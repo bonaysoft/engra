@@ -1,0 +1,90 @@
+name: 3A
+children:
+  - name: elect
+    children:
+      - name: elector
+        children:
+          - name: electoral
+          - name: electorally
+      - name: election
+      - name: elective
+      - name: unelected
+      - name: unelectable
+  - name: select
+    children:
+      - name: selector
+      - name: selectee
+      - name: selected
+        children:
+          - name: unselected
+      - name: selection
+      - name: selective
+        children:
+          - name: selectively
+          - name: selectivity
+      - name: selectman
+      - name: deselect
+  - name: collect
+    children:
+      - name: collector
+      - name: collected
+        children:
+          - name: uncollected
+      - name: collection
+      - name: collectible
+        children:
+          - name: uncollectible
+      - name: collective
+        children:
+          - name: collectively
+          - name: collectivity
+          - name: collectivism
+          - name: collectivist
+            children:
+              - name: collectivistic
+          - name: collectivize
+            children:
+              - name: collectivization
+      - name: recollect
+        children:
+          - name: recollected
+          - name: recollection
+  - name: neglect
+    children:
+      - name: neglected
+      - name: neglectful
+  - name: eclectic
+    children:
+      - name: eclecticism
+  - name: intellect
+    children:
+      - name: intellectual
+        children:
+          - name: intellectually
+            children:
+              - name: anti-intellectually
+          - name: intellectualism
+            children:
+              - name: anti-intellectualism
+          - name: anti-intellectual
+      - name: intellectualize
+        children:
+          - name: intellectualization
+  - name: lecture
+    children:
+      - name: lecturer
+      - name: lectureship
+  - name: dialect
+    children:
+      - name: dialect
+      - name: dialectal
+      - name: dialectology
+        children:
+          - name: dialectologist
+  - name: dialectic
+    children:
+      - name: dialectics
+      - name: dialectician
+      - name: dialectical
+        children:
+          - name: dialectically

@@ -1,0 +1,16 @@
+name: 29CA
+children:
+  - name: agony
+    children:
+      - name: agonize
+        children:
+          - name: agonizing
+            children:
+              - name: agonizingly
+          - name: agonized
+  - name: antagonize
+    children:
+      - name: antagonism
+      - name: antagonist
+        children:
+          - name: antagonistic

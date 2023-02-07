@@ -1,0 +1,20 @@
+name: 1EH
+children:
+  - name: critic
+    children:
+      - name: critical
+        children:
+          - name: critically
+          - name: criticality
+          - name: uncritical
+            children:
+              - name: uncritically
+          - name: noncritical
+          - name: subcritical
+          - name: overcritical
+          - name: supercritical
+          - name: hypercritical
+      - name: criticism
+      - name: criticize
+      - name: crit
+      - name: critique

@@ -1,0 +1,9 @@
+name: 525A
+children:
+  - name: mold
+    children:
+      - name: moldy
+      - name: molder
+        children:
+          - name: moldering
+      - name: molding

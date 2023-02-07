@@ -1,0 +1,24 @@
+name: 3BA
+children:
+  - name: strain
+    children:
+      - name: strained
+      - name: straining
+      - name: strainer
+  - name: restrain
+    children:
+      - name: restraining
+      - name: restrained
+        children:
+          - name: unrestrained
+      - name: restraint
+  - name: constrain
+    children:
+      - name: constraining
+      - name: constrained
+        children:
+          - name: constrainedly
+          - name: unconstrained
+      - name: constraint
+        children:
+          - name: unconstraint

@@ -1,0 +1,17 @@
+name: 3F3A
+children:
+  - name: latitude
+    children:
+      - name: latitudinal
+  - name: dilate
+    children:
+      - name: dilated
+      - name: dilator
+        children:
+          - name: dilatory
+      - name: dilation
+      - name: vasodilation
+      - name: dilatate
+        children:
+          - name: dilatation
+          - name: dilatatio

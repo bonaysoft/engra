@@ -1,0 +1,26 @@
+name: 28A
+children:
+  - name: date
+    children:
+      - name: dating
+      - name: dated
+        children:
+          - name: undated
+      - name: datable
+      - name: dateless
+      - name: birthdate
+      - name: update
+        children:
+          - name: updating
+          - name: updated
+      - name: outdate
+        children:
+          - name: outdated
+      - name: backdate
+        children:
+          - name: backdating
+  - name: mandate
+    children:
+      - name: mandator
+      - name: mandated
+      - name: mandatory

@@ -1,0 +1,6 @@
+name: 2F5B
+children:
+  - name: greet
+    children:
+      - name: greeter
+      - name: greeting

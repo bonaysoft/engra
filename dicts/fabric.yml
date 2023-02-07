@@ -1,0 +1,12 @@
+name: 38DA
+children:
+  - name: fabric
+    children:
+      - name: fabricant
+  - name: fabricate
+    children:
+      - name: fabricator
+      - name: fabricated
+      - name: fabrication
+        children:
+          - name: microfabrication

@@ -1,0 +1,9 @@
+name: 1F1A
+children:
+  - name: heir
+    children:
+      - name: heiress
+      - name: heirdom
+      - name: heirship
+      - name: heirloom
+      - name: coheir

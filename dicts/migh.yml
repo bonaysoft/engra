@@ -1,0 +1,11 @@
+name: 372B
+children:
+  - name: might
+    children:
+      - name: mighty
+        children:
+          - name: mightily
+          - name: mightiness
+      - name: almighty
+        children:
+          - name: almightiness

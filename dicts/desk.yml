@@ -1,0 +1,6 @@
+name: 359A
+children:
+  - name: desk
+    children:
+      - name: desktop
+      - name: newsdesk

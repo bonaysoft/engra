@@ -1,0 +1,9 @@
+name: 675A
+children:
+  - name: feeble
+    children:
+      - name: feebly
+      - name: feebleness
+      - name: enfeeble
+        children:
+          - name: enfeebled

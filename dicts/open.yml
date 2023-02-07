@@ -1,0 +1,15 @@
+name: 197A
+children:
+  - name: open
+    children:
+      - name: opener
+      - name: openly
+      - name: openness
+      - name: opening
+      - name: opened
+        children:
+          - name: unopened
+      - name: reopen
+        children:
+          - name: reopening
+          - name: reopened

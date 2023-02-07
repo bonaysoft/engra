@@ -1,0 +1,37 @@
+name: 140A
+children:
+  - name: cite
+    children:
+      - name: cited
+      - name: citable
+      - name: citation
+  - name: recite
+    children:
+      - name: recital
+      - name: recitable
+      - name: recitative
+      - name: recitation
+  - name: excite
+    children:
+      - name: exciting
+      - name: excited
+        children:
+          - name: excitedly
+          - name: overexcited
+      - name: excitement
+      - name: excitation
+      - name: excitatory
+  - name: incite
+    children:
+      - name: incitement
+  - name: solicit
+    children:
+      - name: solicitor
+      - name: solicited
+        children:
+          - name: unsolicited
+      - name: solicitous
+      - name: solicitation
+  - name: resuscitate
+    children:
+      - name: resuscitation

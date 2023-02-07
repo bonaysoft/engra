@@ -1,0 +1,13 @@
+name: 77C
+children:
+  - name: nominal
+    children:
+      - name: nominally
+      - name: nominalism
+      - name: pronominal
+  - name: nominate
+    children:
+      - name: nominator
+      - name: nominated
+      - name: nomination
+      - name: nominee

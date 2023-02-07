@@ -1,0 +1,9 @@
+name: 4CDA
+children:
+  - name: contemplate
+    children:
+      - name: contemplated
+      - name: contemplation
+      - name: contemplative
+        children:
+          - name: contemplatively

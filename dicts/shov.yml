@@ -1,0 +1,10 @@
+name: 597A
+children:
+  - name: shove
+    children:
+      - name: shoving
+      - name: shoveled
+      - name: shovel
+        children:
+          - name: shovelful
+          - name: shoveler

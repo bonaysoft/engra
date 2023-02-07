@@ -1,0 +1,16 @@
+name: 2B9A
+children:
+  - name: tire
+    children:
+      - name: tired
+        children:
+          - name: tiredly
+          - name: tiredness
+      - name: tireless
+        children:
+          - name: tirelessly
+      - name: tiresome
+      - name: overtire
+  - name: attire
+    children:
+      - name: attired

@@ -1,0 +1,10 @@
+name: 305A
+children:
+  - name: hero
+    children:
+      - name: heroic
+        children:
+          - name: heroics
+          - name: heroically
+          - name: unheroic
+      - name: heroism

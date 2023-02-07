@@ -1,0 +1,23 @@
+name: 7D
+children:
+  - name: position
+    children:
+      - name: positional
+      - name: positioner
+      - name: positioning
+      - name: positioned
+      - name: superposition
+  - name: positive
+    children:
+      - name: positively
+      - name: positivity
+      - name: positivism
+      - name: positivist
+        children:
+          - name: positivistic
+  - name: deposit
+    children:
+      - name: depositor
+      - name: deposition
+      - name: depositary
+      - name: depository

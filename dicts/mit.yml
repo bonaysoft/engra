@@ -1,0 +1,87 @@
+name: 22A
+children:
+  - name: admit
+    children:
+      - name: admitted
+        children:
+          - name: admittedly
+      - name: admittance
+      - name: admission
+      - name: admissible
+        children:
+          - name: inadmissible
+          - name: admissibility
+      - name: admissive
+      - name: readmit
+        children:
+          - name: readmission
+  - name: permit
+    children:
+      - name: permittee
+      - name: permitted
+      - name: permission
+      - name: permissible
+        children:
+          - name: permissibility
+          - name: impermissible
+            children:
+              - name: impermissibility
+      - name: permissive
+        children:
+          - name: permissively
+          - name: permissiveness
+  - name: submit
+    children:
+      - name: submittal
+      - name: submission
+      - name: submissive
+        children:
+          - name: submissively
+          - name: submissiveness
+      - name: resubmit
+  - name: omit
+    children:
+      - name: omitted
+      - name: omission
+  - name: emit
+    children:
+      - name: emitter
+      - name: emitted
+      - name: emission
+      - name: emissary
+      - name: emissive
+        children:
+          - name: emissivity
+  - name: transmit
+    children:
+      - name: transmitter
+      - name: transmission
+      - name: transmitted
+      - name: transmitting
+      - name: transmittal
+      - name: transmissible
+        children:
+          - name: transmissibility
+      - name: transmittance
+      - name: retransmit
+        children:
+          - name: retransmission
+  - name: commit
+    children:
+      - name: committal
+        children:
+          - name: noncommittal
+            children:
+              - name: noncommittally
+      - name: committed
+        children:
+          - name: uncommitted
+      - name: commitment
+      - name: recommit
+        children:
+          - name: recommittal
+          - name: recommitment
+  - name: committee
+    children:
+      - name: committeeman
+      - name: subcommittee

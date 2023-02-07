@@ -1,0 +1,15 @@
+name: 28EA
+children:
+  - name: able
+    children:
+      - name: ability
+      - name: unable
+      - name: inability
+  - name: enable
+    children:
+      - name: enabler
+      - name: enablement
+  - name: disable
+    children:
+      - name: disabled
+      - name: disability

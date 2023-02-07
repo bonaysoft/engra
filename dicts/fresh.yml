@@ -1,0 +1,19 @@
+name: 1DEA
+children:
+  - name: fresh
+    children:
+      - name: freshly
+      - name: freshness
+      - name: freshen
+        children:
+          - name: freshener
+  - name: refresh
+    children:
+      - name: refresher
+      - name: refreshed
+      - name: refreshing
+        children:
+          - name: refreshingly
+      - name: refreshment
+      - name: refreshant
+      - name: refreshen

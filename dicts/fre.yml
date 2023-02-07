@@ -1,0 +1,11 @@
+name: 7AA
+children:
+  - name: free
+    children:
+      - name: freely
+      - name: freedom
+      - name: freeing
+      - name: freed
+      - name: unfree
+        children:
+          - name: unfreedom

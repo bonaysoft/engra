@@ -1,0 +1,8 @@
+name: 1E5B
+children:
+  - name: spatial
+    children:
+      - name: spatially
+      - name: spatiality
+      - name: hyperspatial
+      - name: temporospatial

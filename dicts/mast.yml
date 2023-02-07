@@ -1,0 +1,7 @@
+name: 658A
+children:
+  - name: mast
+    children:
+      - name: masthead
+      - name: foremast
+      - name: mainmast

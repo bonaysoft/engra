@@ -1,0 +1,11 @@
+name: 235A
+children:
+  - name: broad
+    children:
+      - name: broadly
+      - name: broaden
+        children:
+          - name: broadening
+          - name: broadened
+      - name: broadband
+      - name: abroad

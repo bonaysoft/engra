@@ -1,0 +1,14 @@
+name: 3CFA
+children:
+  - name: intricate
+    children:
+      - name: intricately
+      - name: intricacy
+  - name: extricate
+    children:
+      - name: extrication
+      - name: extricable
+        children:
+          - name: inextricable
+            children:
+              - name: inextricably

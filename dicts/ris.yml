@@ -1,0 +1,8 @@
+name: 1D0A
+children:
+  - name: rise
+    children:
+      - name: riser
+      - name: rising
+      - name: risen
+      - name: arise

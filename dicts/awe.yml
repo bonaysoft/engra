@@ -1,0 +1,19 @@
+name: 3CBA
+children:
+  - name: awe
+    children:
+      - name: awful
+        children:
+          - name: awfully
+          - name: awfulness
+      - name: aweless
+      - name: awesome
+        children:
+          - name: awesomely
+      - name: awing
+      - name: awed
+        children:
+          - name: awedly
+          - name: awedness
+      - name: overawe
+      - name: awestruck

@@ -1,0 +1,14 @@
+name: 477A
+children:
+  - name: dumb
+    children:
+      - name: dumbly
+      - name: dumbness
+      - name: dumbo
+      - name: dumbhead
+      - name: dumbass
+      - name: dumbbell
+      - name: dumbfound
+        children:
+          - name: dumbfounded
+      - name: dumbstruck

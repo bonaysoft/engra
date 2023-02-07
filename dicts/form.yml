@@ -1,0 +1,128 @@
+name: 13A
+children:
+  - name: form
+    children:
+      - name: forming
+      - name: formed
+        children:
+          - name: unformed
+      - name: formation
+      - name: formative
+      - name: formless
+        children:
+          - name: formlessness
+      - name: malformed
+        children:
+          - name: malformation
+      - name: waveform
+      - name: landform
+      - name: piriform
+      - name: cruciform
+      - name: cuneiform
+      - name: spongiform
+      - name: multiform
+  - name: formal
+    children:
+      - name: formally
+      - name: formality
+      - name: formalism
+      - name: formalist
+        children:
+          - name: formalistic
+      - name: formalize
+        children:
+          - name: formalized
+          - name: formalization
+      - name: informal
+        children:
+          - name: informally
+          - name: informality
+      - name: semiformal
+  - name: format
+    children:
+      - name: formatting
+      - name: reformat
+      - name: large-format
+      - name: platform
+        children:
+          - name: cross-platform
+  - name: formula
+    children:
+      - name: formulaic
+      - name: formulary
+      - name: formulate
+        children:
+          - name: formulated
+          - name: formulation
+          - name: reformulate
+            children:
+              - name: reformulated
+              - name: reformulation
+  - name: uniform
+    children:
+      - name: uniformly
+      - name: uniformed
+      - name: uniformity
+      - name: uniformitarian
+        children:
+          - name: uniformitarianism
+      - name: nonuniform
+  - name: inform
+    children:
+      - name: informer
+      - name: informant
+      - name: informing
+      - name: informed
+        children:
+          - name: uninformed
+      - name: informative
+        children:
+          - name: uninformative
+      - name: information
+        children:
+          - name: informational
+      - name: informatics
+        children:
+          - name: bioinformatics
+      - name: misinform
+        children:
+          - name: misinformed
+          - name: misinformation
+      - name: disinformation
+  - name: transform
+    children:
+      - name: transformer
+      - name: transformed
+        children:
+          - name: untransformed
+          - name: log-transformed
+      - name: transformative
+      - name: transformation
+        children:
+          - name: transformational
+  - name: reform
+    children:
+      - name: reformer
+      - name: reforming
+      - name: reformed
+        children:
+          - name: unreformed
+      - name: reformist
+      - name: reformism
+      - name: reformatory
+      - name: reformation
+  - name: conform
+    children:
+      - name: conformal
+      - name: conformist
+        children:
+          - name: nonconformist
+      - name: conformism
+        children:
+          - name: nonconformism
+      - name: conformity
+        children:
+          - name: nonconformity
+      - name: conformance
+      - name: conformation
+      - name: non-conforming

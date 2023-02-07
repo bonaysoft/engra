@@ -1,0 +1,12 @@
+name: 57B
+children:
+  - name: magnify
+    children:
+      - name: magnifier
+      - name: magnifying
+      - name: magnified
+      - name: magnification
+  - name: magnificent
+    children:
+      - name: magnificently
+      - name: magnificence

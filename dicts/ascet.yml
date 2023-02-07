@@ -1,0 +1,5 @@
+name: 659A
+children:
+  - name: ascetic
+    children:
+      - name: asceticism

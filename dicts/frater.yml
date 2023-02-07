@@ -1,0 +1,10 @@
+name: 32BB
+children:
+  - name: fraternal
+    children:
+      - name: fraternity
+        children:
+          - name: confraternity
+      - name: fraternize
+        children:
+          - name: fraternization

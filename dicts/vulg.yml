@@ -1,0 +1,7 @@
+name: 55CA
+children:
+  - name: vulgar
+    children:
+      - name: vulgarly
+      - name: vulgarity
+      - name: vulgarization

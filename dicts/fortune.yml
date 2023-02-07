@@ -1,0 +1,14 @@
+name: 2B2A
+children:
+  - name: fortune
+    children:
+      - name: fortunate
+        children:
+          - name: fortunately
+          - name: unfortunate
+            children:
+              - name: unfortunately
+          - name: misfortune
+      - name: fortuitous
+        children:
+          - name: fortuitously

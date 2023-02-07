@@ -1,0 +1,13 @@
+name: 115A
+children:
+  - name: bear
+    children:
+      - name: bearer
+      - name: bearing
+      - name: bearish
+      - name: bearable
+        children:
+          - name: bearably
+          - name: unbearable
+            children:
+              - name: unbearably

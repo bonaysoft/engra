@@ -1,0 +1,8 @@
+name: 480A
+children:
+  - name: wing
+    children:
+      - name: winger
+      - name: winged
+      - name: wingtip
+      - name: wingspan

@@ -1,0 +1,72 @@
+name: 58A
+children:
+  - name: sign
+    children:
+      - name: signer
+      - name: signing
+      - name: signed
+        children:
+          - name: unsigned
+          - name: undersign
+          - name: undersigned
+      - name: signature
+      - name: signatory
+      - name: signage
+      - name: signet
+      - name: signpost
+      - name: signboard
+  - name: signal
+    children:
+      - name: signaling
+  - name: signify
+    children:
+      - name: signifier
+      - name: signification
+      - name: significative
+      - name: significatory
+      - name: significatum
+      - name: significance
+      - name: significant
+        children:
+          - name: significantly
+          - name: nonsignificant
+      - name: insignificance
+      - name: insignificant
+        children:
+          - name: insignificantly
+  - name: design
+    children:
+      - name: designer
+      - name: designee
+      - name: designed
+      - name: designing
+      - name: redesign
+        children:
+          - name: redesigned
+      - name: underdesign
+  - name: designate
+    children:
+      - name: designated
+      - name: designation
+  - name: resign
+    children:
+      - name: resigned
+        children:
+          - name: resignedly
+      - name: resignation
+  - name: assign
+    children:
+      - name: assigned
+        children:
+          - name: unassigned
+      - name: assignation
+      - name: assignment
+      - name: assignable
+      - name: reassign
+  - name: consign
+    children:
+      - name: consignor
+      - name: consigner
+      - name: consignee
+      - name: consignation
+      - name: consignment

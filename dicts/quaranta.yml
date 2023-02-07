@@ -1,0 +1,5 @@
+name: 680A
+children:
+  - name: quarantine
+    children:
+      - name: quarantined

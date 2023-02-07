@@ -1,0 +1,6 @@
+name: 60EA
+children:
+  - name: fade
+    children:
+      - name: faded
+      - name: fadeaway

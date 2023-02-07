@@ -1,0 +1,6 @@
+name: 237A
+children:
+  - name: fight
+    children:
+      - name: fighter
+      - name: fighting

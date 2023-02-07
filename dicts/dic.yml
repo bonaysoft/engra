@@ -1,0 +1,23 @@
+name: 2DA
+children:
+  - name: indicate
+    children:
+      - name: indicator
+      - name: indication
+      - name: indicative
+  - name: dedicate
+    children:
+      - name: dedicated
+      - name: dedication
+      - name: dedicatory
+  - name: vindicate
+    children:
+      - name: vindicator
+      - name: vindicated
+      - name: vindication
+      - name: vindictive
+        children:
+          - name: vindictiveness
+  - name: syndicate
+    children:
+      - name: syndicated

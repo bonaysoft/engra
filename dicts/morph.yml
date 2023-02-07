@@ -1,0 +1,19 @@
+name: 347A
+children:
+  - name: morphology
+    children:
+      - name: morphologic
+        children:
+          - name: morphological
+            children:
+              - name: morphologically
+  - name: metamorphosis
+    children:
+      - name: metamorphic
+      - name: metamorphose
+        children:
+          - name: metamorphosed
+      - name: morph
+  - name: amorphous
+    children:
+      - name: amorphism

@@ -1,0 +1,7 @@
+name: 3E8A
+children:
+  - name: strange
+    children:
+      - name: strangely
+      - name: stranger
+      - name: strangeness

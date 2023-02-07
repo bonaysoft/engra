@@ -1,0 +1,11 @@
+name: 6FB
+children:
+  - name: vacuum
+    children:
+      - name: vacuuming
+      - name: vacuumize
+  - name: evacuate
+    children:
+      - name: evacuated
+      - name: evacuation
+      - name: evacuee

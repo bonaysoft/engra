@@ -1,0 +1,6 @@
+name: 1F7B
+children:
+  - name: riddle
+    children:
+      - name: riddling
+      - name: riddled

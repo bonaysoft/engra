@@ -1,0 +1,29 @@
+name: 50A
+children:
+  - name: public
+    children:
+      - name: publicly
+      - name: publicity
+      - name: publicist
+      - name: publican
+      - name: publicness
+      - name: publicize
+        children:
+          - name: publicized
+            children:
+              - name: unpublicized
+      - name: publication
+      - name: republic
+        children:
+          - name: republican
+            children:
+              - name: republicanism
+  - name: publish
+    children:
+      - name: publisher
+      - name: publishable
+      - name: publishing
+      - name: published
+        children:
+          - name: unpublished
+      - name: republish

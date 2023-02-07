@@ -1,0 +1,12 @@
+name: 2B5A
+children:
+  - name: chase
+    children:
+      - name: chaser
+      - name: chasing
+  - name: purchase
+    children:
+      - name: purchaser
+      - name: purchasing
+      - name: purchased
+      - name: repurchase

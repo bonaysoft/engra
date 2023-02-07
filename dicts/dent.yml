@@ -1,0 +1,17 @@
+name: 2C2A
+children:
+  - name: dent
+    children:
+      - name: dented
+      - name: dentition
+      - name: dental
+      - name: dentist
+        children:
+          - name: dentistry
+      - name: denture
+      - name: interdental
+      - name: dentate
+        children:
+          - name: bidentate
+          - name: multidentate
+      - name: edentate

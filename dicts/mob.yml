@@ -1,0 +1,25 @@
+name: 12A
+children:
+  - name: mobile
+    children:
+      - name: mobility
+      - name: mobilize
+        children:
+          - name: mobilized
+          - name: mobilization
+          - name: demobilize
+            children:
+              - name: demobilization
+      - name: immobile
+        children:
+          - name: immobility
+          - name: immobilize
+            children:
+              - name: immobilized
+              - name: immobilization
+      - name: automobile
+      - name: snowmobile
+      - name: bookmobile
+  - name: mob
+    children:
+      - name: mobster

@@ -1,0 +1,16 @@
+name: 190A
+children:
+  - name: family
+    children:
+      - name: familial
+      - name: subfamily
+      - name: familiar
+        children:
+          - name: familiarly
+          - name: familiarity
+          - name: familiarize
+            children:
+              - name: familiarization
+          - name: unfamiliar
+            children:
+              - name: unfamiliarity

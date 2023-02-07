@@ -1,0 +1,16 @@
+name: 56K
+children:
+  - name: scale
+    children:
+      - name: scaly
+      - name: scalar
+      - name: scaling
+      - name: scaled
+      - name: scalable
+        children:
+          - name: scalability
+      - name: upscale
+      - name: subscale
+        children:
+          - name: superscalar
+      - name: timescale

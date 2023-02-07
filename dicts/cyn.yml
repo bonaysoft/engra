@@ -1,0 +1,8 @@
+name: 460B
+children:
+  - name: cynic
+    children:
+      - name: cynical
+        children:
+          - name: cynically
+      - name: cynicism

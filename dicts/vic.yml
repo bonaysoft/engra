@@ -1,0 +1,8 @@
+name: 47BA
+children:
+  - name: vice
+    children:
+      - name: vicious
+        children:
+          - name: viciously
+          - name: viciousness

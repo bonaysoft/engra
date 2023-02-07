@@ -1,0 +1,24 @@
+name: 177A
+children:
+  - name: military
+    children:
+      - name: militarily
+      - name: militarism
+      - name: militarist
+        children:
+          - name: militaristic
+      - name: militarize
+        children:
+          - name: militarization
+          - name: demilitarize
+            children:
+              - name: demilitarization
+      - name: antimilitarism
+      - name: paramilitary
+  - name: militant
+    children:
+      - name: militantly
+      - name: militancy
+  - name: militia
+    children:
+      - name: militiaman

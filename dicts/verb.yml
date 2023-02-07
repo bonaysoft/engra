@@ -1,0 +1,22 @@
+name: F9A
+children:
+  - name: verb
+    children:
+      - name: verbal
+        children:
+          - name: verbally
+          - name: verbalize
+            children:
+              - name: verbalized
+              - name: verbalization
+          - name: nonverbal
+            children:
+              - name: nonverbally
+      - name: adverb
+        children:
+          - name: adverbial
+  - name: proverb
+    children:
+      - name: proverbial
+        children:
+          - name: proverbially

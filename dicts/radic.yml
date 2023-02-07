@@ -1,0 +1,18 @@
+name: 17BA
+children:
+  - name: radical
+    children:
+      - name: radically
+      - name: radicalism
+      - name: radicalize
+        children:
+          - name: radicalized
+          - name: radicalization
+  - name: eradicate
+    children:
+      - name: eradicator
+      - name: eradication
+      - name: eradicative
+      - name: eradicable
+        children:
+          - name: ineradicable

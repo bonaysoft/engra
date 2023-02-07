@@ -1,0 +1,13 @@
+name: 341A
+children:
+  - name: fright
+    children:
+      - name: frighten
+        children:
+          - name: frightening
+            children:
+              - name: frighteningly
+          - name: frightened
+      - name: frightful
+        children:
+          - name: frightfully

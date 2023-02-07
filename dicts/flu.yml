@@ -1,0 +1,30 @@
+name: D8A
+children:
+  - name: fluid
+    children:
+      - name: fluidity
+      - name: fluidize
+        children:
+          - name: fluidized
+      - name: superfluid
+        children:
+          - name: superfluidity
+  - name: influence
+    children:
+      - name: influencing
+      - name: influenced
+        children:
+          - name: uninfluenced
+      - name: influential
+        children:
+          - name: uninfluential
+  - name: influenza
+    children:
+      - name: flu
+  - name: fluent
+    children:
+      - name: fluently
+      - name: fluency
+  - name: affluent
+    children:
+      - name: affluence

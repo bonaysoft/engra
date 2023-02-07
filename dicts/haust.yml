@@ -1,0 +1,13 @@
+name: 357A
+children:
+  - name: exhaust
+    children:
+      - name: exhausting
+      - name: exhausted
+      - name: exhaustion
+      - name: exhaustive
+        children:
+          - name: exhaustively
+      - name: exhaustible
+        children:
+          - name: inexhaustible

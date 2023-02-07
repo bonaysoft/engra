@@ -1,0 +1,10 @@
+name: F0C
+children:
+  - name: safe
+    children:
+      - name: safely
+      - name: safety
+      - name: unsafe
+      - name: safeguard
+        children:
+          - name: safeguarding

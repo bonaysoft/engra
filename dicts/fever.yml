@@ -1,0 +1,8 @@
+name: 3FDB
+children:
+  - name: fever
+    children:
+      - name: fevered
+      - name: feverish
+        children:
+          - name: feverishly

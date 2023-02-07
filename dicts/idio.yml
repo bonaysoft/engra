@@ -1,0 +1,11 @@
+name: 2DEA
+children:
+  - name: idiot
+    children:
+      - name: idiotic
+        children:
+          - name: idiotically
+      - name: idiocy
+  - name: idiom
+    children:
+      - name: idiomatic

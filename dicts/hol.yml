@@ -1,0 +1,15 @@
+name: F2A
+children:
+  - name: holy
+    children:
+      - name: unholy
+  - name: catholic
+    children:
+      - name: catholically
+      - name: catholicity
+      - name: catholicness
+      - name: catholicon
+  - name: Catholic
+    children:
+      - name: Catholicism
+      - name: catholicize

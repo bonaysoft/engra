@@ -1,0 +1,22 @@
+name: 7E
+children:
+  - name: post
+    children:
+      - name: poster
+      - name: posting
+      - name: posted
+      - name: postal
+      - name: postage
+      - name: postmark
+      - name: postcard
+      - name: postman
+      - name: postmistress
+  - name: posture
+    children:
+      - name: posturing
+      - name: postural
+  - name: compost
+    children:
+      - name: composter
+      - name: composting
+      - name: compostable

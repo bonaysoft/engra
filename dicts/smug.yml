@@ -1,0 +1,11 @@
+name: 337A
+children:
+  - name: smug
+    children:
+      - name: smugly
+      - name: smugness
+  - name: smuggle
+    children:
+      - name: smuggler
+      - name: smuggling
+      - name: smuggled

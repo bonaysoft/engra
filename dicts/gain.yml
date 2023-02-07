@@ -1,0 +1,11 @@
+name: 42AA
+children:
+  - name: gain
+    children:
+      - name: gainer
+      - name: gaining
+      - name: gainful
+        children:
+          - name: gainfully
+      - name: gainless
+      - name: regain

@@ -1,0 +1,13 @@
+name: 5C
+children:
+  - name: anticipate
+    children:
+      - name: anticipation
+      - name: anticipatory
+      - name: anticipated
+        children:
+          - name: unanticipated
+  - name: municipal
+    children:
+      - name: municipally
+      - name: municipality

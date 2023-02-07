@@ -1,0 +1,5 @@
+name: 493A
+children:
+  - name: brigade
+    children:
+      - name: brigadier

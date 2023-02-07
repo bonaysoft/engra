@@ -1,0 +1,15 @@
+name: 57C
+children:
+  - name: major
+    children:
+      - name: majorly
+      - name: majority
+        children:
+          - name: supermajority
+      - name: majorette
+      - name: majoritarian
+  - name: majesty
+    children:
+      - name: majestic
+        children:
+          - name: majestically

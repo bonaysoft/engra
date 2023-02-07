@@ -1,0 +1,10 @@
+name: 599A
+children:
+  - name: collide
+    children:
+      - name: collider
+        children:
+          - name: supercollider
+      - name: colliding
+      - name: collided
+      - name: collision

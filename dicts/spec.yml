@@ -1,0 +1,48 @@
+name: 8D
+children:
+  - name: special
+    children:
+      - name: specially
+      - name: specialness
+      - name: specialist
+      - name: specialize
+        children:
+          - name: specialized
+            children:
+              - name: unspecialized
+          - name: spectialization
+      - name: specialty
+        children:
+          - name: subspecialty
+      - name: speciality
+      - name: especial
+        children:
+          - name: especially
+  - name: specify
+    children:
+      - name: specified
+        children:
+          - name: unspecified
+      - name: specific
+        children:
+          - name: specifically
+          - name: specification
+          - name: specificity
+          - name: conspecific
+          - name: unspecific
+          - name: intraspecific
+      - name: specifiable
+  - name: speculate
+    children:
+      - name: speculator
+      - name: speculatory
+      - name: speculation
+        children:
+          - name: antispeculation
+      - name: speculative
+        children:
+          - name: speculatively
+      - name: overspeculate
+  - name: species
+    children:
+      - name: subspecies

@@ -1,0 +1,93 @@
+name: 2BA
+children:
+  - name: fine
+    children:
+      - name: finely
+      - name: fineness
+      - name: fined
+  - name: refine
+    children:
+      - name: refinement
+      - name: refiner
+        children:
+          - name: refinery
+      - name: refining
+      - name: refined
+        children:
+          - name: unrefined
+  - name: final
+    children:
+      - name: finally
+      - name: finality
+      - name: finalist
+      - name: semifinal
+      - name: quarterfinal
+  - name: finish
+    children:
+      - name: finisher
+      - name: finished
+        children:
+          - name: unfinished
+          - name: prefinished
+      - name: finishing
+      - name: refinish
+  - name: finance
+    children:
+      - name: financing
+      - name: financier
+      - name: financial
+        children:
+          - name: financially
+      - name: refinance
+        children:
+          - name: refinancing
+  - name: finite
+    children:
+      - name: finitude
+      - name: infinite
+        children:
+          - name: infinitely
+          - name: infinity
+          - name: infinitive
+            children:
+              - name: infinitival
+          - name: infinitude
+          - name: infinitesimal
+            children:
+              - name: infinitesimally
+  - name: confine
+    children:
+      - name: confining
+      - name: confined
+        children:
+          - name: unconfined
+      - name: confinement
+  - name: define
+    children:
+      - name: definer
+      - name: defining
+      - name: defined
+      - name: definition
+        children:
+          - name: definitional
+      - name: definable
+        children:
+          - name: indefinable
+          - name: undefinable
+      - name: predefine
+        children:
+          - name: predefined
+      - name: redefine
+        children:
+          - name: redefined
+          - name: redefinition
+  - name: definite
+    children:
+      - name: definitely
+      - name: definitude
+      - name: indefinite
+        children:
+          - name: indefinitely
+  - name: definitive
+    children:
+      - name: definitively

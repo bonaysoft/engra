@@ -1,0 +1,24 @@
+name: BDB
+children:
+  - name: sponsor
+    children:
+      - name: sponsoring
+      - name: sponsored
+      - name: sponsorship
+  - name: response
+    children:
+      - name: responsive
+        children:
+          - name: responsively
+          - name: responsiveness
+      - name: unresponsive
+        children:
+          - name: unresponsiveness
+  - name: responsible
+    children:
+      - name: responsibly
+      - name: responsibility
+      - name: irresponsible
+        children:
+          - name: irresponsibly
+          - name: irresponsibility

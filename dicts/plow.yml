@@ -1,0 +1,10 @@
+name: 4D7B
+children:
+  - name: plow
+    children:
+      - name: plowing
+      - name: plowed
+        children:
+          - name: unplowed
+      - name: plowman
+      - name: plowshare

@@ -1,0 +1,10 @@
+name: 30C
+children:
+  - name: warn
+    children:
+      - name: warning
+        children:
+          - name: warningly
+      - name: forewarn
+        children:
+          - name: forewarning

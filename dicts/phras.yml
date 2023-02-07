@@ -1,0 +1,12 @@
+name: 1FM
+children:
+  - name: phrase
+    children:
+      - name: phrasal
+      - name: phrasing
+      - name: phraseology
+      - name: phrasebook
+  - name: paraphrase
+    children:
+      - name: paraphrased
+      - name: paraphrastic

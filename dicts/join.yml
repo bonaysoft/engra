@@ -1,0 +1,17 @@
+name: A7A
+children:
+  - name: join
+    children:
+      - name: joining
+      - name: joined
+      - name: joiner
+        children:
+          - name: joinery
+      - name: rejoin
+        children:
+          - name: rejoinder
+      - name: disjoin
+      - name: enjoin
+  - name: adjoin
+    children:
+      - name: adjoining

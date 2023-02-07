@@ -1,0 +1,14 @@
+name: B3B
+children:
+  - name: precise
+    children:
+      - name: precisely
+      - name: precision
+      - name: imprecise
+        children:
+          - name: imprecisely
+          - name: imprecision
+  - name: concise
+    children:
+      - name: concisely
+      - name: concision

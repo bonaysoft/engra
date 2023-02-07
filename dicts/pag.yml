@@ -1,0 +1,23 @@
+name: 8CA
+children:
+  - name: page
+    children:
+      - name: pager
+      - name: paging
+      - name: unpaged
+      - name: pageant
+        children:
+          - name: pageantry
+  - name: propagate
+    children:
+      - name: propagator
+      - name: propagation
+      - name: propagable
+  - name: propaganda
+    children:
+      - name: propagandist
+        children:
+          - name: propagandistic
+      - name: propagandism
+      - name: propagandize
+      - name: counterpropaganda

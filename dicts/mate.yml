@@ -1,0 +1,11 @@
+name: 27CA
+children:
+  - name: mate
+    children:
+      - name: mated
+      - name: inmate
+      - name: roommate
+      - name: housemate
+      - name: workmate
+      - name: schoolmate
+      - name: teammate

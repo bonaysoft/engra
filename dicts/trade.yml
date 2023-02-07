@@ -1,0 +1,10 @@
+name: 34DA
+children:
+  - name: trade
+    children:
+      - name: trader
+      - name: trading
+      - name: traded
+      - name: tradable
+      - name: tradecraft
+      - name: trademark

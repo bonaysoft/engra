@@ -1,0 +1,17 @@
+name: 3DE
+children:
+  - name: wake
+    children:
+      - name: wakeful
+        children:
+          - name: wakefulness
+      - name: waken
+      - name: awake
+        children:
+          - name: awaken
+            children:
+              - name: awakening
+              - name: awakened
+              - name: reawaken
+                children:
+                  - name: reawakening

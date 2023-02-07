@@ -1,0 +1,25 @@
+name: C2B
+children:
+  - name: memory
+    children:
+      - name: memorize
+        children:
+          - name: memorized
+          - name: memorization
+  - name: memorial
+    children:
+      - name: memorialize
+      - name: immemorial
+  - name: memorable
+    children:
+      - name: memorably
+      - name: unmemorable
+      - name: memorabilia
+  - name: commemorate
+    children:
+      - name: commemoration
+      - name: commemorative
+      - name: commemorable
+  - name: memorandum
+    children:
+      - name: memo

@@ -1,0 +1,17 @@
+name: 259A
+children:
+  - name: fruit
+    children:
+      - name: fruitful
+        children:
+          - name: fruitfully
+          - name: fruitfulness
+          - name: unfruitful
+      - name: fruitless
+        children:
+          - name: fruitlessly
+      - name: fruity
+        children:
+          - name: fruitiness
+      - name: fruited
+      - name: fruition

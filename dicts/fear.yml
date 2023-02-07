@@ -1,0 +1,14 @@
+name: 2F8A
+children:
+  - name: fear
+    children:
+      - name: feared
+      - name: fearsome
+      - name: fearful
+        children:
+          - name: fearfully
+          - name: fearfulness
+      - name: fearless
+        children:
+          - name: fearlessly
+          - name: fearlessness

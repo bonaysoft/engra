@@ -1,0 +1,9 @@
+name: 2FCB
+children:
+  - name: spin
+    children:
+      - name: spinner
+      - name: spinster
+        children:
+          - name: spinsterhood
+      - name: spinning

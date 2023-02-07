@@ -1,0 +1,19 @@
+name: 9D
+children:
+  - name: gentle
+    children:
+      - name: gently
+      - name: gentleness
+      - name: gentlehood
+      - name: gentlefolk
+      - name: gentlehearted
+      - name: gentleman
+        children:
+          - name: gentlemen
+          - name: gentlemanly
+            children:
+              - name: ungentlemanly
+          - name: gentlemanliness
+      - name: gentlewoman
+        children:
+          - name: gentlewomanlike

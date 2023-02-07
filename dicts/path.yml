@@ -1,0 +1,41 @@
+name: 2FB
+children:
+  - name: pathetic
+    children:
+      - name: pathetically
+  - name: apathy
+    children:
+      - name: apathetic
+  - name: sympathy
+    children:
+      - name: sympathetic
+        children:
+          - name: sympathetically
+          - name: unsympathetic
+          - name: parasympathetic
+      - name: sympathize
+        children:
+          - name: sympathizer
+  - name: antipathy
+    children:
+      - name: antipathetic
+  - name: pathogen
+    children:
+      - name: pathogenic
+        children:
+          - name: pathogenicity
+      - name: pathogenetic
+      - name: pathogenesis
+  - name: pathology
+    children:
+      - name: pathologic
+        children:
+          - name: pathological
+            children:
+              - name: pathologically
+      - name: pathologist
+      - name: histopathology
+        children:
+          - name: histopathologic
+            children:
+              - name: histopathological

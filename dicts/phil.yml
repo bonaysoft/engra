@@ -1,0 +1,17 @@
+name: 15BA
+children:
+  - name: philosophy
+    children:
+      - name: philosopher
+      - name: philosophic
+        children:
+          - name: philosophical
+          - name: philosophically
+      - name: philosophize
+        children:
+          - name: philosophizing
+  - name: philanthropy
+    children:
+      - name: philanthropic
+      - name: philanthropist
+      - name: philanthropism

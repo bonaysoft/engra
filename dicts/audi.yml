@@ -1,0 +1,39 @@
+name: E7A
+children:
+  - name: audio
+    children:
+      - name: audiology
+        children:
+          - name: audiologic
+            children:
+              - name: audiological
+          - name: audiologist
+      - name: audiovisuals
+      - name: audiobook
+      - name: audiophile
+      - name: audiotape
+      - name: audiphone
+      - name: audiometer
+        children:
+          - name: audiometry
+            children:
+              - name: audiometric
+  - name: audible
+    children:
+      - name: audibly
+      - name: audibility
+      - name: inaudible
+        children:
+          - name: inaudibly
+  - name: audience
+    children:
+      - name: audient
+  - name: audit
+    children:
+      - name: auditor
+      - name: auditing
+      - name: audited
+      - name: audition
+      - name: auditory
+        children:
+          - name: auditorium

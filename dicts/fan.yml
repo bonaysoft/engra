@@ -1,0 +1,13 @@
+name: C6C
+children:
+  - name: fanatic
+    children:
+      - name: fanatical
+        children:
+          - name: fanatically
+      - name: fanaticism
+      - name: fan
+  - name: profane
+    children:
+      - name: profanity
+      - name: profanation

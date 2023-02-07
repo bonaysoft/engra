@@ -1,0 +1,13 @@
+name: 137A
+children:
+  - name: thermal
+    children:
+      - name: thermals
+      - name: thermally
+      - name: nonthermal
+  - name: geothermal
+    children:
+      - name: geothermic
+  - name: hypothermia
+    children:
+      - name: hypothermic

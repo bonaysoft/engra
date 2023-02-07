@@ -1,0 +1,21 @@
+name: 6ED
+children:
+  - name: rely
+    children:
+      - name: reliable
+        children:
+          - name: reliably
+          - name: reliability
+          - name: unreliable
+            children:
+              - name: unreliability
+      - name: reliant
+        children:
+          - name: reliance
+  - name: ally
+    children:
+      - name: allied
+      - name: alliance
+      - name: rally
+        children:
+          - name: rallying

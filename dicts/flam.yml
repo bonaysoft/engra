@@ -1,0 +1,21 @@
+name: 143A
+children:
+  - name: flame
+    children:
+      - name: flaming
+      - name: flammable
+        children:
+          - name: flammability
+      - name: flameout
+      - name: flameproof
+      - name: flamboyance
+      - name: flamboyant
+        children:
+          - name: flamboyantly
+      - name: aflame
+  - name: inflame
+    children:
+      - name: inflamed
+      - name: inflammable
+      - name: inflammation
+      - name: inflammatory

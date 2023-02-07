@@ -1,0 +1,14 @@
+name: 1F4A
+children:
+  - name: study
+    children:
+      - name: studying
+      - name: studied
+        children:
+          - name: unstudied
+      - name: studious
+        children:
+          - name: studiously
+      - name: understudy
+        children:
+          - name: understudied

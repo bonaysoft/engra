@@ -1,0 +1,11 @@
+name: 369A
+children:
+  - name: pollute
+    children:
+      - name: polluter
+      - name: pollutant
+      - name: polluting
+      - name: polluted
+        children:
+          - name: unpolluted
+      - name: pollution

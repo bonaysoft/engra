@@ -1,0 +1,51 @@
+name: 32B
+children:
+  - name: event
+    children:
+      - name: eventful
+        children:
+          - name: uneventful
+            children:
+              - name: uneventfully
+      - name: eventuate
+      - name: eventual
+        children:
+          - name: eventually
+          - name: eventuality
+  - name: eventual
+    children:
+      - name: eventually
+      - name: eventuality
+  - name: invent
+    children:
+      - name: inventor
+      - name: invented
+      - name: invention
+      - name: inventive
+        children:
+          - name: inventively
+          - name: inventiveness
+      - name: reinvent
+        children:
+          - name: reinvention
+  - name: prevent
+    children:
+      - name: preventer
+      - name: prevention
+      - name: preventive
+      - name: preventable
+      - name: preventative
+  - name: advent
+    children:
+      - name: adventist
+  - name: adventure
+    children:
+      - name: adventurer
+      - name: adventuress
+      - name: adventuresome
+      - name: adventurous
+        children:
+          - name: adventurousness
+          - name: unadventurous
+      - name: adventurism
+      - name: misadventure

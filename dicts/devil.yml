@@ -1,0 +1,11 @@
+name: 398A
+children:
+  - name: devil
+    children:
+      - name: devilish
+        children:
+          - name: devilishly
+      - name: deviled
+      - name: devilment
+      - name: daredevil
+      - name: bedevil

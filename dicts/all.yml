@@ -1,0 +1,21 @@
+name: C4B
+children:
+  - name: allergy
+    children:
+      - name: allergic
+        children:
+          - name: antiallergic
+      - name: allergist
+      - name: allergen
+        children:
+          - name: allergenic
+            children:
+              - name: allergenicity
+              - name: nonallergenic
+              - name: antiallergenic
+          - name: aeroallergen
+  - name: parallel
+    children:
+      - name: parallelism
+      - name: parallelize
+      - name: parallelogram

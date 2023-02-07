@@ -1,0 +1,12 @@
+name: 1BFB
+children:
+  - name: sane
+    children:
+      - name: sanity
+      - name: insane
+        children:
+          - name: insanely
+          - name: insanity
+  - name: sanitary
+    children:
+      - name: unsanitary

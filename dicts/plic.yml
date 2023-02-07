@@ -1,0 +1,27 @@
+name: FF
+children:
+  - name: complicate
+    children:
+      - name: complicating
+      - name: complicated
+        children:
+          - name: uncomplicated
+      - name: complication
+      - name: complicacy
+  - name: explicit
+    children:
+      - name: explicitly
+      - name: explicitness
+      - name: inexplicit
+  - name: implicate
+    children:
+      - name: implicated
+      - name: implication
+      - name: implicature
+  - name: replicate
+    children:
+      - name: replicator
+      - name: replicating
+      - name: replicated
+      - name: replication
+  - name: replica

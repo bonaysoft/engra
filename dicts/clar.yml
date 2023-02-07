@@ -1,0 +1,22 @@
+name: CDA
+children:
+  - name: clarity
+    children:
+      - name: clarify
+        children:
+          - name: clarifier
+          - name: clarifying
+          - name: clarified
+          - name: clarification
+  - name: declare
+    children:
+      - name: declarer
+      - name: declared
+        children:
+          - name: undeclared
+      - name: declaration
+      - name: declarative
+      - name: declaratory
+  - name: clarinet
+    children:
+      - name: clarinetist

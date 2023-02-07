@@ -1,0 +1,15 @@
+name: 698A
+children:
+  - name: syllable
+    children:
+      - name: syllabic
+      - name: syllabary
+      - name: monosyllable
+        children:
+          - name: monosyllabic
+      - name: disyllable
+        children:
+          - name: disyllabic
+      - name: polysyllable
+        children:
+          - name: polysyllabic

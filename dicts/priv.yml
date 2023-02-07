@@ -1,0 +1,28 @@
+name: 17DA
+children:
+  - name: private
+    children:
+      - name: privately
+      - name: privateer
+      - name: privation
+      - name: privatize
+        children:
+          - name: privatizer
+          - name: privatized
+          - name: privatization
+      - name: privacy
+  - name: privacy
+  - name: privilege
+    children:
+      - name: privileged
+        children:
+          - name: underprivileged
+  - name: deprive
+    children:
+      - name: deprived
+      - name: deprivable
+      - name: deprivation
+  - name: privy
+    children:
+      - name: privily
+      - name: privity

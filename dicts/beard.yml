@@ -1,0 +1,8 @@
+name: 302B
+children:
+  - name: beard
+    children:
+      - name: bearded
+      - name: beardless
+      - name: graybeard
+      - name: longbeard

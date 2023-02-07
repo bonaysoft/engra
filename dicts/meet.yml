@@ -1,0 +1,6 @@
+name: 61CA
+children:
+  - name: meet
+    children:
+      - name: meeting
+      - name: meetinghouse

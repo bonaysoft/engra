@@ -1,0 +1,16 @@
+name: AFA
+children:
+  - name: love
+    children:
+      - name: lover
+      - name: lovely
+        children:
+          - name: loveliness
+          - name: unlovely
+      - name: loveless
+      - name: loveable
+      - name: loved
+        children:
+          - name: unloved
+      - name: beloved
+      - name: lovesick

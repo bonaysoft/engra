@@ -1,0 +1,6 @@
+name: 26CA
+children:
+  - name: aristocrat
+    children:
+      - name: aristocratic
+      - name: aristocracy

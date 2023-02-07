@@ -1,0 +1,7 @@
+name: 7CB
+children:
+  - name: ordain
+    children:
+      - name: preordain
+        children:
+          - name: preordained

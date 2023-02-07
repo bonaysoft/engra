@@ -1,0 +1,20 @@
+name: 44B
+children:
+  - name: dimension
+    children:
+      - name: dimensional
+        children:
+          - name: dimensionality
+          - name: unidimensional
+          - name: interdimensional
+          - name: tridimensional
+            children:
+              - name: tridimensionality
+          - name: multidimensional
+            children:
+              - name: multidimensionality
+      - name: dimensionless
+  - name: immense
+    children:
+      - name: immensely
+      - name: immensity

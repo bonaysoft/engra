@@ -1,0 +1,19 @@
+name: D5A
+children:
+  - name: write
+    children:
+      - name: writer
+        children:
+          - name: writerly
+      - name: writing
+      - name: written
+        children:
+          - name: unwritten
+  - name: rewrite
+    children:
+      - name: rewriting
+      - name: rewritable
+  - name: underwrite
+    children:
+      - name: underwriter
+      - name: underwriting

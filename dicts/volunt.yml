@@ -1,0 +1,13 @@
+name: F5C
+children:
+  - name: volunteer
+    children:
+      - name: volunteerism
+  - name: voluntary
+    children:
+      - name: voluntarily
+      - name: voluntariness
+      - name: voluntarism
+      - name: involuntary
+        children:
+          - name: involuntarily

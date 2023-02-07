@@ -1,0 +1,12 @@
+name: 4A6A
+children:
+  - name: damp
+    children:
+      - name: damply
+      - name: damper
+      - name: dampness
+      - name: dampen
+        children:
+          - name: dampener
+          - name: dampening
+          - name: dampened

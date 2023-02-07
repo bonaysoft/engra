@@ -1,0 +1,7 @@
+name: BD
+children:
+  - name: divorce
+    children:
+      - name: divorcee
+      - name: divorcing
+      - name: divorced

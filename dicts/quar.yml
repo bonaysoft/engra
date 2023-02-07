@@ -1,0 +1,8 @@
+name: 1DCA
+children:
+  - name: square
+    children:
+      - name: squarely
+      - name: squared
+      - name: squareness
+      - name: foursquare

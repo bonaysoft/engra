@@ -1,0 +1,6 @@
+name: 28F
+children:
+  - name: endow
+    children:
+      - name: endowed
+      - name: endowment

@@ -1,0 +1,10 @@
+name: 5DC
+children:
+  - name: scandal
+    children:
+      - name: scandalize
+        children:
+          - name: scandalized
+      - name: scandalous
+        children:
+          - name: scandalously

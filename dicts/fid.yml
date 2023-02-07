@@ -1,0 +1,25 @@
+name: 5AF
+children:
+  - name: fidelity
+    children:
+      - name: infidel
+        children:
+          - name: infidelic
+          - name: infidelity
+  - name: confide
+    children:
+      - name: confiding
+      - name: confidence
+      - name: confident
+        children:
+          - name: confidently
+          - name: confidential
+            children:
+              - name: confidentially
+              - name: confidentiality
+      - name: overconfidence
+        children:
+          - name: overconfident
+      - name: confidant
+        children:
+          - name: confidante

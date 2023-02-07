@@ -1,0 +1,6 @@
+name: 6BB
+children:
+  - name: crusade
+    children:
+      - name: crusader
+      - name: crusading

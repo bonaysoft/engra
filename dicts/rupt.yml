@@ -1,0 +1,53 @@
+name: EFA
+children:
+  - name: erupt
+    children:
+      - name: erupting
+      - name: eruption
+      - name: eruptive
+  - name: interrupt
+    children:
+      - name: interrupter
+      - name: interrupted
+        children:
+          - name: uninterrupted
+            children:
+              - name: uninterruptedly
+      - name: interruption
+      - name: interruptible
+  - name: corrupt
+    children:
+      - name: corruptly
+      - name: corrupting
+      - name: corrupted
+        children:
+          - name: uncorrupted
+      - name: corruption
+      - name: corruptive
+      - name: corruptible
+        children:
+          - name: corruptibility
+      - name: incorrupt
+        children:
+          - name: incorruptible
+            children:
+              - name: incorruptibility
+  - name: disrupt
+    children:
+      - name: disrupter
+      - name: disruptor
+      - name: disrupted
+      - name: disruption
+      - name: disruptive
+        children:
+          - name: disruptiveness
+  - name: bankrupt
+    children:
+      - name: bankruptcy
+  - name: abrupt
+    children:
+      - name: abruptly
+      - name: abruptness
+  - name: rupture
+    children:
+      - name: ruptured

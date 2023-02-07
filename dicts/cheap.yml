@@ -1,0 +1,9 @@
+name: 5D5A
+children:
+  - name: cheap
+    children:
+      - name: cheaply
+      - name: cheapness
+      - name: cheapen
+        children:
+          - name: cheapening

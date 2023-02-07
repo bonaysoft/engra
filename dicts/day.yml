@@ -1,0 +1,24 @@
+name: B4A
+children:
+  - name: day
+    children:
+      - name: daily
+        children:
+          - name: dailiness
+      - name: today
+      - name: yesterday
+      - name: midday
+      - name: holiday
+      - name: birthday
+      - name: weekday
+      - name: Sunday
+      - name: Monday
+      - name: Tuesday
+      - name: Wednesday
+      - name: Thursday
+      - name: Friday
+      - name: Saturday
+      - name: nowadays
+  - name: daisy
+    children:
+      - name: daisylike

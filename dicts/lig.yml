@@ -1,0 +1,32 @@
+name: 6EB
+children:
+  - name: ligament
+    children:
+      - name: ligamentous
+  - name: oblige
+    children:
+      - name: obliger
+      - name: obligee
+      - name: obliged
+      - name: obliging
+        children:
+          - name: obligingly
+      - name: obligate
+        children:
+          - name: obligated
+          - name: obligation
+          - name: obligatory
+  - name: religion
+    children:
+      - name: religionist
+      - name: religionize
+      - name: religious
+        children:
+          - name: religiously
+          - name: religiousness
+          - name: interreligious
+          - name: socioreligious
+      - name: religiosity
+      - name: irreligion
+        children:
+          - name: irreligious

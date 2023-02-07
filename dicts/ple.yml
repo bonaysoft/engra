@@ -1,0 +1,35 @@
+name: 60A
+children:
+  - name: complete
+    children:
+      - name: completely
+      - name: completeness
+      - name: completer
+      - name: completed
+        children:
+          - name: uncompleted
+      - name: completion
+      - name: incomplete
+        children:
+          - name: incompleteness
+          - name: incompletely
+          - name: incompletion
+  - name: deplete
+    children:
+      - name: depleted
+      - name: depletion
+  - name: implement
+    children:
+      - name: implementer
+      - name: implemented
+      - name: implementation
+  - name: supplement
+    children:
+      - name: supplemental
+      - name: supplementary
+      - name: supplementation
+  - name: complement
+    children:
+      - name: complementary
+        children:
+          - name: complementarity

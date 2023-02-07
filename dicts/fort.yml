@@ -1,0 +1,36 @@
+name: 7DB
+children:
+  - name: fort
+    children:
+      - name: fortress
+  - name: fortitude
+    children:
+      - name: fortitudinous
+  - name: fortify
+    children:
+      - name: fortifier
+      - name: fortified
+      - name: fortification
+  - name: effort
+    children:
+      - name: effortful
+      - name: effortless
+        children:
+          - name: effortlessly
+          - name: effortlessness
+  - name: comfort
+    children:
+      - name: comforter
+      - name: comforting
+        children:
+          - name: comfortingly
+      - name: comfortable
+        children:
+          - name: comfortably
+          - name: uncomfortable
+            children:
+              - name: uncomfortably
+      - name: comfortless
+      - name: discomfort
+        children:
+          - name: discomforting

@@ -1,0 +1,16 @@
+name: B6A
+children:
+  - name: sun
+    children:
+      - name: sunny
+      - name: sunrise
+      - name: sunset
+      - name: sunup
+      - name: sundown
+      - name: sunshine
+        children:
+          - name: sunshiny
+      - name: sunburn
+        children:
+          - name: sunburned
+          - name: sunburnt

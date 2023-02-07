@@ -1,0 +1,25 @@
+name: DCB
+children:
+  - name: flex
+    children:
+      - name: flexor
+      - name: flexion
+      - name: flexing
+      - name: flexure
+      - name: flexural
+      - name: flexible
+        children:
+          - name: flexibly
+          - name: flexibility
+          - name: inflexible
+            children:
+              - name: inflexibly
+              - name: inflexibility
+      - name: flextime
+  - name: reflex
+    children:
+      - name: reflexive
+        children:
+          - name: reflexively
+          - name: reflexivity
+      - name: reflexology

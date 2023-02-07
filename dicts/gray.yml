@@ -1,0 +1,8 @@
+name: 4F0A
+children:
+  - name: gray
+    children:
+      - name: grayish
+      - name: grayness
+      - name: graying
+      - name: grayed

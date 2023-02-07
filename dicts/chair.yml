@@ -1,0 +1,9 @@
+name: 27BB
+children:
+  - name: chair
+    children:
+      - name: chairman
+        children:
+          - name: chairmanship
+      - name: chairwoman
+      - name: wheelchair

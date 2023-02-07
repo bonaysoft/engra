@@ -1,0 +1,6 @@
+name: 287A
+children:
+  - name: food
+    children:
+      - name: foodie
+      - name: foodstuff

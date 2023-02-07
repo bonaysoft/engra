@@ -1,0 +1,10 @@
+name: 47AA
+children:
+  - name: triumph
+    children:
+      - name: triumphal
+      - name: triumphalism
+      - name: triumphalist
+      - name: triumphant
+        children:
+          - name: triumphantly

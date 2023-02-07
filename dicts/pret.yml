@@ -1,0 +1,20 @@
+name: 70E
+children:
+  - name: interpret
+    children:
+      - name: interpreter
+      - name: interpreting
+      - name: interpreted
+      - name: interpretant
+      - name: interpretation
+      - name: interpretive
+      - name: interpretative
+      - name: interpretable
+        children:
+          - name: interpretability
+      - name: misinterpret
+        children:
+          - name: misinterpretation
+      - name: reinterpret
+        children:
+          - name: reinterpretation

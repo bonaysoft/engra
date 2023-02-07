@@ -1,0 +1,16 @@
+name: A0A
+children:
+  - name: water
+    children:
+      - name: watery
+      - name: waterless
+      - name: watering
+      - name: watered
+      - name: dewater
+        children:
+          - name: dewatering
+          - name: dewatered
+      - name: waterproof
+        children:
+          - name: waterproofing
+          - name: waterproofness

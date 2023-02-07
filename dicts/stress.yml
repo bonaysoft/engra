@@ -1,0 +1,17 @@
+name: 3BC
+children:
+  - name: stress
+    children:
+      - name: stressor
+      - name: stressful
+      - name: stressed
+        children:
+          - name: unstressed
+      - name: overstress
+  - name: distress
+    children:
+      - name: distressed
+      - name: distressing
+        children:
+          - name: distressingly
+      - name: distressful

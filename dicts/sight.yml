@@ -1,0 +1,10 @@
+name: BCB
+children:
+  - name: sight
+    children:
+      - name: sighting
+      - name: sighted
+      - name: insight
+        children:
+          - name: insightful
+          - name: insightfully

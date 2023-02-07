@@ -1,0 +1,27 @@
+name: 1DB
+children:
+  - name: grammar
+    children:
+      - name: grammarian
+      - name: grammatical
+        children:
+          - name: grammatically
+          - name: grammaticality
+          - name: ungrammatical
+  - name: program
+    children:
+      - name: programme
+      - name: programmer
+      - name: programing
+      - name: programmed
+      - name: programmable
+      - name: programmatic
+        children:
+          - name: programmatically
+      - name: reprogram
+        children:
+          - name: reprogramming
+      - name: deprogram
+  - name: diagram
+    children:
+      - name: diagrammatic

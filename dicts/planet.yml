@@ -1,0 +1,12 @@
+name: 3C9A
+children:
+  - name: planet
+    children:
+      - name: planetary
+        children:
+          - name: planetarium
+          - name: interplanetary
+      - name: planetoid
+      - name: planetesimal
+      - name: planetology
+      - name: exoplanet

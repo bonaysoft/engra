@@ -1,0 +1,25 @@
+name: FFA
+children:
+  - name: load
+    children:
+      - name: loader
+      - name: loading
+      - name: loaded
+      - name: unload
+        children:
+          - name: unloading
+          - name: unloaded
+      - name: download
+        children:
+          - name: downloading
+          - name: downloaded
+          - name: downloadable
+      - name: upload
+        children:
+          - name: uploaded
+      - name: overload
+        children:
+          - name: overloaded
+      - name: preload
+        children:
+          - name: preloaded

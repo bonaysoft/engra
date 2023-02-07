@@ -1,0 +1,12 @@
+name: 10DD
+children:
+  - name: fault
+    children:
+      - name: faulty
+      - name: faultless
+        children:
+          - name: faultlessly
+  - name: default
+    children:
+      - name: defaulter
+      - name: defaulted

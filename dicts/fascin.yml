@@ -1,0 +1,10 @@
+name: 499A
+children:
+  - name: fascinate
+    children:
+      - name: fascinator
+      - name: fascinated
+      - name: fascinating
+        children:
+          - name: fascinatingly
+      - name: fascination

@@ -1,0 +1,52 @@
+name: CA
+children:
+  - name: educate
+    children:
+      - name: educator
+        children:
+          - name: paraeducator
+      - name: educated
+        children:
+          - name: uneducated
+          - name: undereducated
+      - name: education
+        children:
+          - name: educational
+            children:
+              - name: educationally
+              - name: psychoeducational
+          - name: educationist
+          - name: miseducation
+      - name: educative
+      - name: educable
+      - name: coeducation
+        children:
+          - name: coeducational
+  - name: produce
+    children:
+      - name: producer
+      - name: producing
+      - name: product
+        children:
+          - name: production
+          - name: productive
+            children:
+              - name: productively
+              - name: productivity
+              - name: unproductive
+              - name: counterproductive
+      - name: overproduce
+        children:
+          - name: overproduction
+      - name: reproduce
+        children:
+          - name: reproducer
+          - name: reproduced
+          - name: reproductive
+            children:
+              - name: nonreproductive
+          - name: reproduction
+      - name: reproducible
+        children:
+          - name: reproducibility
+      - name: preproduction

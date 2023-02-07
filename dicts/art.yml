@@ -1,0 +1,43 @@
+name: BBA
+children:
+  - name: art
+    children:
+      - name: artful
+        children:
+          - name: artfulness
+      - name: artless
+        children:
+          - name: artlessly
+      - name: artist
+        children:
+          - name: artistry
+          - name: artistic
+            children:
+              - name: artistical
+                children:
+                  - name: artistically
+      - name: artisan
+        children:
+          - name: artisanal
+      - name: artwork
+  - name: artillery
+    children:
+      - name: artilleryman
+  - name: article
+  - name: articulate
+    children:
+      - name: articulator
+      - name: articulated
+        children:
+          - name: unarticulated
+      - name: articulation
+      - name: articulately
+      - name: articulateness
+      - name: inarticulate
+        children:
+          - name: inarticulately
+          - name: inarticulateness
+      - name: rearticulate
+      - name: disarticulate
+        children:
+          - name: disarticulation

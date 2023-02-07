@@ -1,0 +1,12 @@
+name: 311A
+children:
+  - name: ethic
+    children:
+      - name: ethics
+      - name: ethical
+        children:
+          - name: ethically
+      - name: ethicist
+      - name: unethical
+        children:
+          - name: unethically

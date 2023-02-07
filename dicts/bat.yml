@@ -1,0 +1,42 @@
+name: 62A
+children:
+  - name: bat
+    children:
+      - name: batting
+      - name: batted
+      - name: batty
+  - name: battle
+    children:
+      - name: battler
+      - name: battling
+      - name: embattle
+        children:
+          - name: embattled
+      - name: battleship
+  - name: batter
+    children:
+      - name: batterer
+      - name: battering
+      - name: battered
+      - name: battery
+  - name: debate
+    children:
+      - name: debater
+      - name: debating
+      - name: debatable
+  - name: combat
+    children:
+      - name: combatant
+        children:
+          - name: noncombatant
+      - name: combative
+        children:
+          - name: combativeness
+  - name: abate
+    children:
+      - name: abatement
+      - name: unabated
+      - name: rebate
+      - name: bate
+        children:
+          - name: bated

@@ -1,0 +1,13 @@
+name: 16FA
+children:
+  - name: globe
+    children:
+      - name: global
+        children:
+          - name: globally
+          - name: globalism
+          - name: globalize
+            children:
+              - name: globalizing
+              - name: globalized
+              - name: globalization

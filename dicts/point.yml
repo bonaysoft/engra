@@ -1,0 +1,26 @@
+name: 34E
+children:
+  - name: point
+    children:
+      - name: pointy
+      - name: pointer
+      - name: pointing
+      - name: pointed
+      - name: pointless
+        children:
+          - name: pointlessly
+          - name: pointlessness
+  - name: appoint
+    children:
+      - name: appointee
+      - name: appointed
+      - name: appointive
+      - name: appointment
+      - name: reappoint
+        children:
+          - name: reappointment
+      - name: disappoint
+        children:
+          - name: disappointing
+          - name: disappointed
+          - name: disappointment

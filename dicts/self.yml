@@ -1,0 +1,26 @@
+name: 40A
+children:
+  - name: self
+    children:
+      - name: selfless
+        children:
+          - name: selflessly
+          - name: selflessness
+      - name: selfish
+        children:
+          - name: selfishly
+          - name: selfishness
+      - name: unselfish
+        children:
+          - name: unselfishly
+          - name: unselfishness
+      - name: selfhood
+      - name: selfsame
+      - name: myself
+      - name: yourself
+      - name: himself
+      - name: herself
+      - name: itself
+      - name: oneself
+      - name: ourselves
+      - name: themselves

@@ -1,0 +1,21 @@
+name: 2F3A
+children:
+  - name: quantity
+    children:
+      - name: quantitative
+        children:
+          - name: quantitatively
+  - name: quantify
+    children:
+      - name: quantifier
+      - name: quantified
+      - name: quantification
+      - name: quantifiable
+        children:
+          - name: unquantifiable
+  - name: quantum
+    children:
+      - name: quantize
+        children:
+          - name: quantized
+          - name: quantization

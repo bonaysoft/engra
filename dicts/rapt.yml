@@ -1,0 +1,21 @@
+name: 98B
+children:
+  - name: rapt
+    children:
+      - name: raptly
+      - name: rapture
+        children:
+          - name: rapturous
+            children:
+              - name: rapturously
+          - name: enrapture
+            children:
+              - name: enraptured
+  - name: rapture
+    children:
+      - name: rapturous
+        children:
+          - name: rapturously
+      - name: enrapture
+        children:
+          - name: enraptured

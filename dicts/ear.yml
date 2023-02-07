@@ -1,0 +1,7 @@
+name: 30DA
+children:
+  - name: ear
+    children:
+      - name: earing
+      - name: eared
+      - name: earless

@@ -1,0 +1,30 @@
+name: 71D
+children:
+  - name: invoke
+    children:
+      - name: invocation
+  - name: evoke
+    children:
+      - name: evocation
+      - name: evocative
+        children:
+          - name: evocatively
+  - name: provoke
+    children:
+      - name: provoking
+      - name: provoked
+        children:
+          - name: unprovoked
+      - name: provocation
+      - name: provocative
+        children:
+          - name: provocatively
+  - name: revoke
+    children:
+      - name: revoked
+      - name: revocation
+      - name: revocable
+        children:
+          - name: irrevocable
+            children:
+              - name: irrevocably

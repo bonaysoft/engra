@@ -1,0 +1,5 @@
+name: 70B
+children:
+  - name: prize
+    children:
+      - name: prized

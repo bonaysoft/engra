@@ -1,0 +1,22 @@
+name: 297A
+children:
+  - name: explore
+    children:
+      - name: explorer
+      - name: explored
+        children:
+          - name: unexplored
+      - name: exploration
+      - name: exploratory
+      - name: explorative
+  - name: deplore
+    children:
+      - name: deplorable
+        children:
+          - name: deplorably
+  - name: implore
+    children:
+      - name: imploring
+        children:
+          - name: imploringly
+      - name: imploration

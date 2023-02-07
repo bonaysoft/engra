@@ -1,0 +1,21 @@
+name: 124A
+children:
+  - name: quality
+    children:
+      - name: qualitative
+        children:
+          - name: qualitatively
+  - name: qualify
+    children:
+      - name: qualifier
+      - name: qualifying
+      - name: qualified
+        children:
+          - name: unqualified
+          - name: nonqualified
+          - name: overqualified
+      - name: qualification
+      - name: disqualify
+        children:
+          - name: disqualifying
+          - name: disqualification

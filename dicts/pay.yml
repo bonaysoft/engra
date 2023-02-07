@@ -1,0 +1,31 @@
+name: EAA
+children:
+  - name: pay
+    children:
+      - name: payer
+      - name: payee
+      - name: paying
+      - name: paid
+        children:
+          - name: unpaid
+      - name: payment
+      - name: payable
+      - name: repay
+        children:
+          - name: repaid
+          - name: repayment
+      - name: prepay
+        children:
+          - name: prepaid
+          - name: prepayment
+      - name: overpay
+        children:
+          - name: overpaid
+          - name: overpayment
+      - name: underpay
+        children:
+          - name: underpaid
+          - name: underpayment
+      - name: payoff
+      - name: paycheck
+      - name: taxpayer

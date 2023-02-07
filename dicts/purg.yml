@@ -1,0 +1,12 @@
+name: 17CB
+children:
+  - name: purge
+    children:
+      - name: purger
+      - name: purgee
+      - name: purging
+      - name: purgation
+      - name: purgative
+      - name: purgatory
+        children:
+          - name: purgatorial

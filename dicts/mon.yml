@@ -1,0 +1,71 @@
+name: 79A
+children:
+  - name: money
+    children:
+      - name: moneyed
+      - name: moneybag
+      - name: moneyman
+      - name: moneymaker
+      - name: moneylender
+  - name: monetary
+    children:
+      - name: monetarily
+      - name: monetarist
+      - name: monetarism
+      - name: monetize
+        children:
+          - name: monetization
+  - name: monument
+    children:
+      - name: monumental
+        children:
+          - name: monumentally
+          - name: monumentality
+  - name: summon
+    children:
+      - name: summons
+      - name: summoner
+      - name: summoning
+      - name: unsummoned
+      - name: resummon
+        children:
+          - name: resummons
+  - name: admonish
+    children:
+      - name: admonishment
+      - name: admonitor
+      - name: admonitory
+      - name: admonition
+  - name: premonition
+    children:
+      - name: premonitor
+      - name: premonitory
+  - name: monitor
+    children:
+      - name: monitress
+      - name: monitoring
+      - name: monitored
+      - name: monition
+      - name: monitory
+        children:
+          - name: monitorial
+  - name: monster
+    children:
+      - name: monstrous
+        children:
+          - name: monstrously
+      - name: monstrosity
+  - name: demonstrate
+    children:
+      - name: demonstrator
+      - name: demonstrated
+      - name: demonstration
+        children:
+          - name: demonstrationist
+      - name: demonstrative
+        children:
+          - name: demonstratively
+      - name: demonstrable
+        children:
+          - name: demonstrably
+          - name: demonstrability

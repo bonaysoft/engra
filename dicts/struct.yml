@@ -1,0 +1,47 @@
+name: 25B
+children:
+  - name: construct
+    children:
+      - name: constructor
+      - name: construction
+        children:
+          - name: constructionist
+      - name: constructive
+        children:
+          - name: constructively
+          - name: constructivist
+          - name: constructivism
+      - name: reconstruct
+        children:
+          - name: reconstructing
+          - name: reconstructed
+            children:
+              - name: unreconstructed
+          - name: reconstructive
+            children:
+              - name: reconstruction
+              - name: reconstructionist
+      - name: deconstruct
+        children:
+          - name: deconstructed
+          - name: deconstructive
+          - name: deconstruction
+            children:
+              - name: deconstructionism
+  - name: instruct
+    children:
+      - name: instructor
+      - name: instructive
+      - name: instruction
+        children:
+          - name: instructional
+  - name: obstruct
+    children:
+      - name: obstructed
+        children:
+          - name: unobstructed
+      - name: obstructive
+      - name: obstruction
+        children:
+          - name: obstructionist
+          - name: obstructionism

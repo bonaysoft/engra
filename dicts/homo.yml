@@ -1,0 +1,16 @@
+name: 3E3A
+children:
+  - name: homosexual
+    children:
+      - name: homosexuality
+  - name: homogeneous
+    children:
+      - name: homogeneity
+      - name: homogenous
+      - name: homogenize
+        children:
+          - name: homogenizing
+          - name: homogenization
+      - name: inhomogeneous
+        children:
+          - name: inhomogeneity

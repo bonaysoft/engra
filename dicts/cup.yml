@@ -1,0 +1,25 @@
+name: 5D
+children:
+  - name: occupy
+    children:
+      - name: occupier
+      - name: occupant
+      - name: occupancy
+      - name: occupied
+        children:
+          - name: unoccupied
+      - name: occupation
+        children:
+          - name: occupational
+      - name: reoccupy
+        children:
+          - name: reoccupation
+      - name: preoccupy
+        children:
+          - name: preoccupied
+          - name: preoccupation
+  - name: recuperate
+    children:
+      - name: recuperator
+      - name: recuperation
+      - name: recuperative

@@ -1,0 +1,9 @@
+name: 1DBA
+children:
+  - name: finger
+    children:
+      - name: fingering
+      - name: fingerless
+      - name: fingertip
+      - name: fingernail
+      - name: forefinger

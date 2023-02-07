@@ -1,0 +1,30 @@
+name: 22C
+children:
+  - name: mission
+    children:
+      - name: missionary
+      - name: missionize
+      - name: missiology
+  - name: missile
+    children:
+      - name: missileman
+      - name: antimissile
+  - name: dismiss
+    children:
+      - name: dismissed
+      - name: dismissal
+      - name: dismission
+      - name: dismissive
+        children:
+          - name: dismissively
+  - name: commission
+    children:
+      - name: commissioner
+      - name: commissioning
+      - name: commissioned
+        children:
+          - name: noncommissioned
+      - name: decommission
+        children:
+          - name: decommissioning
+          - name: decommissioned

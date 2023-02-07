@@ -1,0 +1,10 @@
+name: 487A
+children:
+  - name: fume
+    children:
+      - name: fuming
+  - name: perfume
+    children:
+      - name: perfumer
+      - name: perfumed
+      - name: perfumery

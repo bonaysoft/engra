@@ -1,0 +1,16 @@
+name: 21CA
+children:
+  - name: drink
+    children:
+      - name: drinker
+      - name: drinking
+      - name: drinkable
+        children:
+          - name: undrinkable
+      - name: drunk
+        children:
+          - name: drunken
+            children:
+              - name: drunkenly
+              - name: drunkenness
+      - name: drunkard

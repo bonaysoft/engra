@@ -1,0 +1,10 @@
+name: D6A
+children:
+  - name: deliberate
+    children:
+      - name: deliberately
+      - name: deliberation
+      - name: deliberateness
+      - name: deliberative
+        children:
+          - name: deliberatively

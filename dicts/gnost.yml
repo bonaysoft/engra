@@ -1,0 +1,9 @@
+name: 15E
+children:
+  - name: prognosis
+    children:
+      - name: prognostic
+      - name: prognosticate
+        children:
+          - name: prognosticator
+          - name: prognostication

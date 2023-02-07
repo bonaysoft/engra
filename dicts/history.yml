@@ -1,0 +1,17 @@
+name: 147A
+children:
+  - name: history
+    children:
+      - name: historian
+      - name: historic
+        children:
+          - name: historical
+            children:
+              - name: historically
+          - name: historicity
+          - name: historicism
+          - name: historicize
+            children:
+              - name: historicization
+          - name: ahistorical
+          - name: unhistorical

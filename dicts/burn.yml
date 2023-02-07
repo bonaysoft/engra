@@ -1,0 +1,13 @@
+name: 163A
+children:
+  - name: burn
+    children:
+      - name: burner
+      - name: burning
+      - name: burnt
+      - name: burned
+        children:
+          - name: unburned
+      - name: burnish
+        children:
+          - name: burnished

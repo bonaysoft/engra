@@ -1,0 +1,14 @@
+name: 30G
+children:
+  - name: guard
+    children:
+      - name: guardian
+        children:
+          - name: guardianship
+      - name: guarding
+      - name: guarded
+        children:
+          - name: guardedly
+          - name: unguarded
+      - name: vanguard
+      - name: rearguard

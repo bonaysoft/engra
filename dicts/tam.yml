@@ -1,0 +1,12 @@
+name: 27F
+children:
+  - name: contaminate
+    children:
+      - name: contaminating
+      - name: contaminated
+        children:
+          - name: uncontaminated
+      - name: contamination
+      - name: decontaminate
+        children:
+          - name: decontamination

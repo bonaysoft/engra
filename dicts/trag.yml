@@ -1,0 +1,11 @@
+name: 533A
+children:
+  - name: tragedy
+    children:
+      - name: tragic
+        children:
+          - name: tragical
+          - name: tragically
+      - name: tragicomedy
+        children:
+          - name: tragicomic

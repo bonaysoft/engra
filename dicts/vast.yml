@@ -1,0 +1,13 @@
+name: 6FF
+children:
+  - name: vast
+    children:
+      - name: vastly
+      - name: vastness
+  - name: devastate
+    children:
+      - name: devastated
+      - name: devastating
+        children:
+          - name: devastatingly
+      - name: devastation

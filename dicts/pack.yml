@@ -1,0 +1,25 @@
+name: 8CE
+children:
+  - name: pack
+    children:
+      - name: packer
+      - name: packet
+      - name: packing
+      - name: packed
+      - name: unpack
+        children:
+          - name: unpacking
+          - name: unpacked
+      - name: snowpack
+  - name: package
+    children:
+      - name: packager
+      - name: packaging
+      - name: packaged
+      - name: prepackage
+        children:
+          - name: prepackaged
+      - name: repackage
+        children:
+          - name: repackaging
+          - name: repackaged

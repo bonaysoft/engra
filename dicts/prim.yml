@@ -1,0 +1,20 @@
+name: 81B
+children:
+  - name: prime
+    children:
+      - name: primer
+      - name: primal
+      - name: primed
+      - name: primacy
+      - name: primate
+        children:
+          - name: primatology
+          - name: primatologist
+      - name: subprime
+  - name: primary
+    children:
+      - name: primarily
+  - name: primitive
+    children:
+      - name: primitively
+      - name: primitivism

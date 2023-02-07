@@ -1,0 +1,26 @@
+name: 4AA
+children:
+  - name: face
+    children:
+      - name: facial
+        children:
+          - name: facially
+      - name: facing
+      - name: faced
+      - name: faceless
+  - name: facet
+    children:
+      - name: faceted
+        children:
+          - name: multifaceted
+  - name: interface
+    children:
+      - name: interfacing
+  - name: surface
+    children:
+      - name: surfacing
+      - name: surfaced
+      - name: undersurface
+      - name: resurface
+        children:
+          - name: resurfacing

@@ -1,0 +1,19 @@
+name: 6CA
+children:
+  - name: energy
+    children:
+      - name: energize
+        children:
+          - name: energized
+      - name: energetic
+        children:
+          - name: energetics
+          - name: energetically
+  - name: synergy
+    children:
+      - name: synergic
+      - name: synergism
+      - name: synergist
+        children:
+          - name: synergistic
+          - name: synergistically

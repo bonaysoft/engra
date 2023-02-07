@@ -1,0 +1,8 @@
+name: 5BCA
+children:
+  - name: lure
+    children:
+      - name: allure
+        children:
+          - name: alluring
+          - name: allurement

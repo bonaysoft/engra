@@ -1,0 +1,12 @@
+name: 3A0A
+children:
+  - name: spot
+    children:
+      - name: spotty
+      - name: spotless
+        children:
+          - name: spotlessly
+      - name: spotter
+      - name: spotting
+      - name: spotted
+      - name: spotlight

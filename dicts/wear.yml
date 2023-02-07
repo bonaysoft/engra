@@ -1,0 +1,13 @@
+name: 288A
+children:
+  - name: wear
+    children:
+      - name: wearer
+      - name: wearing
+      - name: wearable
+  - name: weary
+    children:
+      - name: wearily
+      - name: wearying
+      - name: weariness
+      - name: wearisome

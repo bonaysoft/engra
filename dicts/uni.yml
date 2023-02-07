@@ -1,0 +1,47 @@
+name: 97C
+children:
+  - name: unit
+    children:
+      - name: unitary
+        children:
+          - name: unitarian
+      - name: unitize
+        children:
+          - name: unitized
+      - name: subunit
+  - name: unite
+    children:
+      - name: uniting
+      - name: united
+      - name: unitive
+      - name: reunite
+        children:
+          - name: reunited
+  - name: unity
+    children:
+      - name: disunity
+      - name: triunity
+  - name: union
+    children:
+      - name: unionist
+      - name: unionism
+      - name: unionize
+        children:
+          - name: unionized
+          - name: unionization
+      - name: reunion
+      - name: disunion
+  - name: unify
+    children:
+      - name: unifier
+      - name: unifying
+      - name: unified
+      - name: unification
+      - name: reunify
+        children:
+          - name: reunified
+          - name: reunification
+  - name: unique
+    children:
+      - name: uniquely
+      - name: uniqueness

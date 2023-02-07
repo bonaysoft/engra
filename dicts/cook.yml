@@ -1,0 +1,17 @@
+name: 188A
+children:
+  - name: cook
+    children:
+      - name: cooker
+      - name: cookery
+      - name: cooking
+      - name: cooked
+        children:
+          - name: uncooked
+      - name: precook
+        children:
+          - name: precooked
+      - name: overcook
+        children:
+          - name: overcooked
+      - name: undercooked

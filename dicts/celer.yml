@@ -1,0 +1,10 @@
+name: 304A
+children:
+  - name: accelerate
+    children:
+      - name: accelerator
+      - name: accelerating
+      - name: accelerated
+      - name: acceleration
+      - name: accelerative
+      - name: accelerometer

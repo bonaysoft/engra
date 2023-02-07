@@ -1,0 +1,5 @@
+name: 6BE
+children:
+  - name: cruise
+    children:
+      - name: cruiser

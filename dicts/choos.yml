@@ -1,0 +1,8 @@
+name: 3C6A
+children:
+  - name: choose
+    children:
+      - name: chooser
+      - name: choosing
+      - name: chosen
+      - name: choosy

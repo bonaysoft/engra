@@ -1,0 +1,28 @@
+name: 16CA
+children:
+  - name: sonic
+    children:
+      - name: sonics
+      - name: subsonic
+      - name: supersonic
+      - name: hypersonic
+      - name: ultrasonic
+      - name: stereosonic
+  - name: resonate
+    children:
+      - name: resonator
+      - name: resonating
+      - name: resonant
+      - name: resonance
+  - name: unison
+    children:
+      - name: unisonal
+      - name: unisonous
+      - name: unisonant
+      - name: unisonance
+  - name: dissonance
+    children:
+      - name: dissonant
+  - name: consonant
+    children:
+      - name: consonance

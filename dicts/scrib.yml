@@ -1,0 +1,66 @@
+name: 5CA
+children:
+  - name: scribe
+    children:
+      - name: scribe
+      - name: scribal
+      - name: scrip
+  - name: scribble
+    children:
+      - name: scribbler
+      - name: scribbling
+      - name: scribbled
+  - name: describe
+    children:
+      - name: describer
+      - name: described
+      - name: describable
+        children:
+          - name: indescribable
+            children:
+              - name: indescribably
+      - name: description
+        children:
+          - name: descriptor
+          - name: descriptive
+            children:
+              - name: descriptively
+          - name: nondescript
+      - name: redescribe
+        children:
+          - name: redescription
+      - name: misdescribe
+        children:
+          - name: misdescription
+  - name: prescribe
+    children:
+      - name: prescribing
+      - name: prescribed
+      - name: prescription
+      - name: prescriptive
+  - name: subscribe
+    children:
+      - name: subscriber
+      - name: subscription
+  - name: transcribe
+    children:
+      - name: transcriber
+      - name: transcribed
+      - name: transcript
+        children:
+          - name: transcription
+            children:
+              - name: transcriptional
+  - name: inscribe
+    children:
+      - name: inscribed
+      - name: inscription
+  - name: ascribe
+    children:
+      - name: ascribed
+      - name: ascription
+      - name: ascriptive
+  - name: circumscribe
+    children:
+      - name: circumscribed
+      - name: circumscription

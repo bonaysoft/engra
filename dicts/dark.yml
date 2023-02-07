@@ -1,0 +1,10 @@
+name: 28FA
+children:
+  - name: dark
+    children:
+      - name: darkly
+      - name: darkness
+      - name: darken
+        children:
+          - name: darkening
+          - name: darkened

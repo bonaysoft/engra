@@ -1,0 +1,6 @@
+name: 6B1A
+children:
+  - name: swoon
+    children:
+      - name: swooning
+      - name: aswoon

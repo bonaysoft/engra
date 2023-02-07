@@ -1,0 +1,35 @@
+name: 9AB
+children:
+  - name: exemplar
+    children:
+      - name: exemplary
+        children:
+          - name: exemplarity
+      - name: exemplify
+        children:
+          - name: exemplification
+  - name: redeem
+    children:
+      - name: redeemer
+      - name: redeeming
+      - name: redeemed
+        children:
+          - name: unredeemed
+      - name: redemption
+      - name: redemptive
+      - name: redeemable
+        children:
+          - name: irredeemable
+            children:
+              - name: irredeemably
+          - name: unredeemable
+  - name: prompt
+    children:
+      - name: promptly
+      - name: promptness
+      - name: prompter
+      - name: prompting
+      - name: prompted
+        children:
+          - name: unprompted
+      - name: promptitude

@@ -1,0 +1,6 @@
+name: 392A
+children:
+  - name: magnet
+    children:
+      - name: magnetic
+      - name: magnetism

@@ -1,0 +1,18 @@
+name: 1BDA
+children:
+  - name: navy
+    children:
+      - name: naval
+      - name: navicular
+  - name: navigate
+    children:
+      - name: navigator
+      - name: navigation
+        children:
+          - name: navigational
+          - name: astronavigation
+      - name: circumnavigate
+        children:
+          - name: circumnavigator
+          - name: circumnavigation
+      - name: navigable

@@ -1,0 +1,11 @@
+name: 2AFA
+children:
+  - name: thick
+    children:
+      - name: thickly
+      - name: thickness
+      - name: thicken
+        children:
+          - name: thickener
+          - name: thickening
+          - name: thickened

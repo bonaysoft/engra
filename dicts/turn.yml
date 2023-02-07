@@ -1,0 +1,21 @@
+name: 8BD
+children:
+  - name: turn
+    children:
+      - name: turning
+      - name: turned
+        children:
+          - name: unturned
+  - name: return
+    children:
+      - name: returner
+      - name: returnee
+      - name: returnable
+      - name: retuning
+      - name: retuned
+        children:
+          - name: unreturned
+  - name: overturn
+    children:
+      - name: overturning
+      - name: overturned

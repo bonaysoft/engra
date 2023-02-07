@@ -1,0 +1,22 @@
+name: 1DCC
+children:
+  - name: quarter
+    children:
+      - name: quarters
+      - name: quarterly
+        children:
+          - name: biquarterly
+      - name: quartered
+      - name: quartering
+      - name: quarterstaff
+      - name: quarterdeck
+        children:
+          - name: quarterdecker
+      - name: quartertone
+      - name: quarterday
+      - name: quartersaw
+      - name: quarterage
+      - name: quarterstretch
+      - name: quarterfinalist
+      - name: forequarter
+      - name: hindquarter

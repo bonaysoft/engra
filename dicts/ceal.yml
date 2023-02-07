@@ -1,0 +1,10 @@
+name: 4E3A
+children:
+  - name: conceal
+    children:
+      - name: concealer
+      - name: concealing
+      - name: concealed
+        children:
+          - name: unconcealed
+      - name: concealment

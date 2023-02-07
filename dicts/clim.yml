@@ -1,0 +1,25 @@
+name: D0B
+children:
+  - name: climate
+    children:
+      - name: climatic
+        children:
+          - name: climatically
+      - name: climatology
+        children:
+          - name: climatological
+      - name: microclimate
+      - name: macroclimate
+      - name: acclimate
+        children:
+          - name: acclimation
+          - name: acclimatize
+            children:
+              - name: acclimatized
+              - name: acclimatization
+      - name: clime
+  - name: climax
+    children:
+      - name: climactic
+        children:
+          - name: anticlimactic

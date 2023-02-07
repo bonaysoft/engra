@@ -1,0 +1,26 @@
+name: 142A
+children:
+  - name: note
+    children:
+      - name: noted
+      - name: notepad
+      - name: notepaper
+      - name: notebook
+      - name: headnote
+      - name: footnote
+      - name: endnote
+  - name: keynote
+    children:
+      - name: keynoter
+  - name: denote
+    children:
+      - name: denotative
+      - name: denotation
+  - name: notable
+    children:
+      - name: notably
+      - name: noteworthy
+  - name: connote
+    children:
+      - name: connotation
+      - name: connotative

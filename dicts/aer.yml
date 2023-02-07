@@ -1,0 +1,13 @@
+name: 3CA
+children:
+  - name: aerial
+    children:
+      - name: aerialist
+  - name: aerobic
+    children:
+      - name: aerobics
+      - name: aerobically
+      - name: anaerobic
+  - name: aerosol
+    children:
+      - name: aerosolize

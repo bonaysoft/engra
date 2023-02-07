@@ -1,0 +1,10 @@
+name: 19DA
+children:
+  - name: crude
+    children:
+      - name: crudely
+      - name: crudeness
+  - name: cruel
+    children:
+      - name: cruelly
+      - name: cruelty

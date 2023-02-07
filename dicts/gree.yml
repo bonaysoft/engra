@@ -1,0 +1,16 @@
+name: 8AC
+children:
+  - name: agree
+    children:
+      - name: agreed
+      - name: agreement
+      - name: agreeable
+        children:
+          - name: agreeably
+          - name: agreeableness
+      - name: disagree
+        children:
+          - name: disagreement
+          - name: disagreeable
+            children:
+              - name: disagreeably

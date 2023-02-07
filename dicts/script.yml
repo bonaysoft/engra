@@ -1,0 +1,21 @@
+name: 5CB
+children:
+  - name: script
+    children:
+      - name: scripting
+      - name: scripted
+        children:
+          - name: unscripted
+      - name: scriptwriter
+      - name: scriptorium
+      - name: rescript
+      - name: manuscript
+      - name: typescript
+      - name: subscript
+      - name: superscript
+      - name: postscript
+  - name: scripture
+    children:
+      - name: scriptural
+        children:
+          - name: scripturally

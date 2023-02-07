@@ -1,0 +1,6 @@
+name: 4F1A
+children:
+  - name: polygamy
+    children:
+      - name: polygamist
+      - name: polygamous

@@ -1,0 +1,20 @@
+name: 126A
+children:
+  - name: semen
+    children:
+      - name: seminal
+      - name: seminate
+        children:
+          - name: semination
+      - name: inseminate
+        children:
+          - name: insemination
+      - name: disseminate
+        children:
+          - name: disseminator
+          - name: disseminated
+          - name: dissemination
+  - name: seminar
+  - name: seminary
+    children:
+      - name: seminarian

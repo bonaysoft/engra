@@ -1,0 +1,12 @@
+name: 434A
+children:
+  - name: demon
+    children:
+      - name: demonic
+      - name: demonology
+      - name: demonize
+        children:
+          - name: demonizing
+          - name: demonized
+          - name: demonization
+      - name: pandemonium

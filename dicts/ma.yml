@@ -1,0 +1,25 @@
+name: 57F
+children:
+  - name: master
+    children:
+      - name: masterly
+      - name: masterful
+        children:
+          - name: masterfully
+      - name: mastery
+      - name: masterwork
+      - name: masterpiece
+      - name: mastermind
+      - name: masterstroke
+      - name: headmaster
+      - name: schoolmaster
+      - name: postmaster
+      - name: taskmaster
+      - name: ringmaster
+      - name: grandmaster
+      - name: webmaster
+      - name: concertmaster
+      - name: paymaster
+      - name: choirmaster
+      - name: toastmaster
+      - name: shipmaster

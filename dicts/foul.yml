@@ -1,0 +1,14 @@
+name: 316A
+children:
+  - name: foul
+    children:
+      - name: foully
+      - name: fouling
+      - name: fouled
+      - name: foulness
+      - name: afoul
+      - name: befoul
+      - name: foulbrood
+      - name: foulmouthed
+      - name: antifoulant
+      - name: antifouling

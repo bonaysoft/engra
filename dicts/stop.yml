@@ -1,0 +1,8 @@
+name: 23EA
+children:
+  - name: stop
+    children:
+      - name: stopper
+      - name: stopping
+      - name: stopped
+      - name: stoppage

@@ -1,0 +1,8 @@
+name: 447A
+children:
+  - name: thin
+    children:
+      - name: thinly
+      - name: thinness
+      - name: thinning
+      - name: thinned

@@ -1,0 +1,6 @@
+name: 10CC
+children:
+  - name: yard
+    children:
+      - name: yardstick
+      - name: graveyard

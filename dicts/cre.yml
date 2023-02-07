@@ -1,0 +1,53 @@
+name: 90A
+children:
+  - name: create
+    children:
+      - name: creator
+      - name: created
+        children:
+          - name: uncreated
+      - name: creation
+        children:
+          - name: creationism
+      - name: creative
+        children:
+          - name: creatively
+          - name: creativity
+          - name: creativeness
+          - name: uncreative
+      - name: creature
+        children:
+          - name: creaturely
+      - name: procreate
+        children:
+          - name: procreation
+          - name: procreative
+  - name: increase
+    children:
+      - name: increased
+      - name: increasing
+        children:
+          - name: increasingly
+      - name: increment
+        children:
+          - name: incremental
+            children:
+              - name: incrementally
+              - name: incrementalism
+  - name: decrease
+    children:
+      - name: decreased
+      - name: decreasing
+      - name: decrement
+  - name: crescendo
+    children:
+      - name: decrescendo
+  - name: concrete
+    children:
+      - name: concretely
+      - name: concreteness
+      - name: concretion
+      - name: concretive
+      - name: concretize
+        children:
+          - name: concretization

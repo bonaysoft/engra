@@ -1,0 +1,50 @@
+name: 8FA
+children:
+  - name: science
+    children:
+      - name: scient
+        children:
+          - name: sciential
+          - name: scientist
+          - name: scientism
+          - name: scientific
+            children:
+              - name: scientifically
+              - name: unscientific
+              - name: nonscientific
+          - name: prescient
+            children:
+              - name: presciently
+      - name: geoscience
+      - name: bioscience
+      - name: prescience
+  - name: conscience
+    children:
+      - name: conscienceless
+      - name: conscionable
+        children:
+          - name: unconscionable
+            children:
+              - name: unconscionably
+      - name: conscientious
+        children:
+          - name: conscientiously
+          - name: conscientiousness
+  - name: conscious
+    children:
+      - name: consciously
+      - name: consciousness
+      - name: subconscious
+        children:
+          - name: subconsciously
+      - name: unconscious
+        children:
+          - name: unconsciously
+          - name: unconsciousness
+      - name: unselfconscious
+        children:
+          - name: unselfconsciously
+      - name: semiconscious
+        children:
+          - name: semiconsciously
+          - name: semiconsciousness

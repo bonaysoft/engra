@@ -1,0 +1,14 @@
+name: 273B
+children:
+  - name: surge
+    children:
+      - name: surging
+      - name: surgy
+      - name: surgent
+      - name: surgeless
+  - name: insurgent
+    children:
+      - name: insurgence
+      - name: insurgency
+        children:
+          - name: counterinsurgency

@@ -1,0 +1,15 @@
+name: 43B
+children:
+  - name: appeal
+    children:
+      - name: appealing
+        children:
+          - name: appealingly
+          - name: unappealing
+      - name: appellant
+      - name: appellate
+        children:
+          - name: appellation
+      - name: peal
+      - name: repeal
+      - name: rappel

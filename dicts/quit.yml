@@ -1,0 +1,10 @@
+name: 3D9A
+children:
+  - name: quit
+    children:
+      - name: quitter
+  - name: acquit
+    children:
+      - name: acquittal
+      - name: acquitment
+      - name: acquittance

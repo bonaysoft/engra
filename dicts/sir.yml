@@ -1,0 +1,15 @@
+name: 14BB
+children:
+  - name: desire
+    children:
+      - name: desiring
+      - name: desired
+        children:
+          - name: undesired
+      - name: desirous
+      - name: desirable
+        children:
+          - name: desirability
+          - name: undesirable
+            children:
+              - name: undesirability

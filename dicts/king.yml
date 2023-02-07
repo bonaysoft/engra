@@ -1,0 +1,6 @@
+name: 58EA
+children:
+  - name: king
+    children:
+      - name: kingdom
+      - name: kingship

@@ -1,0 +1,14 @@
+name: 3E4A
+children:
+  - name: belligerent
+    children:
+      - name: belligerently
+      - name: belligerence
+      - name: belligerency
+  - name: rebel
+    children:
+      - name: rebellion
+      - name: rebellious
+        children:
+          - name: rebelliously
+          - name: rebelliousness

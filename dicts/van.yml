@@ -1,0 +1,8 @@
+name: 6FC
+children:
+  - name: vanish
+    children:
+      - name: vanished
+      - name: vanishing
+        children:
+          - name: vanishingly

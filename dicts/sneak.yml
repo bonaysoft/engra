@@ -1,0 +1,10 @@
+name: 275C
+children:
+  - name: sneak
+    children:
+      - name: sneaky
+        children:
+          - name: sneakily
+      - name: sneaking
+      - name: sneakered
+      - name: sneakers

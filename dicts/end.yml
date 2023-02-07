@@ -1,0 +1,14 @@
+name: 20CA
+children:
+  - name: end
+    children:
+      - name: endless
+        children:
+          - name: endlessly
+          - name: endlessness
+      - name: ending
+        children:
+          - name: unending
+      - name: upend
+        children:
+          - name: upended

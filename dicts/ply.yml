@@ -1,0 +1,21 @@
+name: 60C
+children:
+  - name: supply
+    children:
+      - name: supplies
+      - name: supplier
+      - name: resupply
+      - name: oversupply
+      - name: undersupply
+  - name: comply
+    children:
+      - name: complied
+      - name: complyingly
+        children:
+          - name: uncomplying
+      - name: compliant
+        children:
+          - name: noncompliant
+      - name: compliance
+        children:
+          - name: noncompliance

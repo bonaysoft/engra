@@ -1,0 +1,12 @@
+name: 317A
+children:
+  - name: hemorrhage
+    children:
+      - name: hemorrhagic
+      - name: hemorrhaging
+      - name: haemorrhage
+        children:
+          - name: haemorrhagic
+  - name: diarrhea
+    children:
+      - name: diarrheal

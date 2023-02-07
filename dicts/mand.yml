@@ -1,0 +1,19 @@
+name: 130A
+children:
+  - name: command
+    children:
+      - name: commander
+      - name: commandant
+      - name: commanding
+      - name: commandment
+      - name: commandeer
+        children:
+          - name: commandeered
+  - name: demand
+    children:
+      - name: demander
+      - name: demandant
+      - name: demandable
+      - name: demanding
+        children:
+          - name: undemanding

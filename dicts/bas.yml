@@ -1,0 +1,5 @@
+name: 312A
+children:
+  - name: basin
+    children:
+      - name: washbasin

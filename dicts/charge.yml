@@ -1,0 +1,30 @@
+name: 1E1A
+children:
+  - name: charge
+    children:
+      - name: charger
+      - name: charging
+      - name: charged
+        children:
+          - name: uncharged
+      - name: chargeable
+      - name: recharge
+        children:
+          - name: recharger
+          - name: recharging
+          - name: recharged
+          - name: rechargeable
+      - name: discharge
+        children:
+          - name: discharger
+          - name: discharged
+      - name: supercharge
+        children:
+          - name: supercharger
+          - name: supercharged
+      - name: turbocharge
+        children:
+          - name: turbocharger
+          - name: turbocharged
+      - name: overcharge
+      - name: surcharge

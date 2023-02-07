@@ -1,0 +1,18 @@
+name: 138A
+children:
+  - name: camp
+    children:
+      - name: camper
+      - name: camping
+      - name: campfire
+      - name: campsite
+      - name: campground
+      - name: encamp
+        children:
+          - name: encampment
+      - name: decamp
+        children:
+          - name: decampment
+  - name: campaign
+    children:
+      - name: campaigner

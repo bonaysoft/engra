@@ -1,0 +1,7 @@
+name: 6BCB
+children:
+  - name: sanguine
+    children:
+      - name: sanguinity
+      - name: sanguinolent
+      - name: sanguinivorous

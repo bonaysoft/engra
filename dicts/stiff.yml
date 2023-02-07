@@ -1,0 +1,6 @@
+name: 4A0A
+children:
+  - name: stiff
+    children:
+      - name: stiffen
+      - name: stiffened

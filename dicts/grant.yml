@@ -1,0 +1,7 @@
+name: B7C
+children:
+  - name: grant
+    children:
+      - name: grantor
+      - name: grantee
+      - name: granting

@@ -1,0 +1,13 @@
+name: 3D2A
+children:
+  - name: anthropology
+    children:
+      - name: anthropological
+        children:
+          - name: anthropologically
+      - name: anthropologist
+  - name: philanthropy
+    children:
+      - name: philanthropic
+      - name: philanthropist
+      - name: philanthropism

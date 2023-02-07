@@ -1,0 +1,6 @@
+name: 42EA
+children:
+  - name: seek
+    children:
+      - name: seeker
+      - name: seeking

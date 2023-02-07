@@ -1,0 +1,58 @@
+name: 46A
+children:
+  - name: logic
+    children:
+      - name: logical
+        children:
+          - name: logically
+          - name: illogical
+            children:
+              - name: illogically
+      - name: logician
+      - name: logistic
+        children:
+          - name: logistics
+          - name: logistical
+          - name: logistician
+  - name: apology
+    children:
+      - name: apologia
+      - name: apologize
+      - name: apologist
+      - name: apologetic
+        children:
+          - name: apologetics
+          - name: apologetically
+          - name: unapologetic
+            children:
+              - name: unapologetically
+  - name: analog
+    children:
+      - name: analogy
+      - name: analogical
+      - name: analogous
+        children:
+          - name: analogously
+      - name: analogize
+      - name: analogue
+  - name: eulogy
+    children:
+      - name: eulogize
+  - name: dialogue
+    children:
+      - name: dialogist
+      - name: dialogic
+        children:
+          - name: dialogical
+      - name: dialog
+  - name: catalogue
+    children:
+      - name: cataloger
+      - name: cataloging
+      - name: catalog
+  - name: monologue
+    children:
+      - name: monologist
+      - name: monologic
+        children:
+          - name: monological

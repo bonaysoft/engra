@@ -1,0 +1,20 @@
+name: DB
+children:
+  - name: agent
+    children:
+      - name: agency
+      - name: agential
+      - name: agentry
+      - name: subagent
+      - name: countagent
+      - name: coagent
+  - name: agile
+    children:
+      - name: agility
+  - name: agitate
+    children:
+      - name: agitating
+      - name: agitated
+      - name: agitation
+      - name: agitator
+      - name: agitatress

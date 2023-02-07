@@ -1,0 +1,7 @@
+name: 2D6B
+children:
+  - name: dramatize
+    children:
+      - name: dramatized
+      - name: dramatization
+      - name: overdramatize

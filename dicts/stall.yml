@@ -1,0 +1,16 @@
+name: 1E
+children:
+  - name: stall
+    children:
+      - name: stalling
+      - name: stalled
+      - name: bookstall
+  - name: install
+    children:
+      - name: installer
+      - name: installed
+      - name: installation
+      - name: reinstall
+      - name: uninstall
+        children:
+          - name: uninstalled

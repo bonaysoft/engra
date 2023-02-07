@@ -1,0 +1,32 @@
+name: 43E
+children:
+  - name: pulse
+    children:
+      - name: pulser
+      - name: pulsar
+      - name: pulsed
+      - name: pulsing
+      - name: pulsate
+        children:
+          - name: pulsating
+          - name: pulsation
+          - name: pulsatile
+  - name: impulse
+    children:
+      - name: impulsive
+        children:
+          - name: impulsively
+          - name: impulsiveness
+      - name: impulsion
+  - name: repulse
+    children:
+      - name: repulsed
+      - name: repulsion
+      - name: repulsive
+  - name: compulsion
+    children:
+      - name: compulsory
+      - name: compulsive
+        children:
+          - name: compulsively
+          - name: compulsiveness

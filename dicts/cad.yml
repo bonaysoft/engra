@@ -1,0 +1,17 @@
+name: 85A
+children:
+  - name: cadence
+    children:
+      - name: cadency
+      - name: cadenced
+      - name: cadent
+        children:
+          - name: cadential
+  - name: decadent
+    children:
+      - name: decadence
+      - name: decadency
+  - name: cadaver
+    children:
+      - name: cadaveric
+      - name: cadaverous

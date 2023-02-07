@@ -1,0 +1,13 @@
+name: 36AA
+children:
+  - name: sculpt
+    children:
+      - name: sculptor
+        children:
+          - name: sculptress
+      - name: sculpting
+      - name: sculpted
+      - name: sculpture
+        children:
+          - name: sculptural
+          - name: sculpturesque

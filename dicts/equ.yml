@@ -1,0 +1,49 @@
+name: 7EA
+children:
+  - name: equal
+    children:
+      - name: equally
+      - name: equality
+      - name: equalize
+        children:
+          - name: equalizer
+          - name: equalizing
+          - name: equalized
+          - name: equalization
+      - name: unequal
+        children:
+          - name: unequally
+          - name: unequaled
+          - name: unequalable
+      - name: inequal
+        children:
+          - name: inequality
+  - name: equity
+    children:
+      - name: equitable
+        children:
+          - name: equitably
+      - name: inequity
+      - name: inequitable
+        children:
+          - name: inequitably
+  - name: equate
+    children:
+      - name: equator
+        children:
+          - name: equatorial
+      - name: equation
+  - name: equivalent
+    children:
+      - name: equivalently
+      - name: equivalence
+      - name: equivalency
+      - name: nonequivalent
+  - name: adequate
+    children:
+      - name: adequately
+      - name: adequacy
+      - name: inadequate
+        children:
+          - name: inadequately
+      - name: inadequacy

@@ -1,0 +1,6 @@
+name: 4A9A
+children:
+  - name: anthology
+    children:
+      - name: anthologist
+      - name: anthologize

@@ -1,0 +1,26 @@
+name: 49E
+children:
+  - name: mental
+    children:
+      - name: mentally
+      - name: mentality
+      - name: mentalist
+      - name: mentalism
+  - name: mentor
+    children:
+      - name: mentoring
+      - name: mentorship
+  - name: mention
+    children:
+      - name: mentionable
+        children:
+          - name: unmentionable
+      - name: unmentioned
+      - name: aforementioned
+  - name: comment
+    children:
+      - name: commentary
+      - name: commentate
+        children:
+          - name: commentator
+          - name: commentation

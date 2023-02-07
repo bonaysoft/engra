@@ -1,0 +1,11 @@
+name: DDD
+children:
+  - name: luminous
+    children:
+      - name: luminously
+      - name: luminosity
+      - name: luminance
+      - name: luminist
+      - name: luminary
+      - name: luminiferous
+      - name: superluminal

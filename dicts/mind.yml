@@ -1,0 +1,18 @@
+name: 49D
+children:
+  - name: mind
+    children:
+      - name: minder
+      - name: minded
+      - name: mindful
+        children:
+          - name: mindfully
+          - name: mindfulness
+          - name: unmindful
+      - name: mindless
+        children:
+          - name: mindlessly
+          - name: mindlessness
+  - name: remind
+    children:
+      - name: reminder

@@ -1,0 +1,36 @@
+name: 2D
+children:
+  - name: fact
+    children:
+      - name: factual
+        children:
+          - name: factually
+          - name: factuality
+          - name: counterfactual
+      - name: factoid
+  - name: factor
+    children:
+      - name: factoring
+      - name: factorial
+      - name: factorize
+        children:
+          - name: factorization
+      - name: cofactor
+        children:
+          - name: multifactor
+            children:
+              - name: multifactorial
+  - name: faction
+    children:
+      - name: factional
+        children:
+          - name: factionalism
+      - name: factious
+  - name: artifact
+    children:
+      - name: artifactual
+  - name: benefactor
+    children:
+      - name: benefactress
+      - name: benefaction
+      - name: benefactive

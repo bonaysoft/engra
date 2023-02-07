@@ -1,0 +1,19 @@
+name: 211A
+children:
+  - name: disciple
+    children:
+      - name: discipleship
+  - name: discipline
+    children:
+      - name: disciplined
+      - name: disciplinary
+        children:
+          - name: disciplinarian
+      - name: indiscipline
+      - name: undiscipline
+        children:
+          - name: undisciplined
+          - name: undisciplinable
+      - name: interdisciplinary
+      - name: multidisciplinary
+      - name: transdisciplinary

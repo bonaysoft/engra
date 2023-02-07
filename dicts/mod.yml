@@ -1,0 +1,97 @@
+name: 3EA
+children:
+  - name: mode
+    children:
+      - name: multimode
+      - name: outmoded
+      - name: modal
+        children:
+          - name: modality
+          - name: bimodal
+          - name: intermodal
+          - name: multimodal
+  - name: model
+    children:
+      - name: modeler
+      - name: modeling
+      - name: modeled
+      - name: supermodel
+      - name: remodel
+        children:
+          - name: remodeler
+          - name: remodeling
+          - name: remodeled
+  - name: modern
+    children:
+      - name: modernity
+      - name: modernism
+      - name: modernist
+        children:
+          - name: modernistic
+      - name: modernize
+        children:
+          - name: modernizer
+          - name: modernizing
+          - name: modernized
+          - name: modernization
+      - name: postmodern
+        children:
+          - name: postmodernism
+          - name: postmodernist
+      - name: ultramodern
+  - name: modify
+    children:
+      - name: modifier
+      - name: modified
+        children:
+          - name: unmodified
+      - name: modifiable
+      - name: modification
+  - name: module
+    children:
+      - name: modular
+  - name: commodity
+    children:
+      - name: commodify
+        children:
+          - name: commodified
+          - name: commodification
+  - name: accommodate
+    children:
+      - name: accommodating
+      - name: accommodated
+      - name: accommodation
+        children:
+          - name: accommodationist
+      - name: accommodative
+  - name: modest
+    children:
+      - name: modestly
+      - name: modesty
+      - name: immodest
+        children:
+          - name: immodestly
+          - name: immodesty
+  - name: moderate
+    children:
+      - name: moderately
+      - name: moderator
+      - name: moderating
+      - name: moderation
+      - name: moderatist
+      - name: moderatism
+      - name: immoderate
+        children:
+          - name: immoderately
+  - name: modulate
+    children:
+      - name: modulator
+      - name: modulated
+        children:
+          - name: unmodulated
+      - name: modulation
+      - name: demodulate
+        children:
+          - name: demodulator
+          - name: demodulation
+      - name: modem

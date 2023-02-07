@@ -1,0 +1,17 @@
+name: 17CA
+children:
+  - name: pure
+    children:
+      - name: purely
+      - name: purity
+      - name: purist
+      - name: purism
+      - name: purify
+        children:
+          - name: purifier
+          - name: purifying
+          - name: purified
+          - name: purification
+      - name: impure
+        children:
+          - name: impurity

@@ -1,0 +1,14 @@
+name: 1A9A
+children:
+  - name: black
+    children:
+      - name: blackly
+      - name: blackness
+      - name: blackish
+      - name: blacken
+        children:
+          - name: blackening
+          - name: blackened
+      - name: blacklist
+        children:
+          - name: blacklisted

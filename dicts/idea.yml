@@ -1,0 +1,16 @@
+name: 1F3A
+children:
+  - name: ideal
+    children:
+      - name: ideally
+      - name: ideality
+      - name: idealism
+      - name: idealist
+        children:
+          - name: idealistic
+            children:
+              - name: idealistically
+      - name: idealize
+        children:
+          - name: idealized
+          - name: idealization

@@ -1,0 +1,93 @@
+name: DA
+children:
+  - name: act
+    children:
+      - name: actor
+      - name: actress
+      - name: acting
+      - name: action
+        children:
+          - name: actionable
+          - name: inaction
+      - name: overact
+  - name: actual
+    children:
+      - name: actually
+      - name: actuality
+      - name: actualize
+        children:
+          - name: actualization
+  - name: exact
+    children:
+      - name: exactly
+      - name: exaction
+      - name: exactness
+      - name: exacting
+      - name: exactitude
+      - name: inexact
+  - name: enact
+    children:
+      - name: enactor
+      - name: enactory
+      - name: enactment
+  - name: react
+    children:
+      - name: reactor
+        children:
+          - name: bioreactor
+      - name: reactive
+        children:
+          - name: reactivity
+          - name: nonreactive
+      - name: reaction
+        children:
+          - name: reactionary
+      - name: reactant
+        children:
+          - name: reactance
+      - name: overreact
+        children:
+          - name: overreaction
+  - name: counteract
+    children:
+      - name: counteraction
+  - name: interact
+    children:
+      - name: interacting
+      - name: interactive
+        children:
+          - name: interactively
+      - name: interaction
+        children:
+          - name: interactional
+          - name: interactionism
+  - name: active
+    children:
+      - name: actively
+      - name: activity
+      - name: activist
+      - name: activism
+      - name: activate
+        children:
+          - name: activator
+          - name: activated
+          - name: activation
+          - name: deactivate
+            children:
+              - name: deactivation
+          - name: reactivate
+            children:
+              - name: reactivation
+      - name: inactive
+        children:
+          - name: inactivity
+          - name: inactivate
+            children:
+              - name: inactivated
+              - name: inactivation
+      - name: hyperactive
+        children:
+          - name: hyperactivity
+  - name: proactive
+    children:
+      - name: proactively

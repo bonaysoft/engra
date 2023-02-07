@@ -1,0 +1,9 @@
+name: 582A
+children:
+  - name: soul
+    children:
+      - name: soulless
+      - name: soulful
+        children:
+          - name: soulfully
+          - name: soulfulness

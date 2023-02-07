@@ -1,0 +1,10 @@
+name: 51D
+children:
+  - name: single
+    children:
+      - name: singleness
+      - name: singly
+      - name: singular
+        children:
+          - name: singularly
+          - name: singularity

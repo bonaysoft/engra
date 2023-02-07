@@ -1,0 +1,20 @@
+name: 5DD
+children:
+  - name: descend
+    children:
+      - name: descender
+      - name: descending
+      - name: descendant
+      - name: descendent
+      - name: descent
+  - name: transcend
+    children:
+      - name: transcendence
+      - name: transcendent
+        children:
+          - name: transcendental
+  - name: ascend
+    children:
+      - name: ascending
+      - name: ascendant
+      - name: ascendancy

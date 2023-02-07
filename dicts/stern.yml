@@ -1,0 +1,7 @@
+name: 577A
+children:
+  - name: stern
+    children:
+      - name: sternly
+      - name: sternness
+      - name: astern

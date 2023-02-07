@@ -1,0 +1,7 @@
+name: 5FFA
+children:
+  - name: buck
+    children:
+      - name: bucking
+      - name: buckskin
+      - name: megabuck

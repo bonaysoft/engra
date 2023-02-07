@@ -1,0 +1,10 @@
+name: 53A
+children:
+  - name: possible
+    children:
+      - name: possibly
+      - name: possibility
+      - name: impossible
+        children:
+          - name: impossibly
+          - name: impossibility

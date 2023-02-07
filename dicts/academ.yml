@@ -1,0 +1,9 @@
+name: 3B4A
+children:
+  - name: academy
+    children:
+      - name: academic
+        children:
+          - name: academically
+      - name: academia
+      - name: academe

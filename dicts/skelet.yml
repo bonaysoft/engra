@@ -1,0 +1,16 @@
+name: 5D0A
+children:
+  - name: skeleton
+    children:
+      - name: skeletony
+      - name: skeletonless
+      - name: skeletonize
+      - name: exoskeleton
+      - name: endoskeleton
+      - name: ectoskeleton
+      - name: dermoskeleton
+      - name: skeletogenous
+      - name: skeletal
+        children:
+          - name: exoskeletal
+          - name: musculoskeletal

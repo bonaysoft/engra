@@ -1,0 +1,30 @@
+name: 193A
+children:
+  - name: develop
+    children:
+      - name: developer
+      - name: developing
+      - name: developed
+        children:
+          - name: undeveloped
+      - name: developable
+      - name: development
+        children:
+          - name: developmental
+            children:
+              - name: developmentally
+      - name: redevelop
+        children:
+          - name: redevelopment
+      - name: underdevelop
+        children:
+          - name: underdeveloped
+          - name: underdevelopment
+      - name: overdevelop
+        children:
+          - name: overdeveloped
+  - name: envelop
+    children:
+      - name: envelope
+      - name: enveloping
+      - name: envelopment

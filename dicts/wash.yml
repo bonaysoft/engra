@@ -1,0 +1,14 @@
+name: 14FA
+children:
+  - name: wash
+    children:
+      - name: washer
+      - name: washing
+      - name: washed
+        children:
+          - name: unwashed
+      - name: washable
+  - name: brainwash
+    children:
+      - name: brainwashing
+      - name: brainwashed

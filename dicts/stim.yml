@@ -1,0 +1,13 @@
+name: 4EE
+children:
+  - name: stimulus
+    children:
+      - name: stimulant
+      - name: stimulate
+        children:
+          - name: stimulator
+          - name: stimulating
+          - name: stimulated
+          - name: stimulation
+          - name: stimulative
+          - name: stimulatory

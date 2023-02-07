@@ -1,0 +1,6 @@
+name: 35CB
+children:
+  - name: fond
+    children:
+      - name: fondly
+      - name: fondness

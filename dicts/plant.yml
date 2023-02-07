@@ -1,0 +1,28 @@
+name: 184A
+children:
+  - name: plant
+    children:
+      - name: planter
+      - name: planting
+      - name: planted
+        children:
+          - name: unplanted
+      - name: plantation
+      - name: plantable
+      - name: plantsman
+      - name: plantlet
+      - name: eggplant
+      - name: houseplant
+  - name: transplant
+    children:
+      - name: transplanting
+      - name: transplanted
+      - name: transplantation
+  - name: implant
+    children:
+      - name: implanted
+      - name: implantation
+      - name: implantable
+  - name: replant
+    children:
+      - name: replanting

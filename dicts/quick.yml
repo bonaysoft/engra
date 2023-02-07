@@ -1,0 +1,12 @@
+name: 28CA
+children:
+  - name: quick
+    children:
+      - name: quickly
+      - name: quicker
+      - name: quickest
+      - name: quickness
+      - name: quicken
+        children:
+          - name: quickening
+          - name: quickened

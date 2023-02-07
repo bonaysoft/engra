@@ -1,0 +1,9 @@
+name: 118D
+children:
+  - name: thunder
+    children:
+      - name: thundering
+      - name: thunderous
+      - name: thunderstorm
+      - name: thundercloud
+      - name: thundershower

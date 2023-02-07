@@ -1,0 +1,13 @@
+name: 6AAA
+children:
+  - name: prolific
+    children:
+      - name: prolifically
+      - name: prolificacy
+  - name: proliferate
+    children:
+      - name: proliferating
+      - name: proliferative
+      - name: proliferation
+        children:
+          - name: nonproliferation

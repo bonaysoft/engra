@@ -1,0 +1,19 @@
+name: 248A
+children:
+  - name: tolerate
+    children:
+      - name: toleration
+      - name: tolerant
+        children:
+          - name: tolerantly
+          - name: intolerant
+      - name: tolerance
+        children:
+          - name: intolerance
+      - name: tolerable
+        children:
+          - name: tolerably
+          - name: tolerability
+          - name: intolerable
+            children:
+              - name: intolerably

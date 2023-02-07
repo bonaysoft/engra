@@ -1,0 +1,10 @@
+name: D2C
+children:
+  - name: relieve
+    children:
+      - name: reliever
+      - name: relieved
+        children:
+          - name: unrelieved
+      - name: relievable
+      - name: relief

@@ -1,0 +1,10 @@
+name: 517A
+children:
+  - name: seem
+    children:
+      - name: seemly
+        children:
+          - name: unseemly
+      - name: seeming
+        children:
+          - name: seemingly

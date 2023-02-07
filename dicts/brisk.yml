@@ -1,0 +1,6 @@
+name: 5ECA
+children:
+  - name: brisk
+    children:
+      - name: briskly
+      - name: briskness

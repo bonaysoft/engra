@@ -1,0 +1,11 @@
+name: 146B
+children:
+  - name: isolate
+    children:
+      - name: isolator
+      - name: isolating
+      - name: isolated
+      - name: isolation
+        children:
+          - name: isolationist
+          - name: isolationism

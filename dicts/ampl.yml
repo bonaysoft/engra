@@ -1,0 +1,11 @@
+name: 356A
+children:
+  - name: ample
+    children:
+      - name: amply
+      - name: amplitude
+      - name: amplify
+        children:
+          - name: amplifier
+          - name: amplified
+          - name: amplification

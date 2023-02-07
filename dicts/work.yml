@@ -1,0 +1,30 @@
+name: 2AA
+children:
+  - name: work
+    children:
+      - name: worker
+      - name: works
+      - name: working
+      - name: worked
+        children:
+          - name: unworked
+      - name: workable
+        children:
+          - name: workability
+          - name: unworkable
+      - name: rework
+        children:
+          - name: reworking
+          - name: reworked
+      - name: overwork
+        children:
+          - name: overworked
+      - name: network
+        children:
+          - name: networker
+          - name: networking
+      - name: workman
+        children:
+          - name: workmanlike
+      - name: workday
+      - name: workweek

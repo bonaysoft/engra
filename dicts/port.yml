@@ -1,0 +1,92 @@
+name: 19A
+children:
+  - name: port
+    children:
+      - name: porter
+      - name: portal
+      - name: portly
+      - name: ported
+      - name: portage
+      - name: portion
+      - name: portable
+        children:
+          - name: portability
+  - name: report
+    children:
+      - name: report
+      - name: reporter
+      - name: reportorial
+      - name: reportable
+      - name: reportage
+      - name: reporting
+      - name: reported
+        children:
+          - name: reportedly
+          - name: unreported
+      - name: misreport
+      - name: underreport
+  - name: import
+    children:
+      - name: import
+      - name: importer
+      - name: importing
+      - name: imported
+      - name: importation
+      - name: reimport
+        children:
+          - name: reimportation
+      - name: important
+        children:
+          - name: importantly
+          - name: importance
+          - name: unimportant
+            children:
+              - name: unimportance
+  - name: export
+    children:
+      - name: export
+      - name: exporter
+      - name: exporting
+      - name: exported
+      - name: exportable
+      - name: exportation
+      - name: reexport
+  - name: transport
+    children:
+      - name: transporter
+      - name: transported
+      - name: transportable
+      - name: transportation
+  - name: rapport
+    children:
+      - name: rapporteur
+  - name: support
+    children:
+      - name: support
+      - name: supporter
+      - name: supporting
+      - name: supported
+        children:
+          - name: unsupported
+      - name: supportive
+        children:
+          - name: supportively
+          - name: supportiveness
+          - name: unsupportive
+      - name: supportable
+        children:
+          - name: insupportable
+          - name: unsupportable
+  - name: deport
+    children:
+      - name: deportee
+      - name: deported
+      - name: deportable
+      - name: deportment
+      - name: deportation
+  - name: purport
+    children:
+      - name: purported
+        children:
+          - name: purportedly
+  - name: passport

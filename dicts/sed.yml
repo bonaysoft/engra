@@ -1,0 +1,11 @@
+name: 4E
+children:
+  - name: sediment
+    children:
+      - name: sedimentary
+      - name: sedimentation
+  - name: supersede
+    children:
+      - name: superseded
+      - name: supersedeas
+      - name: supersession

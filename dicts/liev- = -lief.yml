@@ -1,0 +1,24 @@
+name: AFB
+children:
+  - name: believe
+    children:
+      - name: believer
+      - name: believing
+        children:
+          - name: unbelieving
+      - name: believable
+        children:
+          - name: believably
+          - name: believability
+          - name: unbelievable
+            children:
+              - name: unbelievably
+      - name: disbelieve
+        children:
+          - name: disbelieving
+            children:
+              - name: disbelievingly
+  - name: belief
+    children:
+      - name: unbelief
+      - name: disbelief

@@ -1,0 +1,20 @@
+name: 2D8A
+children:
+  - name: harmony
+    children:
+      - name: harmonic
+        children:
+          - name: harmonically
+      - name: harmonious
+        children:
+          - name: harmoniously
+      - name: harmonize
+        children:
+          - name: harmonized
+          - name: harmonization
+      - name: disharmony
+        children:
+          - name: disharmonious
+  - name: harmonica
+    children:
+      - name: harmonium

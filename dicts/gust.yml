@@ -1,0 +1,10 @@
+name: 489A
+children:
+  - name: disgust
+    children:
+      - name: disgusting
+        children:
+          - name: disgustingly
+      - name: disgusted
+        children:
+          - name: disgustedly

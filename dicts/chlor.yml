@@ -1,0 +1,17 @@
+name: 343A
+children:
+  - name: chlorine
+    children:
+      - name: chlorinate
+        children:
+          - name: chlorinated
+      - name: chlorination
+  - name: chloride
+    children:
+      - name: monochloride
+      - name: bichloride
+      - name: tetrachloride
+      - name: hydrochloride
+      - name: oxychloride
+      - name: subchloride
+      - name: perchloride

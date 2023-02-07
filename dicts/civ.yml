@@ -1,0 +1,19 @@
+name: F7B
+children:
+  - name: civil
+    children:
+      - name: civilly
+      - name: civility
+        children:
+          - name: incivility
+      - name: civilian
+        children:
+          - name: civilianize
+          - name: civilianization
+      - name: civilize
+        children:
+          - name: civilizing
+          - name: civilized
+          - name: civilization
+            children:
+              - name: incivilization

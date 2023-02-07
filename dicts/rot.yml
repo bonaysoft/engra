@@ -1,0 +1,13 @@
+name: 267A
+children:
+  - name: rotate
+    children:
+      - name: rotator
+      - name: rotating
+      - name: rotated
+      - name: rotation
+        children:
+          - name: rotational
+      - name: rotatable
+      - name: rotative
+      - name: rotatory

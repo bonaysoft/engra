@@ -1,0 +1,21 @@
+name: 244A
+children:
+  - name: violent
+    children:
+      - name: violently
+      - name: violence
+      - name: nonviolent
+        children:
+          - name: nonviolently
+          - name: nonviolence
+  - name: violate
+    children:
+      - name: violator
+      - name: violating
+      - name: violated
+      - name: violative
+      - name: violation
+      - name: violable
+      - name: inviolable
+        children:
+          - name: inviolability

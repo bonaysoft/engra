@@ -1,0 +1,6 @@
+name: 3C0B
+children:
+  - name: array
+    children:
+      - name: arrayed
+      - name: disarray

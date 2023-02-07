@@ -1,0 +1,10 @@
+name: 4EEB
+children:
+  - name: tear
+    children:
+      - name: teary
+      - name: tearless
+      - name: tearful
+        children:
+          - name: tearfully
+      - name: tearing

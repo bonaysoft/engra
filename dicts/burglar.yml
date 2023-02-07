@@ -1,0 +1,6 @@
+name: 56EA
+children:
+  - name: burglar
+    children:
+      - name: burglary
+      - name: burglarize

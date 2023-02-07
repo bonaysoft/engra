@@ -1,0 +1,15 @@
+name: 31E
+children:
+  - name: rule
+    children:
+      - name: ruler
+        children:
+          - name: rulership
+      - name: ruling
+      - name: ruled
+      - name: unruly
+        children:
+          - name: unruliness
+      - name: rulebook
+      - name: overrule
+      - name: misrule

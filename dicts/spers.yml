@@ -1,0 +1,12 @@
+name: 257B
+children:
+  - name: disperse
+    children:
+      - name: dispersal
+      - name: dispersed
+      - name: dispersion
+      - name: dispersive
+      - name: dispersant
+  - name: intersperse
+    children:
+      - name: interspersion

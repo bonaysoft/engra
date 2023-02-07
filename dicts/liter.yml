@@ -1,0 +1,27 @@
+name: 1B9A
+children:
+  - name: literal
+    children:
+      - name: literally
+      - name: literalness
+      - name: literalism
+      - name: literalize
+      - name: uniliteral
+      - name: transliteration
+  - name: literacy
+    children:
+      - name: illiteracy
+  - name: literary
+    children:
+      - name: literarily
+      - name: literariness
+  - name: literate
+    children:
+      - name: literator
+      - name: literature
+      - name: literatus
+        children:
+          - name: literati
+      - name: illiterate
+      - name: semiliterate
+      - name: preliterate

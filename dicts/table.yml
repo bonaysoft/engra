@@ -1,0 +1,14 @@
+name: 30BA
+children:
+  - name: table
+    children:
+      - name: tabletop
+      - name: tablespoon
+        children:
+          - name: tablespoonful
+      - name: tablet
+  - name: tabulate
+    children:
+      - name: tabulator
+      - name: tabulated
+      - name: tabulation

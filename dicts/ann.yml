@@ -1,0 +1,20 @@
+name: 1C9A
+children:
+  - name: annal
+    children:
+      - name: annalist
+  - name: annual
+    children:
+      - name: annually
+      - name: annualized
+      - name: biannual
+      - name: semiannual
+        children:
+          - name: semiannually
+      - name: interannual
+  - name: annuity
+    children:
+      - name: annuitant
+  - name: anniversary
+    children:
+      - name: anniversarian

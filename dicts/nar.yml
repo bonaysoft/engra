@@ -1,0 +1,14 @@
+name: 15G
+children:
+  - name: narrate
+    children:
+      - name: narrator
+      - name: narrating
+      - name: narrated
+      - name: narration
+      - name: narrative
+        children:
+          - name: narratively
+      - name: narratology
+        children:
+          - name: narratological

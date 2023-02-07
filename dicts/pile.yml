@@ -1,0 +1,21 @@
+name: 3B2A
+children:
+  - name: pile
+    children:
+      - name: piling
+      - name: piled
+      - name: pileup
+      - name: stockpile
+        children:
+          - name: stockpiled
+          - name: stockpiling
+      - name: sandpile
+      - name: woodpile
+      - name: thermopile
+      - name: photopile
+      - name: unpile
+        children:
+          - name: uppiled
+  - name: compile
+    children:
+      - name: compiler

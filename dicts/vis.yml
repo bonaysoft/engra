@@ -1,0 +1,81 @@
+name: 6B
+children:
+  - name: visible
+    children:
+      - name: visibly
+        children:
+          - name: visibility
+      - name: invisible
+        children:
+          - name: invisibly
+          - name: invisiblity
+  - name: vision
+    children:
+      - name: visionary
+      - name: envision
+  - name: visual
+    children:
+      - name: visuals
+      - name: visually
+      - name: visuality
+      - name: visualist
+      - name: visualize
+        children:
+          - name: visualizer
+          - name: visualized
+          - name: visualization
+  - name: visit
+    children:
+      - name: visitor
+      - name: visiting
+      - name: visitable
+      - name: visitation
+      - name: revisit
+  - name: advise
+    children:
+      - name: adviser
+      - name: advisee
+      - name: advisor
+      - name: advisory
+      - name: advised
+        children:
+          - name: advisedly
+      - name: advisement
+      - name: advisable
+        children:
+          - name: advisability
+          - name: inadvisable
+      - name: advice
+  - name: revise
+    children:
+      - name: revised
+      - name: revision
+        children:
+          - name: revisionary
+          - name: revisionist
+          - name: revisionism
+  - name: supervise
+    children:
+      - name: supervisor
+      - name: supervising
+      - name: supervised
+        children:
+          - name: unsupervised
+      - name: supervision
+      - name: supervisory
+  - name: provision
+    children:
+      - name: provisional
+        children:
+          - name: provisionally
+      - name: provisioning
+      - name: proviso
+  - name: improvise
+    children:
+      - name: improviser
+      - name: improvised
+      - name: improvisation
+        children:
+          - name: improvisational
+      - name: improvisatory
+  - name: visa

@@ -1,0 +1,10 @@
+name: 379A
+children:
+  - name: enter
+    children:
+      - name: entree
+      - name: entrant
+      - name: entrance
+      - name: entry
+        children:
+          - name: entryway

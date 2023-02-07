@@ -1,0 +1,13 @@
+name: 105A
+children:
+  - name: proper
+    children:
+      - name: properly
+      - name: propriety
+      - name: improper
+        children:
+          - name: improperly
+          - name: impropriety
+  - name: property
+    children:
+      - name: propertied

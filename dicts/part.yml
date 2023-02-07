@@ -1,0 +1,72 @@
+name: 20A
+children:
+  - name: part
+    children:
+      - name: partly
+      - name: parting
+      - name: parted
+      - name: subpart
+  - name: partial
+    children:
+      - name: partially
+        children:
+          - name: partiality
+      - name: impartial
+        children:
+          - name: impartially
+            children:
+              - name: impartiality
+  - name: partner
+    children:
+      - name: partnership
+  - name: particle
+    children:
+      - name: particleboard
+      - name: nanoparticle
+      - name: antiparticle
+  - name: particular
+    children:
+      - name: particularly
+      - name: particularity
+      - name: particularism
+      - name: particularist
+      - name: particularize
+  - name: participate
+    children:
+      - name: participating
+      - name: participation
+      - name: participative
+      - name: participatory
+      - name: participant
+  - name: partition
+    children:
+      - name: partitioning
+      - name: partitioned
+  - name: party
+    children:
+      - name: partygoer
+      - name: intraparty
+      - name: counterparty
+  - name: partisan
+    children:
+      - name: partisanship
+      - name: bipartisan
+        children:
+          - name: bipartisanship
+      - name: nonpartisan
+        children:
+          - name: nonpartisanship
+  - name: apart
+    children:
+      - name: apartness
+      - name: apartment
+  - name: depart
+    children:
+      - name: departed
+      - name: departure
+      - name: department
+        children:
+          - name: departmental
+            children:
+              - name: departmentalism
+              - name: interdepartmental

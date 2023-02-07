@@ -1,0 +1,9 @@
+name: 3F8A
+children:
+  - name: bibliography
+    children:
+      - name: bibliographer
+      - name: bibliographic
+        children:
+          - name: bibliographical
+      - name: bibliographize

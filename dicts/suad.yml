@@ -1,0 +1,13 @@
+name: 3E6A
+children:
+  - name: persuade
+    children:
+      - name: persuader
+      - name: persuasion
+      - name: persuadable
+      - name: persuasible
+      - name: persuasive
+        children:
+          - name: persuasively
+          - name: persuasiveness
+          - name: unpersuasive

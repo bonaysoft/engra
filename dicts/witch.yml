@@ -1,0 +1,18 @@
+name: 4ECA
+children:
+  - name: witch
+    children:
+      - name: witchy
+      - name: witching
+      - name: witchcraft
+      - name: witchery
+      - name: witchman
+      - name: witchwoman
+      - name: bewitch
+        children:
+          - name: bewitchery
+          - name: bewitched
+          - name: bewitching
+            children:
+              - name: bewitchingly
+          - name: bewitchment

@@ -1,0 +1,16 @@
+name: 3AD
+children:
+  - name: fragile
+    children:
+      - name: fragility
+  - name: fragment
+    children:
+      - name: fragmented
+      - name: fragmentary
+      - name: fragmentate
+        children:
+          - name: fragmentation
+  - name: suffrage
+    children:
+      - name: suffragist
+      - name: suffragette

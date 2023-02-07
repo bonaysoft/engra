@@ -1,0 +1,23 @@
+name: 5AE
+children:
+  - name: federal
+    children:
+      - name: federally
+      - name: federalism
+      - name: federalist
+      - name: federalize
+        children:
+          - name: federalization
+      - name: federate
+        children:
+          - name: federated
+          - name: federation
+          - name: federative
+      - name: confederal
+        children:
+          - name: confederate
+            children:
+              - name: confederated
+              - name: confederation
+              - name: confederative
+          - name: confederacy

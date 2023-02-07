@@ -1,0 +1,12 @@
+name: 3B6A
+children:
+  - name: sky
+    children:
+      - name: skydive
+        children:
+          - name: skydiver
+          - name: skydiving
+      - name: skylight
+        children:
+          - name: skylit
+      - name: skyscraper

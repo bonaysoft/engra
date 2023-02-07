@@ -1,0 +1,13 @@
+name: 3A9A
+children:
+  - name: mad
+    children:
+      - name: madly
+      - name: madness
+      - name: madding
+      - name: madden
+        children:
+          - name: maddening
+            children:
+              - name: maddeningly
+          - name: maddened

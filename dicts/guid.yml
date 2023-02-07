@@ -1,0 +1,17 @@
+name: 6I
+children:
+  - name: guide
+    children:
+      - name: guider
+      - name: guiding
+      - name: guided
+        children:
+          - name: unguided
+      - name: guidance
+      - name: misguide
+        children:
+          - name: misguided
+          - name: misguidance
+      - name: guideway
+      - name: guideline
+      - name: guideboard

@@ -1,0 +1,38 @@
+name: 121B
+children:
+  - name: synthesis
+    children:
+      - name: synthetic
+        children:
+          - name: synthetical
+            children:
+              - name: synthetically
+      - name: nucleosynthesis
+  - name: hypothesis
+    children:
+      - name: hypothetic
+        children:
+          - name: hypothetical
+            children:
+              - name: hypothetically
+  - name: antithesis
+    children:
+      - name: antithetic
+        children:
+          - name: antithetical
+            children:
+              - name: antithetically
+  - name: parenthesis
+    children:
+      - name: parenthetic
+        children:
+          - name: parenthetical
+            children:
+              - name: parenthetically
+  - name: prosthesis
+    children:
+      - name: prosthetic
+        children:
+          - name: prosthetically
+      - name: prosthetics
+      - name: prosthetist

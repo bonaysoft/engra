@@ -1,0 +1,61 @@
+name: 18A
+children:
+  - name: contain
+    children:
+      - name: containing
+      - name: contained
+      - name: containable
+        children:
+          - name: uncontainable
+      - name: containment
+      - name: container
+        children:
+          - name: containerize
+            children:
+              - name: containerized
+          - name: containerization
+  - name: entertain
+    children:
+      - name: entertainer
+      - name: entertainment
+      - name: entertaining
+        children:
+          - name: entertainingly
+  - name: retain
+    children:
+      - name: retainer
+      - name: retaining
+      - name: retained
+      - name: retention
+  - name: detain
+    children:
+      - name: detainee
+      - name: detainment
+  - name: abstain
+    children:
+      - name: abstainer
+      - name: abstention
+  - name: obtain
+    children:
+      - name: obtainable
+        children:
+          - name: unobtainable
+  - name: sustain
+    children:
+      - name: sustainer
+      - name: sustainment
+      - name: sustained
+      - name: sustainable
+        children:
+          - name: sustainability
+          - name: unsustainable
+            children:
+              - name: unsustainability
+  - name: maintain
+    children:
+      - name: maintainer
+      - name: maintainable
+      - name: maintenance
+      - name: maintained
+        children:
+          - name: unmaintained

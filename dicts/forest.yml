@@ -1,0 +1,29 @@
+name: 2DBA
+children:
+  - name: forest
+    children:
+      - name: forester
+      - name: forestry
+      - name: forested
+        children:
+          - name: unforested
+      - name: forestation
+      - name: forestland
+      - name: afforest
+        children:
+          - name: afforestation
+          - name: reafforest
+            children:
+              - name: reafforestation
+          - name: disafforest
+            children:
+              - name: disafforestation
+      - name: reforest
+        children:
+          - name: reforestation
+      - name: deforest
+        children:
+          - name: deforested
+            children:
+              - name: deforestation
+      - name: disforest

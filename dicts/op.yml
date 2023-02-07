@@ -1,0 +1,14 @@
+name: 8EA
+children:
+  - name: copy
+    children:
+      - name: copier
+      - name: copyist
+      - name: copying
+      - name: copied
+      - name: copycat
+      - name: recopy
+  - name: copious
+    children:
+      - name: copiously
+      - name: copiousness

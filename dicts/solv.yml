@@ -1,0 +1,33 @@
+name: B2A
+children:
+  - name: solve
+    children:
+      - name: solver
+      - name: solved
+        children:
+          - name: unsolved
+      - name: solvable
+        children:
+          - name: unsolvable
+      - name: solvent
+        children:
+          - name: solvency
+          - name: insolvent
+            children:
+              - name: insolvency
+  - name: resolve
+    children:
+      - name: resolved
+        children:
+          - name: unresolved
+      - name: resolvable
+        children:
+          - name: irresolvable
+  - name: dissolve
+    children:
+      - name: dissolved
+      - name: dissolving
+  - name: absolve
+    children:
+      - name: absolvable
+      - name: absolvent

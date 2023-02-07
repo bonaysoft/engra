@@ -1,0 +1,14 @@
+name: FG
+children:
+  - name: exploit
+    children:
+      - name: exploiter
+      - name: exploited
+        children:
+          - name: unexploited
+      - name: exploitable
+      - name: exploitive
+      - name: exploitative
+      - name: exploitation
+        children:
+          - name: overexploitation

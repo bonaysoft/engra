@@ -1,0 +1,34 @@
+name: 6A
+children:
+  - name: video
+    children:
+      - name: videotape
+        children:
+          - name: videotaping
+      - name: videodisc
+      - name: videophone
+      - name: videocast
+      - name: videocam
+      - name: videocamera
+  - name: evidence
+    children:
+      - name: evident
+        children:
+          - name: evidently
+          - name: evidential
+          - name: evidentiary
+  - name: provide
+    children:
+      - name: provider
+      - name: providing
+      - name: provided
+      - name: providence
+  - name: prudent
+    children:
+      - name: prudently
+      - name: prudential
+      - name: prudence
+      - name: imprudent
+        children:
+          - name: imprudently
+          - name: imprudence

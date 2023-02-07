@@ -1,0 +1,24 @@
+name: BCA
+children:
+  - name: see
+    children:
+      - name: seer
+      - name: seeing
+        children:
+          - name: unseeing
+      - name: seeable
+      - name: saw
+      - name: seen
+  - name: foresee
+    children:
+      - name: foreseeable
+        children:
+          - name: foreseeably
+          - name: foreseeability
+          - name: unforeseeable
+      - name: foreseen
+        children:
+          - name: unforeseen
+  - name: oversee
+    children:
+      - name: overseer

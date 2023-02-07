@@ -1,0 +1,10 @@
+name: 1FA
+children:
+  - name: fairy
+    children:
+      - name: fairy
+      - name: fairyland
+      - name: fairylike
+      - name: fairytale
+      - name: fairyhood
+      - name: fairyism

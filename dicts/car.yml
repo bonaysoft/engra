@@ -1,0 +1,30 @@
+name: 89A
+children:
+  - name: car
+    children:
+      - name: carless
+      - name: carsick
+      - name: cargo
+      - name: carload
+  - name: career
+    children:
+      - name: careerist
+      - name: careerism
+  - name: carpenter
+    children:
+      - name: carpentry
+  - name: carry
+    children:
+      - name: carrier
+      - name: carrying
+      - name: carried
+      - name: carryover
+      - name: carryall
+      - name: miscarry
+        children:
+          - name: miscarriage
+  - name: carriage
+    children:
+      - name: carriageable
+      - name: carriageway
+      - name: undercarriage

@@ -1,0 +1,26 @@
+name: 155A
+children:
+  - name: text
+    children:
+      - name: textual
+        children:
+          - name: textuality
+      - name: pretext
+      - name: subtext
+      - name: hypertext
+  - name: context
+    children:
+      - name: contextual
+        children:
+          - name: contextually
+          - name: contextualize
+            children:
+              - name: contextualization
+              - name: decontextualize
+                children:
+                  - name: decontextualized
+                  - name: decontextualization
+  - name: texture
+    children:
+      - name: textural
+      - name: textured

@@ -1,0 +1,8 @@
+name: 2FDB
+children:
+  - name: noxious
+    children:
+      - name: noxiousness
+  - name: obnoxious
+    children:
+      - name: obnoxiously

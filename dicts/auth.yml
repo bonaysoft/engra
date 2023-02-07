@@ -1,0 +1,21 @@
+name: 1FBA
+children:
+  - name: author
+    children:
+      - name: authorial
+      - name: authorship
+  - name: authority
+    children:
+      - name: authoritative
+        children:
+          - name: authoritatively
+      - name: authoritarian
+        children:
+          - name: authoritarianism
+  - name: authorize
+    children:
+      - name: authorizing
+      - name: authorized
+        children:
+          - name: unauthorized
+      - name: authorization

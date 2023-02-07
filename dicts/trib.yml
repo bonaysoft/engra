@@ -1,0 +1,48 @@
+name: E0A
+children:
+  - name: tribe
+    children:
+      - name: tribal
+        children:
+          - name: tribalism
+      - name: tribesman
+  - name: tribute
+    children:
+      - name: tributary
+  - name: contribute
+    children:
+      - name: contributor
+      - name: contributing
+      - name: contribution
+  - name: distribute
+    children:
+      - name: distributor
+      - name: distributing
+      - name: distributed
+        children:
+          - name: undistributed
+      - name: distribution
+        children:
+          - name: distributional
+          - name: maldistribution
+      - name: distributive
+      - name: redistribute
+        children:
+          - name: redistribution
+          - name: redistributive
+  - name: attribute
+    children:
+      - name: attributable
+      - name: attributive
+      - name: attribution
+        children:
+          - name: attributional
+          - name: misattribution
+  - name: retribution
+    children:
+      - name: retributor
+      - name: retributory
+      - name: retributive
+        children:
+          - name: retributivist
+          - name: retributivism

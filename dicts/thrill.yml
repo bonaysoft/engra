@@ -1,0 +1,9 @@
+name: 471A
+children:
+  - name: thrill
+    children:
+      - name: thriller
+      - name: thrilling
+        children:
+          - name: thrillingly
+      - name: thrilled

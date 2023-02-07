@@ -1,0 +1,16 @@
+name: 10B
+children:
+  - name: fertile
+    children:
+      - name: fertility
+      - name: fertilize
+        children:
+          - name: fertilizer
+          - name: fertilizing
+          - name: fertilized
+            children:
+              - name: unfertilized
+          - name: fertilization
+      - name: infertile
+        children:
+          - name: infertility

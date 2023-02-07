@@ -1,0 +1,33 @@
+name: 17EA
+children:
+  - name: geography
+    children:
+      - name: geographer
+      - name: geographic
+        children:
+          - name: geographical
+            children:
+              - name: geographically
+      - name: biogeography
+        children:
+          - name: biogeographic
+  - name: geometry
+    children:
+      - name: geometric
+        children:
+          - name: geometrical
+            children:
+              - name: geometrically
+      - name: geometrician
+  - name: geology
+    children:
+      - name: geologist
+      - name: geologic
+        children:
+          - name: geological
+            children:
+              - name: geologically
+      - name: geologize
+  - name: geothermal
+    children:
+      - name: geothermic

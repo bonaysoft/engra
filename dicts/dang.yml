@@ -1,0 +1,11 @@
+name: 7BD
+children:
+  - name: danger
+    children:
+      - name: dangerous
+        children:
+          - name: dangerously
+          - name: dangerousness
+      - name: endanger
+      - name: endangered
+      - name: endangerment

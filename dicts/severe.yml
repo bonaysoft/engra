@@ -1,0 +1,10 @@
+name: 40EA
+children:
+  - name: severe
+    children:
+      - name: severely
+      - name: severity
+  - name: persevere
+    children:
+      - name: persevering
+      - name: perseverance

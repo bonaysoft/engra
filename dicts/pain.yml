@@ -1,0 +1,15 @@
+name: B9A
+children:
+  - name: pain
+    children:
+      - name: pained
+      - name: painful
+        children:
+          - name: painfully
+      - name: painless
+        children:
+          - name: painlessly
+      - name: painstaking
+        children:
+          - name: painstakingly
+      - name: painkiller

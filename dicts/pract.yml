@@ -1,0 +1,24 @@
+name: 15DA
+children:
+  - name: practice
+    children:
+      - name: practicum
+      - name: practicing
+      - name: practiced
+        children:
+          - name: unpracticed
+      - name: practicable
+        children:
+          - name: practicability
+          - name: impracticable
+            children:
+              - name: impracticability
+      - name: malpractice
+  - name: practical
+    children:
+      - name: practically
+        children:
+          - name: practicality
+      - name: impractical
+        children:
+          - name: impracticality

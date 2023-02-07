@@ -1,0 +1,29 @@
+name: B8A
+children:
+  - name: roll
+    children:
+      - name: roller
+      - name: rolling
+      - name: rolled
+      - name: unroll
+        children:
+          - name: unrolled
+  - name: enroll
+    children:
+      - name: enrollee
+      - name: enrolled
+      - name: enrollment
+  - name: control
+    children:
+      - name: controller
+      - name: controlling
+      - name: controlled
+        children:
+          - name: uncontrolled
+      - name: controllable
+        children:
+          - name: controllability
+          - name: uncontrollable
+            children:
+              - name: uncontrollably
+      - name: decontrol

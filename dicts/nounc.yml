@@ -1,0 +1,32 @@
+name: 168A
+children:
+  - name: announce
+    children:
+      - name: announcer
+      - name: announced
+        children:
+          - name: unannounced
+      - name: announcement
+      - name: annunciate
+        children:
+          - name: annunciator
+          - name: annunciation
+  - name: pronounce
+    children:
+      - name: pronounced
+      - name: pronounceable
+        children:
+          - name: unpronounceable
+      - name: pronouncement
+      - name: pronunciation
+      - name: mispronounce
+        children:
+          - name: mispronunciation
+  - name: denounce
+    children:
+      - name: denouncer
+      - name: denouncement
+      - name: denunciation
+  - name: renounce
+    children:
+      - name: renunciation

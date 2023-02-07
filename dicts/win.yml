@@ -1,0 +1,14 @@
+name: 30AA
+children:
+  - name: win
+    children:
+      - name: winner
+        children:
+          - name: breadwinner
+      - name: winning
+        children:
+          - name: winnings
+          - name: winningly
+      - name: winnable
+        children:
+          - name: unwinnable

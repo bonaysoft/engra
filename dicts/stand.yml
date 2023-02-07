@@ -1,0 +1,32 @@
+name: 1B
+children:
+  - name: stand
+    children:
+      - name: standing
+      - name: standpoint
+  - name: standard
+    children:
+      - name: standardize
+        children:
+          - name: standardized
+            children:
+              - name: unstandardized
+              - name: nonstandardized
+          - name: standardization
+      - name: substandard
+  - name: understand
+    children:
+      - name: understanding
+        children:
+          - name: understandingly
+      - name: understood
+      - name: understandable
+        children:
+          - name: understandably
+      - name: misunderstand
+        children:
+          - name: misunderstanding
+          - name: misunderstood
+  - name: withstand
+    children:
+      - name: notwithstanding

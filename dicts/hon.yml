@@ -1,0 +1,28 @@
+name: 176A
+children:
+  - name: honor
+    children:
+      - name: honoree
+      - name: honoring
+      - name: honored
+      - name: honorable
+        children:
+          - name: honorably
+      - name: honorary
+        children:
+          - name: honorarium
+      - name: honorific
+      - name: dishonor
+        children:
+          - name: dishonored
+          - name: dishonorable
+            children:
+              - name: dishonorably
+  - name: honest
+    children:
+      - name: honestly
+      - name: honesty
+      - name: dishonest
+        children:
+          - name: dishonestly
+          - name: dishonesty

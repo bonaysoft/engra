@@ -1,0 +1,12 @@
+name: 102A
+children:
+  - name: night
+    children:
+      - name: nightly
+      - name: nightmare
+        children:
+          - name: nightmarish
+      - name: nightclub
+      - name: tonight
+      - name: midnight
+      - name: overnight

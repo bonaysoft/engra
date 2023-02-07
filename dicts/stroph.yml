@@ -1,0 +1,10 @@
+name: 5CFA
+children:
+  - name: catastrophe
+    children:
+      - name: catastrophic
+        children:
+          - name: catastrophically
+      - name: catastrophism
+      - name: catastrophist
+      - name: ecocatastrophe

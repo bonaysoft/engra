@@ -1,0 +1,37 @@
+name: 52A
+children:
+  - name: line
+    children:
+      - name: liner
+      - name: lined
+        children:
+          - name: unlined
+      - name: lineal
+  - name: linear
+    children:
+      - name: linearly
+      - name: linearity
+      - name: nonlinear
+        children:
+          - name: nonlinearity
+      - name: interlinear
+        children:
+          - name: interlineation
+      - name: collinear
+        children:
+          - name: collinearity
+  - name: outline
+    children:
+      - name: outlined
+  - name: underline
+    children:
+      - name: underlined
+  - name: streamline
+    children:
+      - name: streamliner
+      - name: streamlining
+      - name: streamlined
+  - name: delineate
+    children:
+      - name: delineated
+      - name: delineation

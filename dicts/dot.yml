@@ -1,0 +1,7 @@
+name: 28E
+children:
+  - name: anecdote
+    children:
+      - name: anecdotal
+      - name: anecdotical
+      - name: anecdotist

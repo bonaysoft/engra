@@ -1,0 +1,9 @@
+name: 5C6A
+children:
+  - name: serious
+    children:
+      - name: seriously
+      - name: seriousness
+      - name: unserious
+        children:
+          - name: nonserious

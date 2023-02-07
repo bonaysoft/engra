@@ -1,0 +1,10 @@
+name: 5B1A
+children:
+  - name: lend
+    children:
+      - name: lender
+      - name: lending
+      - name: lent
+      - name: lendable
+      - name: onlend
+      - name: relend

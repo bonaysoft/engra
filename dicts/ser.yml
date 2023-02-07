@@ -1,0 +1,17 @@
+name: EBA
+children:
+  - name: series
+    children:
+      - name: serial
+        children:
+          - name: serially
+          - name: biserial
+          - name: serialize
+            children:
+              - name: serialized
+              - name: serialization
+          - name: serialism
+      - name: seriation
+  - name: sermon
+    children:
+      - name: sermonize

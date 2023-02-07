@@ -1,0 +1,37 @@
+name: CEA
+children:
+  - name: electric
+    children:
+      - name: electrical
+        children:
+          - name: electrically
+      - name: electricity
+      - name: electrician
+      - name: photoelectric
+      - name: thermoelectric
+      - name: myoelectric
+      - name: hydroelectric
+        children:
+          - name: hydroelectricity
+  - name: electron
+    children:
+      - name: electronic
+        children:
+          - name: electronics
+          - name: electronica
+          - name: electronical
+            children:
+              - name: electronically
+      - name: microelectronic
+        children:
+          - name: microelectronics
+      - name: optoelectronic
+        children:
+          - name: optoelectronics
+      - name: electronystagmography
+  - name: electrify
+    children:
+      - name: electrified
+      - name: electrifying
+      - name: electrification
+  - name: electrode

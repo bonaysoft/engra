@@ -1,0 +1,26 @@
+name: 7CC
+children:
+  - name: ordinary
+    children:
+      - name: ordinarily
+      - name: ordinariness
+      - name: extraordinary
+        children:
+          - name: extraordinarily
+  - name: coordinate
+    children:
+      - name: coordinator
+      - name: coordination
+      - name: coordinating
+      - name: coordinated
+      - name: uncoordinated
+  - name: inordinate
+    children:
+      - name: inordinately
+  - name: subordinate
+    children:
+      - name: subordinated
+      - name: subordination
+      - name: insubordinate
+        children:
+          - name: insubordination

@@ -1,0 +1,13 @@
+name: 26AA
+children:
+  - name: tempt
+    children:
+      - name: tempter
+      - name: temptress
+      - name: tempting
+        children:
+          - name: temptingly
+      - name: temptation
+  - name: attempt
+    children:
+      - name: attempted

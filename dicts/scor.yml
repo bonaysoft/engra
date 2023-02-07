@@ -1,0 +1,11 @@
+name: 56G
+children:
+  - name: score
+    children:
+      - name: scorer
+      - name: scoring
+      - name: scoreless
+      - name: scorecard
+      - name: scoreboard
+      - name: outscore
+      - name: underscore

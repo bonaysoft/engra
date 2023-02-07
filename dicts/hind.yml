@@ -1,0 +1,12 @@
+name: 417A
+children:
+  - name: hind
+    children:
+      - name: hindward
+      - name: hindmost
+      - name: hindsight
+      - name: behind
+  - name: hinder
+    children:
+      - name: hindered
+      - name: hindrance

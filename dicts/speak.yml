@@ -1,0 +1,16 @@
+name: FEA
+children:
+  - name: speak
+    children:
+      - name: speaker
+      - name: speaking
+      - name: spoke
+        children:
+          - name: spokesman
+          - name: spokeswoman
+      - name: spoken
+        children:
+          - name: outspoken
+            children:
+              - name: outspokenly
+      - name: speech

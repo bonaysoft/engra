@@ -1,0 +1,8 @@
+name: 4F2A
+children:
+  - name: bulb
+    children:
+      - name: bulbous
+      - name: bulblet
+      - name: lightbulb
+      - name: flashbulb

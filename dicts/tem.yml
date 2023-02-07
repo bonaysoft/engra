@@ -1,0 +1,11 @@
+name: F4B
+children:
+  - name: contempt
+    children:
+      - name: contemptuous
+        children:
+          - name: contemptuously
+      - name: contemptible
+        children:
+          - name: contemptibly
+          - name: contemptibility

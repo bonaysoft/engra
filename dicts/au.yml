@@ -1,0 +1,10 @@
+name: 245B
+children:
+  - name: auspice
+    children:
+      - name: auspicial
+      - name: auspicious
+        children:
+          - name: auspiciously
+          - name: inauspicious
+      - name: auspicate

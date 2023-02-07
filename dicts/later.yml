@@ -1,0 +1,23 @@
+name: 213A
+children:
+  - name: lateral
+    children:
+      - name: laterally
+      - name: laterality
+      - name: lateralize
+        children:
+          - name: lateralization
+  - name: unilateral
+    children:
+      - name: unilaterally
+      - name: unilateralism
+      - name: unilateralist
+  - name: bilateral
+    children:
+      - name: bilaterally
+      - name: bilateralism
+  - name: collateral
+    children:
+      - name: collateralize
+        children:
+          - name: collateralized

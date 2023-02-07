@@ -1,0 +1,21 @@
+name: 243A
+children:
+  - name: theater
+    children:
+      - name: theatergoer
+      - name: amphitheater
+  - name: theory
+    children:
+      - name: theorist
+      - name: theorem
+      - name: theorize
+        children:
+          - name: theorizing
+          - name: theorized
+          - name: theorization
+      - name: theoretic
+        children:
+          - name: theoretician
+          - name: theoretical
+            children:
+              - name: theoretically
