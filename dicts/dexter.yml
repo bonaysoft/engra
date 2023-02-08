@@ -1,0 +1,16 @@
+name: dexter
+meaning: 右
+children:
+  - name: dexter
+    children:
+      - name: dexterity
+      - name: dexterous
+      - name: dexterously
+      - name: ambidexter
+        children:
+          - name: ambidexterous
+          - name: ambidexterity
+      - name: dextral
+      - name: dextrorotation
+      - name: dextrorotatory
+      - name: dextrose

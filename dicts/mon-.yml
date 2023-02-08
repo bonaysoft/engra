@@ -1,0 +1,23 @@
+name: 104A
+children:
+  - name: monopoly
+    children:
+      - name: monopolism
+      - name: monopolist
+        children:
+          - name: monopolistic
+      - name: monopolize
+        children:
+          - name: monopolized
+          - name: monopolization
+  - name: monolith
+    children:
+      - name: monolithic
+  - name: monk
+    children:
+      - name: monkish
+  - name: monastery
+    children:
+      - name: monastic
+        children:
+          - name: monasticism

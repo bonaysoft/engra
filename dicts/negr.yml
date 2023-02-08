@@ -1,0 +1,26 @@
+name: negr
+meaning: 黑
+children:
+  - name: negro
+    children:
+      - name: negrodom
+      - name: negroid
+      - name: negroism
+      - name: negroite
+      - name: negrolet
+      - name: negritic
+  - name: negress
+  - name: negrophile
+  - name: negrophobe
+    children:
+      - name: negrophobia
+  - name: nigrify
+    children:
+      - name: nigrescence
+      - name: nigrescent
+      - name: nigritude
+        children:
+          - name: nigrification
+      - name: denigrate
+        children:
+          - name: denigrator

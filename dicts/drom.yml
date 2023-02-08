@@ -1,0 +1,12 @@
+name: drom
+meaning: 跑
+children:
+  - name: aerodrome
+  - name: hippodrome
+  - name: motordrome
+  - name: prodrome
+    children:
+      - name: prodromic
+  - name: syndrome
+  - name: dromedary
+  - name: dromometer

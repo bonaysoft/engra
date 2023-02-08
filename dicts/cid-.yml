@@ -1,0 +1,28 @@
+name: B3A
+children:
+  - name: decide
+    children:
+      - name: decider
+      - name: deciding
+      - name: decided
+        children:
+          - name: decidedly
+          - name: undecided
+      - name: decidable
+        children:
+          - name: undecidable
+      - name: decision
+        children:
+          - name: decisional
+          - name: indecision
+      - name: decisive
+        children:
+          - name: decisively
+          - name: decisiveness
+          - name: indecisive
+            children:
+              - name: indecisively
+              - name: indecisiveness
+  - name: suicide
+    children:
+      - name: suicidal

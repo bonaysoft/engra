@@ -1,0 +1,12 @@
+name: mega
+meaning: 大
+children:
+  - name: megaphone
+  - name: megalith
+    children:
+      - name: megalithic
+  - name: megacephalous
+  - name: megapod
+  - name: megascope
+    children:
+      - name: megascopic

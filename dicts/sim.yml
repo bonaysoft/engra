@@ -33,3 +33,6 @@ children:
       - name: simultaneously
       - name: simultaneity
       - name: simulcast
+  - name: verisimilar
+    children:
+      - name: verisimilitude

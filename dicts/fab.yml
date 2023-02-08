@@ -13,3 +13,8 @@ children:
     children:
       - name: affably
       - name: affability
+  - name: confab
+    children:
+      - name: confabulation
+      - name: confabulator
+  - name: effable

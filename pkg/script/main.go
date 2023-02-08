@@ -44,8 +44,43 @@ func loadTrees() {
 }
 
 func main() {
+	createRoot("decide")
 	loadTrees()
 
+	rows, err := script.File("data/amroot.txt").Slice()
+	if err != nil {
+		return
+	}
+
+	for _, row := range rows {
+		items := strings.Split(row, ". ")
+		if len(items) != 2 {
+			continue
+		}
+
+		n, m := items[0], items[1]
+
+		var m1 string
+		for _, i := range m {
+			if !(i >= 97 && i <= 122) {
+				break
+			}
+			m1 += string(i)
+		}
+		// fmt.Println(n, m1)
+		_, err := os.Stat("dicts/" + m1 + ".yml")
+		if err != nil {
+			fmt.Println(n, m1)
+		}
+	}
+
+	// TODO 遍历amroot.txt，查找重复的词根，之前的逻辑重复的词根值保留了最后一个。需要补回来
+
+	// TODO 遍历yychdym.txt, 看是否有单词不在树上，如果有则手动添加上去
+}
+
+// 查单词是否在词根树上，如果不再则去查询
+func buildRoot() {
 	dsn := "root:admin@tcp(127.0.0.1:3306)/dicts?charset=utf8mb4&parseTime=True&loc=Local"
 	gormdb, _ := gorm.Open(mysql.Open(dsn), &gorm.Config{
 		// Logger: logger.Default.LogMode(logger.Silent),
@@ -86,7 +121,13 @@ func createRoot(word string) {
 
 	trees = append(trees, tree)
 	rootName := strings.Split(tree.Topic, "<br/>")[0]
-	f, err := os.Create(filepath.Join("dicts", strings.Trim(rootName, "-")+".yml"))
+	fileName := filepath.Join("dicts", strings.Trim(rootName, "-")+".yml")
+
+	if _, err := os.Stat(fileName); err == nil {
+		fileName = filepath.Join("dicts", strings.Trim(rootName, "-")+"-.yml")
+	}
+
+	f, err := os.Create(fileName)
 	if err != nil {
 		fmt.Println(err)
 		return

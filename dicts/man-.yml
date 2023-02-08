@@ -1,0 +1,49 @@
+name: 82A
+children:
+  - name: manage
+    children:
+      - name: manager
+      - name: managing
+      - name: managed
+      - name: management
+      - name: manageable
+        children:
+          - name: manageability
+      - name: mismanage
+        children:
+          - name: mismanaged
+          - name: mismanagement
+      - name: micromanage
+  - name: manner
+    children:
+      - name: mannerly
+      - name: mannered
+      - name: mannerism
+  - name: manipulate
+    children:
+      - name: manipulator
+      - name: manipulation
+      - name: manipulative
+      - name: manipulable
+  - name: manicure
+    children:
+      - name: manicurist
+  - name: maneuver
+    children:
+      - name: maneuvering
+      - name: maneuverable
+      - name: maneuverability
+      - name: outmaneuver
+      - name: manoeuvre
+  - name: manual
+    children:
+      - name: manually
+  - name: manufacture
+    children:
+      - name: manufacturer
+      - name: manufacturing
+      - name: manufactured
+      - name: manufactural
+        children:
+          - name: manufacturable
+      - name: manufactory

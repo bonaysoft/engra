@@ -1,0 +1,13 @@
+name: brev
+meaning: short短
+children:
+  - name: abbreviate
+    children:
+      - name: abbreviated
+      - name: abbreviation
+      - name: abbreviator
+        children:
+          - name: microbrewery
+  - name: brevity
+  - name: breviary
+  - name: breve

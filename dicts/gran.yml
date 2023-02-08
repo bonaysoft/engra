@@ -1,0 +1,16 @@
+name: gran
+meaning: 谷物，谷粒
+children:
+  - name: granary
+  - name: grange
+    children:
+      - name: granger
+  - name: granule
+    children:
+      - name: granular
+      - name: granulate
+        children:
+          - name: granulated
+          - name: granulation
+      - name: granular
+      - name: granularity

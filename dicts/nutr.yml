@@ -10,7 +10,13 @@ children:
         children:
           - name: nutritiously
       - name: malnutrition
+      - name: innutrition
+      - name: innutritious
       - name: nutritive
       - name: nutrient
         children:
           - name: phytonutrient
+      - name: nutriology
+      - name: nutriment
+        children:
+          - name: nutrimental

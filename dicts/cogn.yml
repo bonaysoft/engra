@@ -1,0 +1,30 @@
+name: cogn
+meaning: know知道
+children:
+  - name: cognition
+    children:
+      - name: cognitional
+      - name: cognitive
+        children:
+          - name: cognitively
+      - name: cognitivism
+      - name: metacognition
+        children:
+          - name: metacognitive
+      - name: precognition
+        children:
+          - name: precognitive
+  - name: recognize
+    children:
+      - name: recognized
+        children:
+          - name: unrecognized
+      - name: recognizance
+      - name: recognition
+        children:
+          - name: nonrecognition
+          - name: misrecognition
+      - name: recognizable
+        children:
+          - name: recognizably
+          - name: unrecognizable

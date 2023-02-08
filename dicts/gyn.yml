@@ -1,0 +1,22 @@
+name: gyn
+meaning: 妇女
+children:
+  - name: gynecology
+    children:
+      - name: gynecologist
+  - name: gynecoid
+  - name: gynecian
+  - name: androgyny
+  - name: philogyny
+    children:
+      - name: philogynist
+  - name: misogyny
+    children:
+      - name: misogynic
+      - name: misogynist
+  - name: monogyny
+    children:
+      - name: monogynous
+  - name: polygyny
+    children:
+      - name: polygynous

@@ -7,3 +7,10 @@ children:
         children:
           - name: bibliographical
       - name: bibliographize
+  - name: bibliolatry
+    children:
+      - name: bibliolater
+      - name: bibliolatrous
+  - name: bibliomania
+  - name: bibliophilist
+  - name: Bible

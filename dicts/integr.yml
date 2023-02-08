@@ -1,0 +1,23 @@
+name: integr
+meaning: 整，全
+children:
+  - name: integral
+    children:
+      - name: integrally
+      - name: integrality
+  - name: integrity
+  - name: integrate
+    children:
+      - name: integrator
+      - name: integrating
+      - name: integrated
+      - name: integrative
+      - name: integration
+        children:
+          - name: integrationist
+      - name: redintegrate
+  - name: integrant
+  - name: disintegrate
+    children:
+      - name: disintegrator
+  - name: integer

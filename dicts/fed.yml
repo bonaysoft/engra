@@ -12,6 +12,8 @@ children:
         children:
           - name: federated
           - name: federation
+            children:
+              - name: federationist
           - name: federative
       - name: confederal
         children:
@@ -21,3 +23,4 @@ children:
               - name: confederation
               - name: confederative
           - name: confederacy
+  - name: antifederal
