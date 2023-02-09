@@ -1,0 +1,11 @@
+name: ped
+meaning: 儿童，小孩儿
+children:
+  - name: pediatric
+    children:
+      - name: pediatrics
+      - name: pediatrician
+      - name: pediatrist
+  - name: pedophile
+    children:
+      - name: pedophilia

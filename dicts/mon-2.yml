@@ -1,4 +1,5 @@
-name: 104A
+name: mon
+meaning: 单独，一个
 children:
   - name: monopoly
     children:

@@ -1,4 +1,5 @@
-name: 79A
+name: mon
+meaning: 告诫，提醒
 children:
   - name: money
     children:

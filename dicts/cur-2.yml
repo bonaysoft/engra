@@ -1,0 +1,40 @@
+name: cur
+meaning: cur,curs,cour,cours = run 跑
+children:
+  - name: current
+    children:
+      - name: currently
+      - name: currency
+      - name: undercurrent
+      - name: crosscurrent
+  - name: curriculum
+    children:
+      - name: curricular
+        children:
+          - name: extracurricular
+  - name: incur
+    children:
+      - name: incursion
+      - name: incursive
+  - name: occur
+    children:
+      - name: occurring
+      - name: occurrent
+        children:
+          - name: occurrence
+            children:
+              - name: nonoccurrence
+      - name: reoccur
+  - name: recur
+    children:
+      - name: recurring
+      - name: recursive
+      - name: recursion
+      - name: recurrent
+        children:
+          - name: recurrently
+      - name: recurrence
+  - name: concur
+    children:
+      - name: concurrent
+      - name: concurrence

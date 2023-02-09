@@ -7,6 +7,7 @@ import (
 	"log"
 	"os"
 	"path/filepath"
+	"strconv"
 	"strings"
 	"time"
 
@@ -44,7 +45,7 @@ func loadTrees() {
 }
 
 func main() {
-	createRoot("decide")
+	createRoot("solar")
 	loadTrees()
 
 	rows, err := script.File("data/amroot.txt").Slice()
@@ -52,6 +53,7 @@ func main() {
 		return
 	}
 
+	ss := make(map[string]int, 0)
 	for _, row := range rows {
 		items := strings.Split(row, ". ")
 		if len(items) != 2 {
@@ -59,7 +61,6 @@ func main() {
 		}
 
 		n, m := items[0], items[1]
-
 		var m1 string
 		for _, i := range m {
 			if !(i >= 97 && i <= 122) {
@@ -67,14 +68,15 @@ func main() {
 			}
 			m1 += string(i)
 		}
-		// fmt.Println(n, m1)
-		_, err := os.Stat("dicts/" + m1 + ".yml")
-		if err != nil {
-			fmt.Println(n, m1)
-		}
-	}
 
-	// TODO 遍历amroot.txt，查找重复的词根，之前的逻辑重复的词根值保留了最后一个。需要补回来
+		if nn, ok := ss[m1]; ok {
+			fmt.Println(n, m1, nn)
+			continue
+		}
+
+		nc, _ := strconv.Atoi(n)
+		ss[m1] = nc
+	}
 
 	// TODO 遍历yychdym.txt, 看是否有单词不在树上，如果有则手动添加上去
 }

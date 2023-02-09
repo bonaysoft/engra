@@ -1,4 +1,5 @@
-name: B3A
+name: cid,cis
+meaning: cut,kill 切，杀
 children:
   - name: decide
     children:

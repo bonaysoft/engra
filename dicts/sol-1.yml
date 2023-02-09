@@ -1,4 +1,5 @@
-name: 24FA
+name: sol
+meaning: 单独
 children:
   - name: solo
     children:

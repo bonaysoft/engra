@@ -1,4 +1,5 @@
-name: 4BB
+name: ped
+meaning: 脚，足
 children:
   - name: pedal
     children:

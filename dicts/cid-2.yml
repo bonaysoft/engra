@@ -1,4 +1,5 @@
-name: 85D
+name: cid
+meaning: 降临，降落
 children:
   - name: incident
     children:

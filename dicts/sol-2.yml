@@ -1,0 +1,11 @@
+name: sol
+meaning: 太阳
+children:
+  - name: solar
+    children:
+      - name: solarize
+      - name: solarium
+      - name: subsolar
+      - name: lunisolar
+      - name: extrasolar
+      - name: circumsolar
