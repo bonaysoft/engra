@@ -2,27 +2,20 @@
 #
 # https://gqlgen.com/getting-started/
 
-type Vocabulary {
-  id: ID!
-  text: String!
-  done: Boolean!
-  user: User!
-}
-
-type User {
-  id: ID!
+type Vocabulary  {
   name: String!
+  children: [Vocabulary!]
 }
 
 type Query {
-  vocabularies(tag: String!): [Vocabulary!]!
+  vocabularies(name: String!): Vocabulary!
 }
-
-input NewTodo {
-  text: String!
-  userId: String!
-}
-
-type Mutation {
-  addVocabulary(input: NewTodo!): Vocabulary!
-}
+#
+#input NewTodo {
+#  text: String!
+#  userId: String!
+#}
+#
+#type Mutation {
+#  addVocabulary(input: NewTodo!): Vocabulary!
+#}

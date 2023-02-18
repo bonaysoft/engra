@@ -7,31 +7,7 @@ import (
 
 	"github.com/antchfx/htmlquery"
 	"github.com/go-resty/resty/v2"
-	"github.com/samber/lo"
 )
-
-type Node struct {
-	Id       string `json:"id" yaml:"name"`
-	Topic    string `json:"topic" yaml:"-"`
-	Children []Node `json:"children" yaml:"children,omitempty"`
-}
-
-func (n *Node) Exist(word string) bool {
-	if n.Id == word {
-		return true
-	}
-
-	if len(n.Children) == 0 {
-		return false
-	}
-
-	_, ok := lo.Find(n.Children, func(item Node) bool { return item.Exist(word) })
-	return ok
-}
-
-func NewNode() *Node {
-	return &Node{}
-}
 
 var hc = resty.New()
 

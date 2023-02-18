@@ -6,26 +6,16 @@ package graph
 
 import (
 	"context"
-	"fmt"
 
 	"github.com/bonaysoft/engra/apis/graph/model"
 )
 
-// AddVocabulary is the resolver for the addVocabulary field.
-func (r *mutationResolver) AddVocabulary(ctx context.Context, input model.NewTodo) (*model.Vocabulary, error) {
-	panic(fmt.Errorf("not implemented: AddVocabulary - addVocabulary"))
-}
-
 // Vocabularies is the resolver for the vocabularies field.
-func (r *queryResolver) Vocabularies(ctx context.Context, tag string) ([]*model.Vocabulary, error) {
-	panic(fmt.Errorf("not implemented: Vocabularies - vocabularies"))
+func (r *queryResolver) Vocabularies(ctx context.Context, name string) (*model.Vocabulary, error) {
+	return r.Find(name)
 }
-
-// Mutation returns MutationResolver implementation.
-func (r *Resolver) Mutation() MutationResolver { return &mutationResolver{r} }
 
 // Query returns QueryResolver implementation.
 func (r *Resolver) Query() QueryResolver { return &queryResolver{r} }
 
-type mutationResolver struct{ *Resolver }
 type queryResolver struct{ *Resolver }

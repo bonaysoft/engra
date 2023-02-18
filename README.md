@@ -2,6 +2,40 @@
 
 一本由所有学习者共同编写的英语词根词缀词典
 
+## Graphql
+
+```graphql endpoint doc
+http://localhost:8081/
+```
+
+```graphql
+{
+    vocabularies(name: "weight") {
+        ...vocabularyWithChildren
+    }
+}
+
+fragment vocabulary on Vocabulary {
+    name
+}
+
+fragment vocabularyWithChildren on Vocabulary {
+    ...vocabulary
+    children {
+        ...vocabulary
+        children {
+            ...vocabulary
+            children {
+                ...vocabulary
+                children {
+                    ...vocabulary
+                }
+            }
+        }
+    }
+}
+```
+
 ## 前端
 
 提供接口和组件两种形式，组件默认展示在官方网站上。
