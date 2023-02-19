@@ -1,4 +1,5 @@
 name: nat
+meaning: 诞生
 children:
   - name: nation
     children:

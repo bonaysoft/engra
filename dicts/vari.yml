@@ -1,4 +1,5 @@
 name: vari
+meaning: change变化
 children:
   - name: vary
     children:

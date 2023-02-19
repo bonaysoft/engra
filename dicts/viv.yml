@@ -1,4 +1,5 @@
 name: viv
+meaning: live活
 children:
   - name: vivid
     children:

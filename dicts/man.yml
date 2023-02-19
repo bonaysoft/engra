@@ -1,4 +1,5 @@
 name: man
+meaning: dwell，stay居住，停留
 children:
   - name: manor
     children:

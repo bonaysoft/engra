@@ -1,4 +1,5 @@
 name: sect
+meaning: cut切割
 children:
   - name: sect
     children:

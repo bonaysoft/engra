@@ -1,4 +1,5 @@
 name: sat
+meaning: 足，满，饱
 children:
   - name: satisfy
     children:

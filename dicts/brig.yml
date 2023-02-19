@@ -1,4 +1,5 @@
 name: brig
+meaning: 战斗，打
 children:
   - name: brigade
     children:

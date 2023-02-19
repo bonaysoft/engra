@@ -1,4 +1,5 @@
 name: van
+meaning: 空，无
 children:
   - name: vanish
     children:

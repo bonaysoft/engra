@@ -1,4 +1,5 @@
 name: clin
+meaning: 倾
 children:
   - name: clinic
     children:

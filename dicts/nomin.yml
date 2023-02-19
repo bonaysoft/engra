@@ -1,4 +1,5 @@
 name: nomin
+meaning: name名
 children:
   - name: nominal
     children:

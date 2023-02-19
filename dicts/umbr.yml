@@ -1,4 +1,5 @@
 name: umbr
+meaning: 阴影
 children:
   - name: umbra
     children:

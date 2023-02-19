@@ -1,4 +1,5 @@
 name: tact
+meaning: 触
 children:
   - name: tact
     children:

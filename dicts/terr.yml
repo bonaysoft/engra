@@ -1,4 +1,5 @@
 name: terr
+meaning: earth，land土地，陆地
 children:
   - name: territory
     children:

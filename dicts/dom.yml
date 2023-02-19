@@ -1,4 +1,5 @@
 name: dom
+meaning: 屋，家
 children:
   - name: dome
     children:

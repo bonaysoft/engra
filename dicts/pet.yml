@@ -1,4 +1,5 @@
 name: pet
+meaning: seek追求
 children:
   - name: petition
     children:

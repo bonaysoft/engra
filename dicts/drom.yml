@@ -1,4 +1,5 @@
 name: drom
+meaning: 跑
 children:
   - name: aerodrome
   - name: hippodrome

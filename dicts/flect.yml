@@ -1,4 +1,5 @@
 name: flect
+meaning: 弯曲
 children:
   - name: reflect
     children:

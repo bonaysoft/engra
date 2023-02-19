@@ -1,4 +1,5 @@
 name: mens
+meaning: 测量
 children:
   - name: dimension
     children:

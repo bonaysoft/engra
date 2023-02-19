@@ -1,4 +1,5 @@
 name: merg
+meaning: dip，sink沉，没（merg也作mers）
 children:
   - name: merge
     children:

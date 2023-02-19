@@ -1,4 +1,5 @@
 name: pict
+meaning: paint画，描绘
 children:
   - name: picture
     children:

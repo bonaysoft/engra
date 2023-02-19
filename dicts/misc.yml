@@ -1,4 +1,5 @@
 name: misc
+meaning: 混合，混杂
 children:
   - name: miscellaneous
     children:

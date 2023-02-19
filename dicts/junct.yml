@@ -1,4 +1,5 @@
 name: junct
+meaning: 连接，连结
 children:
   - name: junction
     children:

@@ -1,4 +1,5 @@
 name: tele
+meaning: far远
 children:
   - name: telescope
     children:

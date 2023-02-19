@@ -1,4 +1,5 @@
 name: tut
+meaning: 监护，看管
 children:
   - name: tutor
     children:

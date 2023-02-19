@@ -1,4 +1,5 @@
 name: hibit
+meaning: hold拿，持
 children:
   - name: exhibit
     children:

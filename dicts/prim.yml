@@ -1,4 +1,5 @@
 name: prim
+meaning: 第一，最初
 children:
   - name: prime
     children:

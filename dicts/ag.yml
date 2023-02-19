@@ -1,4 +1,5 @@
 name: ag
+meaning: do，act做，动
 children:
   - name: agent
     children:

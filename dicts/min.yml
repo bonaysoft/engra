@@ -1,4 +1,5 @@
 name: min
+meaning: 伸出，突出
 children:
   - name: minute
     children:

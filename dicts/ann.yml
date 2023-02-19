@@ -1,4 +1,5 @@
 name: ann
+meaning: year年（ann也作enn）
 children:
   - name: annal
     children:

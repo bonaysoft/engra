@@ -1,4 +1,5 @@
 name: ven
+meaning: come来
 children:
   - name: revenue
     children:

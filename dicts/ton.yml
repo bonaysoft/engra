@@ -1,4 +1,5 @@
 name: ton
+meaning: 音
 children:
   - name: tone
     children:

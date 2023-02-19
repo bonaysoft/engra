@@ -1,4 +1,5 @@
 name: liter
+meaning: letter文字，字母
 children:
   - name: literal
     children:

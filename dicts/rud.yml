@@ -1,4 +1,5 @@
 name: rud
+meaning: 原始，粗野
 children:
   - name: rude
     children:

@@ -1,4 +1,5 @@
 name: frig
+meaning: 冷
 children:
   - name: frigid
     children:

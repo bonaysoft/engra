@@ -1,4 +1,5 @@
 name: pel
+meaning: push，drive推，逐，驱
 children:
   - name: impel
     children:

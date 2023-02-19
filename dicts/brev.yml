@@ -1,4 +1,5 @@
 name: brev
+meaning: short短
 children:
   - name: abbreviate
     children:

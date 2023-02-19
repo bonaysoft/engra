@@ -1,4 +1,5 @@
 name: gress
+meaning: go，walk行走
 children:
   - name: progress
     children:

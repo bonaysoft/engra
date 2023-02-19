@@ -1,4 +1,5 @@
 name: sec
+meaning: follow跟随
 children:
   - name: second
     children:

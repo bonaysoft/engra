@@ -1,4 +1,5 @@
 name: vag
+meaning: 走，漫游
 children:
   - name: vague
     children:

@@ -1,4 +1,5 @@
 name: lumin
+meaning: 光
 children:
   - name: luminous
     children:

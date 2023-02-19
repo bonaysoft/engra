@@ -1,4 +1,5 @@
 name: fact
+meaning: do，make做，作（fact也作fac）
 children:
   - name: fact
     children:

@@ -1,4 +1,5 @@
 name: nihil
+meaning: 无
 children:
   - name: annihilate
     children:

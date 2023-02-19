@@ -1,4 +1,5 @@
 name: sist
+meaning: stand站立
 children:
   - name: exist
     children:

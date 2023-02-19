@@ -1,4 +1,5 @@
 name: loqu
+meaning: speak言，说
 children:
   - name: eloquence
     children:

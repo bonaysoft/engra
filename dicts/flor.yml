@@ -1,4 +1,5 @@
 name: flor
+meaning: flower花（flor也作flour）
 children:
   - name: flora
     children:

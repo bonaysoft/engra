@@ -1,4 +1,5 @@
 name: fict
+meaning: 塑造，虚构
 children:
   - name: fiction
     children:

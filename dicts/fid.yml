@@ -1,4 +1,5 @@
 name: fid
+meaning: 信任
 children:
   - name: fidelity
     children:

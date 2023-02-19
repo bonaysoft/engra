@@ -1,4 +1,5 @@
 name: ment
+meaning: 心，神，智，思，意
 children:
   - name: mental
     children:

@@ -1,4 +1,5 @@
 name: rod
+meaning: 咬，啮
 children:
   - name: rodent
     children:

@@ -1,4 +1,5 @@
 name: cred
+meaning: believe，trust相信，信任
 children:
   - name: credible
     children:

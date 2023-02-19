@@ -1,4 +1,5 @@
 name: pos
+meaning: put放置
 children:
   - name: pose
     children:

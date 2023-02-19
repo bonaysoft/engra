@@ -1,4 +1,5 @@
 name: tort
+meaning: 扭
 children:
   - name: tort
     children:

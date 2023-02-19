@@ -1,4 +1,5 @@
 name: graph
+meaning: write，writing，an instrument for making records 写，画，文字，图形，记录器
 children:
   - name: graph
     children:

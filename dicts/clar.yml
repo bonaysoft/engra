@@ -1,4 +1,5 @@
 name: clar
+meaning: clear清楚，明白
 children:
   - name: clarity
     children:

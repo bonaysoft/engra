@@ -1,4 +1,5 @@
 name: tract
+meaning: draw拉，抽，引
 children:
   - name: tract
   - name: tractor

@@ -1,4 +1,5 @@
 name: stell
+meaning: 星
 children:
   - name: stellar
     children:

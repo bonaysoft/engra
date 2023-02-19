@@ -1,4 +1,5 @@
 name: tour
+meaning: 迂回，转
 children:
   - name: tour
     children:

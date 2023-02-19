@@ -1,4 +1,5 @@
 name: vol
+meaning: 意志，意愿
 children:
   - name: benevolence
     children:

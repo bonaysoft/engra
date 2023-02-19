@@ -1,4 +1,5 @@
 name: ced
+meaning: go行走（ced也作ceed，cess）
 children:
   - name: concede
     children:

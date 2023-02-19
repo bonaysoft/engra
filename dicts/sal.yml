@@ -1,4 +1,5 @@
 name: sal
+meaning: salt盐
 children:
   - name: salary
     children:

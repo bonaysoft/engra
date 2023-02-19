@@ -1,4 +1,5 @@
 name: ut
+meaning: 用
 children:
   - name: utility
     children:

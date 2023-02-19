@@ -1,4 +1,5 @@
 name: am
+meaning: 爱
 children:
   - name: amateur
     children:

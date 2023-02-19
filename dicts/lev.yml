@@ -1,4 +1,5 @@
 name: lev
+meaning: raise举，升
 children:
   - name: lever
     children:

@@ -1,4 +1,5 @@
 name: miss
+meaning: send投，送，发（miss也作mit）
 children:
   - name: mission
     children:

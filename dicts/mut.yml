@@ -1,4 +1,5 @@
 name: mut
+meaning: 变换
 children:
   - name: mutual
     children:

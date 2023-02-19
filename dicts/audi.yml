@@ -1,4 +1,5 @@
 name: audi
+meaning: hear听（audi也作audit）
 children:
   - name: audio
     children:

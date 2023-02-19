@@ -1,4 +1,5 @@
 name: it
+meaning: go行走
 children:
   - name: exit
     children:

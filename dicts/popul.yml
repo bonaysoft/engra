@@ -1,4 +1,5 @@
 name: popul
+meaning: people人民
 children:
   - name: popular
     children:

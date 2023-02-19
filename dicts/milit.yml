@@ -1,4 +1,5 @@
 name: milit
+meaning: soldier兵
 children:
   - name: military
     children:

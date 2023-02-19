@@ -1,4 +1,5 @@
 name: alt
+meaning: 高
 children:
   - name: altitude
     children:

@@ -1,4 +1,5 @@
 name: onym
+meaning: name名
 children:
   - name: anonymity
     children:

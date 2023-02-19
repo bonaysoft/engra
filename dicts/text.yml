@@ -1,4 +1,5 @@
 name: text
+meaning: weave编织
 children:
   - name: text
     children:

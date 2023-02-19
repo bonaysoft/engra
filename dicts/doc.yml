@@ -1,4 +1,5 @@
 name: doc
+meaning: 教
 children:
   - name: document
     children:

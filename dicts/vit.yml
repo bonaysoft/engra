@@ -1,4 +1,5 @@
 name: vit
+meaning: life生命
 children:
   - name: vital
     children:

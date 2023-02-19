@@ -1,4 +1,5 @@
 name: noc
+meaning: 伤害
 children:
   - name: innocent
     children:

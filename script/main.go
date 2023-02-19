@@ -17,39 +17,55 @@ import (
 	"github.com/bonaysoft/engra/pkg/dict"
 	"github.com/bonaysoft/engra/pkg/waibo"
 	"github.com/samber/lo"
-	"gopkg.in/yaml.v3"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )
 
 func main() {
-	filepath.WalkDir("dicts", func(path string, d fs.DirEntry, err error) error {
+	s, err := script.File("data/yychdym.txt").String()
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+
+	findMeaning := func(name string) string {
+		name = strings.ToLower(name)
+		if strings.Contains(name, "(") || strings.Contains(name, "=") {
+			return ""
+		}
+
+		prefix := ". " + name + "，"
+		if strings.Index(s, prefix) == -1 {
+			return ""
+		}
+
+		pIdx := strings.Index(s, prefix) + len(prefix)
+		tmp := s[pIdx : pIdx+500]
+		// fmt.Println(111, pIdx, tmp)
+		sIdx := strings.Index(tmp, "\r\n\r\n")
+		// fmt.Println(222, sIdx)
+		return s[pIdx : pIdx+sIdx]
+	}
+
+	err = filepath.WalkDir("dicts", func(path string, d fs.DirEntry, err error) error {
 		if d.IsDir() {
 			return nil
 		}
 
 		name := strings.TrimSuffix(filepath.Base(path), filepath.Ext(path))
-		fmt.Println(name)
-		v, err := dict.ReadRoot(path)
+		wr, err := dict.NewWordRoot(name)
 		if err != nil {
 			return err
 		}
-		v.Name = name
-		f, err := os.OpenFile(path, os.O_WRONLY|os.O_TRUNC, 0666)
-		if err != nil {
-			fmt.Println(err)
-			return err
+		wr.Name = name
+		if wr.Meaning != "" {
+			return nil
 		}
 
-		ye := yaml.NewEncoder(f)
-		ye.SetIndent(2)
-		if err := ye.Encode(v); err != nil {
-			fmt.Println(err)
-			return err
-		}
-		// fmt.Println(path)
-		return nil
+		wr.Meaning = findMeaning(name)
+		return wr.Save()
 	})
+	fmt.Println(err)
 
 	return
 

@@ -1,4 +1,5 @@
 name: nect
+meaning: 结，系
 children:
   - name: connect
     children:

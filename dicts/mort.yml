@@ -1,4 +1,5 @@
 name: mort
+meaning: death死
 children:
   - name: mortal
     children:

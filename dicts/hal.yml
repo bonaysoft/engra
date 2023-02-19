@@ -1,4 +1,5 @@
 name: hal
+meaning: 呼吸
 children:
   - name: inhale
     children:

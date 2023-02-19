@@ -1,4 +1,5 @@
 name: flat
+meaning: 吹
 children:
   - name: inflate
     children:

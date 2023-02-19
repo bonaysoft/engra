@@ -1,4 +1,5 @@
 name: corpor
+meaning: body体（corpor也作corp）
 children:
   - name: corporate
     children:

@@ -1,4 +1,5 @@
 name: circ
+meaning: ring环，圆
 children:
   - name: circle
     children:

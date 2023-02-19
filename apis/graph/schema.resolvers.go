@@ -6,6 +6,7 @@ package graph
 
 import (
 	"context"
+	"fmt"
 
 	"github.com/bonaysoft/engra/apis/graph/model"
 )
@@ -13,6 +14,11 @@ import (
 // Vocabularies is the resolver for the vocabularies field.
 func (r *queryResolver) Vocabularies(ctx context.Context, name string) (*model.Vocabulary, error) {
 	return r.Find(name)
+}
+
+// Vocabulary is the resolver for the vocabulary field.
+func (r *queryResolver) Vocabulary(ctx context.Context, name string) (*model.Vocabulary, error) {
+	panic(fmt.Errorf("not implemented: Vocabulary - vocabulary"))
 }
 
 // Query returns QueryResolver implementation.

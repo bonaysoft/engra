@@ -1,4 +1,5 @@
 name: rect
+meaning: right，straight正，直
 children:
   - name: direct
     children:

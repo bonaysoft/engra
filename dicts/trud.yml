@@ -1,4 +1,5 @@
 name: trud
+meaning: 推，冲
 children:
   - name: intrude
     children:

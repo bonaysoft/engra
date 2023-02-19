@@ -1,4 +1,5 @@
 name: greg
+meaning: 群，集合
 children:
   - name: aggregate
     children:

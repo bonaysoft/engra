@@ -1,4 +1,5 @@
 name: flu
+meaning: flow流
 children:
   - name: fluid
     children:

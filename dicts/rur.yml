@@ -1,4 +1,5 @@
 name: rur
+meaning: 农村
 children:
   - name: rural
     children:

@@ -1,4 +1,5 @@
 name: ori
+meaning: rise升起
 children:
   - name: orient
     children:

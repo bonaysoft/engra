@@ -1,4 +1,5 @@
 name: oper
+meaning: work工作
 children:
   - name: operate
     children:

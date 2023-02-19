@@ -1,4 +1,5 @@
 name: gam
+meaning: 婚姻
 children:
   - name: polygamy
     children:

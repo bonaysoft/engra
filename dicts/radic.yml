@@ -1,4 +1,5 @@
 name: radic
+meaning: 根
 children:
   - name: radical
     children:

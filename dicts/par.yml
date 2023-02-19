@@ -1,4 +1,5 @@
 name: par
+meaning: 生，产
 children:
   - name: pare
     children:

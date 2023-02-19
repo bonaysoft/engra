@@ -1,4 +1,5 @@
 name: mob
+meaning: move动
 children:
   - name: mobile
     children:

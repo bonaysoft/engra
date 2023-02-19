@@ -1,4 +1,5 @@
 name: cruc
+meaning: cross十字
 children:
   - name: crucial
     children:

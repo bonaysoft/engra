@@ -1,4 +1,5 @@
 name: sid
+meaning: sit坐
 children:
   - name: preside
     children:

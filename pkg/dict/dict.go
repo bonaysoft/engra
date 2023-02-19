@@ -5,10 +5,8 @@ import (
 	"io/fs"
 	"path/filepath"
 
-	"github.com/bitfield/script"
 	"github.com/bonaysoft/engra/apis/graph/model"
 	"github.com/samber/lo"
-	"gopkg.in/yaml.v3"
 )
 
 type Dict struct {
@@ -22,12 +20,12 @@ func NewDict() (*Dict, error) {
 			return nil
 		}
 
-		tree, err2 := ReadRoot(path)
+		tree, err2 := NewWordRoot(path)
 		if err2 != nil {
 			return err2
 		}
 
-		trees = append(trees, tree)
+		trees = append(trees, tree.Vocabulary)
 		return nil
 	}
 
@@ -44,17 +42,4 @@ func (d *Dict) Find(word string) (*model.Vocabulary, error) {
 	}
 
 	return v, nil
-}
-
-func ReadRoot(path string) (*model.Vocabulary, error) {
-	content, err := script.File(path).Bytes()
-	if err != nil {
-		return nil, err
-	}
-
-	tree := model.NewVocabulary()
-	if err := yaml.Unmarshal(content, tree); err != nil {
-		return nil, err
-	}
-	return tree, nil
 }

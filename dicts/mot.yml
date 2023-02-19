@@ -1,4 +1,5 @@
 name: mot
+meaning: move移动，动
 children:
   - name: motor
     children:

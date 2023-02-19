@@ -1,4 +1,5 @@
 name: fus
+meaning: pour灌，流，倾泻
 children:
   - name: fuse
     children:

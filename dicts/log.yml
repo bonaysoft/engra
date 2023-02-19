@@ -1,4 +1,5 @@
 name: log
+meaning: speak言，说
 children:
   - name: logic
     children:

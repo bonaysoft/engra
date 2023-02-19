@@ -1,4 +1,5 @@
 name: insul
+meaning: island岛
 children:
   - name: insular
     children:

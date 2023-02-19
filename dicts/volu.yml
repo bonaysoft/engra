@@ -1,4 +1,5 @@
 name: volu
+meaning: 滚，转
 children:
   - name: volume
     children:

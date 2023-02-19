@@ -1,4 +1,5 @@
 name: memor
+meaning: memory记忆
 children:
   - name: memory
     children:

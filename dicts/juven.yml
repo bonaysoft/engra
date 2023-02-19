@@ -1,4 +1,5 @@
 name: juven
+meaning: young年轻，年少
 children:
   - name: juvenile
     children:

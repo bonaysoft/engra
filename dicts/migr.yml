@@ -1,4 +1,5 @@
 name: migr
+meaning: remove，move迁移
 children:
   - name: migrate
     children:

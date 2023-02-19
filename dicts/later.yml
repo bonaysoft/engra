@@ -1,4 +1,5 @@
 name: later
+meaning: 边
 children:
   - name: lateral
     children:

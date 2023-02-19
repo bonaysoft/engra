@@ -1,4 +1,5 @@
 name: rupt
+meaning: break破
 children:
   - name: erupt
     children:

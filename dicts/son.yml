@@ -1,4 +1,5 @@
 name: son
+meaning: sound声音
 children:
   - name: sonic
     children:

@@ -1,4 +1,5 @@
 name: tect
+meaning: cover掩盖
 children:
   - name: detect
     children:

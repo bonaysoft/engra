@@ -1,4 +1,5 @@
 name: loc
+meaning: place地方
 children:
   - name: local
     children:

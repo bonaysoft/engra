@@ -1,4 +1,5 @@
 name: plex
+meaning: 重叠，重
 children:
   - name: duplex
     children:

@@ -1,4 +1,5 @@
 name: di
+meaning: day日
 children:
   - name: diet
     children:

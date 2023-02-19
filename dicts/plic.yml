@@ -1,4 +1,5 @@
 name: plic
+meaning: fold折，重叠
 children:
   - name: complicate
     children:

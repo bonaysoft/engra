@@ -1,4 +1,5 @@
 name: port
+meaning: carry拿，带，运
 children:
   - name: port
     children:

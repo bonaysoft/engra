@@ -1,4 +1,5 @@
 name: vac
+meaning: empty空（vac也作vacu）
 children:
   - name: vacate
     children:

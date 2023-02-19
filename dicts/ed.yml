@@ -1,4 +1,5 @@
 name: ed
+meaning: eat吃
 children:
   - name: comedy
     children:

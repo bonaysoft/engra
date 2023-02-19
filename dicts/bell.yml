@@ -1,4 +1,5 @@
 name: bell
+meaning: war战争
 children:
   - name: embellish
     children:

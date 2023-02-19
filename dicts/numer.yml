@@ -1,4 +1,5 @@
 name: numer
+meaning: number数
 children:
   - name: enumerate
     children:

@@ -1,4 +1,5 @@
 name: chron
+meaning: 时
 children:
   - name: chronic
     children:

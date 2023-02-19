@@ -1,4 +1,5 @@
 name: cad
+meaning: 降落，降临
 children:
   - name: cadence
     children:

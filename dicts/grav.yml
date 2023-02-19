@@ -1,4 +1,5 @@
 name: grav
+meaning: 重
 children:
   - name: grave
     children:

@@ -1,4 +1,5 @@
 name: ject
+meaning: throw投掷
 children:
   - name: project
     children:

@@ -1,4 +1,5 @@
 name: soph
+meaning: 智慧
 children:
   - name: sophomore
     children:

@@ -1,4 +1,5 @@
 name: don
+meaning: give给（don也作do）
 children:
   - name: donor
     children:

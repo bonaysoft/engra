@@ -1,4 +1,5 @@
 name: lect
+meaning: choose，gather选，收（lect也作leg，lig）
 children:
   - name: elect
     children:

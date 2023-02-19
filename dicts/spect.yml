@@ -1,4 +1,5 @@
 name: spect
+meaning: look看
 children:
   - name: spectacle
     children:

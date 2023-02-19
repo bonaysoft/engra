@@ -1,4 +1,5 @@
 name: sequ
+meaning: follow跟随
 children:
   - name: sequence
     children:

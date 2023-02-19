@@ -1,4 +1,5 @@
 name: dit
+meaning: give给
 children:
   - name: edit
     children:

@@ -1,4 +1,5 @@
 name: ras
+meaning: 擦，刮
 children:
   - name: erase
     children:

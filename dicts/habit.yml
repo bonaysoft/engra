@@ -1,4 +1,5 @@
 name: habit
+meaning: dwell居住
 children:
   - name: habit
     children:

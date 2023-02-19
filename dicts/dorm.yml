@@ -1,4 +1,5 @@
 name: dorm
+meaning: 睡眠
 children:
   - name: dormant
     children:

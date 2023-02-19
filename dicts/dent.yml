@@ -1,4 +1,5 @@
 name: dent
+meaning: tooth牙齿
 children:
   - name: dent
     children:

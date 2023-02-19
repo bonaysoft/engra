@@ -1,4 +1,5 @@
 name: gran
+meaning: 谷物，谷粒
 children:
   - name: granary
   - name: grange

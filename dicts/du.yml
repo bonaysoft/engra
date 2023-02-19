@@ -1,4 +1,5 @@
 name: du
+meaning: two二
 children:
   - name: dual
     children:

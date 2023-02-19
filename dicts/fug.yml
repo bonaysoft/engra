@@ -1,4 +1,5 @@
 name: fug
+meaning: 逃，散
 children:
   - name: refuge
     children:

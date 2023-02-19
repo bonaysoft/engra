@@ -1,4 +1,5 @@
 name: ego
+meaning: 我
 children:
   - name: ego
     children:

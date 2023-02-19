@@ -1,4 +1,5 @@
 name: integr
+meaning: 整，全
 children:
   - name: integral
     children:

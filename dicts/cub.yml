@@ -1,4 +1,5 @@
 name: cub
+meaning: 躺，卧
 children:
   - name: incubate
     children:

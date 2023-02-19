@@ -1,4 +1,5 @@
 name: grad
+meaning: step，go，grade步，走，级
 children:
   - name: grade
     children:

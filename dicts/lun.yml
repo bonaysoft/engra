@@ -1,4 +1,5 @@
 name: lun
+meaning: moon月亮
 children:
   - name: lunar
     children:

@@ -3,6 +3,9 @@
 package model
 
 type Vocabulary struct {
-	Name     string        `json:"name"`
-	Children []*Vocabulary `json:"children" yaml:"children,omitempty"`
+	Name       string        `json:"name"`
+	Meaning    string        `json:"meaning" yaml:"meaning,omitempty"`
+	Tags       []string      `json:"tags" yaml:"tags,omitempty"`
+	Constitute []string      `json:"constitute" yaml:"constitute,omitempty"`
+	Children   []*Vocabulary `json:"children" yaml:"children,omitempty"`
 }

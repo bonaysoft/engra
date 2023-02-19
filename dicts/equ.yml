@@ -1,4 +1,5 @@
 name: equ
+meaning: equal等，均，平
 children:
   - name: equal
     children:

@@ -1,4 +1,5 @@
 name: punct
+meaning: point，prick点，刺
 children:
   - name: punctuate
     children:

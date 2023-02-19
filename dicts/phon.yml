@@ -1,4 +1,5 @@
 name: phon
+meaning: sound声音
 children:
   - name: telephone
     children:

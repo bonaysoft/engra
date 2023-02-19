@@ -1,4 +1,5 @@
 name: lingu
+meaning: language语言
 children:
   - name: linguist
     children:

@@ -1,4 +1,5 @@
 name: cert
+meaning: 确实，确信
 children:
   - name: certain
     children:

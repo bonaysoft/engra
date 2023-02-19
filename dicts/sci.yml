@@ -1,4 +1,5 @@
 name: sci
+meaning: know知
 children:
   - name: science
     children:

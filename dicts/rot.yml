@@ -1,4 +1,5 @@
 name: rot
+meaning: 轮，转
 children:
   - name: rotate
     children:

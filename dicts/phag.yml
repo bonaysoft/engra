@@ -1,4 +1,5 @@
 name: phag
+meaning: 吃
 children:
   - name: esophagus
     children:

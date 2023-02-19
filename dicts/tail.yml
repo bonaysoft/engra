@@ -1,4 +1,5 @@
 name: tail
+meaning: cut切割
 children:
   - name: tailor
     children:

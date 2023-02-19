@@ -1,4 +1,5 @@
 name: cept
+meaning: take拿，取
 children:
   - name: accept
     children:

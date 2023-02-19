@@ -1,4 +1,5 @@
 name: nav
+meaning: 船
 children:
   - name: navy
     children:

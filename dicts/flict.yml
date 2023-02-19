@@ -1,4 +1,5 @@
 name: flict
+meaning: 打击
 children:
   - name: conflict
     children:

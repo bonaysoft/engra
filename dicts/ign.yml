@@ -1,4 +1,5 @@
 name: ign
+meaning: 火
 children:
   - name: ignite
     children:

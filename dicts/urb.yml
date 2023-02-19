@@ -1,4 +1,5 @@
 name: urb
+meaning: city城市
 children:
   - name: urban
     children:

@@ -1,4 +1,5 @@
 name: spers
+meaning: 散，撒
 children:
   - name: disperse
     children:

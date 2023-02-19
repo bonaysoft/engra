@@ -1,4 +1,5 @@
 name: mega
+meaning: 大
 children:
   - name: megaphone
   - name: megalith

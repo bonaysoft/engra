@@ -1,4 +1,5 @@
 name: err
+meaning: 漫游，走，行
 children:
   - name: err
     children:

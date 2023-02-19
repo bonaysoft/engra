@@ -1,4 +1,5 @@
 name: clud
+meaning: close，shut关闭（clud也作clus）
 children:
   - name: include
     children:

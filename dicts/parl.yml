@@ -1,4 +1,5 @@
 name: parl
+meaning: 说，谈
 children:
   - name: parliament
     children:
