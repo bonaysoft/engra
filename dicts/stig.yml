@@ -1,4 +1,4 @@
-name: 4ED
+name: stig
 children:
   - name: stigma
     children:

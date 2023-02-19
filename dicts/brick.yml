@@ -1,4 +1,4 @@
-name: 3AB
+name: brick
 children:
   - name: brick
     children:

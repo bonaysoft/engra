@@ -1,5 +1,4 @@
-name: mon
-meaning: 告诫，提醒
+name: mon-1
 children:
   - name: money
     children:

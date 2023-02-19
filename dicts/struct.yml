@@ -1,4 +1,4 @@
-name: 25B
+name: struct
 children:
   - name: construct
     children:

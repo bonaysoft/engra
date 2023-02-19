@@ -1,4 +1,4 @@
-name: 10B
+name: fert
 children:
   - name: fertile
     children:

@@ -1,4 +1,4 @@
-name: 466A
+name: chat
 children:
   - name: chatter
     children:

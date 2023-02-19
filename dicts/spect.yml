@@ -1,4 +1,4 @@
-name: 8E
+name: spect
 children:
   - name: spectacle
     children:

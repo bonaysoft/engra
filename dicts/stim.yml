@@ -1,4 +1,4 @@
-name: 4EE
+name: stim
 children:
   - name: stimulus
     children:

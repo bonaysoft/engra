@@ -1,4 +1,4 @@
-name: 4CFA
+name: sym
 children:
   - name: symphony
     children:

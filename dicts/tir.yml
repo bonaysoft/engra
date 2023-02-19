@@ -1,4 +1,4 @@
-name: 361A
+name: tir
 children:
   - name: retire
     children:

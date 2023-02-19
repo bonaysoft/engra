@@ -1,4 +1,4 @@
-name: 4BDA
+name: boot
 children:
   - name: boot
     children:

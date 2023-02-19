@@ -1,4 +1,4 @@
-name: 8A
+name: scop
 children:
   - name: scope
     children:

@@ -1,4 +1,4 @@
-name: 1BC
+name: cord
 children:
   - name: cordial
     children:

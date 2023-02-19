@@ -1,4 +1,4 @@
-name: AG
+name: train
 children:
   - name: train
     children:

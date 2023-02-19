@@ -1,4 +1,4 @@
-name: 99D
+name: fest
 children:
   - name: manifest
     children:

@@ -1,4 +1,4 @@
-name: CEA
+name: electr
 children:
   - name: electric
     children:

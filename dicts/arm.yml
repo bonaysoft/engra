@@ -1,4 +1,4 @@
-name: 6AA
+name: arm
 children:
   - name: arm
     children:

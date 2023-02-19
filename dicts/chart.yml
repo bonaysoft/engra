@@ -1,4 +1,4 @@
-name: 172C
+name: chart
 children:
   - name: chart
     children:

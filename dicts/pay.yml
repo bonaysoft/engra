@@ -1,4 +1,4 @@
-name: EAA
+name: pay
 children:
   - name: pay
     children:

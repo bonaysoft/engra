@@ -1,4 +1,4 @@
-name: DAB
+name: pir
 children:
   - name: pirate
     children:

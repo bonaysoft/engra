@@ -1,4 +1,4 @@
-name: 157B
+name: mir
 children:
   - name: mirror
     children:

@@ -1,4 +1,4 @@
-name: 20DB
+name: rig
 children:
   - name: irrigate
     children:

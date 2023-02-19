@@ -1,4 +1,4 @@
-name: 2ABA
+name: erc
 children:
   - name: exercise
     children:

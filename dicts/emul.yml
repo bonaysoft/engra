@@ -1,4 +1,4 @@
-name: F8C
+name: emul
 children:
   - name: emulate
     children:

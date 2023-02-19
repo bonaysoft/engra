@@ -1,4 +1,4 @@
-name: 2F5B
+name: greet
 children:
   - name: greet
     children:

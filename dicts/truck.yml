@@ -1,4 +1,4 @@
-name: AE
+name: truck
 children:
   - name: truck
     children:

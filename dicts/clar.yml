@@ -1,4 +1,4 @@
-name: CDA
+name: clar
 children:
   - name: clarity
     children:

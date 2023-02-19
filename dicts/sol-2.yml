@@ -1,5 +1,4 @@
-name: sol
-meaning: 太阳
+name: sol-2
 children:
   - name: solar
     children:

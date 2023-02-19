@@ -1,4 +1,4 @@
-name: 41A
+name: put
 children:
   - name: compute
     children:

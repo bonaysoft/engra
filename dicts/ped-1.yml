@@ -1,5 +1,4 @@
-name: ped
-meaning: 脚，足
+name: ped-1
 children:
   - name: pedal
     children:

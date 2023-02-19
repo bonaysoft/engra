@@ -1,4 +1,4 @@
-name: 6FG
+name: wast
 children:
   - name: waste
     children:

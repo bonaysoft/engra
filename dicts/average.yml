@@ -1,4 +1,4 @@
-name: 4CCA
+name: average
 children:
   - name: average
     children:

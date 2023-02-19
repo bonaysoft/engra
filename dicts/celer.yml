@@ -1,4 +1,4 @@
-name: 304A
+name: celer
 children:
   - name: accelerate
     children:

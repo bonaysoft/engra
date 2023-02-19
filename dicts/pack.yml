@@ -1,4 +1,4 @@
-name: 8CE
+name: pack
 children:
   - name: pack
     children:

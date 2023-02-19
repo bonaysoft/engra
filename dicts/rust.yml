@@ -1,4 +1,4 @@
-name: 612B
+name: rust
 children:
   - name: rustic
     children:

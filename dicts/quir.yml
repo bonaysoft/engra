@@ -1,4 +1,4 @@
-name: 5EC
+name: quir
 children:
   - name: inquire
     children:

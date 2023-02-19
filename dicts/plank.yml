@@ -1,4 +1,4 @@
-name: 42C
+name: plank
 children:
   - name: plank
     children:

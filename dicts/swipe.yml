@@ -1,4 +1,4 @@
-name: 601A
+name: swipe
 children:
   - name: swipe
     children:

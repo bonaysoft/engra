@@ -1,4 +1,4 @@
-name: E8B
+name: scap
 children:
   - name: landscape
     children:

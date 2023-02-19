@@ -1,4 +1,4 @@
-name: 3BCA
+name: parl
 children:
   - name: parliament
     children:

@@ -1,4 +1,4 @@
-name: 8C
+name: skept
 children:
   - name: skeptic
     children:

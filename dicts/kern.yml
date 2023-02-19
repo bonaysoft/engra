@@ -1,4 +1,4 @@
-name: 150B
+name: kern
 children:
   - name: kernel
     children:

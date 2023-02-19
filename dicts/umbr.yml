@@ -1,5 +1,4 @@
 name: umbr
-meaning: 阴影
 children:
   - name: umbra
     children:
@@ -17,4 +16,4 @@ children:
           - name: adumbrate
       - name: penumbra
         children:
-            - name: penumbral
+          - name: penumbral

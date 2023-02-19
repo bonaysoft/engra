@@ -1,4 +1,4 @@
-name: 1EBA
+name: physi
 children:
   - name: physics
     children:

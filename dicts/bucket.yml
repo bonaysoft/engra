@@ -1,4 +1,4 @@
-name: 6BBA
+name: bucket
 children:
   - name: bucket
     children:

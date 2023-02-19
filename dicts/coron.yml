@@ -1,4 +1,4 @@
-name: 365B
+name: coron
 children:
   - name: corona
     children:

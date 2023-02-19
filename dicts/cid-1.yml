@@ -1,5 +1,4 @@
-name: cid,cis
-meaning: cut,kill 切，杀
+name: cid-1
 children:
   - name: decide
     children:

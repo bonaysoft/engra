@@ -1,4 +1,4 @@
-name: 4DFA
+name: shrink
 children:
   - name: shrink
     children:

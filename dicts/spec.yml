@@ -1,4 +1,4 @@
-name: 8D
+name: spec
 children:
   - name: special
     children:

@@ -1,5 +1,4 @@
 name: leg
-meaning: 选，拿，读，将，说，法律
 children:
   - name: college
     children:

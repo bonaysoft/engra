@@ -1,4 +1,4 @@
-name: DBC
+name: sanct
 children:
   - name: sanction
     children:

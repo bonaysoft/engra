@@ -1,4 +1,4 @@
-name: C2D
+name: mnes
 children:
   - name: amnesia
     children:

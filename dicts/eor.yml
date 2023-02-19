@@ -1,4 +1,4 @@
-name: 32CA
+name: eor
 children:
   - name: meteor
     children:

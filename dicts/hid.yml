@@ -1,4 +1,4 @@
-name: 579A
+name: hid
 children:
   - name: hide
     children:

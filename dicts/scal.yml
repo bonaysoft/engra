@@ -1,4 +1,4 @@
-name: 56K
+name: scal
 children:
   - name: scale
     children:

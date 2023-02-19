@@ -1,4 +1,4 @@
-name: 192A
+name: anim
 children:
   - name: animal
     children:

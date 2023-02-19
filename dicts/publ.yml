@@ -1,4 +1,4 @@
-name: 50A
+name: publ
 children:
   - name: public
     children:

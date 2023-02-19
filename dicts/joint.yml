@@ -1,4 +1,4 @@
-name: A7B
+name: joint
 children:
   - name: joint
     children:

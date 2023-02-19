@@ -1,4 +1,4 @@
-name: 4G
+name: siz
 children:
   - name: size
     children:

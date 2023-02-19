@@ -1,4 +1,4 @@
-name: 30G
+name: guard
 children:
   - name: guard
     children:

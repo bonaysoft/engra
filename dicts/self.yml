@@ -1,4 +1,4 @@
-name: 40A
+name: self
 children:
   - name: self
     children:

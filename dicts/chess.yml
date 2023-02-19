@@ -1,4 +1,4 @@
-name: 23CD
+name: chess
 children:
   - name: chess
     children:

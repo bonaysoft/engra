@@ -1,4 +1,4 @@
-name: 6G
+name: wis
 children:
   - name: wise
     children:

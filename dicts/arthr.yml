@@ -1,4 +1,4 @@
-name: BBB
+name: arthr
 children:
   - name: arthritis
     children:

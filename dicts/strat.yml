@@ -1,4 +1,4 @@
-name: 3DEA
+name: strat
 children:
   - name: stratum
     children:

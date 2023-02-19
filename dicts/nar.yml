@@ -1,4 +1,4 @@
-name: 15G
+name: nar
 children:
   - name: narrate
     children:

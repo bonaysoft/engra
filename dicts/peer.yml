@@ -1,4 +1,4 @@
-name: F3C
+name: peer
 children:
   - name: peer
     children:

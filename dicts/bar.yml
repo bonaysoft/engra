@@ -1,4 +1,4 @@
-name: FAD
+name: bar
 children:
   - name: barometer
     children:

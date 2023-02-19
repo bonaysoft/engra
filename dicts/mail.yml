@@ -1,4 +1,4 @@
-name: 6BEA
+name: mail
 children:
   - name: blackmail
     children:

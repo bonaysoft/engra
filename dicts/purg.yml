@@ -1,4 +1,4 @@
-name: 17CB
+name: purg
 children:
   - name: purge
     children:

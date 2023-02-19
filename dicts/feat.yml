@@ -1,4 +1,4 @@
-name: 2G
+name: feat
 children:
   - name: feature
     children:

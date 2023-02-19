@@ -1,4 +1,4 @@
-name: 1EAA
+name: custom
 children:
   - name: custom
     children:

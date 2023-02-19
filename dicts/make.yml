@@ -1,4 +1,4 @@
-name: E6A
+name: make
 children:
   - name: make
     children:

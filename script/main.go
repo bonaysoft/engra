@@ -14,6 +14,7 @@ import (
 	"github.com/bitfield/script"
 	"github.com/bonaysoft/engra/pkg/dal/model"
 	"github.com/bonaysoft/engra/pkg/dal/query"
+	"github.com/bonaysoft/engra/pkg/dict"
 	"github.com/bonaysoft/engra/pkg/waibo"
 	"github.com/samber/lo"
 	"gopkg.in/yaml.v3"
@@ -22,6 +23,36 @@ import (
 )
 
 func main() {
+	filepath.WalkDir("dicts", func(path string, d fs.DirEntry, err error) error {
+		if d.IsDir() {
+			return nil
+		}
+
+		name := strings.TrimSuffix(filepath.Base(path), filepath.Ext(path))
+		fmt.Println(name)
+		v, err := dict.ReadRoot(path)
+		if err != nil {
+			return err
+		}
+		v.Name = name
+		f, err := os.OpenFile(path, os.O_WRONLY|os.O_TRUNC, 0666)
+		if err != nil {
+			fmt.Println(err)
+			return err
+		}
+
+		ye := yaml.NewEncoder(f)
+		ye.SetIndent(2)
+		if err := ye.Encode(v); err != nil {
+			fmt.Println(err)
+			return err
+		}
+		// fmt.Println(path)
+		return nil
+	})
+
+	return
+
 	createRoot("solar")
 	rows, err := script.File("data/amroot.txt").Slice()
 	if err != nil {
@@ -90,32 +121,32 @@ func buildRoot() {
 }
 
 func createRoot(word string) {
-	tree, err := waibo.FetchTree(word)
-	if err != nil {
-		fmt.Println(err)
-		return
-	}
+	// tree, err := waibo.FetchTree(word)
+	// if err != nil {
+	// 	fmt.Println(err)
+	// 	return
+	// }
 
 	// trees = append(trees, tree)
-	rootName := strings.Split(tree.Topic, "<br/>")[0]
-	fileName := filepath.Join("dicts", strings.Trim(rootName, "-")+".yml")
-
-	if _, err := os.Stat(fileName); err == nil {
-		fileName = filepath.Join("dicts", strings.Trim(rootName, "-")+"-.yml")
-	}
-
-	f, err := os.Create(fileName)
-	if err != nil {
-		fmt.Println(err)
-		return
-	}
-
-	ye := yaml.NewEncoder(f)
-	ye.SetIndent(2)
-	if err := ye.Encode(tree); err != nil {
-		fmt.Println(err)
-		return
-	}
+	// rootName := strings.Split(tree.Topic, "<br/>")[0]
+	// fileName := filepath.Join("dicts", strings.Trim(rootName, "-")+".yml")
+	//
+	// if _, err := os.Stat(fileName); err == nil {
+	// 	fileName = filepath.Join("dicts", strings.Trim(rootName, "-")+"-.yml")
+	// }
+	//
+	// f, err := os.Create(fileName)
+	// if err != nil {
+	// 	fmt.Println(err)
+	// 	return
+	// }
+	//
+	// ye := yaml.NewEncoder(f)
+	// ye.SetIndent(2)
+	// if err := ye.Encode(tree); err != nil {
+	// 	fmt.Println(err)
+	// 	return
+	// }
 }
 
 func aaa() {

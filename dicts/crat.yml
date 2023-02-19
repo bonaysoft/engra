@@ -1,4 +1,4 @@
-name: 26CA
+name: crat
 children:
   - name: aristocrat
     children:

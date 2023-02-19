@@ -1,4 +1,4 @@
-name: 4FAA
+name: pane
 children:
   - name: panel
     children:

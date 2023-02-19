@@ -1,4 +1,4 @@
-name: ABB
+name: neuro
 children:
   - name: neuron
     children:

@@ -1,4 +1,4 @@
-name: 490A
+name: dock
 children:
   - name: dock
     children:

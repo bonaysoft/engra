@@ -1,4 +1,4 @@
-name: 12C
+name: mot
 children:
   - name: motor
     children:

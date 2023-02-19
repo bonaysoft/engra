@@ -1,4 +1,4 @@
-name: 4EC
+name: stinct
 children:
   - name: distinct
     children:

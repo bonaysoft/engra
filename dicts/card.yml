@@ -1,4 +1,4 @@
-name: 172A
+name: card
 children:
   - name: card
     children:

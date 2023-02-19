@@ -1,4 +1,4 @@
-name: 51EA
+name: glam
 children:
   - name: glamor
     children:

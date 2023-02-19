@@ -1,4 +1,4 @@
-name: CCG
+name: rod
 children:
   - name: rodent
     children:

@@ -1,4 +1,4 @@
-name: CB
+name: duct
 children:
   - name: reduce
     children:

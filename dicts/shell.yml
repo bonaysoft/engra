@@ -1,4 +1,4 @@
-name: 4FFA
+name: shell
 children:
   - name: shell
     children:

@@ -1,5 +1,4 @@
-name: ped
-meaning: 儿童，小孩儿
+name: ped-2
 children:
   - name: pediatric
     children:

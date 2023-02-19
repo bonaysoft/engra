@@ -1,4 +1,4 @@
-name: D0C
+name: clin
 children:
   - name: clinic
     children:

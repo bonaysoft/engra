@@ -1,4 +1,4 @@
-name: C4B
+name: all
 children:
   - name: allergy
     children:

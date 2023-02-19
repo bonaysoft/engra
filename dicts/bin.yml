@@ -1,4 +1,4 @@
-name: 2D2A
+name: bin
 children:
   - name: combine
     children:

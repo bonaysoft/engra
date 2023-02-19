@@ -1,4 +1,4 @@
-name: CFA
+name: plac
 children:
   - name: place
     children:

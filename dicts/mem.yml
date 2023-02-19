@@ -1,4 +1,4 @@
-name: C2A
+name: mem
 children:
   - name: memoir
     children:

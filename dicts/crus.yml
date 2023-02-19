@@ -1,4 +1,4 @@
-name: 6BB
+name: crus
 children:
   - name: crusade
     children:

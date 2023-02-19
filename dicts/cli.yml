@@ -1,4 +1,4 @@
-name: D0A
+name: cli
 children:
   - name: client
     children:

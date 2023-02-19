@@ -1,4 +1,4 @@
-name: 12FC
+name: misc
 children:
   - name: miscellaneous
     children:

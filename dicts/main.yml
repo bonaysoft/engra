@@ -1,4 +1,4 @@
-name: 432A
+name: main
 children:
   - name: main
     children:

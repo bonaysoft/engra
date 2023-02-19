@@ -1,4 +1,4 @@
-name: 4C
+name: seat
 children:
   - name: seat
     children:

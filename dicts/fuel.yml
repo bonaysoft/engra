@@ -1,4 +1,4 @@
-name: 502A
+name: fuel
 children:
   - name: fuel
     children:

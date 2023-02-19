@@ -1,4 +1,4 @@
-name: FE
+name: plex
 children:
   - name: duplex
     children:

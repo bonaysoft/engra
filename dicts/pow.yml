@@ -1,4 +1,4 @@
-name: 53C
+name: pow
 children:
   - name: power
     children:

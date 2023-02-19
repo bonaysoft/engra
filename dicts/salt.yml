@@ -1,4 +1,4 @@
-name: 11DD
+name: salt
 children:
   - name: salt
     children:

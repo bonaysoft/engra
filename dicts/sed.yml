@@ -1,4 +1,4 @@
-name: 4E
+name: sed
 children:
   - name: sediment
     children:

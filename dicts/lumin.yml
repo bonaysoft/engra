@@ -1,4 +1,4 @@
-name: DDD
+name: lumin
 children:
   - name: luminous
     children:

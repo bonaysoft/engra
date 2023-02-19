@@ -1,4 +1,4 @@
-name: 2DDA
+name: agr
 children:
   - name: agriculture
     children:

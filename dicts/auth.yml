@@ -1,4 +1,4 @@
-name: 1FBA
+name: auth
 children:
   - name: author
     children:

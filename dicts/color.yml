@@ -1,4 +1,4 @@
-name: ECA
+name: color
 children:
   - name: color
     children:

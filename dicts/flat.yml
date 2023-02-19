@@ -1,4 +1,4 @@
-name: 96C
+name: flat
 children:
   - name: inflate
     children:

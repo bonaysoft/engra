@@ -1,4 +1,4 @@
-name: EDB
+name: pear
 children:
   - name: appear
     children:

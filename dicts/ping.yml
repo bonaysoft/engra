@@ -1,4 +1,4 @@
-name: 8CC
+name: ping
 children:
   - name: impinge
     children:

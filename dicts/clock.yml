@@ -1,4 +1,4 @@
-name: 54AA
+name: clock
 children:
   - name: clock
     children:

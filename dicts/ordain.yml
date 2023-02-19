@@ -1,4 +1,4 @@
-name: 7CB
+name: ordain
 children:
   - name: ordain
     children:

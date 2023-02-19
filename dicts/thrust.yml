@@ -1,4 +1,4 @@
-name: FCD
+name: thrust
 children:
   - name: thrust
     children:

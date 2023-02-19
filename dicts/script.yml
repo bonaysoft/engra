@@ -1,4 +1,4 @@
-name: 5CB
+name: script
 children:
   - name: script
     children:

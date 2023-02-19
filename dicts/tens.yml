@@ -1,4 +1,4 @@
-name: 11C
+name: tens
 children:
   - name: tense
     children:

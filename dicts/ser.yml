@@ -1,4 +1,4 @@
-name: EBA
+name: ser
 children:
   - name: series
     children:

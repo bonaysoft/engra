@@ -1,4 +1,4 @@
-name: 42AA
+name: gain
 children:
   - name: gain
     children:

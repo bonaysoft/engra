@@ -1,4 +1,4 @@
-name: 481B
+name: thrif
 children:
   - name: thrift
     children:

@@ -1,4 +1,4 @@
-name: 6A
+name: vid
 children:
   - name: video
     children:

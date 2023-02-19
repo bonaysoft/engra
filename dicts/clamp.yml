@@ -1,4 +1,4 @@
-name: 3D6B
+name: clamp
 children:
   - name: clamp
     children:

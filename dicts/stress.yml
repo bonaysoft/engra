@@ -1,4 +1,4 @@
-name: 3BC
+name: stress
 children:
   - name: stress
     children:

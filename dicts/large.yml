@@ -1,4 +1,4 @@
-name: 25AA
+name: large
 children:
   - name: large
     children:

@@ -1,5 +1,4 @@
-name: cid
-meaning: 降临，降落
+name: cid-2
 children:
   - name: incident
     children:

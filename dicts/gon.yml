@@ -1,4 +1,4 @@
-name: 2CDA
+name: gon
 children:
   - name: diagonal
     children:

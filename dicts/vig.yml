@@ -1,4 +1,4 @@
-name: 3DB
+name: vig
 children:
   - name: vigor
     children:

@@ -1,4 +1,4 @@
-name: 8DA
+name: person
 children:
   - name: person
     children:

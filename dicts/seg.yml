@@ -1,4 +1,4 @@
-name: FDC
+name: seg
 children:
   - name: segment
     children:

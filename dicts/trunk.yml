@@ -1,4 +1,4 @@
-name: 278C
+name: trunk
 children:
   - name: trunk
     children:

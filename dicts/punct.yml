@@ -1,4 +1,4 @@
-name: 34C
+name: punct
 children:
   - name: punctuate
     children:

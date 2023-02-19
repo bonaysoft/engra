@@ -1,4 +1,4 @@
-name: 5G
+name: ceit
 children:
   - name: deceit
     children:

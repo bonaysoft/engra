@@ -1,4 +1,4 @@
-name: C2B
+name: memor
 children:
   - name: memory
     children:

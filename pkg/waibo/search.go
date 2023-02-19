@@ -6,12 +6,13 @@ import (
 	"strings"
 
 	"github.com/antchfx/htmlquery"
+	"github.com/bonaysoft/engra/pkg/dal/model"
 	"github.com/go-resty/resty/v2"
 )
 
 var hc = resty.New()
 
-func FetchTree(word string) (*Node, error) {
+func FetchTree(word string) (*model.Vocabulary, error) {
 	resp, err := hc.R().Get("https://www.waibo.wang/r/" + word)
 	if err != nil {
 		return nil, err
@@ -22,7 +23,7 @@ func FetchTree(word string) (*Node, error) {
 	result := strings.Replace(resp.String()[sIdx:eIdx], "\"", "\\\"", -1)
 	result = strings.Replace(result, "'", "\"", -1)
 
-	tree := NewNode()
+	tree := &model.Vocabulary{}
 	if err := json.Unmarshal([]byte(result), tree); err != nil {
 		return nil, err
 	}

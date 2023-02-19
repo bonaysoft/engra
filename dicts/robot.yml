@@ -1,4 +1,4 @@
-name: 561A
+name: robot
 children:
   - name: robot
     children:

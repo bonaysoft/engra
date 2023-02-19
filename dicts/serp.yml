@@ -1,4 +1,4 @@
-name: 4CBB
+name: serp
 children:
   - name: serpent
     children:

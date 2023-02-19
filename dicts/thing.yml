@@ -1,4 +1,4 @@
-name: 220A
+name: thing
 children:
   - name: thing
     children:

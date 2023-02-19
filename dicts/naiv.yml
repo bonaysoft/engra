@@ -1,4 +1,4 @@
-name: 2CD
+name: naiv
 children:
   - name: naive
     children:

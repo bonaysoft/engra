@@ -1,4 +1,4 @@
-name: 2ECA
+name: stock
 children:
   - name: stock
     children:

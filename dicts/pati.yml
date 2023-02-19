@@ -1,4 +1,4 @@
-name: 2FA
+name: pati
 children:
   - name: patient
     children:

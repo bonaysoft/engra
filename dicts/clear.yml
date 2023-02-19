@@ -1,4 +1,4 @@
-name: CDC
+name: clear
 children:
   - name: clear
     children:

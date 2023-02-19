@@ -1,4 +1,4 @@
-name: 36DA
+name: maz
 children:
   - name: maze
     children:

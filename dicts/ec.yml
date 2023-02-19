@@ -1,4 +1,4 @@
-name: 3DBA
+name: ec
 children:
   - name: edge
     children:

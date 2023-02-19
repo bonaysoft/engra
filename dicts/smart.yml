@@ -1,4 +1,4 @@
-name: 3CDA
+name: smart
 children:
   - name: smart
     children:

@@ -1,5 +1,4 @@
-name: sol
-meaning: 单独
+name: sol-1
 children:
   - name: solo
     children:

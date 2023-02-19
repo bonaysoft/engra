@@ -1,4 +1,4 @@
-name: 96B
+name: blast
 children:
   - name: blast
     children:

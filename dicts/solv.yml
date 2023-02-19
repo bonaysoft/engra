@@ -1,4 +1,4 @@
-name: B2A
+name: solv
 children:
   - name: solve
     children:

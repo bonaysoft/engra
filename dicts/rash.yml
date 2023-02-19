@@ -1,4 +1,4 @@
-name: CCE
+name: rash
 children:
   - name: rash
     children:

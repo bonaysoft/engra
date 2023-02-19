@@ -1,5 +1,4 @@
 name: cogn
-meaning: know知道
 children:
   - name: cognition
     children:

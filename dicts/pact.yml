@@ -1,4 +1,4 @@
-name: 8CB
+name: pact
 children:
   - name: impact
     children:

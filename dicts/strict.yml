@@ -1,4 +1,4 @@
-name: 3BE
+name: strict
 children:
   - name: strict
     children:

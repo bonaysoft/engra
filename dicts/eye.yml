@@ -1,4 +1,4 @@
-name: AAA
+name: eye
 children:
   - name: eye
     children:

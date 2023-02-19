@@ -1,4 +1,4 @@
-name: 70E
+name: pret
 children:
   - name: interpret
     children:

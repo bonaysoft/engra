@@ -1,4 +1,4 @@
-name: 15E
+name: gnost
 children:
   - name: prognosis
     children:

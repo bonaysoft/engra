@@ -1,4 +1,4 @@
-name: 20A
+name: part
 children:
   - name: part
     children:

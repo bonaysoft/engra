@@ -1,4 +1,4 @@
-name: B1A
+name: psych
 children:
   - name: psyche
     children:

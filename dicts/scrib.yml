@@ -1,4 +1,4 @@
-name: 5CA
+name: scrib
 children:
   - name: scribe
     children:

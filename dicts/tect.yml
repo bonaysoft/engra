@@ -1,4 +1,4 @@
-name: 108A
+name: tect
 children:
   - name: detect
     children:

@@ -1,4 +1,4 @@
-name: CCB
+name: ras
 children:
   - name: erase
     children:

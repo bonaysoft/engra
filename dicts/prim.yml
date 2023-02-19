@@ -1,4 +1,4 @@
-name: 81B
+name: prim
 children:
   - name: prime
     children:

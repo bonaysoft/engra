@@ -1,4 +1,4 @@
-name: 42E
+name: plat
 children:
   - name: plate
     children:

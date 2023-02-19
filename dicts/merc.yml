@@ -1,4 +1,4 @@
-name: F1A
+name: merc
 children:
   - name: mercy
     children:

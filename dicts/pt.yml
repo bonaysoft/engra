@@ -1,4 +1,4 @@
-name: 5BD
+name: pt
 children:
   - name: symptom
     children:

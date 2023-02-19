@@ -1,4 +1,4 @@
-name: 70A
+name: pric
 children:
   - name: price
     children:

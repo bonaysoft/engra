@@ -1,5 +1,4 @@
-name: cur
-meaning: cur,curs,cour,cours = run 跑
+name: cur-2
 children:
   - name: current
     children:

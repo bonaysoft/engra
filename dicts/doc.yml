@@ -1,4 +1,4 @@
-name: FBA
+name: doc
 children:
   - name: document
     children:

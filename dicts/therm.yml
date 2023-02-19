@@ -1,4 +1,4 @@
-name: 137A
+name: therm
 children:
   - name: thermal
     children:

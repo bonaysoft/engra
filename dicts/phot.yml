@@ -1,4 +1,4 @@
-name: 19EA
+name: phot
 children:
   - name: photon
     children:

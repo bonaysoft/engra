@@ -1,4 +1,4 @@
-name: 24C
+name: bull
 children:
   - name: bullet
     children:

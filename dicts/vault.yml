@@ -1,4 +1,4 @@
-name: 66E
+name: vault
 children:
   - name: vault
     children:

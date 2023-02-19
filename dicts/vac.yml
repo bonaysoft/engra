@@ -1,4 +1,4 @@
-name: 6FA
+name: vac
 children:
   - name: vacate
     children:

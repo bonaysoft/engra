@@ -22,14 +22,9 @@ func NewDict() (*Dict, error) {
 			return nil
 		}
 
-		content, err := script.File(path).Bytes()
-		if err != nil {
-			return err
-		}
-
-		tree := model.NewVocabulary()
-		if err := yaml.Unmarshal(content, tree); err != nil {
-			return err
+		tree, err2 := ReadRoot(path)
+		if err2 != nil {
+			return err2
 		}
 
 		trees = append(trees, tree)
@@ -49,4 +44,17 @@ func (d *Dict) Find(word string) (*model.Vocabulary, error) {
 	}
 
 	return v, nil
+}
+
+func ReadRoot(path string) (*model.Vocabulary, error) {
+	content, err := script.File(path).Bytes()
+	if err != nil {
+		return nil, err
+	}
+
+	tree := model.NewVocabulary()
+	if err := yaml.Unmarshal(content, tree); err != nil {
+		return nil, err
+	}
+	return tree, nil
 }

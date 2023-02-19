@@ -1,4 +1,4 @@
-name: DEA
+name: ston
 children:
   - name: stone
     children:

@@ -1,4 +1,4 @@
-name: 125A
+name: tele
 children:
   - name: telescope
     children:

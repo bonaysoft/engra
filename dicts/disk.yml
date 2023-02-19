@@ -1,4 +1,4 @@
-name: 359B
+name: disk
 children:
   - name: disk
     children:

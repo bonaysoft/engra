@@ -1,4 +1,4 @@
-name: 690A
+name: arithm
 children:
   - name: arithmetic
     children:

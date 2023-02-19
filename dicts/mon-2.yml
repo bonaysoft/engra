@@ -1,5 +1,4 @@
-name: mon
-meaning: 单独，一个
+name: mon-2
 children:
   - name: monopoly
     children:

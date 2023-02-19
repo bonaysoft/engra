@@ -1,4 +1,4 @@
-name: 25DA
+name: smoke
 children:
   - name: smoke
     children:

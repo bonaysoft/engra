@@ -1,4 +1,4 @@
-name: 80C
+name: ent
 children:
   - name: entity
     children:

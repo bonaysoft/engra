@@ -1,4 +1,4 @@
-name: 30AA
+name: win
 children:
   - name: win
     children:

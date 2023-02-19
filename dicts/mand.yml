@@ -1,4 +1,4 @@
-name: 130A
+name: mand
 children:
   - name: command
     children:

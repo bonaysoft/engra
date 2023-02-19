@@ -1,4 +1,4 @@
-name: 10EA
+name: radi
 children:
   - name: radio
     children:

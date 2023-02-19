@@ -1,4 +1,4 @@
-name: F2C
+name: heal
 children:
   - name: heal
     children:

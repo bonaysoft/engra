@@ -1,4 +1,4 @@
-name: 26BA
+name: carn
 children:
   - name: carnivore
     children:

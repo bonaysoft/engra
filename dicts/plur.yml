@@ -1,4 +1,4 @@
-name: 2CAB
+name: plur
 children:
   - name: plural
     children:

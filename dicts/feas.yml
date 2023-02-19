@@ -1,4 +1,4 @@
-name: 2F
+name: feas
 children:
   - name: feasible
     children:

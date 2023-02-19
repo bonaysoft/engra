@@ -1,4 +1,4 @@
-name: 5I
+name: cov
 children:
   - name: recover
     children:

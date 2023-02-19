@@ -1,4 +1,4 @@
-name: 11CA
+name: room
 children:
   - name: room
     children:

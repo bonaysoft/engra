@@ -1,4 +1,4 @@
-name: 2DB
+name: dict
 children:
   - name: dictate
     children:

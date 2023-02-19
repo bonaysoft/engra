@@ -1,4 +1,4 @@
-name: 2D
+name: fact
 children:
   - name: fact
     children:

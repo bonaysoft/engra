@@ -1,4 +1,4 @@
-name: 51B
+name: sem
 children:
   - name: assemble
     children:

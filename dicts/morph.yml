@@ -1,4 +1,4 @@
-name: 347A
+name: morph
 children:
   - name: morphology
     children:

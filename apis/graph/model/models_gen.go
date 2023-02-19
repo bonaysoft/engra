@@ -4,5 +4,5 @@ package model
 
 type Vocabulary struct {
 	Name     string        `json:"name"`
-	Children []*Vocabulary `json:"children"`
+	Children []*Vocabulary `json:"children" yaml:"children,omitempty"`
 }

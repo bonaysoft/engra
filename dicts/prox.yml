@@ -1,4 +1,4 @@
-name: 216B
+name: prox
 children:
   - name: proximity
     children:

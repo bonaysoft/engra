@@ -1,4 +1,4 @@
-name: 6DCA
+name: pol
 children:
   - name: monopoly
     children:
