@@ -1,4 +1,7 @@
 name: brief
+phonetic: ［bri:f］
+mnemonic: adj./n.【brief←brev 短】
+meaning: 短暂的，简短的，简洁的；摘要，短文，概要
 children:
   - name: brief
     children:
@@ -6,3 +9,6 @@ children:
       - name: briefer
       - name: briefing
       - name: briefness
+        phonetic: ［'bri:fnis］
+        mnemonic: n.【见上，-ness 名词后缀】
+        meaning: 短暂，简短，简洁

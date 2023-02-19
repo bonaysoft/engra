@@ -4,13 +4,25 @@ tags:
   - SOW
 children:
   - name: philosophy
+    phonetic: ［fi'lɔsəfi］
+    mnemonic: n.【见上，-y 名词后缀】
+    meaning: 哲学；哲理
     children:
       - name: philosopher
+        phonetic: ［fi'lɔsəfə］
+        mnemonic: n.【philo 爱，soph 智慧 → 知识，哲理，-er 者】
+        meaning: 哲学家；思想家
       - name: philosophic
         children:
           - name: philosophical
+            phonetic: ［ˌfilə'sɔfikəl］
+            mnemonic: adj.【见上，-ical …的】
+            meaning: 哲学家的；哲学（上）的
           - name: philosophically
       - name: philosophize
+        phonetic: ［fi'lɔsəfaiz］
+        mnemonic: v.【见上，-ize 动词后缀】
+        meaning: 推究哲理，进行哲学探讨
         children:
           - name: philosophizing
   - name: philanthropy

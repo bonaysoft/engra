@@ -4,6 +4,8 @@ tags:
   - SOW
 children:
   - name: grade
+    phonetic: ' ［ɡreid］'
+    meaning: n. 等级，年级，级别，阶段，程度
     children:
       - name: grader
       - name: grading
@@ -11,31 +13,58 @@ children:
         children:
           - name: ungraded
       - name: gradation
+        phonetic: ［ɡrə'deiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 等级，分等，分级
       - name: gradient
   - name: upgrade
+    phonetic: ［ˌʌp'ɡreid］
+    mnemonic: v.【up上，grad 步，级】
+    meaning: 上升，升级，提升，上坡
     children:
       - name: upgraded
       - name: upgrading
   - name: degrade
+    phonetic: ［di'ɡreid］
+    mnemonic: v.【de-下，向下，grad 步，走，级；“往下走”，“降级”】
+    meaning: 下降，堕落，退化，使降级，贬黜
     children:
       - name: degraded
       - name: degrading
       - name: degradative
       - name: degradation
+        phonetic: ［ˌdeɡrə'deiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 堕落，退化，降级，贬黜
       - name: degradable
       - name: biodegrade
         children:
           - name: biodegradable
   - name: gradual
+    phonetic: ［'ɡrædjuəl］
+    mnemonic: adj.【grad 步，-ual 形容词后缀，…的】
+    meaning: 逐步的，逐渐的
     children:
       - name: gradually
       - name: gradualism
   - name: graduate
+    phonetic: ［'ɡrædjueit］
+    mnemonic: v.；［'ɡræʤueit］n.【grad 步，级，-u-， -ate 动词后缀；“在学业上走完某一步”，“在学业上完成某一级” → 】
+    meaning: 毕业；【转为名词】毕业生
     children:
       - name: graduated
       - name: graduation
+        phonetic: ［ˌɡrædju'eiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 毕业
       - name: postgraduate
+        phonetic: ［ˌpəust'ɡrædjuit］
+        mnemonic: n.【post-后，在…之后，见上】
+        meaning: 大学毕业后的；研究生
       - name: undergraduate
+        phonetic: ［ˌʌndə'ɡrædjuit］
+        mnemonic: n.【under-低于，不够，不到，不足，graduate毕业生】
+        meaning: 尚未毕业者，大学肄业生
       - name: grad
         children:
           - name: undergrad

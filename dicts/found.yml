@@ -1,5 +1,7 @@
 name: found
-meaning: 底，基础
+phonetic: ［faund］
+mnemonic: v.【found 基础】
+meaning: 为（房屋等）打基础；建立，创立
 tags:
   - SOW
 children:
@@ -10,15 +12,30 @@ children:
         children:
           - name: unfounded
       - name: founder
+        phonetic: ［'faundə］
+        mnemonic: n.【见上，-er 者】
+        meaning: 奠基者，创立者
         children:
           - name: foundress
+            phonetic: ［'faundris］
+            mnemonic: n.【见上，-ress 表示女性】
+            meaning: 女奠基者，女创立者
           - name: foundering
       - name: foundry
   - name: foundation
+    phonetic: ［faun'deiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 地基；基础，根本；基金
     children:
       - name: foundationer
       - name: foundational
+        phonetic: ［faun'deiʃənl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 基础的，基本的
   - name: profound
+    phonetic: ［prə'faund］
+    mnemonic: adj.【pro-加强意义，found 底，底下 → 深处 → 深 → 】
+    meaning: 深奥的，深远的，深重的，意义深长的，深深的；深处
     children:
       - name: profoundly
       - name: profoundity

@@ -4,8 +4,14 @@ tags:
   - SOW
 children:
   - name: splendid
+    phonetic: ［'splendid］
+    mnemonic: adj.【splend 发光，-id 形容词后缀，…的】
+    meaning: 有光彩的，灿烂的，辉煌的；显著的，杰出的
     children:
       - name: splendidly
   - name: splendor
     children:
       - name: splendorous
+        phonetic: ［'splendərəs］
+        mnemonic: adj.【见上，-ous …的】
+        meaning: 有光辉的，有光彩的；显赫的

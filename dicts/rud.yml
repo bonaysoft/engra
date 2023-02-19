@@ -4,6 +4,11 @@ tags:
   - SOW
 children:
   - name: rude
+    phonetic: ［ru:d］
+    meaning: adj. 原始（阶段）的，未开化的，粗野的
     children:
       - name: rudely
       - name: rudeness
+        phonetic: ［'ru:dnis］
+        mnemonic: n.【见上，-ness 名词后缀】
+        meaning: 原始，粗野

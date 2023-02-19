@@ -9,6 +9,9 @@ children:
       - name: aerodynamic
         children:
           - name: aerodynamics
+            phonetic: ［ˌɛərəudai'næmiks］
+            mnemonic: n.【aero 空中，dynam 力，-ics …学】
+            meaning: 空气动力学
       - name: hemodynamic
         children:
           - name: hemodynamics

@@ -1,10 +1,19 @@
 name: liev
 children:
   - name: relieve
+    phonetic: ［ri'li:v］
+    mnemonic: v.【re-加强意义，liev←lev 举；“把压在…上面的东西举起” → 使…减轻负担 → 】
+    meaning: 减轻，解除（痛苦等）；救济
     children:
       - name: reliever
       - name: relieved
         children:
           - name: unrelieved
       - name: relievable
+        phonetic: ［ri'li:vəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可减轻的，可解除的
       - name: relief
+        phonetic: ［ri'li:f］
+        mnemonic: n.【见上，v → f】
+        meaning: （痛苦、压迫等的）减轻，解除，免除；救济

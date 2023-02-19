@@ -4,17 +4,32 @@ tags:
   - SOW
 children:
   - name: precious
+    phonetic: ［'preʃəs］
+    mnemonic: adj.【preci 价值，-ous 有…的；“有价值的”→】
+    meaning: 宝贵的，珍贵的
     children:
       - name: preciously
       - name: preciousness
   - name: appreciate
+    phonetic: ［ə'pri:ʃieit］
+    mnemonic: v.【ap-表示 at 或 to，preci 价值，-ate 动词后缀；“论价”→】
+    meaning: 评价，鉴赏，欣赏
     children:
       - name: appreciator
+        phonetic: ［ə'pri:ʃieitə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 评价者，欣赏者，鉴赏者
       - name: appreciation
+        phonetic: ［əˌpri:ʃi'eiʃən］
+        mnemonic: n.【见上，-ion 名词后缀，表示行为】
+        meaning: 评价，鉴赏，欣赏
       - name: appreciable
         children:
           - name: appreciably
       - name: appreciative
+        phonetic: ［ə'pri:ʃiətiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 有评价能力的，有欣赏力的
         children:
           - name: appreciatively
           - name: unappreciative

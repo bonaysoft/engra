@@ -4,24 +4,54 @@ tags:
   - SOW
 children:
   - name: military
+    phonetic: ［'militəri］
+    mnemonic: adj.【milit 兵，军人 → 军事，-ary 形容词后缀，…的】
+    meaning: 军事的，军用的，军队的
     children:
       - name: militarily
       - name: militarism
+        phonetic: ［'militərizəm］
+        mnemonic: n.【见上，-ism 主义】
+        meaning: 军国主义
       - name: militarist
+        phonetic: ［'militərist］
+        mnemonic: n.【见上，-ist 表示人】
+        meaning: 军国主义者，军事家
         children:
           - name: militaristic
+            phonetic: ［ˌmilitə'ristik］
+            mnemonic: adj.【见上，-istic=-ic …的】
+            meaning: 军国主义的
       - name: militarize
+        phonetic: ［'militəraiz］
+        mnemonic: v.【见上，-ize 使…化】
+        meaning: 使军事化，使军国主义化
         children:
           - name: militarization
           - name: demilitarize
+            phonetic: ［ˌdi:'militəraiz］
+            mnemonic: v.【de-取消，非，见上】
+            meaning: 使非军事化
             children:
               - name: demilitarization
       - name: antimilitarism
+        phonetic: ［ˌænti'militərizəm］
+        mnemonic: n.【anti-反对，militarism 军国主义】
+        meaning: 反军国主义
       - name: paramilitary
   - name: militant
+    phonetic: ［'militənt］
+    mnemonic: adj.【milit 兵 → 军事，战斗，-ant …的】
+    meaning: 战斗（性）的，好战的，交战中的
     children:
       - name: militantly
       - name: militancy
+        phonetic: ［'militənsi］
+        mnemonic: n.【见上，-ancy 名词后缀，表性质、状态】
+        meaning: 战斗性，好战，交战状态
   - name: militia
+    phonetic: ［mi'liʃə］
+    mnemonic: n.【milit 兵，-ia 表示集合名词】
+    meaning: 民兵组织，民兵（总称）
     children:
       - name: militiaman

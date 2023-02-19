@@ -4,11 +4,25 @@ tags:
   - SOW
 children:
   - name: solo
+    phonetic: ［'səuləu］
+    mnemonic: n.【sol 单独，-o 名词后缀，表音乐术语】
+    meaning: 独唱；独奏（曲）
     children:
       - name: soloist
+        phonetic: ［'səuləuist］
+        mnemonic: n.【见上，-ist 者】
+        meaning: 独唱者；独奏者
   - name: sole
+    phonetic: ［səul］
+    meaning: adj. 单独的，唯一的
     children:
       - name: solely
   - name: desolate
+    phonetic: ［'desəleit］
+    mnemonic: v.；［'desəlit］adj.【de-表加强意义，sol 单独，孤寂，-ate 动词、形容词后缀；原义为：“to leave alone，to make lonely，hence to depopulate，to forsake”.】
+    meaning: 使孤寂；使荒凉，使荒芜，使无人烟；荒凉的
     children:
       - name: desolation
+        phonetic: ［ˌdesə'leiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 孤寂；荒凉，渺无人烟

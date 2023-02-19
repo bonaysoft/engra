@@ -23,14 +23,38 @@ children:
     children:
       - name: ambler
       - name: preamble
+        phonetic: ［pri:'æmbl］
+        mnemonic: n.【pre-前，ambl←ambul 行走；“走在前面” → 】
+        meaning: 序言，前言，前文，绪论
         children:
           - name: preambulate
+            phonetic: ［pri:'æmbjuleit］
+            mnemonic: v.【见上，-ate 动词后缀】
+            meaning: 作序言
       - name: ambulant
+        phonetic: ［'æmbjulənt］
+        mnemonic: adj.【ambul 走，-ant 形容词后缀】
+        meaning: 走动的，流动的
       - name: ambulance
+        phonetic: ［'æmbjuləns］
+        mnemonic: n.【ambul 走，-ance 名词后缀；跟随军队在野外“到处行走流动”的医院 → 】
+        meaning: 野战医院，流动医院，救护车
       - name: ambulate
+        phonetic: ［'æmbjuleit］
+        mnemonic: v.【ambul 走，-ate 动词后缀】
+        meaning: 行走，移动
         children:
           - name: ambulation
+            phonetic: ［ˌæmbju'leiʃən］
+            mnemonic: n.【ambul 走，-ation 名词后缀】
+            meaning: 巡行，周游
           - name: ambulatory
           - name: circumambulate
+            phonetic: ［ˌsə:kəm'æmbjuleit］
+            mnemonic: v.【circum-周围，ambul 行走， -ate 动词后缀】
+            meaning: 绕…而行，环行
             children:
               - name: circumambulation
+                phonetic: ［ˌsə:kəm'æmbju'leiʃən］
+                mnemonic: n.【见上，-ation 名词后缀】
+                meaning: 绕行

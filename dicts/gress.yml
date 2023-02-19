@@ -4,8 +4,14 @@ tags:
   - SOW
 children:
   - name: progress
+    phonetic: ［prə'ɡres］
+    mnemonic: v.；［'prəuɡres］n.【pro-向前，gress 行走】
+    meaning: 前进，进步
     children:
       - name: progressive
+        phonetic: ［prəu'ɡresiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 前进的，进步的
         children:
           - name: progressively
           - name: progressiveness
@@ -13,13 +19,28 @@ children:
       - name: progression
       - name: progressism
       - name: progressist
+        phonetic: ［prəu'ɡresist］
+        mnemonic: n.【见上，-ist 表示人】
+        meaning: 进步分子
   - name: congress
+    phonetic: ［'kɔŋɡres］
+    mnemonic: n.【con-共同，一起，gress 走，来到；“大家走到一起来” → 共聚一堂 → 开会 → 会议】
+    meaning: （代表）大会，国会，议会
     children:
       - name: congressman
+        phonetic: ［'kɔŋɡresmən］
+        mnemonic: n.【见上】
+        meaning: 国会议员
       - name: congresswoman
       - name: congressperson
       - name: congressional
+        phonetic: ［kəŋ'ɡreʃənəl］
+        mnemonic: adj.【见上】
+        meaning: （代表）大会的，国会的，议会的
   - name: regress
+    phonetic: ［'ri:ɡres］
+    mnemonic: n.【re-回，向后，gress 行】
+    meaning: 退回，返回，退后，退步
     children:
       - name: regression
       - name: regressive

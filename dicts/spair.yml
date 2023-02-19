@@ -1,5 +1,11 @@
 name: spair
 children:
   - name: despair
+    phonetic: ［di'spɛə］
+    mnemonic: v.【de-否定，失去，无，spair←sper 希望】
+    meaning: 绝望，失望；失去信心
     children:
       - name: despairing
+        phonetic: ［di'spɛəriŋ］
+        mnemonic: adj.【见上】
+        meaning: 绝望的

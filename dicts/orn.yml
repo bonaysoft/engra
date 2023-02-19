@@ -4,19 +4,40 @@ tags:
   - SOW
 children:
   - name: ornament
+    phonetic: ［'ɔ:nəmənt］
+    mnemonic: n.【orn 装饰，-a-，-ment 名词后缀，表示物】
+    meaning: 装饰物，装饰品
     children:
       - name: ornamental
+        phonetic: ［ˌɔ:nə'mentl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 装饰的，作装饰用的；装饰品
         children:
           - name: ornamentalist
+            phonetic: ［ˌɔ:nə'mentəlist］
+            mnemonic: n.【见上，-ist 表示人】
+            meaning: 装饰家
       - name: ornamented
   - name: ornate
+    phonetic: ［ɔ:'neit］
+    mnemonic: adj.【orn 装饰，-ate 形容词后缀，…的】
+    meaning: 装饰华丽的，过分装饰的
     children:
       - name: ornately
       - name: inornate
+        phonetic: ［inɔ'neit］
+        mnemonic: adj.【in-不，orn 装饰，-ate …的】
+        meaning: 不加修饰的，朴素的
   - name: adorn
+    phonetic: ［ə'dɔ:n］
+    mnemonic: v.【ad-加强意义，orn 装饰】
+    meaning: 装饰，打扮，使生色
     children:
       - name: adorning
       - name: adornment
+        phonetic: ［ə'dɔ:nmənt］
+        mnemonic: n.【见上，-ment名词后缀】
+        meaning: 装饰；装饰品
       - name: unadorned
         children:
           - name: unadornment

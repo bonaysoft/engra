@@ -4,21 +4,63 @@ tags:
   - SOW
 children:
   - name: gynecology
+    phonetic: ［ˌɡaini'kɔləʤi］
+    mnemonic: n.【gyneco 妇女，-logy …学】
+    meaning: 妇科学，妇科
     children:
       - name: gynecologist
+        phonetic: ［ˌɡaini'kɔləʤist］
+        mnemonic: n.【见上，-ist 人】
+        meaning: 妇科医生
   - name: gynecoid
+    phonetic: ［'ɡainikɔid］
+    mnemonic: adj.【gynec 妇女，-oid 如…的】
+    meaning: 如妇女的，有女性特征的
   - name: gynecian
+    phonetic: ［ʤi'ni:ʃiən］
+    mnemonic: adj.【gynec 妇女，-ian …的】
+    meaning: 妇女的，妇人的
   - name: androgyny
+    phonetic: ［æn'drɔʤini］
+    mnemonic: n.【andro 男，gyn 女，-y 名词后缀】
+    meaning: 具有男女两性，半男半女
   - name: philogyny
+    phonetic: ［fi'lɔʤəni］
+    mnemonic: n.【philo 爱，gyn 妇女，-y 名词后缀】
+    meaning: 对女人的爱好
     children:
       - name: philogynist
+        phonetic: ［fi'lɔʤənist］
+        mnemonic: n.【见上，-ist 者】
+        meaning: 喜爱妇女的人
   - name: misogyny
+    phonetic: ［mi'sɔʤəni］
+    mnemonic: n.【miso 厌恶，gyn 女，-y 名词后缀】
+    meaning: 厌恶女人，厌女症
     children:
       - name: misogynic
+        phonetic: ［misə'ʤinik］
+        mnemonic: adj.【见上，-ic …的】
+        meaning: 厌恶女人的
       - name: misogynist
+        phonetic: ［mi'sɔʤinist］
+        mnemonic: n.【见上，-ist 者】
+        meaning: 厌恶女人者
   - name: monogyny
+    phonetic: ［mə'nɔʤini］
+    mnemonic: n.【mono-单一，一个，gyn 妇女 → 妻，-y 名词后缀】
+    meaning: 一妻制
     children:
       - name: monogynous
+        phonetic: ［mɔ'nɔʤinəs］
+        mnemonic: adj.【见上，-ous …的】
+        meaning: 一妻制的
   - name: polygyny
+    phonetic: ［pə'liʤini］
+    mnemonic: n.【poly-多，gyn 妇女 → 妻，-y 名词后缀】
+    meaning: 多妻，一夫多妻制
     children:
       - name: polygynous
+        phonetic: ［pɔ'liʤənəs］
+        mnemonic: adj.【见上，-ous …的】
+        meaning: 一夫多妻的

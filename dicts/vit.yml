@@ -4,18 +4,33 @@ tags:
   - SOW
 children:
   - name: vital
+    phonetic: ［'vaitəl］
+    mnemonic: adj.【vit 生命，-al …的】
+    meaning: 生命的，有生命的；充满活力的；致命的，生命攸关的
     children:
       - name: vitally
         children:
           - name: vitality
+            phonetic: ［vai'tæləti］
+            mnemonic: n.【见上，-ity 名词后缀，表示情况、性质】
+            meaning: 生命力，生气；活力
           - name: vitalism
       - name: vitalize
+        phonetic: ［'vaitəlaiz］
+        mnemonic: v.【见上，-ize 动词后缀，使…】
+        meaning: 给予…生命力；使有生气
         children:
           - name: vitalization
           - name: revitalize
+            phonetic: ［ri:'vaitəlaiz］
+            mnemonic: v.【re-再，见上】
+            meaning: 使再生，使新生，使恢复元气
             children:
               - name: revitalization
           - name: devitalize
+            phonetic: ［di:'vaitəlaiz］
+            mnemonic: v.【de-除去，取消，去掉，见上】
+            meaning: 使失去生命（力），使伤元气
             children:
               - name: devitalization
   - name: vitamin
@@ -23,6 +38,15 @@ children:
       - name: vitamine
         children:
           - name: vitaminology
+            phonetic: ［ˌvitəmin'ɔləʤi］
+            mnemonic: n.【见上，-logy …学】
+            meaning: 维生素学
       - name: multivitamin
       - name: avitaminosis
+        phonetic: ［eiˌvaitəmi'nəusis］
+        mnemonic: n.【a-无 vitamin 维生素，-osis 表示疾病名称】
+        meaning: 维生素缺乏症
       - name: devitaminize
+        phonetic: ［di:'vitəminaiz］
+        mnemonic: v.【de-除去，去掉，vitamin 维生素，-ize 动词后缀】
+        meaning: 使（食物）失去维生素

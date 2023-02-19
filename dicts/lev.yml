@@ -4,8 +4,14 @@ tags:
   - SOW
 children:
   - name: lever
+    phonetic: ［'li:və，'levə］
+    mnemonic: n.【lev 举，-er 表示物；“能举起重物之杆” → 】
+    meaning: 杠杆
     children:
       - name: leverage
+        phonetic: ［'li:vəriʤ］
+        mnemonic: n.【见上，lever 杠杆，-age 表示抽象名词】
+        meaning: 杠杆作用
         children:
           - name: leveraging
           - name: leveraged
@@ -13,15 +19,36 @@ children:
     children:
       - name: levying
   - name: alleviate
+    phonetic: ［ə'li:vieit］
+    mnemonic: v.【al-加强意义，lev 举，-i-，-ate 动词后缀；“把压在上面的东西举起” → 使减轻 → 】
+    meaning: 减轻（痛苦等），缓和
     children:
       - name: alleviation
+        phonetic: ［əli:vi'eiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 减轻，缓和
       - name: alleviatory
+        phonetic: ［ə'li:vieitəri］
+        mnemonic: adj.【见上，-ory …的】
+        meaning: 减轻痛苦的，起缓和作用的
   - name: elevate
+    phonetic: ［'eliveit］
+    mnemonic: v.【e-出，lev 举，-ate 动词后缀；“举出” → 举起】
+    meaning: 抬起，举起，使升高
     children:
       - name: elevator
+        phonetic: ［'eliveitə］
+        mnemonic: n.【见上，-or 表示人或物】
+        meaning: 升降机，电梯，起卸机，举起者，起重工人
       - name: elevated
       - name: elevation
+        phonetic: ［ˌeli'veiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 提升，提高，高度
       - name: elevatory
+        phonetic: ［'eliveitəri］
+        mnemonic: adj.【见上，-ory 形容词后缀，…的】
+        meaning: 举起的，高举的
   - name: relevant
     children:
       - name: relevantly

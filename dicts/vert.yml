@@ -4,25 +4,49 @@ tags:
   - SOW
 children:
   - name: advertise
+    phonetic: ［'ædvətaiz］
+    mnemonic: v.【ad-表示 to 向，vert 转，-ise 动词后缀，使…；“使（人的注意力）转向…” → 使人注意到… → 引起人注意 → 】
+    meaning: 登广告，为…做广告，大肆宣扬
     children:
       - name: advertiser
       - name: advertising
       - name: advertised
       - name: advertisement
+        phonetic: ［əd'və:tismənt］
+        mnemonic: n.【见上，-ment 名词后缀，表示行为、行为的结果】
+        meaning: 广告，登广告
   - name: avert
+    phonetic: ［ə'və:t］
+    mnemonic: v.【a-= away，vert = turn；“to turn away”，“转移” → 移开 → 】
+    meaning: 避开（灾难等），避免（危险等），转移（目光、思想等）
     children:
       - name: averted
   - name: divert
+    phonetic: ［dai'və:t］
+    mnemonic: v.【di-= dis-分开，离，vert 转；“由学习或工作中转移开” → 】
+    meaning: 娱乐，使消遣；【转离 → 】转向，使转移
     children:
       - name: diverting
       - name: diverted
       - name: diversion
+        phonetic: ［dai'və:ʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 娱乐，消遣；转向，转移
       - name: diversionary
   - name: subvert
+    phonetic: ［səb'və:t］
+    mnemonic: v.【sub-下，由下，vert 转，翻转；“由下翻转” → 】
+    meaning: 推翻，颠覆
     children:
       - name: subverted
       - name: subversion
+        phonetic: ［səb'və:ʃən］
+        mnemonic: n.【见上，vert → vers，-ion 名词后缀】
+        meaning: 推翻，颠覆
       - name: subversive
+        phonetic: ［səb'və:siv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 颠覆性的
         children:
           - name: subversively
   - name: revert
@@ -32,11 +56,17 @@ children:
       - name: revertible
       - name: revertant
   - name: invert
+    phonetic: ［in'və:t］
+    mnemonic: v.【in-内，vert 转；“内转” → 翻转 → 】
+    meaning: 倒转，使倒转，使反向，倒置，转换
     children:
       - name: inverter
       - name: inverted
       - name: inverting
   - name: convert
+    phonetic: ［kən'və:t］
+    mnemonic: v.【con-加强意义，vert 转 → 转变】
+    meaning: 变换，转变
     children:
       - name: converter
       - name: converted
@@ -46,8 +76,14 @@ children:
         children:
           - name: convertibility
       - name: conversion
+        phonetic: ［kən'və:ʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 变换，转化
       - name: reconvert
   - name: vertigo
+    phonetic: ［'və:tiɡəu］
+    mnemonic: n.【vert 转 → 旋转，-igo 名词后缀，表示疾病；头“旋转” → 】
+    meaning: 头晕，晕眩，晕头转向
     children:
       - name: vertiginous
   - name: vertebra

@@ -1,14 +1,23 @@
 name: orig
 children:
   - name: origin
+    phonetic: ［'ɔriʤin］
+    mnemonic: n.【ori 升起 → 发生，发起 → 起源】
+    meaning: 原始，起源，由来，出身
     children:
       - name: original
+        phonetic: ［ə'riʤənəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 起源的，原始的，最初的
         children:
           - name: originally
           - name: originality
           - name: originalism
           - name: unoriginal
       - name: originate
+        phonetic: ［ə'riʤəneit］
+        mnemonic: v.【见上，-ate 动词后缀】
+        meaning: 发起，发生，起源
         children:
           - name: originator
           - name: originating

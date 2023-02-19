@@ -1,12 +1,19 @@
 name: ego
-meaning: 我
+phonetic: ［'eɡəu］
+meaning: n. 自我，自己
 tags:
   - SOW
 children:
   - name: ego
     children:
       - name: egoism
+        phonetic: ［'eɡəuizəm］
+        mnemonic: n.【ego 自我，-ism 主义】
+        meaning: 自我主义，利己主义
       - name: egoist
+        phonetic: ［'eɡəuist］
+        mnemonic: n.【ego 自我，-ist 者】
+        meaning: 自我主义者，利己主义者
         children:
           - name: egoistic
       - name: superego

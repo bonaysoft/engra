@@ -4,17 +4,32 @@ tags:
   - SOW
 children:
   - name: sequence
+    phonetic: ［'si:kwəns］
+    mnemonic: n.【sequ 跟，随，随其后→接着，相连接，-ence 名词后缀】
+    meaning: 继续，连续，一连串
     children:
       - name: sequencer
       - name: sequencing
       - name: sequent
+        phonetic: ［'si:kwənt］
+        mnemonic: adj.【见上，-ent …的】
+        meaning: 连续的，相继的
         children:
           - name: sequential
+            phonetic: ［si'kwenʃəl］
+            mnemonic: adj.【见上，-ial …的】
+            meaning: 连续的，相继的
             children:
               - name: sequentially
   - name: consequence
+    phonetic: ［'kɔnsikwəns］
+    mnemonic: n.【con-= together，sequ 跟随，随后，-ence 名词后缀，表示事物；“随后发生的事”→】
+    meaning: 后果，结果
     children:
       - name: consequent
+        phonetic: ［'kɔnsikwənt］
+        mnemonic: adj.【见上，-ent …的；“随后发生的”】
+        meaning: 随之发生的，必然的
         children:
           - name: consequently
           - name: consequential

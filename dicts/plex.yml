@@ -4,15 +4,30 @@ tags:
   - SOW
 children:
   - name: duplex
+    phonetic: ［'dju:pleks］
+    mnemonic: adj.【du 二，plex 重】
+    meaning: 二重的；二倍的；双的
     children:
       - name: duplexer
   - name: complex
+    phonetic: ［'kɔmpleks］
+    mnemonic: adj.【com-共同，plex 重叠，重复 → 多重，复杂】
+    meaning: 复杂的，综合的
     children:
       - name: complexly
       - name: complexity
+        phonetic: ［kəm'pleksiti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 复杂（性）
       - name: complexion
   - name: perplex
+    phonetic: ［pə'pleks］
+    mnemonic: v.【per-完全，plex 重叠，重复 → 多重，复杂】
+    meaning: 使复杂化，使纠缠不清；困惑
     children:
       - name: perplexing
       - name: perplexed
       - name: perplexity
+        phonetic: ［pə'pleksiti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 纠缠；困惑；窘困

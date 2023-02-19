@@ -4,13 +4,28 @@ tags:
   - SOW
 children:
   - name: vacate
+    phonetic: ［və'keit，'veikeit］
+    mnemonic: v.【vac 空，-ate 动词后缀，使…】
+    meaning: 使空出，腾出，搬出
     children:
       - name: vacation
+        phonetic: ［və'keiʃən］
+        mnemonic: n.【vac 空，-ation 名词后缀，表示情况、状态；“空闲的状态” → 无课业，无工作 → 】
+        meaning: 休假，假期
         children:
           - name: vacationer
           - name: vacationist
+            phonetic: ［və'keiʃənist］
+            mnemonic: n.【见上，-ist 表示人】
+            meaning: 休假者，度假者
           - name: vac
   - name: vacant
+    phonetic: ［'veikənt］
+    mnemonic: adj.【vac 空，-ant …的】
+    meaning: 空的，空白的，未被占用的
     children:
       - name: vacantly
       - name: vacancy
+        phonetic: ［'veikənsi］
+        mnemonic: n.【vac 空，-ancy 表示情况、状态】
+        meaning: 空，空白，空处；空虚

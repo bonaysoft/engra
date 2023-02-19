@@ -1,19 +1,36 @@
 name: via
-meaning: way路
+phonetic: ［'vaiə］
+mnemonic: prep.【via 道路 → 经过…道路，by the way of → 】
+meaning: 取道，经由
 tags:
   - SOW
 children:
   - name: via
     children:
       - name: viatic
+        phonetic: ［vai'ætik］
+        mnemonic: adj.【via 道路，-tic 形容词后缀，…的】
+        meaning: 道路的，旅行的
       - name: viameter
+        phonetic: ［vai'æmətə］
+        mnemonic: n.【via 道路 → 路程，meter 测量仪，计，仪表】
+        meaning: 路程计，车程表
       - name: viaduct
+        phonetic: ［'vaiədʌkt］
+        mnemonic: n.【via 道路，duct 引导；“把路引导过去” → 使路跨越过去 → 】
+        meaning: 高架桥，跨线桥，旱桥，栈桥
   - name: trivia
     children:
       - name: trivial
+        phonetic: ［'triviəl］
+        mnemonic: adj.【tri-三，vi 路，-al …的；“三岔路口上的” → 随处都可见到的 → 极普通的 → 】
+        meaning: 平凡的，平常的，不重要的，轻微的，琐细的
         children:
           - name: trivially
       - name: triviality
+        phonetic: ［ˌtrivi'æliti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 琐事，琐碎，平凡
       - name: trivialize
         children:
           - name: trivialization

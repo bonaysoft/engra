@@ -4,8 +4,14 @@ tags:
   - SOW
 children:
   - name: orient
+    phonetic: ［'ɔ:riənt］
+    mnemonic: n./adj.【ori 升起；原义为“太阳升起的地方” → 】
+    meaning: 东方，东方的
     children:
       - name: oriental
+        phonetic: ［ˌɔ:ri'entl］
+        mnemonic: adj.【见上，orient 东方，-al …的】
+        meaning: 东方的
         children:
           - name: orientalist
           - name: orientalism
@@ -15,17 +21,35 @@ children:
         children:
           - name: orienteering
       - name: orientate
+        phonetic: ［'ɔ:rienteit］
+        mnemonic: v.【orient 东方，-ate 动词后缀，做…事】
+        meaning: 指向东方，定方位，指示方向
         children:
           - name: orientation
+            phonetic: ［ˌɔ:rien'teiʃən］
+            mnemonic: n.【见上，-ion 名词后缀，表示行为】
+            meaning: 向东，定向，定位，指示方向
       - name: reorient
         children:
           - name: reorientate
           - name: reorientation
+            phonetic: ［'ri:ˌɔrien'teiʃən］
+            mnemonic: n.【re-再，orientation 定方向】
+            meaning: 再定方向，重定方向
       - name: disorient
+        phonetic: ［dis'ɔ:rient］
+        mnemonic: v.【dis-离开，orient 东方 → 方向】
+        meaning: 使迷失方向（或方位）
         children:
           - name: disoriented
           - name: disorienting
           - name: disorientate
+            phonetic: ［dis'ɔ:rienteit］
+            mnemonic: v.【见上，-ate 动词后缀】
+            meaning: 不辨方向，迷向
             children:
               - name: disorientated
               - name: disorientation
+                phonetic: ［disˌɔ:rien'teiʃən］
+                mnemonic: n.【见上，-ion 名词后缀】
+                meaning: 不辨方向

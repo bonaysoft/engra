@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: nation
+    phonetic: ［'neiʃən］
+    mnemonic: n.【nat 生，-ion 名词后缀；生，诞生，生长 → 血统的联系，种族 → 】
+    meaning: 民族；国家
     children:
       - name: national
         children:
@@ -36,17 +39,32 @@ children:
               - name: transnationally
               - name: transnationalism
   - name: native
+    phonetic: ［'neitiv］
+    mnemonic: adj./n.【nat 出生，-ive 名词兼形容词后缀】
+    meaning: 天生的；土生的；出生地的；出生的；本地人；土人
     children:
       - name: natively
       - name: nativist
       - name: nativism
       - name: nativity
+        phonetic: ［nə'tivəti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 出生，诞生
   - name: nature
+    phonetic: ［'neitʃə］
+    mnemonic: n.【nat 生，-ure 名词后缀；“天生” → 天然 → 自然】
+    meaning: 天然，自然；天性，本性
     children:
       - name: natural
+        phonetic: ［'nætʃərəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 天然的，自然的，生来的；自然界的
         children:
           - name: naturally
           - name: unnatural
+            phonetic: ［ˌʌn'nætʃərəl］
+            mnemonic: adj.【un-不，见上】
+            meaning: 不自然的
             children:
               - name: unnaturally
           - name: naturalness

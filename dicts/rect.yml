@@ -6,18 +6,39 @@ children:
   - name: direct
     children:
       - name: directly
+        phonetic: ［di'rektli］
+        mnemonic: adv.【见上，-ly 副词后缀，…地】
+        meaning: 直接地
       - name: directness
       - name: indirect
+        phonetic: ［ˌindi'rekt］
+        mnemonic: adj.【in-不，非，direct 直接的；“非直接的”】
+        meaning: 间接的，迂回的
         children:
           - name: indirectly
+            phonetic: ［ˌindi'rektli］
+            mnemonic: adv.【见上，-ly…地】
+            meaning: 间接地
           - name: indirection
+            phonetic: ［ˌindi'rekʃən］
+            mnemonic: n.【见上，-ion 名词后缀】
+            meaning: 间接，迂回，兜圈子
       - name: directive
+        phonetic: ［di'rektiv］
+        mnemonic: n./adj.【见上，-ive 名词后缀，表示物】
+        meaning: 指令，指示，命令；【-ive …的】命令的，指导的
       - name: directory
         children:
           - name: directorial
       - name: director
+        phonetic: ［ di'rektə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 指导者，处长，局长，主任，指挥，导演
         children:
           - name: directress
+            phonetic: ［di'rektris］
+            mnemonic: n.【见上，-ress 表示女性】
+            meaning: 女指导者，女指挥，女导演
           - name: directorship
           - name: directorate
       - name: directing
@@ -25,11 +46,20 @@ children:
         children:
           - name: undirected
       - name: direction
+        phonetic: ［ di'rekʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 指示，指引，说明，指导；【指引的方位→】方向，方位
         children:
           - name: directional
+            phonetic: ［ di'rekʃənəl］
+            mnemonic: adj.【见上，-al…的】
+            meaning: 方向的，定向的
             children:
               - name: directionality
               - name: unidirectional
+                phonetic: ［ˌju:nidi'rekʃənəl］
+                mnemonic: adj.【uni 单一，direction 方向， -al …的】
+                meaning: 单向性的
               - name: bidirectional
               - name: multidirectional
               - name: omnidirectional
@@ -42,34 +72,76 @@ children:
         children:
           - name: redirection
   - name: correct
+    phonetic: ［kə'rekt］
+    mnemonic: v./adj.【cor-表示加强意义，rect正，直】
+    meaning: 改正，纠正；正确的
     children:
       - name: correctly
       - name: correctness
       - name: incorrect
+        phonetic: ［ˌinkə'rekt］
+        mnemonic: adj.【in-不，correct正确的】
+        meaning: 不正确的
         children:
           - name: incorrectly
           - name: incorrectness
       - name: corrector
+        phonetic: ［kə'rektə］
+        mnemonic: n.【见上，-or者】
+        meaning: 改正者，矫正者，校正者
       - name: correcting
       - name: corrected
         children:
           - name: uncorrected
       - name: correction
+        phonetic: ［kə'rekʃən］
+        mnemonic: n.【见上，-ion名词后缀，表示行为、行为的结果】
+        meaning: 改正，纠正，矫正，校正
         children:
           - name: correctional
       - name: corrective
+        phonetic: ［kə'rektiv］
+        mnemonic: adj.【见上，-ive…的】
+        meaning: 改正的，纠正的，矫正的
       - name: correctable
       - name: correctitude
+        phonetic: ［kə'rektitju:d］
+        mnemonic: n.【见上，-itude名词后缀，表示情况、状态】
+        meaning: （行为的）端正
   - name: rectify
+    phonetic: ［'rektifai］
+    mnemonic: v.【rect正，直，-i-，-fy使…；“使正”→】
+    meaning: 纠正，整顿
     children:
       - name: rectifier
+        phonetic: ［'rektifaiə］
+        mnemonic: n.【见上，-fier使成…者】
+        meaning: 纠正者，整顿者，矫正器
       - name: rectification
+        phonetic: ［ˌrektifi'keiʃən］
+        mnemonic: n.【见上，-fication名词后缀，表示行为】
+        meaning: 纠正，整顿
   - name: erect
+    phonetic: ［ i'rekt］
+    mnemonic: adj./v.【e-出→向上，rect 直】
+    meaning: 直立的，垂直的；使竖直，使竖立
     children:
       - name: erector
+        phonetic: ［ i'rektə］
+        mnemonic: n.【见上，-or 者】
+        meaning: 树立者，建立者
       - name: erection
+        phonetic: ［ i'rekʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 直立，竖直
       - name: erective
+        phonetic: ［ i'rektiv］
+        mnemonic: adj.【见上，-ive …】
+        meaning: 直立的，竖起的
       - name: erectile
+        phonetic: ［ i'rektail］
+        mnemonic: adj.【见上，-ile 可…的】
+        meaning: 可竖直的
   - name: resurrect
     children:
       - name: resurrection

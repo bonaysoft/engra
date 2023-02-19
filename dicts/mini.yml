@@ -4,31 +4,61 @@ tags:
   - SOW
 children:
   - name: minute
+    phonetic: ［mai'nju:t］
+    mnemonic: adj.【min 小，-ute …性质的】
+    meaning: 微小的，细微的
     children:
       - name: minutely
       - name: minuteman
       - name: arcminute
   - name: minor
+    phonetic: ［'mainə］
+    mnemonic: adj./n.【直接来自拉丁语 minor，意为 smaller或 less】
+    meaning: 较小的，较少的，较年幼的，未成年人
     children:
       - name: minority
+        phonetic: ［mai'nɔrəti］
+        mnemonic: n.【见上，-ity 名词后缀，表情况、性质】
+        meaning: 少数，未成年
   - name: minister
+    phonetic: ［'ministə］
+    mnemonic: n.【mini 小，-ster 名词后缀，表示人；“小人” → 仆人 → 臣仆，古时大臣对君王自称为“小人”，仆人 → 君王或元首的仆人，转为现今的部长】
+    meaning: 大臣，部长
     children:
       - name: ministerial
       - name: ministry
+        phonetic: ［'ministri］
+        mnemonic: n.【见上，minist（e）r + -y名词后缀】
+        meaning: 部，内阁
       - name: ministration
   - name: administer
+    phonetic: ［əd'ministə］
+    mnemonic: v.【ad-表示to，“执行大臣或部长的任务” → 】
+    meaning: 管理，治理，执行，施政
     children:
       - name: administering
       - name: administered
       - name: administrate
         children:
           - name: administrator
+            phonetic: ［əd'ministreitə］
+            mnemonic: n.【见上，-ator 表示人】
+            meaning: 行政官员，管理人
           - name: administration
+            phonetic: ［ədˌmini'streiʃən］
+            mnemonic: n.【见上，-ation 名词后缀，表示行为或由行为而产生的事物】
+            meaning: 管理，行政，行政当局，行政机关
           - name: admin
           - name: administrative
+            phonetic: ［əd'ministrətiv］
+            mnemonic: adj.【见上，-ative …的】
+            meaning: 行政的，管理的
             children:
               - name: administratively
   - name: miniature
+    phonetic: ［'miniətʃə］
+    mnemonic: n./adj.【mini 小，-ature 名词后缀，表示物】
+    meaning: 小型物，雏型，缩样；【转为形容词】小型的
     children:
       - name: miniaturize
         children:
@@ -43,12 +73,18 @@ children:
           - name: minidisc
           - name: miniseries
   - name: diminish
+    phonetic: ［di'miniʃ］
+    mnemonic: v.【di-（=dis-）加强意义，min 小，-ish 动词后缀，使…】
+    meaning: 使缩小，缩减，减少，减小
     children:
       - name: diminishing
       - name: diminished
         children:
           - name: undiminished
       - name: diminishable
+        phonetic: ［di'miniʃəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可缩小的，可缩减的
       - name: diminishment
       - name: diminution
       - name: diminutive

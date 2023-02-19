@@ -4,24 +4,45 @@ tags:
   - SOW
 children:
   - name: vary
+    phonetic: ［'vɛəri］
+    mnemonic: v.【vari 变化，i → y】
+    meaning: 改变，变化，变更
     children:
       - name: varying
         children:
           - name: unvarying
       - name: varied
+        phonetic: ［'vɛərid］
+        mnemonic: adj.【-ed …的】
+        meaning: 多变化的，各种各样的，不同的
         children:
           - name: unvaried
+            phonetic: ［ʌn'vɛərid］
+            mnemonic: adj.【un-不，见上】
+            meaning: 不变的，经常的，一贯的
   - name: various
+    phonetic: ［'vɛəriəs］
+    mnemonic: adj.【vari 变化 → 多样，-ous …的】
+    meaning: 各种各样的，不同的
     children:
       - name: variously
   - name: variety
+    phonetic: ［və'raiəti］
+    mnemonic: n.【vari 变化，-ety 名词后缀，表示情况、性质】
+    meaning: 变化，多样化，种种
     children:
       - name: varietal
   - name: variable
+    phonetic: ［'vɛəriəbl］
+    mnemonic: adj.【vari 变化，-able 可…的，易…的】
+    meaning: 可变的，反复不定的
     children:
       - name: variably
         children:
           - name: variability
       - name: invariable
+        phonetic: ［in'vɛəriəbl］
+        mnemonic: adj.【in-不，见上】
+        meaning: 不变的，恒定的
         children:
           - name: invariably

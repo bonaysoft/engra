@@ -4,21 +4,42 @@ tags:
   - SOW
 children:
   - name: clarity
+    phonetic: ［'klæriti］
+    mnemonic: n.【clar=clear 清澈，明白，-ity 名词后缀】
+    meaning: 清澈，透明
     children:
       - name: clarify
+        phonetic: ［'klærifai］
+        mnemonic: v.【clar=clear 清楚，明白，-i-，-fy 动词后缀，使…；“使明白” → 】
+        meaning: 讲清楚，阐明，澄清
         children:
           - name: clarifier
           - name: clarifying
           - name: clarified
           - name: clarification
+            phonetic: ［ˌklærifi'keiʃən］
+            mnemonic: n.【-fication 名词后缀】
+            meaning: 阐明，澄清
   - name: declare
+    phonetic: ［di'klɛə］
+    mnemonic: v.【de- 加强意义， clar=clear 清楚，明白；“to make clear”，“使明白” → 】
+    meaning: 表明，声明，宣告，宣布
     children:
       - name: declarer
+        phonetic: ［di'klɛərə］
+        mnemonic: n.【见上，-er 者】
+        meaning: 宣告者，声明者
       - name: declared
         children:
           - name: undeclared
       - name: declaration
+        phonetic: ［ˌdeklə'reiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 声明，宣言，宣布
       - name: declarative
+        phonetic: ［di'klærətiv］
+        mnemonic: adj.【见上，-ative 形容词后缀，…的】
+        meaning: 宣言的，公告的，说明的
       - name: declaratory
   - name: clarinet
     children:

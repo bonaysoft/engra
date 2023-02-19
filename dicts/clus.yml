@@ -1,6 +1,9 @@
 name: clus
 children:
   - name: exclusive
+    phonetic: ［ik'sklu:siv］
+    mnemonic: adj.【见上，-ive …的】
+    meaning: 排外的，排他的，除外的
     children:
       - name: exclusively
       - name: exclusivity

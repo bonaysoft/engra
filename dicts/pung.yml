@@ -1,6 +1,12 @@
 name: pung
 children:
   - name: pungent
+    phonetic: ［'pʌnʤənt］
+    mnemonic: adj.【pung = punct（g←ct）刺，-ent …的】
+    meaning: （气味等）刺鼻的，刺激性的，辣的；（语言等）尖刻的，辛辣的
     children:
       - name: pungently
       - name: pungency
+        phonetic: ［'pʌŋʤənsi］
+        mnemonic: n.【见上，-ency 名词后缀】
+        meaning: （气味等的）辛辣，刺激性；（语言等的）尖刻，辛辣

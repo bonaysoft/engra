@@ -1,6 +1,11 @@
 name: corp
 children:
   - name: corps
+    phonetic: ［kɔ:z］
+    mnemonic: n.【corp 体 → 团体】
+    meaning: 军团，军，队，团
     children:
       - name: corpsman
       - name: corpse
+        phonetic: ［kɔ:ps］
+        meaning: n.尸体，死体

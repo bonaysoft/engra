@@ -4,8 +4,20 @@ tags:
   - SOW
 children:
   - name: adhere
+    phonetic: ［əd'hiə］
+    mnemonic: v.【ad-表示at，to，her 黏】
+    meaning: 黏附，胶着；依附
     children:
       - name: adherent
+        phonetic: ［əd'hiərənt］
+        mnemonic: adj.【见上，-ent …的】
+        meaning: 黏着的；附着的
       - name: adherence
       - name: adhesive
+        phonetic: ［əd'hi:siv］
+        mnemonic: adj.【见上，-ive 有…的】
+        meaning: 有黏合性的，黏着的
       - name: adhesion
+        phonetic: ［əd'hi:ʒən］
+        mnemonic: n.【ad-表示at，to，hes 黏】
+        meaning: 黏着；黏合；附着

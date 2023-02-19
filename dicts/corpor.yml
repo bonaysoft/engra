@@ -4,19 +4,37 @@ tags:
   - SOW
 children:
   - name: corporate
+    phonetic: ［'kɔ:pərət］
+    mnemonic: adj.【corpor 体 → 团体，-ate …的】
+    meaning: 团体的，社团的
     children:
       - name: corporator
+        phonetic: ［'kɔ:pəreitə］
+        mnemonic: n.【corpor 体 → 团体，-ator 表示人】
+        meaning: 社团或公司的成员
       - name: corporative
       - name: corporation
+        phonetic: ［ˌkɔ:pə'reiʃən］
+        mnemonic: n.【corpor 体，-ation 名词后缀；由众人组成的一个“整体” → 】
+        meaning: 团体，社团，公司
       - name: corporatist
       - name: corporatism
       - name: corporatization
   - name: incorporate
+    phonetic: ［in'kɔ:pəreit］
+    mnemonic: v.【in-做，作成，corpor 体，-ate 动词后缀；“结成一体” → 】
+    meaning: 合并，结合，组成
     children:
       - name: incorporator
+        phonetic: ［in'kɔ:pəreitə］
+        mnemonic: n.【见上，-ator 人】
+        meaning: 合并者，团体成员，社团成员
       - name: incorporated
         children:
           - name: unincorporated
       - name: incorporation
+        phonetic: ［inˌkɔ:pə'reiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 合并；【结合而成的组织 → 】团体，公司，社团
         children:
           - name: reincorporation

@@ -4,9 +4,18 @@ tags:
   - SOW
 children:
   - name: theology
+    phonetic: ［θi:'ɔləʤi］
+    mnemonic: n.【theo 神，-logy …学】
+    meaning: 神学
     children:
       - name: theologian
+        phonetic: ［θiə'ləuʤiən］
+        mnemonic: n.【见上，-ian 者】
+        meaning: 神学研究者；神学家
       - name: theological
+        phonetic: ［θiə'lɔʤikəl］
+        mnemonic: adj.【见上，-logical …学的】
+        meaning: 神学（上）的
         children:
           - name: theologically
       - name: theologize

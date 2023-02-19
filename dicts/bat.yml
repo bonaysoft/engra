@@ -9,6 +9,9 @@ children:
       - name: batted
       - name: batty
   - name: battle
+    phonetic: ［bætl］
+    mnemonic: n./v.【bat 打，-le 动词后缀】
+    meaning: 战斗，斗争；【转为名词】战役，会战
     children:
       - name: battler
       - name: battling
@@ -17,22 +20,43 @@ children:
           - name: embattled
       - name: battleship
   - name: batter
+    phonetic: ［'bætə］
+    mnemonic: v.【bat 打，-er 动词后缀，表示连续动作】
+    meaning: 连打，连续猛击
     children:
       - name: batterer
       - name: battering
       - name: battered
       - name: battery
   - name: debate
+    phonetic: ［di'beit］
+    mnemonic: v.【de-加强意义，bat 打；“打击”对方 → 驳倒对方 → 】
+    meaning: 争论，辩论
     children:
       - name: debater
+        phonetic: ［di'beitə］
+        mnemonic: n.【见上，-er 表示人】
+        meaning: 争论者
       - name: debating
       - name: debatable
+        phonetic: ［di'beitəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可争论的，可争辩的
   - name: combat
+    phonetic: ［'kɔmbæt］
+    mnemonic: v.【com-表示 with，bat 打；“to fight with，to fight against” → 】
+    meaning: 战斗，格斗；竞争，反对
     children:
       - name: combatant
+        phonetic: ［'kɔmbətənt］
+        mnemonic: n./adj.【见上，-ant 表示人】
+        meaning: 战斗员；【-ant 形容词后缀，…的】战斗的
         children:
           - name: noncombatant
       - name: combative
+        phonetic: ［'kɔmbətiv］
+        mnemonic: adj.【见上，-ive 形容词后缀，…的】
+        meaning: 好斗的
         children:
           - name: combativeness
   - name: abate

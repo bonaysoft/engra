@@ -10,6 +10,9 @@ children:
             children:
               - name: inaccessibility
   - name: process
+    phonetic: ［'prəuses］
+    mnemonic: n.【pro- 向前，cess 行】
+    meaning: 过程，进程，程序
     children:
       - name: processor
         children:
@@ -17,6 +20,9 @@ children:
           - name: multiprocessor
           - name: coprocessor
       - name: procession
+        phonetic: ［prəu'seʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 行进，行进的行列，队伍
         children:
           - name: processional
       - name: processual

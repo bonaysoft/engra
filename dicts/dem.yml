@@ -13,21 +13,39 @@ children:
               - name: undemocratic
           - name: democratism
           - name: democratize
+            phonetic: ［di'mɔkrətaiz］
+            mnemonic: v.【见上，-ize …化】
+            meaning: 民主化；使民主化
             children:
               - name: democratizing
               - name: democratized
               - name: democratization
   - name: epidemic
+    phonetic: ［ˌepi'demik］
+    mnemonic: adj./n.【epi-在…之间，dem 人民，-ic …的“流行于人民之中的” → 】
+    meaning: 流行性的，传染的；流行病，时疫
     children:
       - name: epidemical
       - name: epidemiology
+        phonetic: ［'epiˌdi:mi'ɔləʤi］
+        mnemonic: n.【见上，-io-连接字母，-logy …学】
+        meaning: 流行病学
         children:
           - name: epidemiologic
             children:
               - name: epidemiological
+                phonetic: ［'epiˌdi:mi'ɔləʤikəl］
+                mnemonic: adj.【见上，-logical …学的】
+                meaning: 流行病学的
                 children:
                   - name: epidemiologically
           - name: epidemiologist
+            phonetic: ［'epiˌdi:mi'ɔləʤist］
+            mnemonic: n.【见上，-logist …学者】
+            meaning: 流行病学者
   - name: endemic
+    phonetic: ［en'demik］
+    mnemonic: adj.【en-表示in，dem 人民，-ic …的；“属于某种人的”，“属于某地人的” → 】
+    meaning: 某地人（或某种人）特有的；（疾病等）地方性的
     children:
       - name: endemism

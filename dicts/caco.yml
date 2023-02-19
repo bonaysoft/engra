@@ -3,3 +3,6 @@ children:
   - name: cacophony
     children:
       - name: cacophonous
+        phonetic: ［kə'kɔfənəs］
+        mnemonic: adj.【caco 恶，phon 音，-ous …的】
+        meaning: 音调不和谐的

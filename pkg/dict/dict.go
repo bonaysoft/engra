@@ -4,28 +4,28 @@ import (
 	"fmt"
 	"io/fs"
 	"path/filepath"
+	"strings"
 
-	"github.com/bonaysoft/engra/apis/graph/model"
 	"github.com/samber/lo"
 )
 
 type Dict struct {
-	trees []*model.Vocabulary
+	trees []*WordRoot
 }
 
 func NewDict() (*Dict, error) {
-	var trees = make([]*model.Vocabulary, 0)
+	var trees = make([]*WordRoot, 0)
 	fn := func(path string, d fs.DirEntry, err error) error {
 		if d.IsDir() {
 			return nil
 		}
 
-		tree, err2 := NewWordRoot(path)
+		tree, err2 := NewWordRoot(strings.TrimSuffix(d.Name(), ".yml"))
 		if err2 != nil {
 			return err2
 		}
 
-		trees = append(trees, tree.Vocabulary)
+		trees = append(trees, tree)
 		return nil
 	}
 
@@ -35,8 +35,8 @@ func NewDict() (*Dict, error) {
 	return &Dict{trees: trees}, nil
 }
 
-func (d *Dict) Find(word string) (*model.Vocabulary, error) {
-	v, ok := lo.Find(d.trees, func(n *model.Vocabulary) bool { return n.Exist(word) })
+func (d *Dict) Find(word string) (*WordRoot, error) {
+	v, ok := lo.Find(d.trees, func(n *WordRoot) bool { return n.Exist(word) })
 	if !ok {
 		return nil, fmt.Errorf("[%s] not found at tree", word)
 	}

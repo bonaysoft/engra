@@ -4,12 +4,27 @@ tags:
   - SOW
 children:
   - name: altitude
+    phonetic: ［'æltitju:d］
+    mnemonic: n.【alt 高，-itude 名词后缀】
+    meaning: 高，高度
     children:
       - name: altitudinal
   - name: altar
+    phonetic: ［'ɔ:ltə］
+    mnemonic: n.【alt 高，-ar 表示物；“一块高地”，“一个高台” → 】
+    meaning: 祭坛
     children:
       - name: altarpiece
   - name: exalt
+    phonetic: ［iɡ'zɔ:lt］
+    mnemonic: v.【ex-使…，alt 高】
+    meaning: 提高，举高，升高，提升
     children:
       - name: exalted
+        phonetic: ［iɡ'zɔ:ltid］
+        mnemonic: adj.【见上，-ed …的；地位“升高的”】
+        meaning: 高贵的，高尚的，崇高的
       - name: exaltation
+        phonetic: ［ˌeɡzɔ:l'teiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 升高，提高，晋升

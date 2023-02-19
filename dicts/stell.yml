@@ -4,5 +4,11 @@ tags:
   - SOW
 children:
   - name: stellar
+    phonetic: ［'stelə］
+    mnemonic: adj.【stell 星，-ar 形容词后缀，…的】
+    meaning: 星的，星球的；星形的，似星的
     children:
       - name: interstellar
+        phonetic: ［ˌintə'stelə］
+        mnemonic: adj.【inter-中间，际，stell 星，-ar …的】
+        meaning: 星际的

@@ -4,13 +4,34 @@ tags:
   - SOW
 children:
   - name: rural
+    phonetic: ［'ruərəl］
+    mnemonic: adj.【rur 乡村，农村，-al …的】
+    meaning: 农村的；田园的
     children:
       - name: rurality
+        phonetic: ［ruə'ræləti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 农村景色；田园风味
       - name: ruralist
       - name: ruralism
       - name: ruralize
+        phonetic: ［'ruərəlaiz］
+        mnemonic: v.【见上，-ize 动词后缀】
+        meaning: 使农村化；在农村居住
   - name: rustic
+    phonetic: ［'rʌstik］
+    mnemonic: adj.【rus 乡村，-tic …的】
+    meaning: 乡村的，农村的；乡村式的，庄稼人样子的
     children:
       - name: rusticity
+        phonetic: ［rʌ'stisiti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 乡村风味，乡村特点，质朴
       - name: rusticate
+        phonetic: ［'rʌstikeit］
+        mnemonic: v.【见上，-ate 动词后缀】
+        meaning: 下乡；过乡村生活
       - name: rustication
+        phonetic: ［ˌrʌsti'keiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 乡居，下乡，过乡村生活

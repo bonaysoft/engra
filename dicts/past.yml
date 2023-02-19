@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: paste
+    phonetic: ［peist］
+    mnemonic: n.【past食，吃；一种“食物”】
+    meaning: （做点心用的）加油脂的面团，面糊；糊状物；糨糊
     children:
       - name: pasta
       - name: pastry

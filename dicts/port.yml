@@ -6,21 +6,36 @@ children:
   - name: port
     children:
       - name: porter
+        phonetic: ［'pɔ:tə］
+        mnemonic: n.【port 运→搬运，-er 表示人】
+        meaning: 搬运工人
       - name: portal
       - name: portly
       - name: ported
       - name: portage
+        phonetic: ［'pɔ:tiʤ］
+        mnemonic: n.【port 运，-age 表示行为、费用】
+        meaning: 运输，搬运，运费
       - name: portion
       - name: portable
+        phonetic: ［'pɔ:təbl］
+        mnemonic: adj.【port 拿，带，-able 可…的】
+        meaning: 可携带的，手提的
         children:
           - name: portability
   - name: report
+    phonetic: ［ri'pɔ:t］
+    mnemonic: v.【re-回，port 拿，带；“把消息、情况等带回来”→】
+    meaning: 报告，汇报
     children:
       - name: report
       - name: reporter
       - name: reportorial
       - name: reportable
       - name: reportage
+        phonetic: ［ˌrepɔ:'tɑ:ʒ］
+        mnemonic: n.【见上，-age 表示行为、事物】
+        meaning: 新闻报道，报告文学
       - name: reporting
       - name: reported
         children:
@@ -29,13 +44,22 @@ children:
       - name: misreport
       - name: underreport
   - name: import
+    phonetic: ［im'pɔ:t］
+    mnemonic: v.【im-入，port 拿，运；“拿进，运入”→】
+    meaning: 输入，进口
     children:
       - name: import
       - name: importer
       - name: importing
       - name: imported
       - name: importation
+        phonetic: ［ˌimpɔ:'teiʃən］
+        mnemonic: n.【见上，-ation 名词后缀，表示行为】
+        meaning: 输入，进口
       - name: reimport
+        phonetic: ［ri:im'pɔ:t］
+        mnemonic: v.【re-再，见上】
+        meaning: 再输入，再进口
         children:
           - name: reimportation
       - name: important
@@ -46,6 +70,9 @@ children:
             children:
               - name: unimportance
   - name: export
+    phonetic: ［ik'spɔ:t］
+    mnemonic: v.；［'ekspɔ:t］n.【ex-出，port 运，拿；“运出去”→】
+    meaning: 输出，出口
     children:
       - name: export
       - name: exporter
@@ -53,20 +80,38 @@ children:
       - name: exported
       - name: exportable
       - name: exportation
+        phonetic: ［ˌekspɔ:'teiʃən］
+        mnemonic: n.【见上，-ation 名词后缀，表示行为】
+        meaning: 输出，出口
       - name: reexport
+        phonetic: ［'ri:eks'pɔt］
+        mnemonic: n.【re-再，见上】
+        meaning: 再输出，再出口
   - name: transport
+    phonetic: ［træs'pɔ:t］
+    mnemonic: v.；［'trænspɔ:t］n.【trans-转移，越过，由…到…，port 运】
+    meaning: 运送，运输
     children:
       - name: transporter
       - name: transported
       - name: transportable
       - name: transportation
+        phonetic: ［ˌtrænspɔ:'teiʃən］
+        mnemonic: n.【见上，-ation 名词后缀，表示行为】
+        meaning: 运送，运输，客运，货运
   - name: rapport
     children:
       - name: rapporteur
   - name: support
+    phonetic: ［sə'pɔ:t］
+    mnemonic: v./n.【sup- = sub-下，port 拿，持；“由下支撑”→使不倒下】
+    meaning: 支撑，支持，支援
     children:
       - name: support
       - name: supporter
+        phonetic: ［sə'pɔ:tə］
+        mnemonic: n.【见上，-er 表示人】
+        meaning: 支持者，支援者
       - name: supporting
       - name: supported
         children:
@@ -81,12 +126,21 @@ children:
           - name: insupportable
           - name: unsupportable
   - name: deport
+    phonetic: ［di'pɔ:t］
+    mnemonic: v.【de-离开，port 运，送；“送离”，“送出去” → 】
+    meaning: 驱逐出境，放逐
     children:
       - name: deportee
+        phonetic: ［di:pɔ:'ti:］
+        mnemonic: n.【见上，-ee 被…的人】
+        meaning: 被驱逐出境的人
       - name: deported
       - name: deportable
       - name: deportment
       - name: deportation
+        phonetic: ［ˌdi:pɔ:'teiʃən］
+        mnemonic: n.【见上，-ation 表示行为】
+        meaning: 驱逐出境，放逐
   - name: purport
     children:
       - name: purported

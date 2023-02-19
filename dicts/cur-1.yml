@@ -4,23 +4,50 @@ tags:
   - SOW
 children:
   - name: curious
+    phonetic: ［'kjuəriəs］
+    mnemonic: adj.【cur 关心，注意，-ious 形容词后缀，…的；“引人注意的” → 】
+    meaning: 新奇的，奇怪的；【对…特别“关心”的 → 】好奇的，爱打听的
     children:
       - name: curiously
       - name: curiosity
+        phonetic: ［ˌkjuəri'ɔsəti］
+        mnemonic: n.【见上，-osity 名词后缀】
+        meaning: 好奇心；奇品，珍品，古玩
       - name: incurious
+        phonetic: ［in'kjuəriəs］
+        mnemonic: adj.【in-不，无，curious 见上，新奇的，好奇的】
+        meaning: 不新奇的，无好奇心的
         children:
           - name: incuriosity
+            phonetic: ［inˌkjuəri'ɔsiti］
+            mnemonic: n.【in-不，无，见上】
+            meaning: 不新奇，无好奇心，不关心
   - name: cure
+    phonetic: ［kjuə］
+    mnemonic: v.【cur 关心，关怀 → （对病人）照料，护理 → 】
+    meaning: 医治，治疗
     children:
       - name: cured
       - name: curable
+        phonetic: ［'kjuərəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可医治的，可治好的
         children:
           - name: incurable
+            phonetic: ［in'kjuərəbl］
+            mnemonic: adj.【in-不，见上】
+            meaning: 不可医治的，不治的，医不好的
             children:
               - name: incurably
       - name: curative
+        phonetic: ［'kjuərətiv］
+        mnemonic: adj.【cur 关心 → 医治，-ative …的】
+        meaning: 治病的，治疗的，有效的
       - name: curation
   - name: secure
+    phonetic: ［si'kjuə］
+    mnemonic: adj.【见上】
+    meaning: 安全的，无忧的
     children:
       - name: securely
       - name: securing
@@ -28,13 +55,22 @@ children:
         children:
           - name: unsecured
       - name: security
+        phonetic: ［si'kjuərəti］
+        mnemonic: n.【se-分开，脱离，cur 挂念，担心， -ity 名词后缀；“脱离挂念” → 不用挂念，无须担心 → 】
+        meaning: 安全
         children:
           - name: securitize
             children:
               - name: securitization
       - name: insecure
+        phonetic: ［ˌinsi'kjuə］
+        mnemonic: adj.【in-不，secure 安全的】
+        meaning: 不安全的
         children:
           - name: insecurity
+            phonetic: ［ˌinsi'kjuərəti］
+            mnemonic: n.【in-不，security 安全】
+            meaning: 不安全
   - name: accurate
     children:
       - name: accurately

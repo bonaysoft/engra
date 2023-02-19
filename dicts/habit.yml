@@ -14,22 +14,46 @@ children:
           - name: habituation
       - name: habitus
   - name: habitation
+    phonetic: ［ˌhæbi'teiʃən］
+    mnemonic: n.【habit 居住，-ation 名词后缀】
+    meaning: 居住
     children:
       - name: habitant
+        phonetic: ［'hæbitənt］
+        mnemonic: n.【habit 居住，-ant 表示人】
+        meaning: 居住者
       - name: habitat
         children:
           - name: microhabitat
   - name: habitable
+    phonetic: ［'hæbitəbl］
+    mnemonic: adj.【habit 居住，-able 可…的】
+    meaning: 可居住的
     children:
       - name: habitability
   - name: inhabit
+    phonetic: ［in'hæbit］
+    mnemonic: v.【in-表示in，habit居住】
+    meaning: 居住于，栖居于
     children:
       - name: inhabitant
+        phonetic: ［in'hæbitənt］
+        mnemonic: n.【见上，-ant 表示人】
+        meaning: 居民，住户，常住居民
       - name: inhabitancy
+        phonetic: ［in'hæbitənsi］
+        mnemonic: n.【见上，-ancy 表示情况、状态】
+        meaning: 居住，有人居住的状态
       - name: inhabited
         children:
           - name: uninhabited
       - name: inhabitable
+        phonetic: ［in'hæbitəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可居住的，可栖居的
         children:
           - name: uninhabitable
       - name: inhabitation
+        phonetic: ［inˌhæbi'teiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 居住，栖居

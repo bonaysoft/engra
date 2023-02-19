@@ -4,10 +4,22 @@ tags:
   - SOW
 children:
   - name: pediatric
+    phonetic: ［ˌpi:di'ætrik］
+    mnemonic: adj.【ped 儿童，iatric 医学的，医疗的，医生的】
+    meaning: 儿科学的，小儿科的（亦作 paediatric）
     children:
       - name: pediatrics
+        phonetic: ［ˌpi:di'ætriks］
+        mnemonic: n.【见上，-ics …学】
+        meaning: 儿科学，小儿科（亦作paediatrics）
       - name: pediatrician
+        phonetic: ［ˌpi:diə'triʃən］
+        mnemonic: n.【见上，-ician 表示人】
+        meaning: 儿科医师，儿科专家（亦作paediatrician）
       - name: pediatrist
+        phonetic: ［ˌpi:di'ætrist］
+        mnemonic: n.【见上，-ist 表示人】
+        meaning: 儿科医师，儿科专家（亦作 paediatrist）
   - name: pedophile
     children:
       - name: pedophilia

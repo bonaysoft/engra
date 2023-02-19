@@ -4,10 +4,25 @@ tags:
   - SOW
 children:
   - name: senior
+    phonetic: ［'si:njə］
+    mnemonic: adj./n.【sen 老 → 年长，-ior 形容词及名词后缀】
+    meaning: 年长的，年纪较大的；年长者
     children:
       - name: seniority
+        phonetic: ［ˌsi:ni'ɔrəti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 年长
   - name: senate
+    phonetic: ［'senit］
+    mnemonic: n.【sen 老，-ate 名词后缀】
+    meaning: 参议院，上议院；（古罗马的）元老院
     children:
       - name: senator
+        phonetic: ［'senitə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 参议员，上议员；（古罗马的）元老院议员
         children:
           - name: senatorial
+            phonetic: ［ˌsenə'tɔ:riəl］
+            mnemonic: adj.【见上，-ial …的】
+            meaning: 参议院的；参议员的；元老院的

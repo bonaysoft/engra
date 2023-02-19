@@ -4,16 +4,40 @@ tags:
   - SOW
 children:
   - name: intrude
+    phonetic: ［in'tru:d］
+    mnemonic: v.【in-入，trud 冲，闯；“闯入”，“冲入” → 】
+    meaning: 侵入，入侵；闯入
     children:
       - name: intruder
+        phonetic: ［in'tru:də］
+        mnemonic: n.【见上，-er 者】
+        meaning: 入侵者；闯入者
       - name: intruding
       - name: intrusion
+        phonetic: ［in'tru:ʒən］
+        mnemonic: n.【in-入，trus 冲，闯，-ion 名词后缀】
+        meaning: 入侵；闯入
       - name: intrusive
+        phonetic: ［in'tru:siv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 入侵的；闯入的
         children:
           - name: intrusiveness
   - name: protrude
+    phonetic: ［pəu'tru:d］
+    mnemonic: v.【pro-向前，trud 推；“推向前” → 】
+    meaning: 使伸出，使突出
     children:
       - name: protruding
       - name: protrusion
+        phonetic: ［prəu'tru:ʒən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 伸出，突出；突出部分
       - name: protrusive
+        phonetic: ［prəu'tru:siv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 伸出的，突出的
       - name: protrusile
+        phonetic: ［prəu'tru:sail］
+        mnemonic: adj.【见上，-ile 可…的】
+        meaning: 可伸出的，可突出的

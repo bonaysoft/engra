@@ -1,6 +1,9 @@
 name: geo
 children:
   - name: geography
+    phonetic: ［ʤi'ɔɡrəfi］
+    mnemonic: n.【geo 地，大地，graph 写 → 论述，-y 名词后缀；“关于大地的论述” → 】
+    meaning: 地理学，地理
     children:
       - name: geographer
       - name: geographic

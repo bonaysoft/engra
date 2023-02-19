@@ -4,11 +4,32 @@ tags:
   - SOW
 children:
   - name: megaphone
+    phonetic: ［'meɡəfəun］
+    mnemonic: n.【mega 大，扩大，phon 声音】
+    meaning: 扩音器；喇叭筒，喊话筒
   - name: megalith
+    phonetic: ［'meɡəliθ］
+    mnemonic: n.【mega 大，lith 石】
+    meaning: 巨石，大石块
     children:
       - name: megalithic
+        phonetic: ［ˌmeɡə'liθik］
+        mnemonic: adj.【见上，-ic …的】
+        meaning: 巨石的；巨石制的
   - name: megacephalous
+    phonetic: ［'meɡəsifeiləs］
+    mnemonic: adj.【mega 大，cephal 头，-ous …的】
+    meaning: 大头的
   - name: megapod
+    phonetic: ［'meɡəpɔd］
+    mnemonic: adj.【mega 大，pod 足】
+    meaning: 大脚的
   - name: megascope
+    phonetic: ［'meɡəˌskəup］
+    mnemonic: n.【mega 大，scop 镜】
+    meaning: 大显微镜，粗视显微镜
     children:
       - name: megascopic
+        phonetic: ［ˌmeɡə'skɔpik］
+        mnemonic: adj.【mega 大，scop 看，-ic …的】
+        meaning: 肉眼可见的；放大了的

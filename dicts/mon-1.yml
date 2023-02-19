@@ -19,6 +19,9 @@ children:
         children:
           - name: monetization
   - name: monument
+    phonetic: ［'mɔnjumənt］
+    mnemonic: n.【mon 告诫，提醒 → 不要忘记 → 记住 → 纪念，-u-，-ment 名词后缀，表示物；“纪念之物” → 】
+    meaning: 纪念碑；纪念像；纪念物
     children:
       - name: monumental
         children:
@@ -34,24 +37,54 @@ children:
         children:
           - name: resummons
   - name: admonish
+    phonetic: ［əd'mɔniʃ］
+    mnemonic: v.【ad-加强意义，mon 告诫，-ish 动词后缀】
+    meaning: 告诫，劝告；忠告
     children:
       - name: admonishment
+        phonetic: ［əd'mɔniʃmənt］
+        mnemonic: n.【见上，-ment 名词后缀】
+        meaning: 告诫；劝告
       - name: admonitor
       - name: admonitory
       - name: admonition
+        phonetic: ［ˌædməu'niʃən］
+        mnemonic: n.【见上，-ition 名词后缀】
+        meaning: 告诫；劝告
   - name: premonition
+    phonetic: ［ˌpri:mə'niʃən］
+    mnemonic: n.【见上，-ition 名词后缀】
+    meaning: 预先的警告（或告诫）
     children:
       - name: premonitor
+        phonetic: ［pri'mɔnitə］
+        mnemonic: n.【pre-先，前，mon 告诫，-itor 者】
+        meaning: 预先警告者（或告诫者）
       - name: premonitory
   - name: monitor
+    phonetic: ［'mɔnitə］
+    mnemonic: n.【mon 告诫，-itor 名词后缀，表示人；“告诫者”，“劝告者” → 】
+    meaning: （学校的）班长，级长；监督生；提醒者，告诫者
     children:
       - name: monitress
+        phonetic: ［'mɔrˌitris］
+        mnemonic: n.【见上，-ess 表示女性】
+        meaning: 女班长，女级长；女告诫者
       - name: monitoring
       - name: monitored
       - name: monition
+        phonetic: ［məu'niʃən］
+        mnemonic: n.【见上，-ition 名词后缀】
+        meaning: 告诫，警告；忠告
       - name: monitory
+        phonetic: ［'mɔnitəri］
+        mnemonic: adj.【见上，-ory …的】
+        meaning: 告诫的，警告的
         children:
           - name: monitorial
+            phonetic: ［ˌmɔni'tɔ:riəl］
+            mnemonic: adj.【见上，-ial …的】
+            meaning: 班长的，级长的；监督生的
   - name: monster
     children:
       - name: monstrous

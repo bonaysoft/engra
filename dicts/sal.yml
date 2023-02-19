@@ -4,13 +4,28 @@ tags:
   - SOW
 children:
   - name: salary
+    phonetic: ［'sæləri］
+    mnemonic: n.【sal（salt）盐，-ary 名词后缀，表示物；原为古罗马士兵所领取的“买盐的钱”，作为生活津贴，由此转为“工资”】
+    meaning: 薪金，工资
     children:
       - name: salaried
+        phonetic: ［'sælərid］
+        mnemonic: adj.【见上，salary（y → i） + -ed 有…的】
+        meaning: 有工资的，拿薪水的
       - name: salaryman
   - name: saline
+    phonetic: ［'seilain］
+    mnemonic: adj./n.【sal 盐，-ine 形容词后缀，…的】
+    meaning: 含盐的，咸的；【转为名词】盐湖，盐渍地，盐碱滩
     children:
       - name: salina
+        phonetic: ［sə'lainə］
+        mnemonic: n.【见上，-a 名词后缀，表示物】
+        meaning: 盐碱滩，盐沼区
       - name: salinity
+        phonetic: ［sə'liniti］
+        mnemonic: n.【见上，-ity 表示性质、情况】
+        meaning: 含盐量，盐浓度，咸度
       - name: desalinize
         children:
           - name: desalinization

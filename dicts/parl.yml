@@ -4,7 +4,19 @@ tags:
   - SOW
 children:
   - name: parliament
+    phonetic: ［'pɑ:ləmənt］
+    mnemonic: n.【parl 说，谈 → 议论 → 商议，商谈 → 会议，-ia-，-ment 名词后缀】
+    meaning: 议会，国会
     children:
       - name: parliamentary
+        phonetic: ［ˌpɑ:lə'mentəri］
+        mnemonic: adj.【见上，-ary 形容词后缀，…的】
+        meaning: 议会的，国会的；议会政治的
       - name: parliamentarian
+        phonetic: ［ˌpɑ:ləmen'tɛəriən］
+        mnemonic: n.【见上，-arian 表示人】
+        meaning: 国会议员；议会法规专家；议会中的雄辩家
       - name: parliamentarism
+        phonetic: ［ˌpɑ:lə'mentərizəm］
+        mnemonic: n.【见上，-ism 表示主义、制度】
+        meaning: 议会主义；议会制度

@@ -1,6 +1,9 @@
 name: vorc
 children:
   - name: divorce
+    phonetic: ［di'vɔ:s］
+    mnemonic: n./v.【di-= dis-分开，散，vorc = vers 转；“to turn apart” → 】
+    meaning: 离婚，分离，脱离
     children:
       - name: divorcee
       - name: divorcing

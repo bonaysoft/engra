@@ -1,8 +1,14 @@
 name: circum
 children:
   - name: circumvent
+    phonetic: ［ˌsə:kəm'vent］
+    mnemonic: v.【circum-周围，四周，ven 来，“从四周来” → 】
+    meaning: 包围，围绕
     children:
       - name: circumvention
+        phonetic: ［ˌsə:kəm'venʃən］
+        mnemonic: n.【见上，-ion 名词后缀，表示行为】
+        meaning: 包围，围绕
   - name: circumference
     children:
       - name: circumferential

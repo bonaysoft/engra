@@ -4,5 +4,11 @@ tags:
   - SOW
 children:
   - name: tuition
+    phonetic: ［tju:'iʃən］
+    mnemonic: n.【tuit 监视，看护 → 管教，教导，-ion 名词后缀】
+    meaning: 教，教诲，讲授；学费
     children:
       - name: tuitional
+        phonetic: ［tju:'iʃənəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 讲授的，教导的

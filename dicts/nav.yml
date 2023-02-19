@@ -4,18 +4,48 @@ tags:
   - SOW
 children:
   - name: navy
+    phonetic: ［'neivi］
+    mnemonic: n.【nav 船 → 船队 → 舰队，-y 名词后缀】
+    meaning: 海军
     children:
       - name: naval
+        phonetic: ［'neivəl］
+        mnemonic: adj.【nav 船 → 军舰，-al …的】
+        meaning: 船的；军舰的；海军的
       - name: navicular
+        phonetic: ［nə'vikjulə］
+        mnemonic: adj.【nav 船，-icular …的】
+        meaning: 船形的，舟状的
   - name: navigate
+    phonetic: ［'næviɡeit］
+    mnemonic: v.【nav 船，ig←ag 动，-ate 动词后缀】
+    meaning: 航行；航空
     children:
       - name: navigator
       - name: navigation
+        phonetic: ［ˌnævi'ɡeiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 航行；航海；航空
         children:
           - name: navigational
           - name: astronavigation
+            phonetic: ［'æstrəuˌnævi'ɡeiʃən］
+            mnemonic: n.【astro 星 → 星空，宇宙，navigation 航行】
+            meaning: 宇宙航行
       - name: circumnavigate
+        phonetic: ［ˌsə:kəm'næviɡeit］
+        mnemonic: v.【circum-周围，环绕，navigate 航行】
+        meaning: 环航（世界），环球航行
         children:
           - name: circumnavigator
+            phonetic: ［ˌsə:kəm'næviɡeitə］
+            mnemonic: n.【见上，-ator 者】
+            meaning: 环球航行者
           - name: circumnavigation
+            phonetic: ［'sə:kəmˌnævi'ɡeiʃən］
+            mnemonic: n.【见上，-ation 名词后缀】
+            meaning: 环球航行
       - name: navigable
+        phonetic: ［'næviɡəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可航行的，可通航的

@@ -4,27 +4,60 @@ tags:
   - SOW
 children:
   - name: literal
+    phonetic: ［'litərəl］
+    mnemonic: adj.【liter 文字，-al …的】
+    meaning: 文字的，文字上的，字面的
     children:
       - name: literally
       - name: literalness
       - name: literalism
       - name: literalize
       - name: uniliteral
+        phonetic: ［ˌju:ni'litərəl］
+        mnemonic: adj.【uni-单一，liter 字母，-al…的】
+        meaning: 单字母的
       - name: transliteration
+        phonetic: ［ˌtrænslitə'reiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 按字母直译，音译
   - name: literacy
+    phonetic: ［'litərəsi］
+    mnemonic: n.【liter 文字 → 识字，-acy 表示情况、性质】
+    meaning: 识字，有学问，有文化
     children:
       - name: illiteracy
+        phonetic: ［i'litərəsi］
+        mnemonic: n.【il-不，literacy 识字】
+        meaning: 不识字，文盲，未受教育，无知
   - name: literary
+    phonetic: ［'litərəri］
+    mnemonic: adj.【liter 文字 → 文章 → 文学，-ary …的】
+    meaning: 文学的
     children:
       - name: literarily
       - name: literariness
   - name: literate
+    phonetic: ［'litərət］
+    mnemonic: n./adj.【liter 文字 → 识字，-ate 名词后缀，表示人】
+    meaning: 识字的人；【-ate 形容词后缀，…的】识字的，有文化的
     children:
       - name: literator
+        phonetic: ［'litəreitə］
+        mnemonic: n.【见上，-ator 表示人】
+        meaning: 文学家，文人，作家
       - name: literature
+        phonetic: ［'litəritʃə］
+        mnemonic: n.【liter 文字 → 由文字组成的 → 文章 → 文学，-ature=-ure 名词后缀】
+        meaning: 文学（作品）
       - name: literatus
         children:
           - name: literati
       - name: illiterate
+        phonetic: ［i'litərit］
+        mnemonic: adj./n.【it-不，literate 识字的（人）】
+        meaning: 不识字的，文盲的；不识字的人，无文化的人
       - name: semiliterate
+        phonetic: ［ˌsemi'litərət］
+        mnemonic: adj.【semi-半，literate 识字的】
+        meaning: 半识字的，半文盲的
       - name: preliterate

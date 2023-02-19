@@ -1,6 +1,9 @@
 name: prais
 children:
   - name: praise
+    phonetic: ［preiz］
+    mnemonic: v.【prais = preci = price 价值，评价；“称其有很高价值”，“给以很高评价” → 】
+    meaning: 称赞，赞美，赞扬，颂扬
     children:
       - name: praiseworthy
   - name: appraise

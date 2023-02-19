@@ -4,13 +4,25 @@ tags:
   - SOW
 children:
   - name: volunteer
+    phonetic: ［ˌvɔlən'tiə］
+    mnemonic: n.【volunt 意志，志愿，-eer 者】
+    meaning: 自愿参加者，志愿者，志愿兵
     children:
       - name: volunteerism
   - name: voluntary
+    phonetic: ［'vɔləntəri］
+    mnemonic: adj.【volunt 意志，志愿，-ary …的】
+    meaning: 自愿的，志愿的；故意的
     children:
       - name: voluntarily
+        phonetic: ［'vɔləntərili］
+        mnemonic: adv.【见上，-ly 副词后缀】
+        meaning: 自愿地，志愿地
       - name: voluntariness
       - name: voluntarism
       - name: involuntary
+        phonetic: ［in'vɔləntəri］
+        mnemonic: adj.【in-非，不，voluntary 自愿的】
+        meaning: 非自愿的；非故意的
         children:
           - name: involuntarily

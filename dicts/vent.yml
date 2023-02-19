@@ -1,8 +1,14 @@
 name: vent
 children:
   - name: event
+    phonetic: ［i'vent］
+    mnemonic: n.【e-= out 出，ven 来；“出来” → 出现 → 发生 → 发生的事情 → 】
+    meaning: 事件，大事，事变，偶然事件
     children:
       - name: eventful
+        phonetic: ［i'ventful］
+        mnemonic: adj.【见上，-ful 多…的】
+        meaning: 多事的，充满大事的，多变故的
         children:
           - name: uneventful
             children:
@@ -29,10 +35,19 @@ children:
         children:
           - name: reinvention
   - name: prevent
+    phonetic: ［pri'vent］
+    mnemonic: v.【pre-前，先，ven 来；“先来” → 赶在前面 → 预先应付 → 提前准备 → 】
+    meaning: 预防，防止
     children:
       - name: preventer
       - name: prevention
+        phonetic: ［pri'venʃən］
+        mnemonic: n.【见上，-ion 名词后缀，表示行为】
+        meaning: 预防，防止，阻止
       - name: preventive
+        phonetic: ［pri'ventiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 预防的，防止的
       - name: preventable
       - name: preventative
   - name: advent

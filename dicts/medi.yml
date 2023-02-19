@@ -4,29 +4,50 @@ tags:
   - SOW
 children:
   - name: medium
+    phonetic: ［'mi:djəm］
+    mnemonic: n./adj.【medi 中间，-um 名词后缀】
+    meaning: 中间，中间物，媒介；【转为形容词】中等的
     children:
       - name: media
         children:
           - name: multimedia
           - name: hypermedia
   - name: medial
+    phonetic: ［'mi:diəl］
+    mnemonic: adj.【medi中间，-al…的】
+    meaning: 中间的，中央的，居中的
     children:
       - name: medially
   - name: mediate
+    phonetic: ［'mi:dieit］
+    mnemonic: v.；［'mi:diət］adj.【medi 中间，-ate 动词后缀】
+    meaning: 居中调解，调停；【-ate 形容词后缀，…的】居间的，介于中间的
     children:
       - name: mediator
+        phonetic: ［'mi:dieitə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 居中人，调解者，调停者
       - name: mediating
       - name: mediated
         children:
           - name: unmediated
       - name: mediation
+        phonetic: ［ˌmi:di'eiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 居中调停，调解
         children:
           - name: mediational
   - name: intermediate
+    phonetic: ［ˌintə'mi:djət］
+    mnemonic: adj./n.；［ˌintə'mi:dieit］v.【inter-在…之间，medi 中间】
+    meaning: 中间的，居间的；居中调解；起调解作用
     children:
       - name: intermediation
       - name: intermediary
   - name: immediate
+    phonetic: ［i'mi:djət］
+    mnemonic: adj.【im-无，medi 中间，-ate 形容词后缀，…的；“没有中间空隙时间的”，“当中没有间隔的” → 】
+    meaning: 立刻的，直接的
     children:
       - name: immediately
       - name: immediacy

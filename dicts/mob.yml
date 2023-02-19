@@ -1,28 +1,60 @@
 name: mob
-meaning: move动
+phonetic: ［mɔb］
+mnemonic: n.【mob 动 → 动乱，暴动 → 暴动的人】
+meaning: 暴民；一群暴徒
 tags:
   - SOW
 children:
   - name: mobile
+    phonetic: ［'məubail，'məubi(:)l］
+    mnemonic: adj./n.【mob动，-ile 形容词兼名词后缀】
+    meaning: 活动的，可动的；运动的；汽车
     children:
       - name: mobility
+        phonetic: ［məu'biləti］
+        mnemonic: n.【mob 动，-ility 易…性】
+        meaning: 易动性；运动性；变动性
       - name: mobilize
+        phonetic: ［'məubilaiz］
+        mnemonic: v.【见上，-ize 动词后缀】
+        meaning: 动员
         children:
           - name: mobilized
           - name: mobilization
+            phonetic: ［ˌməubilai'zeiʃən］
+            mnemonic: n.【见上，-ization 名词后缀】
+            meaning: 动员
           - name: demobilize
+            phonetic: ［di:'məubəlaiz］
+            mnemonic: v.【de-相反；“与动员相反” → 】
+            meaning: 使复员
             children:
               - name: demobilization
+                phonetic: ［'di:ˌməubəlai'zeiʃən］
+                mnemonic: n.【见上】
+                meaning: 复员
       - name: immobile
+        phonetic: ［i'məubail］
+        mnemonic: adj.【im-不，mobile 动的】
+        meaning: 不动的，固定的
         children:
           - name: immobility
+            phonetic: ［ˌimə'biləti］
+            mnemonic: n.【见上】
+            meaning: 不动性，固定性
           - name: immobilize
             children:
               - name: immobilized
               - name: immobilization
       - name: automobile
+        phonetic: ［'ɔ:təməubi:l］
+        mnemonic: n.【auto-自己，mob 动；“自动车” → 】
+        meaning: 汽车
       - name: snowmobile
       - name: bookmobile
   - name: mob
     children:
       - name: mobster
+        phonetic: ［'mɔbstə］
+        mnemonic: n.【mob 动 → 暴动，-ster 表示人】
+        meaning: 暴徒，匪徒

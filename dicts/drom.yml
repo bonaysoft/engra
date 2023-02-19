@@ -4,11 +4,35 @@ tags:
   - SOW
 children:
   - name: aerodrome
+    phonetic: ［'ɛərədrəum］
+    mnemonic: n.【aero 航空 → 飞机，drom 跑；“跑飞机的地方” → 】
+    meaning: 飞机场
   - name: hippodrome
+    phonetic: ［'hipədrəum］
+    mnemonic: n.【hippo 马，drom 跑；“跑马的地方” → 】
+    meaning: 跑马场，赛马场；马戏场
   - name: motordrome
+    phonetic: ［'məutədrəum］
+    mnemonic: n.【motor 汽车，drom 跑；“跑汽车的地方” → 】
+    meaning: 汽车比赛场；汽车试车场
   - name: prodrome
+    phonetic: ［'prəudrəum］
+    mnemonic: n.【pro-前，drom 跑，“跑在前面” → 】
+    meaning: 绪论；（医学）前驱症状
     children:
       - name: prodromic
+        phonetic: ［prəu'drɔmik］
+        mnemonic: adj.【见上，-ic …的】
+        meaning: 绪论的；前驱症状的
   - name: syndrome
+    phonetic: ［'sindrəum］
+    mnemonic: n.【syn-同，drom 跑；“跑出来” → 发生；“同时跑出来” → 同时发生】
+    meaning: （医学）综合病征，症状群（同时发生的一群症状）
   - name: dromedary
+    phonetic: ［'drʌmədəri］
+    mnemonic: n.【drom 跑；“能跑长途者” → 】
+    meaning: 善跑的骆驼；单峰骆驼
   - name: dromometer
+    phonetic: ［drəu'mɔmitə］
+    mnemonic: n.【drom 跑，-o-，meter 计】
+    meaning: 速度计

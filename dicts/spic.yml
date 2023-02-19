@@ -7,6 +7,9 @@ children:
       - name: spicery
       - name: allspice
   - name: conspicuous
+    phonetic: ［kən'spikjuəs］
+    mnemonic: adj.【con-共同，spic（= spect）看， -uous …的；“共同看见的”→大家都能看见的，有目共睹的→】
+    meaning: 明显的，显著的，惹人注目的
     children:
       - name: conspicuously
       - name: inconspicuous

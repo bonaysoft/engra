@@ -22,50 +22,56 @@ import (
 )
 
 func main() {
-	// s, err := script.File("data/yychdym.txt").String()
-	// if err != nil {
-	// 	fmt.Println(err)
-	// 	return
-	// }
-	//
-	// findMeaning := func(name string) string {
-	// 	name = strings.ToLower(name)
-	// 	if strings.Contains(name, "(") || strings.Contains(name, "=") {
-	// 		return ""
-	// 	}
-	//
-	// 	prefix := ". " + name + "，"
-	// 	if strings.Index(s, prefix) == -1 {
-	// 		return ""
-	// 	}
-	//
-	// 	pIdx := strings.Index(s, prefix) + len(prefix)
-	// 	tmp := s[pIdx : pIdx+500]
-	// 	// fmt.Println(111, pIdx, tmp)
-	// 	sIdx := strings.Index(tmp, "\r\n\r\n")
-	// 	// fmt.Println(222, sIdx)
-	// 	return s[pIdx : pIdx+sIdx]
-	// }
-	s2, err := script.File("data/amroot.txt").Slice()
+	di, err := dict.NewDict()
+	if err != nil {
+		return
+	}
+
+	rows, err := script.File("data/yychdym.txt").Slice()
 	if err != nil {
 		fmt.Println(err)
 		return
 	}
-	for _, s3 := range s2 {
-		items := strings.Split(s3[strings.Index(s3, ". ")+2:], ",")
-		for _, wr := range items {
-			w, err := dict.NewWordRoot(wr)
-			if err != nil {
-				fmt.Println(wr)
-				continue
-			}
 
-			if w.Meaning == "" {
-				fmt.Println(w.Name)
-			}
-
+	var count int
+	var mnemonic, meaning string
+	for _, row := range rows {
+		mnemonic = ""
+		meaning = ""
+		items := strings.Split(row, "　")
+		if len(items) != 2 {
+			continue
 		}
+		word, other := items[0], items[1]
+		peIdx := strings.Index(other, "］") + 3
+		phonetic := other[0:peIdx]
+		coIdx := strings.Index(other, "】") + 3
+		if coIdx >= 3 {
+			mnemonic = other[peIdx:coIdx]
+			meaning = other[coIdx:]
+		} else {
+			meaning = other[peIdx:]
+		}
+		v, err := di.Find(word)
+		if err != nil {
+			continue
+		}
+
+		vv, ok := v.Find(word)
+		if !ok {
+			return
+		}
+
+		vv.Phonetic = phonetic
+		vv.Meaning = meaning
+		vv.Mnemonic = mnemonic
+		v.Save()
+
+		count++
+		fmt.Printf("word: %s, phonetic: %s, constitute: %s, meaning: %s\n", word, phonetic, mnemonic, meaning)
 	}
+	fmt.Println(count)
+
 	return
 
 	err = filepath.WalkDir("dicts", func(path string, d fs.DirEntry, err error) error {
@@ -90,7 +96,7 @@ func main() {
 	return
 
 	createRoot("solar")
-	rows, err := script.File("data/amroot.txt").Slice()
+	rows, err = script.File("data/amroot.txt").Slice()
 	if err != nil {
 		return
 	}

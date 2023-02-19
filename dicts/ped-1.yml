@@ -4,22 +4,46 @@ tags:
   - SOW
 children:
   - name: pedal
+    phonetic: ［'pedl］
+    mnemonic: adj./n.【ped 足，-al 形容词后缀，…的】
+    meaning: 足的，脚的；脚蹬
     children:
       - name: pedaling
       - name: uniped
+        phonetic: ［'ju:niped］
+        mnemonic: adj.【uni 单，独，ped 足】
+        meaning: 独脚的；独腿的
       - name: soliped
+        phonetic: ［'sɔliped］
+        mnemonic: adj./n.【soli 单，独，ped 足 → 蹄】
+        meaning: 单蹄的；单蹄兽
       - name: biped
+        phonetic: ［'baiped］
+        mnemonic: adj./n.【bi-两个，ped 足】
+        meaning: 两足的；两足动物
         children:
           - name: bipedal
           - name: bipedalism
       - name: tripedal
       - name: quadruped
+        phonetic: ［'kwɔdruped］
+        mnemonic: adj./n.【quadru-四，ped 足】
+        meaning: 四足的；四足动物
         children:
           - name: quadrupedal
       - name: multiped
+        phonetic: ［'mʌltiped］
+        mnemonic: adj./n.【multi-多，ped 足】
+        meaning: 多足的；多足动物
   - name: pedestrian
+    phonetic: ［pi'destriən］
+    mnemonic: adj./n.【ped 足 → 行走，步行】
+    meaning: 步行的，徒步的；步行者，行人
     children:
       - name: pedestrianize
+        phonetic: ［pi'destriənaiz］
+        mnemonic: v.【见上，-ize 动词后缀】
+        meaning: 徒步，旅行，步行
   - name: pedigree
     children:
       - name: pedigreed
@@ -28,8 +52,14 @@ children:
       - name: expediter
       - name: expedited
       - name: expedition
+        phonetic: ［ˌekspi'diʃən］
+        mnemonic: n.【ex-出，外，ped 足 → 行走，-ition 名词后缀；“出行” → 远行 → 】
+        meaning: 远征；远征队
         children:
           - name: expeditionist
+            phonetic: ［ˌekspi'diʃənist］
+            mnemonic: n.【见上，-ist 者】
+            meaning: 远征者
           - name: expeditionary
       - name: expeditious
         children:
@@ -40,10 +70,19 @@ children:
       - name: expediency
       - name: expedience
   - name: impede
+    phonetic: ［im'pi:d］
+    mnemonic: v.【im-入，入内，ped 脚；“插入一脚” → 制造阻碍 → 阻挡】
+    meaning: 阻止，妨碍，阻碍
     children:
       - name: impediment
+        phonetic: ［im'pedimənt］
+        mnemonic: n.【见上，-i-，-ment 名词后缀】
+        meaning: 妨碍，阻碍，障碍物
         children:
           - name: impedimental
+            phonetic: ［imˌpedi'mentl］
+            mnemonic: adj.【见上，-al …的】
+            meaning: 妨碍的，阻碍的
       - name: unimpeded
       - name: impedance
   - name: peddle

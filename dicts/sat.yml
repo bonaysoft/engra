@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: satisfy
+    phonetic: ［'sætisfai］
+    mnemonic: v.【satis 满，-fy 动词后缀，使…】
+    meaning: 使满足，使满意
     children:
       - name: satisfying
         children:
@@ -12,25 +15,64 @@ children:
       - name: satisfied
         children:
           - name: unsatisfied
+            phonetic: ［ˌʌn'sætisfaid］
+            mnemonic: adj.【un-不，未，见上】
+            meaning: 未得到满足的，不满意的
       - name: satisfaction
+        phonetic: ［ˌsætis'fækʃən］
+        mnemonic: n.【satis 满，-faction 抽象名词后缀】
+        meaning: 满足，满意
       - name: satisfactory
+        phonetic: ［ˌsætis'fæktəri］
+        mnemonic: adj.【见上，-ory …的】
+        meaning: 令人满意的
         children:
           - name: satisfactorily
           - name: unsatisfactory
+            phonetic: ［'ʌnˌsætis'fæktəri］
+            mnemonic: adj.【un-不，见上】
+            meaning: 不能令人满意的，不得人心的
       - name: satisfiable
+        phonetic: ［'sætisfaiəbl］
+        mnemonic: adj.【见上，-able 能…的】
+        meaning: 能满足的
       - name: dissatisfy
+        phonetic: ［di'sætisfai］
+        mnemonic: v.【dis-不，见上】
+        meaning: 使不满，使不平
         children:
           - name: dissatisfied
+            phonetic: ［di'sætisfaid］
+            mnemonic: adj.【见上】
+            meaning: 不满的，显出不满的
           - name: dissatisfaction
+            phonetic: ［diˌsætis'fækʃən］
+            mnemonic: n.【见上，-faction 抽象名词后缀】
+            meaning: 不满，不平
           - name: dissatisfactory
+            phonetic: ［'diˌsætis'fæktəri］
+            mnemonic: adj.【见上，-ory …的】
+            meaning: 令人不满的，使人不平的
   - name: saturate
+    phonetic: ［'sætʃəreit］
+    mnemonic: v./adj.【satur 饱，-ate 动词及形容词后缀】
+    meaning: 使饱和；饱和的
     children:
       - name: saturated
         children:
           - name: unsaturated
+            phonetic: ［ʌn'sætʃəreitid］
+            mnemonic: adj.【un-不，未，非，见上】
+            meaning: 不饱和的，未饱和的，非饱和的
           - name: polyunsaturated
       - name: saturation
+        phonetic: ［ˌsætʃə'reiʃən］
+        mnemonic: n.【satur 饱，-ation 抽象名词后缀】
+        meaning: 饱和（状态）
       - name: desaturate
         children:
           - name: desaturation
       - name: supersaturate
+        phonetic: ［ˌsju:pə'sætʃəreit］
+        mnemonic: v.【super-超过，过度，saturate 使饱和】
+        meaning: 使过度饱和

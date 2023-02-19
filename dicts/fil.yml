@@ -4,14 +4,29 @@ tags:
   - SOW
 children:
   - name: file
+    phonetic: ［fail］
+    mnemonic: n.【fil线；“人或物排列成一条线” → 】
+    meaning: 行列，纵列
     children:
       - name: filer
       - name: filing
   - name: filament
+    phonetic: ［'filəment］
+    mnemonic: n.【fil 线，-a-，-ment 名词后缀】
+    meaning: 细线；丝；线状物
     children:
       - name: filamentous
+        phonetic: ［ˌfilə'mentəs］
+        mnemonic: adj.【见上，-ous…的】
+        meaning: 如丝的；纤维的
       - name: filamentary
+        phonetic: ［ˌfilə'mentəri］
+        mnemonic: adj.【见上，-ary …的】
+        meaning: 细线的；细丝的；纤维的
   - name: profile
+    phonetic: ［'prəufail］
+    mnemonic: v./n.【pro-向前，fil线 → 线条；“用线条勾画” → 】
+    meaning: 描画…的轮廓；外形，轮廓；侧面像
     children:
       - name: profiler
       - name: profiling

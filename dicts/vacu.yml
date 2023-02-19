@@ -1,11 +1,26 @@
 name: vacu
 children:
   - name: vacuum
+    phonetic: ［'vækjuəm］
+    mnemonic: n.【vacu空，-um 名词后缀】
+    meaning: 真空，真空状态，真空度
     children:
       - name: vacuuming
       - name: vacuumize
+        phonetic: ［'vækjuəmaiz］
+        mnemonic: v.【见上，-ize 动词后缀，使…】
+        meaning: 使成真空，真空包装
   - name: evacuate
+    phonetic: ［i'vækjueit］
+    mnemonic: v.【e-外，出，vacu 空，-ate 动词后缀，使…；“使某地方空出来” → 】
+    meaning: 撤走，撤空，疏散居民，撤离（某地）
     children:
       - name: evacuated
       - name: evacuation
+        phonetic: ［iˌvækju'eiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 疏散，撤走，撤空
       - name: evacuee
+        phonetic: ［iˌvækju'i:］
+        mnemonic: n.【见上，-ee 被…的人】
+        meaning: 被疏散的人员

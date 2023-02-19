@@ -4,17 +4,41 @@ tags:
   - SOW
 children:
   - name: insular
+    phonetic: ［'insjulə］
+    mnemonic: adj.【insul 岛，-ar …的】
+    meaning: 岛的，岛国的，岛民的；思想狭隘的，偏狭的
     children:
       - name: insularity
+        phonetic: ［'insju'læriti］
+        mnemonic: n.【见上，-ity 表示特性】
+        meaning: 岛国性；孤立性，偏狭性
       - name: insularism
+        phonetic: ［'insjulərizm］
+        mnemonic: n.【见上，-ism 表示特性】
+        meaning: 岛国特性；狭隘性
   - name: insulate
+    phonetic: ［'insjuleit］
+    mnemonic: v.【insul 岛 → 孤立 → 与外界隔绝，-ate 动词后缀，使…；“使成岛状” → 使孤立，使与…隔绝 → 】
+    meaning: 隔离，使孤立，使绝缘
     children:
       - name: insulator
+        phonetic: ［'insjuleitə］
+        mnemonic: n.【见上，-ator 表示人或物】
+        meaning: 隔绝者，绝缘体
       - name: insulating
       - name: insulated
         children:
           - name: uninsulated
       - name: insulation
+        phonetic: ［ˌinsju'leiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 隔绝，孤立，绝缘
   - name: peninsula
+    phonetic: ［pi'ninsjulə］
+    mnemonic: n.【pen-相似，相近，似乎，insul 岛，-a 名词后缀；“和岛相似”，“似乎是一个岛” → 不完全是一个岛 → 】
+    meaning: 半岛
     children:
       - name: peninsular
+        phonetic: ［pi'ninsjulə］
+        mnemonic: adj./n.【见上，-ar …的】
+        meaning: 半岛的；【-ar 名词后缀】半岛的居民

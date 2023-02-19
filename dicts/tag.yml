@@ -4,7 +4,19 @@ tags:
   - SOW
 children:
   - name: contagion
+    phonetic: ［kən'teiʒən］
+    mnemonic: n.【con-共同，tag 触，-ion 名词后缀】
+    meaning: 接触传染；传染病
     children:
       - name: contagium
+        phonetic: ［kən'teiʤiəm］
+        mnemonic: n.【见上，-ium 名词后缀】
+        meaning: 接触传染物
       - name: contagiosity
+        phonetic: ［kənˌtæʤi'ɔsiti］
+        mnemonic: n.【见上，-osity 名词后缀】
+        meaning: 接触传染率
       - name: contagious
+        phonetic: ［kən'teiʤəs］
+        mnemonic: adj.【见上，-ious …的】
+        meaning: 接触传染的，有传染性的

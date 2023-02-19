@@ -4,6 +4,15 @@ tags:
   - SOW
 children:
   - name: prominent
+    phonetic: ［'prɔminənt］
+    mnemonic: adj.【pro-向前，min 突出，-ent …的】
+    meaning: 突出的，显著的，杰出的，卓越的，著名的
     children:
       - name: prominence
+        phonetic: ［'prɔminəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 突出，显著，杰出，卓越，声望
   - name: eminent
+    phonetic: ［'eminənt］
+    mnemonic: adj.【e-出，外，min 突出，-ent …的】
+    meaning: 杰出的，突出的，著名的

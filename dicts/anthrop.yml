@@ -4,13 +4,28 @@ tags:
   - SOW
 children:
   - name: anthropology
+    phonetic: ［ˌænθrə'pɔləʤi］
+    mnemonic: n.【anthropo 人类，-logy …学】
+    meaning: 人类学
     children:
       - name: anthropological
         children:
           - name: anthropologically
       - name: anthropologist
+        phonetic: ［ˌænθrə'pɔləʤist］
+        mnemonic: n.【anthropo 人类，-logist …学者】
+        meaning: 人类学者
   - name: philanthropy
+    phonetic: ［fi'lænθrəpi］
+    mnemonic: n.【phil 爱，anthrop 人类，-y 名词后缀；“爱人类” → 】
+    meaning: 博爱主义；慈善，善心
     children:
       - name: philanthropic
+        phonetic: ［ˌfilən'θrɔpik］
+        mnemonic: adj.【见上，-ic …的】
+        meaning: 博爱的，慈善的
       - name: philanthropist
+        phonetic: ［fi'lænθrəpist］
+        mnemonic: n.【见上，-ist 者】
+        meaning: 慈善家
       - name: philanthropism

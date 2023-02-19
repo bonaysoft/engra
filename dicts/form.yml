@@ -18,6 +18,9 @@ children:
       - name: landform
       - name: piriform
       - name: cruciform
+        phonetic: ［'kru:sifɔ:m］
+        mnemonic: adj.【cruc 十字，-form 形容词后缀，有…形状的】
+        meaning: 十字形的
       - name: cuneiform
       - name: spongiform
       - name: multiform
@@ -59,10 +62,16 @@ children:
               - name: reformulated
               - name: reformulation
   - name: uniform
+    phonetic: ［'ju:nifɔ:m］
+    mnemonic: adj./n.【uni 单一，form 形式，式样】
+    meaning: 一样的，相同的；制服
     children:
       - name: uniformly
       - name: uniformed
       - name: uniformity
+        phonetic: ［ˌju:ni'fɔ:miti］
+        mnemonic: n.【见上，-ity 名词后缀，表示情况、性质】
+        meaning: 一样，一律
       - name: uniformitarian
         children:
           - name: uniformitarianism

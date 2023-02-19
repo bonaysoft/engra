@@ -7,30 +7,63 @@ children:
     children:
       - name: pendulous
   - name: depend
+    phonetic: ［di'pend］
+    mnemonic: v.【de-下，pend 悬挂；“挂在他物下面” → 依附于另一物体 → 】
+    meaning: 依靠，依赖
     children:
       - name: dependant
       - name: dependent
+        phonetic: ［di'pendənt］
+        mnemonic: adj.【见上，-ent …的】
+        meaning: 依靠的，依赖的，不独立的，从属的
       - name: dependence
+        phonetic: ［di'pendəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 依靠，依赖
       - name: dependency
+        phonetic: ［di'pendənsi］
+        mnemonic: n.【见上，-ency 名词后缀】
+        meaning: 依赖，从属，属地，属国
       - name: dependable
+        phonetic: ［di'pendəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可依赖的，可依靠的
         children:
           - name: dependably
           - name: dependability
           - name: undependable
       - name: independent
+        phonetic: ［ˌindi'pendənt］
+        mnemonic: adj.【in-不，depend 依靠，-ent …的】
+        meaning: 独立的，自主的
         children:
           - name: independently
           - name: independence
+            phonetic: ［ˌindi'pendəns］
+            mnemonic: n.【见上，-ence 名词后缀，表示行为、情况】
+            meaning: 独立，自主
       - name: interdepend
+        phonetic: ［ˌintədi'pend］
+        mnemonic: v.【inter-互相，depend 依赖】
+        meaning: 互相依赖
         children:
           - name: interdependent
+            phonetic: ［ˌintədi'pendənt］
+            mnemonic: adj.【见上，-ent …的】
+            meaning: 互相依赖的
           - name: interdependence
+            phonetic: ［ˌintədi'pendəns］
+            mnemonic: n.【见上，-ence 名词后缀】
+            meaning: 互相依赖
           - name: interdependency
       - name: overdependence
       - name: codependent
         children:
           - name: codependency
   - name: suspend
+    phonetic: ［sə'spend］
+    mnemonic: v.【sus-= sub-下，pend 悬，吊，挂，“挂起来”】
+    meaning: 挂，悬，中止，暂停
     children:
       - name: suspender
       - name: suspended
@@ -38,8 +71,17 @@ children:
         children:
           - name: suspenseful
           - name: suspensive
+            phonetic: ［sə'spensiv］
+            mnemonic: adj.【见上，-ive …的】
+            meaning: 悬挂的，悬而不决的，暂停的
           - name: suspension
+            phonetic: ［sə'spenʃən］
+            mnemonic: n.【见上，-ion 名词后缀，表示行为、情况】
+            meaning: 悬挂，悬而不决，中止，暂停
   - name: spend
+    phonetic: ［spend］
+    mnemonic: v.【s-为 ex-或 dis-的缩形，pend 花费】
+    meaning: 花钱，花费，消耗（时间）
     children:
       - name: spender
       - name: spending
@@ -47,13 +89,28 @@ children:
       - name: overspend
       - name: misspend
   - name: expend
+    phonetic: ［ik'spend］
+    mnemonic: v.【ex-出，pend 付钱；“把钱付出”】
+    meaning: 花费，消费，用款
     children:
       - name: expended
       - name: expendable
+        phonetic: ［ik'spendəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可消费的
       - name: expenditure
+        phonetic: ［ik'spenditʃə］
+        mnemonic: n.【见上，-ture = -ure 表示行为或行为的结果】
+        meaning: 支出，消费，花费
       - name: expense
+        phonetic: ［ik'spens］
+        mnemonic: n.【ex-出，pens 付钱】
+        meaning: 支出，花费，消费
         children:
           - name: expensive
+            phonetic: ［ik'spensiv］
+            mnemonic: adj.【见上，-ive …的】
+            meaning: 花费的，花钱多的，昂贵的
             children:
               - name: expensively
               - name: inexpensive

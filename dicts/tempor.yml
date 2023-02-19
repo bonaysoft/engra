@@ -4,17 +4,38 @@ tags:
   - SOW
 children:
   - name: temporal
+    phonetic: ［'tempərəl］
+    mnemonic: adj.【tempor 时间，-al …的】
+    meaning: 时间的，（语法）时态的；短暂的
     children:
       - name: temporality
       - name: temporize
+        phonetic: ［'tempəraiz］
+        mnemonic: v.【tempor 时，-ize 动词后缀，做…】
+        meaning: 顺应时势，迎合潮流；（为争取时间而）拖延，应付
       - name: atemporal
   - name: temporary
+    phonetic: ［'tempərəri］
+    mnemonic: adj.【tempor 时，-ary …的；“lasting for a time only” → 】
+    meaning: 暂时的，临时的
     children:
       - name: temporarily
   - name: contemporary
+    phonetic: ［kən'tempərəri］
+    mnemonic: adj./n.【con-同，tempor 时 → 时代， -ary…的】
+    meaning: 同时代的，同龄的，当代的；【-ary 表示人】同时代的人，同年龄的人
     children:
       - name: contemporize
+        phonetic: ［kən'tempəraiz］
+        mnemonic: v.【con-同，tempor 时，-ize 动词后缀】
+        meaning: 同时发生，使同时发生
       - name: contemporaneity
+        phonetic: ［kənˌtempərə'ni:iti］
+        mnemonic: n.【见上，-aneity 名词后缀，表示性质】
+        meaning: 同时代性，同时发生性，同时期性
       - name: contemporaneous
+        phonetic: ［kənˌtempə'reiniəs］
+        mnemonic: adj.【con-同，tempor 时，-aneous 形容词后缀，…的】
+        meaning: 同时期的，同时代的，同时发生的
         children:
           - name: contemporaneously

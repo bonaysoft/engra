@@ -4,13 +4,28 @@ tags:
   - SOW
 children:
   - name: rotate
+    phonetic: ［rəu'teit］
+    mnemonic: v.【rot轮，转，-ate 动词后缀】
+    meaning: 旋转；轮流，循环
     children:
       - name: rotator
+        phonetic: ［rəu'teitə］
+        mnemonic: n.【见上，-ator 表示物】
+        meaning: 旋转器；旋转反射炉
       - name: rotating
       - name: rotated
       - name: rotation
+        phonetic: ［rəu'teiʃən］
+        mnemonic: n.【rot 轮，转，-ation 名词后缀】
+        meaning: 旋转，转动；轮流，循环
         children:
           - name: rotational
       - name: rotatable
       - name: rotative
+        phonetic: ［'rəutətiv］
+        mnemonic: adj.【rot 轮，转，-ative …的】
+        meaning: 旋转的；轮流的，循环的
       - name: rotatory
+        phonetic: ［rəu'teitəri］
+        mnemonic: adj.【见上，-ory …的】
+        meaning: （使）旋转的；（使）轮流的，（使）循环的

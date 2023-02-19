@@ -1,6 +1,15 @@
 name: scent
 children:
   - name: ascent
+    phonetic: ［ə'sent］
+    mnemonic: n.【见上，由 ascend 转成的名词】
+    meaning: 上升，升高，登高
     children:
       - name: ascensive
+        phonetic: ［ə'sensiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 上升的，使上升的
       - name: ascension
+        phonetic: ［ə'senʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 上升，升高

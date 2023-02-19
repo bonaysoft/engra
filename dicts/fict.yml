@@ -4,17 +4,35 @@ tags:
   - SOW
 children:
   - name: fiction
+    phonetic: ［'fikʃən］
+    mnemonic: n.【fict 虚构，杜撰，-ion 名词后缀】
+    meaning: 虚构，杜撰；捏造；【虚构的事 → 】小说
     children:
       - name: fictive
+        phonetic: ［'fiktiv］
+        mnemonic: adj.【fict 虚构，-ive …的】
+        meaning: 非真实的；假装的
       - name: fictionist
+        phonetic: ［'fikʃənist］
+        mnemonic: n.【见上，-ist 人】
+        meaning: 小说家
       - name: fictional
+        phonetic: ［'fikʃənəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 小说的；虚构的
         children:
           - name: fictionally
           - name: fictionalize
+            phonetic: ［'fikʃənəlaiz］
+            mnemonic: v.【见上，-ize 动词后缀】
+            meaning: 把…编成小说；使小说化
             children:
               - name: fictionalized
               - name: fictionalization
       - name: fictitious
+        phonetic: ［fik'tiʃəs］
+        mnemonic: adj.【fict 虚构，杜撰，-itious 形容词后缀，…的】
+        meaning: 虚构的，杜撰的；非真实的
       - name: nonfiction
       - name: metafiction
         children:

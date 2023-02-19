@@ -13,22 +13,49 @@ children:
       - name: clinician
       - name: clinique
   - name: decline
+    phonetic: ［di'klain］
+    mnemonic: v.【de-加强意义，clin 倾】
+    meaning: 倾斜，下倾；衰落
     children:
       - name: declining
       - name: declinate
+        phonetic: ［'deklinit］
+        mnemonic: adj.【见上，-ate …的】
+        meaning: 倾斜的，下倾的
         children:
           - name: declination
+            phonetic: ［ˌdekli'neiʃən］
+            mnemonic: n.【见上，-ation 抽象名词后缀】
+            meaning: 倾斜，下倾；衰落
   - name: recline
+    phonetic: ［ri'klain］
+    mnemonic: v.【re-向后，clin 倾斜】
+    meaning: 使向后靠；斜倚；躺
     children:
       - name: recliner
       - name: reclining
   - name: incline
+    phonetic: ［in'klain］
+    mnemonic: v.【in-加强意义，clin 倾】
+    meaning: 倾斜；倾向于；偏爱，喜爱
     children:
       - name: inclined
       - name: inclinable
+        phonetic: ［in'klainəbl］
+        mnemonic: adj.【见上，-able …的】
+        meaning: 倾向于…的；赞成…的
       - name: inclinator
       - name: inclination
+        phonetic: ［ˌinkli'neiʃən］
+        mnemonic: n.【见上，-ation 抽象名词后缀】
+        meaning: 倾斜；倾向；爱好，偏爱
       - name: disincline
+        phonetic: ［ˌdisin'klain］
+        mnemonic: v.【dis-不，incline 倾向，偏爱】
+        meaning: 使不爱，使不愿
         children:
           - name: disinclined
           - name: disinclination
+            phonetic: ［ˌdisinkli'neiʃən］
+            mnemonic: n.【见上，-ation 抽象名词后缀】
+            meaning: 不喜爱，不愿；厌恶

@@ -4,16 +4,45 @@ tags:
   - SOW
 children:
   - name: bibliography
+    phonetic: ［ˌbibli'ɔɡrəfi］
+    mnemonic: n.【见上，-y 名词后缀】
+    meaning: 书目提要；文献目录
     children:
       - name: bibliographer
+        phonetic: ［ˌbibli'ɔɡrəfə］
+        mnemonic: n.【biblio 书，graph 写，-er 人】
+        meaning: 书目提要编著人
       - name: bibliographic
+        phonetic: ［ˌbibliə'ɡræfik］
+        mnemonic: adj.【见上，-ic 形容词后缀】
+        meaning: 属于书目提要的
         children:
           - name: bibliographical
       - name: bibliographize
+        phonetic: ［ˌbibli'ɔɡrəfaiz］
+        mnemonic: v.【biblio 书，graph 写，-ize 动词后缀】
+        meaning: 编写书目提要
   - name: bibliolatry
+    phonetic: ［ˌbibli'ɔlətri］
+    mnemonic: n.【biblio 书，latry 崇拜】
+    meaning: 书籍崇拜
     children:
       - name: bibliolater
+        phonetic: ［ˌbibli'ɔlətə］
+        mnemonic: n.【biblio 书，later 崇拜者】
+        meaning: 书籍崇拜者
       - name: bibliolatrous
+        phonetic: ［ˌbibli'ɔlətrəs］
+        mnemonic: adj.【biblio 书，latr 崇拜，-ous …的】
+        meaning: 崇拜书籍的
   - name: bibliomania
+    phonetic: ［ˌbibliə'meiniə］
+    mnemonic: n.【见上，-mania 狂】
+    meaning: 书狂，藏书癖
   - name: bibliophilist
+    phonetic: ［ˌbibli'ɔfilist］
+    mnemonic: n.【biblio 书，phil 爱，-ist 者】
+    meaning: 爱书者，书籍爱好者
   - name: Bible
+    phonetic: ［'baibl］
+    meaning: n. 圣经

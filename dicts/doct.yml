@@ -1,19 +1,37 @@
 name: doct
 children:
   - name: doctor
+    phonetic: ［'dɔktə］
+    mnemonic: n.【doc 教 → 指教，-or 人；“指教者” → 】
+    meaning: 医生；博士
     children:
       - name: doctoring
       - name: doctoral
+        phonetic: ［'dɔktərəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 博士的
       - name: doctorate
+        phonetic: ［'dɔktərət］
+        mnemonic: n.【见上，-ate 名词后缀】
+        meaning: 博士衔，博士学位
       - name: postdoctoral
       - name: postdoc
       - name: predoctoral
   - name: doctrine
+    phonetic: ［'dɔktrin］
+    mnemonic: n.【见上，-ine 名词后缀】
+    meaning: 教义，教旨，教条；主义
     children:
       - name: doctrinal
+        phonetic: ［dɔk'trainəl］
+        mnemonic: adj.【见上，al …的】
+        meaning: 教条的，教义的
         children:
           - name: doctrinally
       - name: doctrinaire
+        phonetic: ［ˌdɔktri'nɛə］
+        mnemonic: n.【见上，-aire 名词后缀，表示人】
+        meaning: 教条主义者
         children:
           - name: doctrinairism
       - name: doctrinarian

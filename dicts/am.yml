@@ -4,12 +4,24 @@ tags:
   - SOW
 children:
   - name: amateur
+    phonetic: ［'æmətə，ˌæmə'tə:］
+    mnemonic: n.【am 爱，-ateur = -ator 表示人】
+    meaning: 业余爱好者
     children:
       - name: amateurish
+        phonetic: ［ˌæmə'tə:riʃ］
+        mnemonic: adj.【见上，-ish …的】
+        meaning: 业余的
       - name: amateurism
   - name: amorous
+    phonetic: ［'æmərəs］
+    mnemonic: adj.【见上，-ous …的】
+    meaning: 恋爱的；多情的；色情的
     children:
       - name: amorist
+        phonetic: ［'æmərist］
+        mnemonic: n.【见上，-ist 人】
+        meaning: 好色之徒；专写恋爱的作家
   - name: enamor
     children:
       - name: enamored

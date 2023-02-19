@@ -11,24 +11,45 @@ children:
           - name: concessionary
           - name: concessionaire
   - name: procedure
+    phonetic: ［prə'si:ʤə］
+    mnemonic: n.【pro- 向前，ced 行，-ure 名词后缀；“进行的过程” → 】
+    meaning: 过程，步骤，手续
     children:
       - name: procedural
         children:
           - name: procedurally
   - name: precede
+    phonetic: ［ˌpri'si:d］
+    mnemonic: v.【pre- 先，前，ced 行】
+    meaning: 先行，领先，居先，优先
     children:
       - name: precession
       - name: preceding
+        phonetic: ［ˌpri'si:diŋ］
+        mnemonic: adj.【见上，-ing 形容词后缀，…的】
+        meaning: 在前的，在先的
       - name: precedence
       - name: precedent
+        phonetic: ［'presidənt］
+        mnemonic: n./adj.【pre- 先，前，ced 行，-ent 名词后缀，表示物】
+        meaning: 先行的事物，前例，先例；【-ent 形容词后缀，…的】先行的，在前的
         children:
           - name: precedential
           - name: precedented
+            phonetic: ［'presidəntid］
+            mnemonic: adj.【见上，-ed …的】
+            meaning: 有先例的，有前例的
             children:
               - name: unprecedented
+                phonetic: ［ˌʌn'presidəntid］
+                mnemonic: adj.【un- 无，见上】
+                meaning: 无先例的，空前的
                 children:
                   - name: unprecedentedly
   - name: recede
+    phonetic: ［ri'si:d］
+    mnemonic: v.【re- 反，回，ced 行；“往回行” → 】
+    meaning: 后退，退却，引退，退缩
     children:
       - name: receding
       - name: recess
@@ -36,6 +57,9 @@ children:
           - name: recessed
           - name: recessive
           - name: recession
+            phonetic: ［ri'seʃən］
+            mnemonic: n.【re- 反，回，cess 行，-ion 名词后缀；“回行”】
+            meaning: 后退，退回，（经济）衰退
             children:
               - name: recessional
               - name: recessionary

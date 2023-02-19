@@ -4,15 +4,36 @@ tags:
   - SOW
 children:
   - name: marine
+    phonetic: ［mə'ri:n］
+    mnemonic: adj.【mar 海，-ine 形容词后缀，…的】
+    meaning: 海的，海上的，航海的
     children:
       - name: mariner
+        phonetic: ［'mærinə］
+        mnemonic: n.【见上，-er 表示人】
+        meaning: 海员，水手
       - name: submarine
+        phonetic: ［'sʌbməri:n］
+        mnemonic: adj./n.【sub-在…下面，mar 海，-ine …的】
+        meaning: 海面下的，海底的，【转为名词：“潜入海面下之物” → 】潜水艇
         children:
           - name: submariner
           - name: antisubmarine
+            phonetic: ［ˌænti'sʌbməri:n］
+            mnemonic: adj.【anti-反，见上】
+            meaning: 反潜艇的
       - name: aeromarine
+        phonetic: ［ˌɛərəumə'ri:n］
+        mnemonic: adj.【aero 空中，航空，飞行，marine 海上的】
+        meaning: 海上飞行的
       - name: transmarine
+        phonetic: ［ˌtrænzmə'ri:n］
+        mnemonic: adj.【trans-越过，见上；“越过海的” → 】
+        meaning: 来自海外的，海外的
       - name: ultramarine
+        phonetic: ［ˌʌltrəmə'ri:n］
+        mnemonic: adj.【ultra-以外，见上】
+        meaning: 海外的，在海那边的
   - name: marinade
     children:
       - name: marinate

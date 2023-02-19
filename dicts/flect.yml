@@ -4,10 +4,19 @@ tags:
   - SOW
 children:
   - name: reflect
+    phonetic: ［ri'flekt］
+    mnemonic: v.【re-回，flect 弯曲；“弯回” → 折回，返回】
+    meaning: 反射，反映
     children:
       - name: reflector
+        phonetic: ［ri'flektə］
+        mnemonic: n.【见上，-or 表示物】
+        meaning: 反射镜
       - name: reflected
       - name: reflection
+        phonetic: ［ri'flekʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 反射，反映，反射光
       - name: reflectance
       - name: reflective
         children:

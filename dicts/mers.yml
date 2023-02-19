@@ -1,7 +1,16 @@
 name: mers
 children:
   - name: immerse
+    phonetic: ［i'mə:s］
+    mnemonic: v.【im-入内，mers 沉】
+    meaning: 沉浸
     children:
       - name: immersion
+        phonetic: ［i'mə:ʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 沉浸，浸没
       - name: immersive
       - name: immersible
+        phonetic: ［i'mə:sibl］
+        mnemonic: adj.【见上，-ible 可…的】
+        meaning: 可沉于水中的

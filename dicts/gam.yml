@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: polygamy
+    phonetic: ［pə'liɡəmi］
+    mnemonic: n.【poly-多，gam 婚姻，-y 名词后缀】
+    meaning: 多配偶；一夫多妻；一妻多夫
     children:
       - name: polygamist
       - name: polygamous

@@ -4,15 +4,36 @@ tags:
   - SOW
 children:
   - name: lucid
+    phonetic: ［'lju:sid］
+    mnemonic: adj.【luc 光，-id 形容词后缀】
+    meaning: 透明的；（诗）光辉的，明亮的
     children:
       - name: lucidly
       - name: lucidity
+        phonetic: ［lju:'sidəti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 明白；透明；光明
       - name: pellucid
       - name: elucidate
+        phonetic: ［i'lu:sideit］
+        mnemonic: v.【e-使…，lucid 明白，-ate 动词后缀；“使明白” → 】
+        meaning: 阐明，解释
         children:
           - name: elucidation
+            phonetic: ［iˌlu:si'deiʃən］
+            mnemonic: n.【见上，-ation 名词后缀】
+            meaning: 阐明；解释
           - name: elucidative
+            phonetic: ［i'lu:sideitiv］
+            mnemonic: adj.【见上，-ative …的】
+            meaning: 阐明的；解释的
   - name: translucent
+    phonetic: ［træns'lu:sənt］
+    mnemonic: adj.【trans-穿过，luc 光，-ent …的；“光线能透过的” → 】
+    meaning: 半透明的
     children:
       - name: translucency
       - name: translucence
+        phonetic: ［træns'lu:səns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 半透明（性）

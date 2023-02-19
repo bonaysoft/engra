@@ -4,13 +4,22 @@ tags:
   - SOW
 children:
   - name: fraction
+    phonetic: ［'frækʃən］
+    mnemonic: n.【fract 破，折，-ion 名词后缀】
+    meaning: 碎片；片断；小部分
     children:
       - name: fractional
+        phonetic: ［'frækʃənl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 碎片的；零碎的；部分的；小数的
         children:
           - name: fractionally
       - name: fractionated
       - name: fractionation
   - name: fracture
+    phonetic: ［'fræktʃə］
+    mnemonic: n.【fract 破，折，-ure 名词后缀】
+    meaning: 破碎，折断；骨折
     children:
       - name: fractured
       - name: fracturing

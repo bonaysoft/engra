@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: motor
+    phonetic: ［'məutə］
+    mnemonic: n.【mot 动，-or 表示物】
+    meaning: 发动机，机动车
     children:
       - name: motoring
       - name: motorized
@@ -19,11 +22,17 @@ children:
           - name: motorcyclist
           - name: motorcycling
   - name: motion
+    phonetic: ［'məuʃən］
+    mnemonic: n.【mot 动，-ion 名词后缀，表示行为、情况】
+    meaning: 运动，动
     children:
       - name: motionless
         children:
           - name: motionlessly
   - name: remote
+    phonetic: ［ri'məut］
+    mnemonic: adj.【re -回，离，mot 移动；“移走的”，“removed to a distance”，远离的 → 】
+    meaning: 遥远的
     children:
       - name: remotely
       - name: remoteness
@@ -31,16 +40,34 @@ children:
         children:
           - name: remote-controlled
   - name: promote
+    phonetic: ［prə'məut］
+    mnemonic: v.【pro-向前，mot 移动；“使向前移动” → 】
+    meaning: 推进，促进，提升，升级
     children:
       - name: promoter
+        phonetic: ［prə'məutə］
+        mnemonic: n.【见上，-er 表示人】
+        meaning: 促进者，推进者
       - name: promoted
       - name: promotion
+        phonetic: ［prə'məuʃən］
+        mnemonic: n.【见上，-ion 名词后缀，表示行为】
+        meaning: 促进，推进，提升，升级
         children:
           - name: promotional
   - name: demote
+    phonetic: ［ˌdi:'məut］
+    mnemonic: v.【de-向下，mot 移动；“使向下移动” → 】
+    meaning: 使降级
     children:
       - name: demotion
+        phonetic: ［ˌdi:'məuʃən］
+        mnemonic: n.【见上，-ion 名词后缀，表示行为】
+        meaning: 降级
   - name: motive
+    phonetic: ［'məutiv］
+    mnemonic: adj./n.【mot 动，-ive …的】
+    meaning: 发动的，运动的；【转为名词】动机
     children:
       - name: motivic
       - name: motivate

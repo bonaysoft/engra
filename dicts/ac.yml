@@ -25,5 +25,8 @@ children:
       - name: cutely
       - name: cuteness
   - name: acupuncture
+    phonetic: ［'ækjuˌpʌŋktʃə］
+    mnemonic: n.【acu 针，puncture 刺】
+    meaning: 针刺，针刺疗法，针灸治疗
     children:
       - name: acupuncturist

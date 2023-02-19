@@ -4,10 +4,22 @@ tags:
   - SOW
 children:
   - name: figure
+    phonetic: ［'fiɡə］
+    mnemonic: n.【fig 塑造，制作，-ure 名词后缀；“制作出来”的样子，“塑造成”的形状 → 】
+    meaning: 外形，轮廓；塑像；形象
     children:
       - name: figural
+        phonetic: ［'fiɡjurəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 具有人（或动物）的形象的
       - name: figurable
+        phonetic: ［'fiɡərəbl］
+        mnemonic: adj.【见上，-able 能…的】
+        meaning: 能成形的，能定形的
       - name: figurate
         children:
           - name: figuration
+            phonetic: ［ˌfiɡə'reiʃən］
+            mnemonic: n.【见上，-ation 名词后缀】
+            meaning: 成形，定型；外表，轮廓
           - name: figurative

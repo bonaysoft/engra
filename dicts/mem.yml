@@ -4,12 +4,27 @@ children:
     children:
       - name: memoirist
   - name: remember
+    phonetic: ［ri'membə］
+    mnemonic: v.【re-回，再，member←memor 记忆】
+    meaning: 想起，回忆起，记得，记住
     children:
       - name: remembering
       - name: remembered
         children:
           - name: unremembered
       - name: rememberable
+        phonetic: ［ri'membərəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可记得的，可记起的，可纪念的
       - name: remembrance
+        phonetic: ［ri'membrəns］
+        mnemonic: n.【见上，-ance 表示情况，状态，行为】
+        meaning: 回忆，记忆；记忆力
       - name: disremember
+        phonetic: ［ˌdisri'membə］
+        mnemonic: v.【dis-不，remember 记得】
+        meaning: 忘记
       - name: misremember
+        phonetic: ［ˌmisri'membə］
+        mnemonic: v.【mis-错，remember 记住，记忆】
+        meaning: 记错

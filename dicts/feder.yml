@@ -4,26 +4,68 @@ tags:
   - SOW
 children:
   - name: federal
+    phonetic: ［'fedərəl］
+    mnemonic: adj.【feder 联盟，-al 形容词后缀，…的】
+    meaning: 联盟的；联合的；联邦的；联邦制的
     children:
       - name: federally
       - name: federalism
+        phonetic: ［'fedərəlizəm］
+        mnemonic: n.【见上，-ism 主义，制度】
+        meaning: 联邦制；联邦主义
       - name: federalist
+        phonetic: ［'fedərəlist］
+        mnemonic: n.【见上，-ist 者】
+        meaning: 联邦制拥护者；联邦主义者
       - name: federalize
+        phonetic: ［'fedərəˌlaiz］
+        mnemonic: v.【见上，-ize 动词后缀】
+        meaning: 使成同盟；使结成联邦
         children:
           - name: federalization
+            phonetic: ［ˌfedərəlai'zeiʃən］
+            mnemonic: n.【见上，-ization 名词后缀】
+            meaning: 结成联邦
       - name: federate
+        phonetic: ［'fedəreit］
+        mnemonic: v.【feder联盟，-ate 形容词兼动词后缀】
+        meaning: 同盟的，联邦的；（使）结成联盟（或联邦）
         children:
           - name: federated
           - name: federation
+            phonetic: ［ˌfedə'reiʃən］
+            mnemonic: n.【feder 联盟，-ation 名词后缀】
+            meaning: 联盟，同盟；联合会；联邦，联邦政府
             children:
               - name: federationist
+                phonetic: ［ˌfedə'reiʃənist］
+                mnemonic: n.【见上，-ist 者】
+                meaning: 联合主义者
           - name: federative
+            phonetic: ［'fedərətiv］
+            mnemonic: adj.【feder 联盟，-ative 形容词后缀，…的】
+            meaning: 联合的；联邦的
       - name: confederal
         children:
           - name: confederate
+            phonetic: ［kən'fedərit］
+            mnemonic: adj./n./v.【见上，-ate 名词、形容词、动词后缀】
+            meaning: 同盟的，联合的；同盟者，同盟国；（使）结成同盟
             children:
               - name: confederated
               - name: confederation
+                phonetic: ［kənˌfedə'reiʃən］
+                mnemonic: n.【见上，-ation 名词后缀】
+                meaning: 同盟，联盟；邦联
               - name: confederative
+                phonetic: ［kən'fedəreitiv］
+                mnemonic: adj.【见上，-ative 形容词后缀】
+                meaning: 联盟的；邦联的
           - name: confederacy
+            phonetic: ［kən'fedərəsi］
+            mnemonic: n.【con-加强意义，feder 联盟，-acy 名词后缀】
+            meaning: 联盟，邦联，同盟
   - name: antifederal
+    phonetic: ［ˌænti'fedərəl］
+    mnemonic: adj.【anti-反对，federal 联盟的】
+    meaning: 反联邦制的

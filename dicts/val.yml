@@ -36,6 +36,9 @@ children:
   - name: valor
     children:
       - name: valorous
+        phonetic: ［'vælərəs］
+        mnemonic: adj.【见上，valor←valour，-ous …的】
+        meaning: 勇猛的，英勇的
       - name: valorize
         children:
           - name: valorization
@@ -55,13 +58,25 @@ children:
           - name: validated
           - name: validation
       - name: invalid
+        phonetic: ［'invəlid］
+        mnemonic: adj./n.【in-不，val 强，-id 形容词后缀，…的；“不强壮的” → 】
+        meaning: 病弱的；伤残的；病人；伤病员
         children:
           - name: invalidity
+            phonetic: ［ˌinvə'lidəti］
+            mnemonic: n.【见上，-ity 名词后缀】
+            meaning: （因病残而）丧失工作能力
           - name: invalidism
+            phonetic: ［'invəli:dizəm］
+            mnemonic: n.【见上，-ism 表情况、状态】
+            meaning: 久病；伤残
           - name: invalidate
             children:
               - name: invalidation
   - name: valiant
+    phonetic: ［'væljənt］
+    mnemonic: adj.【val 强 → 勇，-iant = -ant …的】
+    meaning: 勇敢的，勇猛的，英勇的
     children:
       - name: valiantly
   - name: prevalent

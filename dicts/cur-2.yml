@@ -4,12 +4,24 @@ tags:
   - SOW
 children:
   - name: current
+    phonetic: ［'kʌrənt］
+    mnemonic: adj./n.【cur 跑 → 行，-ent …的】
+    meaning: 流行的，通行的，流通的，现行的，当前的，现在的；【-ent 名词后缀】流，水流，气流
     children:
       - name: currently
       - name: currency
+        phonetic: ［'kʌrənsi］
+        mnemonic: n.【cur 跑 → 行，-ency 名词后缀】
+        meaning: 流行，流通，流通货币，通货
       - name: undercurrent
+        phonetic: ［'ʌndəˌkʌrənt］
+        mnemonic: n.【under-底下，current 流】
+        meaning: 暗流，潜流
       - name: crosscurrent
   - name: curriculum
+    phonetic: ［kə'rikjuləm］
+    mnemonic: n.【cur=couse； a course of study → 】
+    meaning: 课程
     children:
       - name: curricular
         children:
@@ -17,17 +29,35 @@ children:
   - name: incur
     children:
       - name: incursion
+        phonetic: ［in'kə:ʃən］
+        mnemonic: n.【in-内，入内，curs 跑 → 行走，-ion 名词后缀；“走入”，“闯入” → 】
+        meaning: 进入，侵入，入侵，侵犯
       - name: incursive
+        phonetic: ［in'kə:siv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 入侵的，进入的
   - name: occur
+    phonetic: ［ə'kə:］
+    mnemonic: v.【oc-表示to 或 towards，cur 跑；“跑来” → 来临 → 】
+    meaning: 出现，发生
     children:
       - name: occurring
       - name: occurrent
+        phonetic: ［ə'kʌrənt］
+        mnemonic: adj.【见上，-ent …的】
+        meaning: 偶然发生的，正在发生的
         children:
           - name: occurrence
+            phonetic: ［ə'kʌrəns］
+            mnemonic: n.【见上，-ence 名词后缀】
+            meaning: 出现，发生，发生的事
             children:
               - name: nonoccurrence
       - name: reoccur
   - name: recur
+    phonetic: ［ri'kə:］
+    mnemonic: v.【re-回，复，cur 跑；“跑回” → 返回 → 重来】
+    meaning: 再发生，（疾病等）复发，（往事等）重新浮现
     children:
       - name: recurring
       - name: recursive
@@ -36,7 +66,19 @@ children:
         children:
           - name: recurrently
       - name: recurrence
+        phonetic: ［ri'kʌrəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 复发，再发生，重新浮现
   - name: concur
+    phonetic: ［kən'kə:］
+    mnemonic: v.【con-共同，cur 跑；“共同跑来” → 】
+    meaning: 同时发生，同意
     children:
       - name: concurrent
+        phonetic: ［kən'kʌrənt］
+        mnemonic: adj.【见上，-ent 形容词后缀，…的】
+        meaning: 同时发生的
       - name: concurrence
+        phonetic: ［kən'kʌrəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 同时发生，同意

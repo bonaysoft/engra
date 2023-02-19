@@ -7,12 +7,24 @@ children:
     children:
       - name: matriarchy
   - name: matrimony
+    phonetic: ［'mætriməni］
+    mnemonic: n.【matri 母 → 婚姻，-mony 名词后缀】
+    meaning: 婚姻，结婚
     children:
       - name: matrimonial
+        phonetic: ［ˌmætri'məunjəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 婚姻的，结婚的
   - name: matron
+    phonetic: ［'meitrən］
+    mnemonic: n.【matr 母，-on 名词后缀】
+    meaning: 主妇，老妇
     children:
       - name: matronly
       - name: matronage
+        phonetic: ［'meitrəniʤ］
+        mnemonic: n.【见上，-age 名词后缀】
+        meaning: 主妇的身份或职务
   - name: matrix
   - name: maternal
     children:

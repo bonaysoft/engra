@@ -1,6 +1,9 @@
 name: griev
 children:
   - name: grieve
+    phonetic: ［ɡri:v］
+    mnemonic: v.【griev←grav重；“心情沉重”】
+    meaning: 悲伤，悲痛；使悲伤，使悲痛
     children:
       - name: grieving
       - name: grieved

@@ -6,6 +6,12 @@ children:
   - name: flora
     children:
       - name: floral
+        phonetic: ［'flɔ:rə］
+        mnemonic: adj.【flor 花，-al …的】
+        meaning: 花的，如花的
   - name: florist
+    phonetic: ［'flɔrist］
+    mnemonic: n.【flor 花，-ist 表示人】
+    meaning: 种花者，花商；花卉研究者
     children:
       - name: floristic

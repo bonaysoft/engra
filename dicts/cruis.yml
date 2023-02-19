@@ -1,5 +1,11 @@
 name: cruis
 children:
   - name: cruise
+    phonetic: ［kru:z］
+    mnemonic: v.【cruis=cruc 十字 → 纵横相交；在海洋上“纵横来往而行” → 】
+    meaning: 巡游，巡航
     children:
       - name: cruiser
+        phonetic: ［'kru:zə］
+        mnemonic: n.【见上，-er 表示物；在海洋上“纵横来往而行者” → 】
+        meaning: 巡洋舰

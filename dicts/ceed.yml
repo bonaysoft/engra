@@ -12,24 +12,45 @@ children:
             children:
               - name: unsuccessfully
       - name: successor
+        phonetic: ［sək'sesə］
+        mnemonic: n.【suc- 后面，cess 行，-or 者】
+        meaning: 后行者，继任者，接班人，继承人
       - name: succession
+        phonetic: ［sək'seʃən］
+        mnemonic: n.【suc- 后面，cess 行，-ion 名词后缀】
+        meaning: 相继，接续，继承，继任
         children:
           - name: successional
       - name: successive
+        phonetic: ［sək'sesiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 相继的，连续的，连接的
         children:
           - name: successively
   - name: proceed
+    phonetic: ［prəu'si:d］
+    mnemonic: v.【pro- 向前，ceed 行】
+    meaning: 前进，进行
     children:
       - name: proceeds
       - name: proceeding
   - name: exceed
+    phonetic: ［ik'si:d］
+    mnemonic: v.【ex- 以外，超出，ceed 行，“超越而行” → 】
+    meaning: 超过，越过，胜过
     children:
       - name: exceeding
         children:
           - name: exceedingly
       - name: excess
+        phonetic: ［ik'ses］
+        mnemonic: n.【ex- 以外，超出，cess 行；“超出限度以外” → 】
+        meaning: 超过，越过，过分，过度
         children:
           - name: excessive
+            phonetic: ［ik'sesiv］
+            mnemonic: adj.【见上，ive …的】
+            meaning: 过分的，过度的，过多的
             children:
               - name: excessively
               - name: excessiveness

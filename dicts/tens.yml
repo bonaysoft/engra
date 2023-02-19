@@ -4,15 +4,27 @@ tags:
   - SOW
 children:
   - name: tense
+    phonetic: ［tens］
+    mnemonic: adj.【tens 伸，伸开 → 拉紧】
+    meaning: 拉紧的，绷紧的，紧张的
     children:
       - name: tensor
       - name: tensely
       - name: tenseness
       - name: tensile
       - name: tensity
+        phonetic: ［'tensiti］
+        mnemonic: n.【见上，-ity 表示情况、性质】
+        meaning: 紧张，紧张度
       - name: tension
+        phonetic: ［'tenʃən］
+        mnemonic: n.【tens 伸 → 绷紧，-ion 名词后缀】
+        meaning: 拉紧，绷紧，紧张，张力
         children:
           - name: hypertension
+            phonetic: ［haipə'tenʃən］
+            mnemonic: n.【hyper-超过，tension 张力，压力；“血的压力过高” → 】
+            meaning: 高血压
           - name: hypotension
       - name: tensive
         children:
@@ -21,20 +33,38 @@ children:
               - name: antihypertensive
           - name: hypotensive
   - name: intense
+    phonetic: ［in'tens］
+    mnemonic: adj.【in-加强意义，tens 伸；伸展 → 拉紧，绷紧 → 】
+    meaning: 紧张的，强烈的，剧烈的
     children:
       - name: intensely
       - name: intensity
       - name: intension
+        phonetic: ［in'tenʃən］
+        mnemonic: n.【见上，-ion 名词后缀，表示情况、性质】
+        meaning: 紧张，强度
       - name: intensive
+        phonetic: ［in'tensiv］
+        mnemonic: adj.【见上，-ive…的】
+        meaning: 加强的，深入的
         children:
           - name: intensively
       - name: intensify
+        phonetic: ［in'tensifai］
+        mnemonic: v.【见上，-fy 动词后缀，使…】
+        meaning: 加剧，加强
         children:
           - name: intensifier
           - name: intensifying
           - name: intensified
           - name: intensification
+            phonetic: ［inˌtensifi'keiʃən］
+            mnemonic: n.【见上，-fication 名词后缀，…化】
+            meaning: 强化，增强，加紧
   - name: extensive
+    phonetic: ［ik'stensiv］
+    mnemonic: adj.【见上，伸展 → 面积扩大 → 广阔，-ive …的】
+    meaning: 广阔的，广泛的
     children:
       - name: extensively
       - name: extensiveness

@@ -4,31 +4,76 @@ tags:
   - SOW
 children:
   - name: impel
+    phonetic: ［im'pel］
+    mnemonic: v.【im-加强意义，pel 推】
+    meaning: 推动，激励
     children:
       - name: impeller
+        phonetic: ［im'pelə］
+        mnemonic: n.【见上，-er 表示人或物】
+        meaning: 推动者，推动器
       - name: impelled
   - name: compel
+    phonetic: ［kəm'pel］
+    mnemonic: v.【com-加强意义，pel 驱逐，驱使；“驱之使做某事” → 】
+    meaning: 强迫，迫使
     children:
       - name: compellable
+        phonetic: ［kəm'peləbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可强迫的
       - name: compelling
         children:
           - name: compellingly
   - name: expel
+    phonetic: ［ik'spel］
+    mnemonic: v.【ex-出，外，pel 驱逐】
+    meaning: 逐出，赶出，驱逐，开除
     children:
       - name: expeller
+        phonetic: ［ik'spelə］
+        mnemonic: n.【见上，-er 者】
+        meaning: 逐出者，驱逐者
       - name: expellee
+        phonetic: ［ekspə'li:］
+        mnemonic: n.【见上，-ee 被…的人】
+        meaning: 被驱逐（出国）者
       - name: expelled
       - name: expellable
+        phonetic: ［ik'speləbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可逐出的
       - name: expellant
+        phonetic: ［ik'spelənt］
+        mnemonic: adj.【见上，-ant…的】
+        meaning: 赶出的，驱除的
   - name: propel
+    phonetic: ［prə'pel］
+    mnemonic: v.【pro-向前，pel 推】
+    meaning: 推进，推动
     children:
       - name: propeller
+        phonetic: ［prə'pelə］
+        mnemonic: n.【见上，-er 表示人或物】
+        meaning: 推进者，推进器，螺旋桨
       - name: propellent
+        phonetic: ［prə'pelənt］
+        mnemonic: n.【见上，-ent …的】
+        meaning: 推进的；【-ent 表示人或物】推进物，推进者
       - name: propellant
       - name: propelled
   - name: repel
+    phonetic: ［ri'pel］
+    mnemonic: v.【re-回，pel 逐；“逐回” → 】
+    meaning: 击退，反击，抵抗，防
     children:
       - name: repellent
+        phonetic: ［ri'pelənt］
+        mnemonic: adj./ n.【见上，-ent …的】
+        meaning: 击退的，击回的，排斥的；【-ent 表示物】防护剂，防水布
       - name: repellant
       - name: repellence
+        phonetic: ［ri'peləns］
+        mnemonic: n.【见上，-ence 表示性质】
+        meaning: 反击性，抵抗性
       - name: repellency

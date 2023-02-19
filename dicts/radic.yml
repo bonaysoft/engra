@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: radical
+    phonetic: ［'rædikəl］
+    mnemonic: adj./n.【radic 根，-al …的】
+    meaning: 根本的，基本的；【转为名词】根部，基础
     children:
       - name: radically
       - name: radicalism
@@ -12,10 +15,25 @@ children:
           - name: radicalized
           - name: radicalization
   - name: eradicate
+    phonetic: ［i'rædikeit］
+    mnemonic: v.【e-除去，radic 根，-ate 动词后缀】
+    meaning: 根除，除根，斩根，连根拔
     children:
       - name: eradicator
+        phonetic: ［i'rædikeitə］
+        mnemonic: n.【见上，-ator 表示人或物】
+        meaning: 根除者，除根器
       - name: eradication
+        phonetic: ［iˌrædi'keiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 根除，斩根，消灭
       - name: eradicative
+        phonetic: ［i'rædikətiv］
+        mnemonic: adj.【见上，-ative …的】
+        meaning: 根除的，消灭的
       - name: eradicable
+        phonetic: ［i'rædikeibl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可根除的
         children:
           - name: ineradicable

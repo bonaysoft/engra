@@ -4,15 +4,33 @@ tags:
   - SOW
 children:
   - name: fragile
+    phonetic: ［'fræʤail］
+    mnemonic: adj.【frag 破，碎，-ile 形容词后缀，易…的】
+    meaning: 易破的，易碎的
     children:
       - name: fragility
+        phonetic: ［frə'ʤiləti］
+        mnemonic: n.【frag 破，-ility 名词后缀】
+        meaning: 易碎性，脆性，脆弱
   - name: fragment
+    phonetic: ［'fræɡmənt］
+    mnemonic: n.【frag破，-ment 名词后缀，表示物】
+    meaning: 碎片，破片，碎块
     children:
       - name: fragmented
       - name: fragmentary
+        phonetic: ［'fræɡməntəri］
+        mnemonic: adj.【见上，-ary …的】
+        meaning: 碎片的；破片的，碎块的
       - name: fragmentate
+        phonetic: ［'fræɡmənˌteit］
+        mnemonic: v.【见上，-ate 动词后缀，使…】
+        meaning: （使）裂成碎片
         children:
           - name: fragmentation
+            phonetic: ［ˌfræɡmen'teiʃən］
+            mnemonic: n.【见上，-ation 名词后缀】
+            meaning: 破碎，裂成碎片；分裂
   - name: suffrage
     children:
       - name: suffragist

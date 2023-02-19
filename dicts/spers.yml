@@ -4,12 +4,30 @@ tags:
   - SOW
 children:
   - name: disperse
+    phonetic: ［dis'pə:s］
+    mnemonic: v.【di-=dis-分开，spers散】
+    meaning: 分散，散开，使分散
     children:
       - name: dispersal
+        phonetic: ［dis'pə:səl］
+        mnemonic: n.【见上，-al 名词后缀】
+        meaning: 分散，疏散，散布
       - name: dispersed
       - name: dispersion
+        phonetic: ［dis'pə:ʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 分散，散开，散布；驱散
       - name: dispersive
+        phonetic: ［dis'pə:siv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 散的，分散的；散乱的
       - name: dispersant
   - name: intersperse
+    phonetic: ［ˌintə'pə:s］
+    mnemonic: v.【inter-在…中间，spers 散；“撒在中间”】
+    meaning: 散布，散置，点缀
     children:
       - name: interspersion
+        phonetic: ［ˌintə'pə:ʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 散布，散置，点缀

@@ -4,20 +4,35 @@ tags:
   - SOW
 children:
   - name: cycle
+    phonetic: ［'saikl］
+    mnemonic: n.【cycl 圆 → 圆周 → 】
+    meaning: 周期；循环；一转
     children:
       - name: cyclic
         children:
           - name: cyclical
+            phonetic: ［'saiklikəl］
+            mnemonic: adj.【见上，-ical 形容词后缀】
+            meaning: 周期的；循环的；轮转的
             children:
               - name: cyclically
       - name: cyclist
       - name: cycling
       - name: unicycle
+        phonetic: ［'ju:nisaikl］
+        mnemonic: n.【uni 单一，独，cycl 轮】
+        meaning: 独轮脚踏车
       - name: bicycle
+        phonetic: ［'baisikl］
+        mnemonic: n.【bi-两，二，cycl 轮；“两轮车” → 】
+        meaning: 自行车
         children:
           - name: bicyclist
           - name: bicycling
       - name: tricycle
+        phonetic: ［'traisikl］
+        mnemonic: n.【tri-三，cycl 轮】
+        meaning: 三轮脚踏车；三轮摩托车
         children:
           - name: tricyclic
   - name: recycle
@@ -28,6 +43,9 @@ children:
         children:
           - name: recyclability
   - name: cyclone
+    phonetic: ［'saikləun］
+    mnemonic: n.【cycl 圆 → 旋转，-one 名词后缀】
+    meaning: 旋风；气旋
     children:
       - name: cyclonic
   - name: encyclopedia

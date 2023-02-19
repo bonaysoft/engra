@@ -4,38 +4,98 @@ tags:
   - SOW
 children:
   - name: similar
+    phonetic: ［'similə］
+    mnemonic: adj./n.【simil 相似，-ar …的】
+    meaning: 相似的，类似的；相似的东西
     children:
       - name: similarly
       - name: similarity
+        phonetic: ［ˌsimi'lærəti］
+        mnemonic: n.【simil 相似，-arity 名词后缀】
+        meaning: 相似，类似
       - name: similitude
+        phonetic: ［si'militju:d］
+        mnemonic: n.【simil 相似，-itude 名词后缀】
+        meaning: 相似，类似，类似物
       - name: dissimilar
+        phonetic: ［di'similə］
+        mnemonic: adj.【dis-不，simil 相同，-ar …的】
+        meaning: 不同的，不一样的
         children:
           - name: dissimilarity
+            phonetic: ［ˌdisimi'lærəti］
+            mnemonic: n.【见上，-arity 名词后缀】
+            meaning: 不同，相异点
           - name: dissimilate
+            phonetic: ［di'simjuleit］
+            mnemonic: v.【见上，-ate 动词后缀】
+            meaning: （使）不同，（使）相异
             children:
               - name: dissimilation
+                phonetic: ［diˌsimju'leiʃən］
+                mnemonic: n.【见上，-ation 名词后缀】
+                meaning: 异化，相异；异化作用
           - name: dissimilitude
+            phonetic: ［ˌdisi'militju:d］
+            mnemonic: n.【见上，-itude 名词后缀】
+            meaning: 不同，不一样
   - name: assimilate
+    phonetic: ［ə'simileit］
+    mnemonic: v.【as-加强意义，simil 相同，-ate 动词后缀】
+    meaning: 同化；使相同
     children:
       - name: assimilator
+        phonetic: ［ə'simileitə］
+        mnemonic: n.【见上，-ator 者】
+        meaning: 同化者
       - name: assimilative
+        phonetic: ［ə'similətiv］
+        mnemonic: adj.【见上，-ative …的】
+        meaning: 同化的
       - name: assimilation
+        phonetic: ［əˌsimi'leiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 同化（作用）
   - name: facsimile
+    phonetic: ［fæk'simili］
+    mnemonic: n.【fac=fact 作，simil 相似；“作出与原物相似之物” → 】
+    meaning: 誊写，摹写；摹真本
     children:
       - name: telefacsimile
   - name: simulate
+    phonetic: ［'simjuleit］
+    mnemonic: v.【simul 相似，-ate 动词后缀；“作出相似的样子” → 】
+    meaning: 模仿，模拟；假装，冒充
     children:
       - name: simulator
+        phonetic: ［'simjuleitə］
+        mnemonic: n.【见上，-ator 表示人或物】
+        meaning: 模仿者，假装者；模拟器
       - name: simulated
       - name: simulation
+        phonetic: ［ˌsimju'leiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 模仿，模拟；假装
       - name: dissimulate
         children:
           - name: dissimulation
   - name: simultaneous
+    phonetic: ［ˌsiməl'teiniəs］
+    mnemonic: adj.【simul 相同，-aneous 形容词后缀，…的；在时间上“相同的” → 】
+    meaning: 同时的；同时发生的
     children:
       - name: simultaneously
       - name: simultaneity
+        phonetic: ［ˌsaiməltə'niəti］
+        mnemonic: n.【见上，-aneity 名词后缀】
+        meaning: 同时性；同时发生
       - name: simulcast
   - name: verisimilar
+    phonetic: ［ˌveri'similə］
+    mnemonic: adj.【veri 真实，similar 相似】
+    meaning: 似乎是真的；貌似真实的
     children:
       - name: verisimilitude
+        phonetic: ［ˌverisi'militju:d］
+        mnemonic: n.【veri 真实，simil 相似，-itude 抽象名词后缀】
+        meaning: 逼真；貌似真实；逼真的事物；貌似真实的事物

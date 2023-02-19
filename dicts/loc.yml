@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: local
+    phonetic: ［'ləukəl］
+    mnemonic: adj.【loc 地方，-al…的】
+    meaning: 地方的，当地的，本地的
     children:
       - name: locally
       - name: locale
@@ -11,28 +14,52 @@ children:
           - name: locality
           - name: allocate
       - name: localism
+        phonetic: ［'ləukəlizəm］
+        mnemonic: n.【见上，-ism 表示主义，语言】
+        meaning: 地方主义，方言，土语
       - name: localize
+        phonetic: ［'ləukəlaiz］
+        mnemonic: v.【见上，-ize 使…】
+        meaning: 使地方化，使局限
         children:
           - name: localized
           - name: localization
+            phonetic: ［ˌləukəlai'zeiʃən］
+            mnemonic: n.【见上，-ization …化】
+            meaning: 地方化，局限
       - name: virilocal
       - name: uxorilocal
       - name: matrilocal
   - name: locate
+    phonetic: ［ləu'keit］
+    mnemonic: v.【loc 地方 → 位置，-ate 动词后缀】
+    meaning: 确定…的地点，使坐落于
     children:
       - name: locater
       - name: located
       - name: location
+        phonetic: ［ləu'keiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 定位，场所，位置
         children:
           - name: locational
       - name: relocate
+        phonetic: ［ˌri:ləu'keit，ri:'ləukeit］
+        mnemonic: v.【re-再，重新，locate 定位，安置】
+        meaning: 重新定位，重新安置
         children:
           - name: relocated
           - name: relocation
   - name: dislocate
+    phonetic: ［'disləukeit］
+    mnemonic: v.【dis-离，loc 地方，位置，-ate 使…】
+    meaning: 使不在原来位置，使位置错乱，换位，脱臼
     children:
       - name: dislocated
       - name: dislocation
+        phonetic: ［ˌdisləu'keiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 离开原位，脱位，脱臼
   - name: allocate
     children:
       - name: allocator

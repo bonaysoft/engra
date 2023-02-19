@@ -17,10 +17,25 @@ children:
     children:
       - name: monolithic
   - name: monk
+    phonetic: ［mʌŋk］
+    mnemonic: n.【mon单独，孤独 → 孤身一人，独身者，过孤独生活者 → 】
+    meaning: 僧侣，修道士，出家人
     children:
       - name: monkish
+        phonetic: ［'mʌŋkiʃ］
+        mnemonic: adj.【见上，-ish（似）…的】
+        meaning: 僧侣（似）的，修道士（似）的
   - name: monastery
+    phonetic: ［'mɔnəstəri］
+    mnemonic: n.【monast=monk 僧侣，-ery 表示地方、场所】
+    meaning: 修道院，寺院，庙宇
     children:
       - name: monastic
+        phonetic: ［mə'næstik］
+        mnemonic: adj.【见上，-ic …的】
+        meaning: 僧侣的，修道的，修道生活的，修道院的
         children:
           - name: monasticism
+            phonetic: ［mə'næstisizəm］
+            mnemonic: n.【见上，-ism 表示情况、状态、制度】
+            meaning: 修道生活，禁欲生活，寺院制度

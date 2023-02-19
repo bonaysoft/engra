@@ -4,14 +4,29 @@ tags:
   - SOW
 children:
   - name: revenue
+    phonetic: ［'revənju:］
+    mnemonic: n.【re-回，ven 来；“回来” → 收回 → 从…收回的东西 → 收入】
+    meaning: （国家的）岁收，税收，收入
     children:
       - name: revenuer
+        phonetic: ［'revənju:ə］
+        mnemonic: n.【见上，-er 表示人】
+        meaning: 税务官
   - name: intervene
+    phonetic: ［ˌintə'vi:n］
+    mnemonic: v.【inter-之间，中间，ven 来；“来到其间” → 介入其中 → 】
+    meaning: 干预，干涉，介入
     children:
       - name: intervener
       - name: intervenor
+        phonetic: ［ˌintə'vi:nə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 干涉者，介入者
       - name: intervening
       - name: intervention
+        phonetic: ［ˌintə'venʃən］
+        mnemonic: n.【见上，-tion 名词后缀，表示行为】
+        meaning: 干预，干涉，介入
         children:
           - name: interventionist
           - name: interventionism
@@ -23,11 +38,23 @@ children:
         children:
           - name: inconveniently
   - name: convene
+    phonetic: ［kən'vi:n］
+    mnemonic: v.【con-共同，一起，ven 来；“召唤大家来到一起” → 】
+    meaning: 召集（会议），集合
     children:
       - name: convener
+        phonetic: ［kən'vi:nə］
+        mnemonic: n.【见上，-er 表示人】
+        meaning: 会议召集人
       - name: convention
+        phonetic: ［kən'venʃən］
+        mnemonic: n.【见上，-tion 名词后缀，表示行为的结果】
+        meaning: 集会，会议，大会
         children:
           - name: conventioneer
+            phonetic: ［kənvenʃə'niə］
+            mnemonic: n.【见上，-eer 表示人】
+            meaning: 参加会议的人，到会的人
           - name: conventional
             children:
               - name: conventionally

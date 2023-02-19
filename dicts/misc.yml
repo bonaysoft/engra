@@ -4,5 +4,11 @@ tags:
   - SOW
 children:
   - name: miscellaneous
+    phonetic: ［ˌmisə'leinjəs］
+    mnemonic: adj.【misc 混杂，-aneous 形容词后缀，…的】
+    meaning: 混杂的，混合的，杂项的，各种各样混杂在一起的
     children:
       - name: miscellany
+        phonetic: ［mi'seləni］
+        mnemonic: n.【见上】
+        meaning: 混杂；杂物；杂集，杂录

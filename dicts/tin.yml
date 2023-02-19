@@ -4,10 +4,19 @@ tags:
   - SOW
 children:
   - name: continue
+    phonetic: ［kən'tinju:］
+    mnemonic: v.【con-共同，一起，tin 握，持；“把前后各种事物保持在一起” → 使连在一起，使相连 → 】
+    meaning: 连续，继续，使连续，使继续
     children:
       - name: continuity
       - name: continuation
+        phonetic: ［kənˌtinjuə'eiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 连续，继续，持续，继续部分
       - name: continued
+        phonetic: ［kən'tinju:d］
+        mnemonic: adj.【见上，-ed …的】
+        meaning: 连续的，继续的
       - name: continuing
       - name: continuous
         children:
@@ -24,8 +33,14 @@ children:
           - name: discontinuation
       - name: discontinuance
   - name: continent
+    phonetic: ［'kɔntinənt］
+    mnemonic: n.【con-共同，一起，tin 握，持，-ent 表示物；“保持连在一起的陆地” → 】
+    meaning: 大陆，陆地，大洲
     children:
       - name: continental
+        phonetic: ［ˌkɔnti'nentəl］
+        mnemonic: adj.【见上，-al…的】
+        meaning: 大陆的，大陆性的
       - name: subcontinent
         children:
           - name: subcontinental

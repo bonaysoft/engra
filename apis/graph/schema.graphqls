@@ -9,9 +9,11 @@ directive @goTag(
 
 type Vocabulary  {
     name: String!
+    phonetic: String! @goTag(key: "yaml",value: "phonetic,omitempty")
+    mnemonic: String! @goTag(key: "yaml",value: "mnemonic,omitempty")
+    constitute: [String!] @goTag(key: "yaml",value: "constitute,omitempty")
     meaning: String! @goTag(key: "yaml",value: "meaning,omitempty")
     tags: [String!] @goTag(key: "yaml",value: "tags,omitempty")
-    constitute: [String!] @goTag(key: "yaml",value: "constitute,omitempty")
     children: [Vocabulary!] @goTag(key: "yaml",value: "children,omitempty")
 }
 

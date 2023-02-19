@@ -10,9 +10,18 @@ children:
           - name: tactfully
       - name: tactless
   - name: tactile
+    phonetic: ［'tæktail］
+    mnemonic: adj.【tact 触，-ile 形容词后缀，…的】
+    meaning: 触觉的，有触觉的；能触知的
     children:
       - name: tactility
+        phonetic: ［tæk'tiləti］
+        mnemonic: n.【tact 触，-ility 名词后缀】
+        meaning: 触觉，有触觉
   - name: intact
+    phonetic: ［in'tækt］
+    mnemonic: adj.【in-不，未，tact 触】
+    meaning: 未经触动的
     children:
       - name: intactness
   - name: tactic

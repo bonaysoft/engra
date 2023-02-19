@@ -10,6 +10,9 @@ children:
           - name: versifier
           - name: versification
   - name: versatile
+    phonetic: ［'və:sətail］
+    mnemonic: adj.【vers 转，-atile 形容词后缀，可…的】
+    meaning: 可转动的，多方面的，多才多艺的
     children:
       - name: versatility
   - name: university
@@ -29,14 +32,32 @@ children:
               - name: universalized
               - name: universalization
   - name: diverse
+    phonetic: ［dai'və:s］
+    mnemonic: adj.【di-（=dis-）离，分开，分数，vers 转；“转离原样”，“转为多样的” → 】
+    meaning: （和…）不一样的，多种多样的，形形色色的
     children:
       - name: diversely
       - name: diversity
+        phonetic: ［dai'və:siti］
+        mnemonic: n.【见上，-ity 名词后缀，表性质、情况】
+        meaning: 多样性，变化，异样
       - name: diversify
+        phonetic: ［dai'və:sifai］
+        mnemonic: v.【见上，-i-，-fy 使…】
+        meaning: 使不同，使多样化
         children:
           - name: diversified
+            phonetic: ［dai'və:sifaid］
+            mnemonic: adj.【见上，-ed …的】
+            meaning: 多样化的
           - name: diversification
+            phonetic: ［diˌvə:sifi'keiʃən］
+            mnemonic: n.【见上，-fication 名词后缀，…化】
+            meaning: 多样化
       - name: diversiform
+        phonetic: ［dai'və:sifɔ:m］
+        mnemonic: adj.【见上，-form 有…形状的】
+        meaning: 各种形状的，各式各样的
       - name: biodiverse
         children:
           - name: biodiversity
@@ -51,32 +72,62 @@ children:
               - name: conversationally
               - name: conversationalist
   - name: reverse
+    phonetic: ［ri'və:s］
+    mnemonic: n./v.【re-回，反 → 倒，vers 转】
+    meaning: 倒转，翻转，回转，逆转
     children:
       - name: reverser
       - name: reversing
       - name: reversed
       - name: reversal
       - name: reversion
+        phonetic: ［ri'və:ʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 倒转，翻转，回复，反向
       - name: reversible
+        phonetic: ［ri'və:səbl］
+        mnemonic: adj.【见上，-ible 可…的】
+        meaning: 可倒转的，可逆的
         children:
           - name: reversibility
           - name: irreversible
+            phonetic: ［ˌiri'və:səbl］
+            mnemonic: adj.【ir-不，见上】
+            meaning: 不可倒转的，不可逆的
             children:
               - name: irreversibly
               - name: irreversibility
   - name: adverse
+    phonetic: ［'ædvə:s］
+    mnemonic: adj.【ad-表示 to，vers 转；“转过来” → 反转 → 相反 → 敌对 → 】
+    meaning: （在位置或方向上）逆的，相反的；（引申为）敌对的
     children:
       - name: adversely
       - name: adversity
+        phonetic: ［əd'və:səti］
+        mnemonic: n.【见上，advers（e）逆的，-ity 表示情况、状态】
+        meaning: 逆境，不幸，苦难
       - name: adverseness
       - name: adversary
+        phonetic: ［'ædvəsəri］
+        mnemonic: n.【见上，advers（e）敌对的，-ary 表示人】
+        meaning: 对手，敌手
         children:
           - name: adversarial
   - name: inverse
+    phonetic: ［ˌin'və:s］
+    mnemonic: adj.【见上】
+    meaning: 相反的，倒转的
     children:
       - name: inversely
       - name: inversive
+        phonetic: ［in'və:siv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 反向的，倒转的
       - name: inversion
+        phonetic: ［in'və:ʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 反向，倒转，转换
   - name: perverse
     children:
       - name: perversely

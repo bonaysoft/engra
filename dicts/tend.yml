@@ -10,9 +10,18 @@ children:
         children:
           - name: untended
       - name: tendency
+        phonetic: ［'tendənsi］
+        mnemonic: n.【tend 伸，-ency 名词后缀，表示情况、性质；“伸向” → 倾向】
+        meaning: 趋向，倾向，趋势，倾向性
       - name: tendence
       - name: tendentious
+        phonetic: ［ten'denʃəs］
+        mnemonic: adj.【见上，-entious（=-ent + -ious）…的】
+        meaning: 有倾向性的
   - name: tender
+    phonetic: ［'tendə］
+    mnemonic: adj.【tend 伸 → 伸出；“刚伸出（长出）的嫩芽” → 】
+    meaning: 嫩的；柔软的，温柔的
     children:
       - name: tenderly
       - name: tenderness
@@ -23,6 +32,9 @@ children:
       - name: goaltender
       - name: goaltending
   - name: attend
+    phonetic: ［ə'tend］
+    mnemonic: v.【at-表示 to 向，tend 伸；“to stretch one's mind to”，“把精神或心思伸向…” → 】
+    meaning: 注意，关心；出席
     children:
       - name: attender
       - name: attendee
@@ -33,10 +45,16 @@ children:
       - name: attendance
       - name: attendant
       - name: attention
+        phonetic: ［ə'tenʃən］
+        mnemonic: n.【见上，tent = tend，-ion 名词后缀】
+        meaning: 注意，关心，注意力
         children:
           - name: attentional
           - name: inattention
       - name: attentive
+        phonetic: ［ə'tentiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 注意的
         children:
           - name: attentively
           - name: attentiveness
@@ -44,6 +62,9 @@ children:
             children:
               - name: inattentiveness
   - name: extend
+    phonetic: ［ik'stend］
+    mnemonic: v.【ex-外，出，tend 伸】
+    meaning: 伸出，伸开，扩大，扩展，扩张
     children:
       - name: extender
       - name: extending
@@ -53,9 +74,18 @@ children:
         children:
           - name: overextended
       - name: extent
+        phonetic: ［ik'stent］
+        mnemonic: n.【ex-出，tent 伸；伸开 → 广阔】
+        meaning: 广度，宽度，长度，一大片（地区）
       - name: extensor
       - name: extensible
+        phonetic: ［ik'stensibl］
+        mnemonic: adj.【见上，-ible 可…的】
+        meaning: 可伸展的，可扩大的，可扩张的
       - name: extension
+        phonetic: ［ik'stenʃən］
+        mnemonic: n.【见上，tens = tend，-ion 名词后缀】
+        meaning: 伸展，扩大，扩展
         children:
           - name: extensional
           - name: overextension
@@ -64,6 +94,9 @@ children:
     children:
       - name: tendonitis
   - name: intend
+    phonetic: ［in'tend］
+    mnemonic: v.【in-入，tend 伸；“把心思伸向某事” → 打算做某事 → 】
+    meaning: 想要，打算
     children:
       - name: intending
       - name: intended
@@ -79,19 +112,31 @@ children:
             children:
               - name: superintendence
   - name: contend
+    phonetic: ［kən'tend］
+    mnemonic: v.【con-共同，一起，tend 伸 → 伸取 → 追求；“与…一起伸取某物”，“与…共同追求某物” → 】
+    meaning: 竞争，斗争
     children:
       - name: contender
       - name: contending
       - name: contention
+        phonetic: ［kən'tenʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 竞争，斗争
       - name: contentious
         children:
           - name: contentiousness
   - name: pretend
+    phonetic: ［pri'tend］
+    mnemonic: v.【pre-前，tend 伸 → 伸开 → 摆开；“在别人面前摆出某种姿势或样子” → 】
+    meaning: 假装，佯装，装作
     children:
       - name: pretender
       - name: pretending
       - name: pretended
       - name: pretense
+        phonetic: ［pri'tens］
+        mnemonic: n.【见上，名词】
+        meaning: 假装，做作；借口
       - name: pretension
       - name: pretentious
         children:
@@ -99,8 +144,17 @@ children:
           - name: pretentiousness
           - name: unpretentious
   - name: portend
+    phonetic: ［pɔ:'tend］
+    mnemonic: v.【por-= pro-前，tend 伸；“伸到前面” → 出现在前面，（某种情况或事物）出现在…之前 → 】
+    meaning: 预示，预兆，作为…的兆头
     children:
       - name: portent
+        phonetic: ［'pɔ:tent］
+        mnemonic: n.【见上，tent = tend；出现在…之前的情况或事物 → 】
+        meaning: 预兆，不祥之兆
       - name: portentous
+        phonetic: ［pɔ:'tentəs］
+        mnemonic: adj.【见上，-ous …的】
+        meaning: 预兆的，不祥之兆的
         children:
           - name: portentously

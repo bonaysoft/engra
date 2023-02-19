@@ -12,6 +12,9 @@ children:
         children:
           - name: defusion
   - name: confuse
+    phonetic: ［kən'fju:z］
+    mnemonic: v.【con-共同，合，fus 流；“合流”，“流到一处” → 混在一起 → 】
+    meaning: 使混杂，混乱，混淆，使迷乱
     children:
       - name: confusing
         children:
@@ -20,22 +23,46 @@ children:
         children:
           - name: confusedly
       - name: confusion
+        phonetic: ［kən'fju:ʒən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 混乱，混乱状态，骚乱
   - name: refuse
+    phonetic: ［ri'fju:z］
+    mnemonic: v.【re-回，fus 流；“流回” → 倒灌，倒流 → 退回 → 不接纳 → 】
+    meaning: 拒绝，拒受
     children:
       - name: refused
       - name: refusal
+        phonetic: ［ri'fju:zəl］
+        mnemonic: n.【见上，-al 名词后缀】
+        meaning: 拒绝
       - name: refusenik
   - name: infuse
+    phonetic: ［in'fju:z］
+    mnemonic: v.【in-入，内，fus 流，灌注；“流入”】
+    meaning: （向…）注入，灌输
     children:
       - name: infuser
+        phonetic: ［in'fju:zə］
+        mnemonic: n.【见上，-er 表示物】
+        meaning: 注入器
       - name: infusion
+        phonetic: ［in'fju:ʒən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 灌输
   - name: suffuse
     children:
       - name: suffused
   - name: diffuse
+    phonetic: ［di'fju:z］
+    mnemonic: v.【dif-分开，散开，fus 流；“分开流”，“散开流” → 到处流】
+    meaning: 散开，传播，（使）散开，（使）扩散
     children:
       - name: diffuser
       - name: diffused
       - name: diffusely
       - name: diffusive
       - name: diffusion
+        phonetic: ［di'fju:ʒən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 散开，扩散，弥漫，传布

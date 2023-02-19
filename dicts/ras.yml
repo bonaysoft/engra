@@ -4,20 +4,56 @@ tags:
   - SOW
 children:
   - name: erase
+    phonetic: ［i'reiz］
+    mnemonic: v.【e-去，除，ras 擦，刮】
+    meaning: 擦去，抹掉；除去
     children:
       - name: eraser
+        phonetic: ［i'reizə］
+        mnemonic: n.【可见，-er 表示物】
+        meaning: 擦除器（如黑板擦、橡皮等）
       - name: erasing
       - name: erased
       - name: erasable
+        phonetic: ［i'reizəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可擦掉的，可抹掉的
       - name: erasure
+        phonetic: ［i'reiʒə］
+        mnemonic: n.【见上，-ure 名词后缀】
+        meaning: 擦掉，删去；擦掉处
       - name: erasion
+        phonetic: ［i'reiʒən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 擦去，刮除，抹掉
   - name: abrade
+    phonetic: ［ə'breid］
+    mnemonic: v.【ab-离开，去，rad 擦】
+    meaning: 擦掉，磨掉；磨，擦
     children:
       - name: abradant
+        phonetic: ［ə'beidənt］
+        mnemonic: adj./n.【见上，-ant 名词及形容词后缀】
+        meaning: 摩擦着的；摩擦物（如砂纸、金刚砂等）
   - name: abrase
+    phonetic: ［ə'breiz］
+    mnemonic: v.【ab-离开，去，ras 擦】
+    meaning: 擦掉，磨掉
     children:
       - name: abrasion
+        phonetic: ［ə'breiʒən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 擦掉，磨损；擦伤处
       - name: abrasive
+        phonetic: ［ə'breisiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 有研磨作用的；研磨料（如砂纸等）
   - name: raze
+    phonetic: ［reiz］
+    mnemonic: v.【raz←ras 刮】
+    meaning: 刮去，削去；铲掉，铲平
     children:
       - name: razor
+        phonetic: ［'reizə］
+        mnemonic: n.【见上，-or 表示物；“削刮之器” → 】
+        meaning: 剃刀

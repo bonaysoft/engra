@@ -4,18 +4,39 @@ tags:
   - SOW
 children:
   - name: mortal
+    phonetic: ［'mɔ:tl］
+    mnemonic: adj.【mort 死，-al…的】
+    meaning: 终有一死的，死的，临死的
     children:
       - name: mortally
       - name: mortality
+        phonetic: ［mɔ:'tæləti］
+        mnemonic: n.【见上，-ity 名词后缀，表示性质】
+        meaning: 必死性，死亡率
       - name: immortal
+        phonetic: ［i'mɔ:təl］
+        mnemonic: adj.【im-不，mort 死，-al …的】
+        meaning: 不死的，永生的，不朽的
         children:
           - name: immortality
+            phonetic: ［ˌimɔ:'tæləti］
+            mnemonic: n.【见上，-ity 表示性质、情况】
+            meaning: 不死，不朽，永存
           - name: immortalize
+            phonetic: ［i'mɔ:təlaiz］
+            mnemonic: v.【见上，-ize 动词后缀，使…】
+            meaning: 使不朽，使不灭，使永存
             children:
               - name: immortalization
   - name: mortuary
+    phonetic: ［'mɔ:tjuəri］
+    mnemonic: n.【mort 死 → 死尸，-u-，-ary 表示场所、地点】
+    meaning: 停尸室，殡仪馆
     children:
       - name: mortician
+        phonetic: ［mɔ:'tiʃ(ə)n］
+        mnemonic: n.【mort 死，-ician 做…职业的人】
+        meaning: 承办殡葬的人
   - name: mortify
     children:
       - name: mortifying

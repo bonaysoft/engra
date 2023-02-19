@@ -4,10 +4,31 @@ tags:
   - SOW
 children:
   - name: solar
+    phonetic: ［'səulə］
+    mnemonic: adj.【sol 太阳，-ar 形容词后缀，…的】
+    meaning: 太阳的，日光的
     children:
       - name: solarize
+        phonetic: ［'səuləraiz］
+        mnemonic: v.【见上，-ize 动词后缀】
+        meaning: 晒；使经受日晒作用
       - name: solarium
+        phonetic: ［səu'lɛəriəm］
+        mnemonic: n.【sol 太阳，-arium 名词后缀，表示场所】
+        meaning: 日光浴室；日光治疗室
       - name: subsolar
+        phonetic: ［ˌsʌb'səulə］
+        mnemonic: adj.【sub-下面，sol 太阳，-ar …的】
+        meaning: 在太阳正下面的；地（球）上的；尘世的
       - name: lunisolar
+        phonetic: ［ˌlu:ni'səulə］
+        mnemonic: adj.【lun 月，-i-，sol 日，-ar …的】
+        meaning: 月和日的
       - name: extrasolar
+        phonetic: ［ˌekstrə'səulə］
+        mnemonic: adj.【extra-以外，sol 太阳，-ar …的】
+        meaning: 太阳系以外的
       - name: circumsolar
+        phonetic: ［ˌsə:kəm'səulə］
+        mnemonic: adj.【circum-周围，sol 太阳，-ar …的】
+        meaning: 围绕太阳的，近太阳的

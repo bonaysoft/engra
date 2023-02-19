@@ -4,7 +4,13 @@ tags:
   - SOW
 children:
   - name: benevolence
+    phonetic: ［bi'nevələns］
+    mnemonic: n.【bene-好，vol 意愿，-ence 名词后缀；“好意”，“好心” → 】
+    meaning: 仁慈，善行，善心，慈善
     children:
       - name: benevolent
+        phonetic: ［bi'nevələnt］
+        mnemonic: adj.【见上，-ent …的】
+        meaning: 仁慈的，慈善的，善心的
         children:
           - name: benevolently

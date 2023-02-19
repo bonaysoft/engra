@@ -7,6 +7,9 @@ children:
         children:
           - name: millennialism
   - name: perennial
+    phonetic: ［pə'reniəl］
+    mnemonic: adj.【per- 通，全，enn 年，-ial 形容词后缀，…的】
+    meaning: 全年的，四季不断的
     children:
       - name: perennially
       - name: perennity

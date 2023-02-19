@@ -4,11 +4,26 @@ tags:
   - SOW
 children:
   - name: petroleum
+    phonetic: ［pi'trəuljəm］
+    mnemonic: n.【petr 石，ol（e）油，-um 名词后缀】
+    meaning: 石油
     children:
       - name: petrol
         children:
           - name: petrolic
+            phonetic: ［pi'trɔlik］
+            mnemonic: adj.【petr 石，ol（e）油，-ic …的】
+            meaning: 石油的
           - name: petrolize
+            phonetic: ［'petrəlaiz］
+            mnemonic: v.【petrol 石油，-ize 动词后缀】
+            meaning: 用石油处理
           - name: petroliferous
+            phonetic: ［ˌpetrə'lifərəs］
+            mnemonic: adj.【petr 石，ol（e）油，-i-，fer 具有，-ous …的】
+            meaning: 含石油的；产石油的
       - name: petrochemistry
+        phonetic: ［ˌpetrəu'kemistri］
+        mnemonic: n.【petro 石 → 石油，chemistry 化学】
+        meaning: 石油化学
       - name: petrolatum

@@ -4,12 +4,33 @@ tags:
   - SOW
 children:
   - name: pacify
+    phonetic: ［'pæsifai］
+    mnemonic: v.【paci 和平，-fy 动词后缀，使…】
+    meaning: 使和平，使平静，使平定，抚慰
     children:
       - name: pacific
+        phonetic: ［pə'sifik］
+        mnemonic: adj.【paci 和平，-fic 形容词后缀，…的】
+        meaning: 和平的，太平的，平静的
       - name: pacifier
+        phonetic: ［'pæsifaiə］
+        mnemonic: n.【见上，-er 表示人】
+        meaning: 平定者，平息者，抚慰者
       - name: pacifism
+        phonetic: ［'pæsifiz(ə)m］
+        mnemonic: n.【见上，-ism …主义】
+        meaning: 和平主义，不抵抗主义
       - name: pacifist
+        phonetic: ［'pæsifist］
+        mnemonic: n.【见上，-ist …主义者】
+        meaning: 和平主义者，不抵抗主义者
         children:
           - name: pacifistic
       - name: pacificator
+        phonetic: ［pə'sifikeitə］
+        mnemonic: n.【见上， -ator 者】
+        meaning: 平定者
       - name: pacification
+        phonetic: ［ˌpæsifi'keiʃən］
+        mnemonic: n.【见上，-fication 名词后缀，表示行为、情况】
+        meaning: 平定，平息，绥靖，太平

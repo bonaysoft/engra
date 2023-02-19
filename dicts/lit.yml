@@ -1,5 +1,11 @@
 name: lit
 children:
   - name: obliterate
+    phonetic: ［ə'blitəreit］
+    mnemonic: v.【ob-离，去掉，liter 字，字母 → 字迹， -ate 动词后缀；“把字迹涂掉”】
+    meaning: 涂抹，擦去，删除
     children:
       - name: obliteration
+        phonetic: ［əˌblitə'reiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 涂掉，涂抹，删除，灭迹

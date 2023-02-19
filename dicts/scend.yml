@@ -4,19 +4,40 @@ tags:
   - SOW
 children:
   - name: descend
+    phonetic: ［di'send］
+    mnemonic: v.【de-下，向下，scend 爬】
+    meaning: 下降；传下，遗传
     children:
       - name: descender
+        phonetic: ［di'sendə］
+        mnemonic: n.【见上，-er 表人和物】
+        meaning: 下降者；下降物
       - name: descending
       - name: descendant
       - name: descendent
+        phonetic: ［di'sendənt］
+        mnemonic: n.【见上，-ent 表人；“传下来的人”】
+        meaning: 子孙，后代，后裔
       - name: descent
+        phonetic: ［di'sent］
+        mnemonic: n.【见上，由 descend 转成的名词】
+        meaning: 下降，降下
   - name: transcend
+    phonetic: ［træn'send］
+    mnemonic: v.【tran-= trans-越过，超，scend 爬，攀行】
+    meaning: 超出，超过；超越
     children:
       - name: transcendence
       - name: transcendent
+        phonetic: ［træn'sendənt］
+        mnemonic: adj./n.【见上，-ent 形容词及名词后缀】
+        meaning: 卓越的；卓越的人
         children:
           - name: transcendental
   - name: ascend
+    phonetic: ［ə'send］
+    mnemonic: v.【a-= ad-表示 to，scend 爬；“爬上”】
+    meaning: 上升；登高；攀登
     children:
       - name: ascending
       - name: ascendant

@@ -1,4 +1,7 @@
 name: creed
+phonetic: ［kri:d］
+mnemonic: n.【creed←cred 相信，信任】
+meaning: 信条，教义，信念
 children:
   - name: creed
     children:

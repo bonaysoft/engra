@@ -4,15 +4,42 @@ tags:
   - SOW
 children:
   - name: frigid
+    phonetic: ［'friʤid］
+    mnemonic: adj.【frig 寒冷，-id …的】
+    meaning: 寒冷的
     children:
       - name: frigidity
+        phonetic: ［fri'ʤiditi］
+        mnemonic: n.【frig 寒冷，-idity 名词后缀】
+        meaning: 寒冷；冷淡
       - name: frigidarium
+        phonetic: ［ˌfriʤi'dæriəm］
+        mnemonic: n.【frigid 寒冷的，-arium 名词后缀，表示场所】
+        meaning: 冷藏室；纳凉台
   - name: refrigerate
+    phonetic: ［ri'friʤəreit］
+    mnemonic: v.【re-加强意义，frig 寒冷，-ate 动词后缀，使…】
+    meaning: 使冷，冷冻
     children:
       - name: refrigerator
+        phonetic: ［ri'friʤəreitə］
+        mnemonic: n.【见上，-or 表示物】
+        meaning: 冰箱；冷冻机；冷藏库
       - name: refrigerant
+        phonetic: ［ri'friʤərənt］
+        mnemonic: adj./n.【见上，-ant 形容词兼名词后缀】
+        meaning: 制冷的；消热的；制冷剂；清凉剂；退热药
       - name: refrigerating
       - name: refrigerated
       - name: refrigeration
+        phonetic: ［riˌfriʤə'reiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 冷冻（法，作用），冷却，制冷（作用）
       - name: refrigerative
+        phonetic: ［ri'friʤəreitiv］
+        mnemonic: adj.【见上，-ative …的】
+        meaning: 使冷的；消热的
       - name: refrigeratory
+        phonetic: ［ri'friʤərətəri］
+        mnemonic: adj.【见上，-ory 形容词兼名词后缀】
+        meaning: 制冷的，冷却的；消热的；冷却器；冰箱

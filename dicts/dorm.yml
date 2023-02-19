@@ -4,9 +4,21 @@ tags:
   - SOW
 children:
   - name: dormant
+    phonetic: ［'dɔ:mənt］
+    mnemonic: adj.【dorm 睡眠，-ant 形容词后缀，…的】
+    meaning: 休眠的，蛰伏的
     children:
       - name: dormancy
+        phonetic: ［'dɔ:mənsi］
+        mnemonic: n.【dorm 睡眠，-ancy 名词后缀，表状态】
+        meaning: 休眠，蛰伏
       - name: dormitive
+        phonetic: ［'dɔ:mitiv］
+        mnemonic: adj./n.【dorm 睡眠，-ive 名词及形容词后缀】
+        meaning: 安眠的；安眠药
       - name: dormitory
+        phonetic: ［'dɔ:mitəri］
+        mnemonic: n.【dorm 睡眠，-ory 名词后缀，表场所、地点】
+        meaning: 集体寝室，宿舍
       - name: dorm
       - name: dormer

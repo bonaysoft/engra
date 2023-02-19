@@ -4,20 +4,38 @@ tags:
   - SOW
 children:
   - name: involve
+    phonetic: ［in'vɔlv］
+    mnemonic: v.【in-入，volv 滚 → 卷，“卷入” → 包入 → 】
+    meaning: 卷缠；包缠；使卷入；包含
     children:
       - name: involved
         children:
           - name: uninvolved
       - name: involvement
+        phonetic: ［in'vɔlvmənt］
+        mnemonic: n.【见上，-ment 名词后缀】
+        meaning: 卷入，牵连；包含
   - name: evolve
+    phonetic: ［i'vɔlv］
+    mnemonic: v.【e-出，外，volv 滚；“向外滚动” → 向前滚进 → 】
+    meaning: 进化；使进化；进展；演化
     children:
       - name: evolving
       - name: evolved
       - name: evolution
+        phonetic: ［ˌi:və'lju:ʃən］
+        mnemonic: n.【见上，-tion 名词后缀】
+        meaning: 进化；进展；演化
         children:
           - name: evolutional
           - name: evolutionism
+            phonetic: ［ˌi:və'lju:ʃənizəm］
+            mnemonic: n.【见上，-ism 论】
+            meaning: 进化论
           - name: evolutionist
+            phonetic: ［ˌi:və'lju:ʃənist］
+            mnemonic: n.【见上，-ist 者】
+            meaning: 进化论者
           - name: coevolution
             children:
               - name: coevolutionary
@@ -25,8 +43,14 @@ children:
         children:
           - name: evolutionarily
   - name: revolve
+    phonetic: ［ri'vɔlv］
+    mnemonic: v.【re-回，反，volv 转】
+    meaning: 旋转；使旋转
     children:
       - name: revolver
+        phonetic: ［ri'vɔlvə］
+        mnemonic: n.【见上，-er 表示物或人；“连续转动之物” → 】
+        meaning: 左轮手枪；转炉；旋转者
       - name: revolving
   - name: devolve
     children:

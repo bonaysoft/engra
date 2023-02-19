@@ -4,32 +4,62 @@ tags:
   - SOW
 children:
   - name: circle
+    phonetic: ［'sə:kl］
+    mnemonic: n.【circ 圆，-le 名词后缀】
+    meaning: 圆，圈，环状物
     children:
       - name: circling
       - name: circled
       - name: semicircle
+        phonetic: ［'semiˌsə:kəl］
+        mnemonic: n.【semi- 半，circle 圆】
+        meaning: 半圆
       - name: encircle
+        phonetic: ［in'sə:kl］
+        mnemonic: v.【en- 作成…，circle 圈；“作成一圈”】
+        meaning: 包围，绕…行一周
         children:
           - name: encircled
           - name: encirclement
   - name: circuit
+    phonetic: ［'sə:kit］
+    mnemonic: n.【circ-圆，环，-u-，it 行】
+    meaning: 环行，周线，电路，回路
     children:
       - name: circuity
+        phonetic: ［sə'kju:iti］
+        mnemonic: n.【见上，-y 名词后缀】
+        meaning: （说话等的）转弯抹角，绕圈子
       - name: circuitry
       - name: circuitous
+        phonetic: ［sə'kju:itəs］
+        mnemonic: adj.【见上，-ous …的】
+        meaning: 迂回的，绕行的
         children:
           - name: circuitously
   - name: circular
+    phonetic: ［'sə:kjulə］
+    mnemonic: adj.【circul=circle 圆，-ar 形容词后缀，…的】
+    meaning: 圆形的，环形的
     children:
       - name: circularly
       - name: circularity
+        phonetic: ［ˌsə:kju'lærəti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 圆形性，环行性，圆，迂回
       - name: noncircular
       - name: semicircular
   - name: circulate
+    phonetic: ［'sə:kjuleit］
+    mnemonic: v.【circul=circle 环，-ate 动词后缀，使…】
+    meaning: 循环，环流，通行，流通，流传
     children:
       - name: circulator
       - name: circulating
       - name: circulation
+        phonetic: ［ˌsə:kju'leiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 循环，环流，流通，流传
       - name: recirculate
         children:
           - name: recirculating

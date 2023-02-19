@@ -4,19 +4,33 @@ tags:
   - SOW
 children:
   - name: credible
+    phonetic: ［'kredəbl］
+    mnemonic: adj.【cred 相信，信任，-ible 可…的】
+    meaning: 可信的，可靠的
     children:
       - name: credibly
       - name: credibility
+        phonetic: ［ˌkredi'biləti］
+        mnemonic: n.【cred 相信，信任，-ibility 表示性质】
+        meaning: 可信，可靠，信用
       - name: incredible
+        phonetic: ［in'kredəbl］
+        mnemonic: adj.【in-不，credible 可信的】
+        meaning: 不可信的
         children:
           - name: incredibly
   - name: credit
+    phonetic: ［'kredit］
+    meaning: n.信任，相信
     children:
       - name: creditor
       - name: credited
         children:
           - name: uncredited
       - name: creditable
+        phonetic: ［'kreditəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可信的，使人信任的
         children:
           - name: creditably
           - name: creditability
@@ -24,6 +38,9 @@ children:
         children:
           - name: creditworthiness
   - name: accredit
+    phonetic: ［ə'kredit］
+    mnemonic: v.【ac-表示 to，credit 信任】
+    meaning: 相信，信任，委任
     children:
       - name: accrediting
       - name: accredited
@@ -31,14 +48,23 @@ children:
           - name: unaccredited
       - name: accreditation
   - name: discredit
+    phonetic: ［dis'kredit］
+    mnemonic: n.【dis-不，credit 信任】
+    meaning: 不信任，丧失信用
     children:
       - name: discrediting
       - name: discredited
       - name: discreditable
   - name: credence
+    phonetic: ［'kri:dəns］
+    mnemonic: n.【cred 信任，-ence 名词后缀】
+    meaning: 信任
     children:
       - name: credent
       - name: credential
+        phonetic: ［kri'denʃəl］
+        mnemonic: adj./n.【cred 信任，-ential 复合后缀（-ent + -ial）…的】
+        meaning: 信任的；【转为名词】凭证；（复数）信任状，国书
         children:
           - name: credentialing
           - name: credentialed

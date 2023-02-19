@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: aerial
+    phonetic: ［'ɛəriəl］
+    mnemonic: adj.【aer 空气，-ial 形容词后缀】
+    meaning: 空气的，大气的；航空的
     children:
       - name: aerialist
   - name: aerobic

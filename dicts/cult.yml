@@ -7,8 +7,14 @@ children:
     children:
       - name: cultic
   - name: culture
+    phonetic: ［'kʌltʃə］
+    mnemonic: n.【cult 培养，教养，-ure 名词后缀；“由教养所形成的” → 】
+    meaning: 文化
     children:
       - name: cultural
+        phonetic: ［'kʌltʃərəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 文化的，文化上的
         children:
           - name: culturally
           - name: culturalist
@@ -28,11 +34,23 @@ children:
               - name: multiculturalism
               - name: multiculturalist
   - name: cultivate
+    phonetic: ［'kʌltiveit］
+    mnemonic: v.【culti 耕，培养，-ate 动词后缀】
+    meaning: 耕作；养殖；培养
     children:
       - name: cultivator
+        phonetic: ［'kʌltiveitə］
+        mnemonic: n.【见上，-ator 人】
+        meaning: 耕作者，栽培者
       - name: cultivated
         children:
           - name: uncultivated
       - name: cultivation
+        phonetic: ［ˌkʌlti'veiʃən］
+        mnemonic: n.【见上，-ation 抽象名词后缀】
+        meaning: 耕作；栽培；教养
       - name: cultivar
       - name: cultivable
+        phonetic: ［'kʌltivəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可耕作的；可栽培的；可教养的；可教化的

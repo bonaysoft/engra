@@ -4,8 +4,14 @@ tags:
   - SOW
 children:
   - name: aquatic
+    phonetic: ［ə'kwætik］
+    mnemonic: adj.【aqu 水，-atic 形容词后缀，…的】
+    meaning: 水的，水中的
     children:
       - name: semiaquatic
   - name: aquifer
     children:
       - name: aquiferous
+        phonetic: ［æ'kwifərəs］
+        mnemonic: adj.【aqu 水，-i-，fer 带有，-ous …的】
+        meaning: 带有水的，含水的

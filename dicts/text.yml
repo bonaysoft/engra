@@ -1,19 +1,33 @@
 name: text
-meaning: weave编织
+phonetic: ［tekst］
+mnemonic: n.【text 编织 → 编写；“编写成的东西” → 】
+meaning: 课文，本文，正文
 tags:
   - SOW
 children:
   - name: text
     children:
       - name: textual
+        phonetic: ［'tekstjuəl］
+        mnemonic: adj.【见上，-ual …的】
+        meaning: 本文的，正文的，原文的
         children:
           - name: textuality
       - name: pretext
+        phonetic: ［'pri:tekst］
+        mnemonic: n.【pre-先，预先，text 编织 → 编造；“预先编造的话” → 】
+        meaning: 借口，托词
       - name: subtext
       - name: hypertext
   - name: context
+    phonetic: ［'kɔntekst］
+    mnemonic: n.【con-共同，一起，text 编织 → 编写 → 文字，本文；“相连在一起的文字” → 】
+    meaning: （文章的）上下文
     children:
       - name: contextual
+        phonetic: ［kɔn'tekstjuəl］
+        mnemonic: adj.【见上，-ual …的】
+        meaning: 上下文的，按照上下文的
         children:
           - name: contextually
           - name: contextualize
@@ -24,6 +38,9 @@ children:
                   - name: decontextualized
                   - name: decontextualization
   - name: texture
+    phonetic: ［'tekstʃə］
+    mnemonic: n.【text 编织，-ure 名词后缀，表示行为的结果】
+    meaning: （织物的）组织，结构，织物；（文章的）结构
     children:
       - name: textural
       - name: textured

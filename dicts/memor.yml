@@ -4,25 +4,55 @@ tags:
   - SOW
 children:
   - name: memory
+    phonetic: ［'meməri］
+    mnemonic: n.【memor 记忆，-y 表示情况，状态，行为】
+    meaning: 记忆，记忆力，回忆，纪念
     children:
       - name: memorize
+        phonetic: ［'meməraiz］
+        mnemonic: v.【memor 记忆，-ize 动词后缀，使…】
+        meaning: 记住，熟记
         children:
           - name: memorized
           - name: memorization
   - name: memorial
+    phonetic: ［mi'mɔ:riəl］
+    mnemonic: adj./n.【memor 记忆，-ial 形容词后缀，…的】
+    meaning: 记忆的，纪念的；【转为名词】纪念物；纪念日；纪念碑；纪念仪式
     children:
       - name: memorialize
       - name: immemorial
+        phonetic: ［ˌimi'mɔ:riəl］
+        mnemonic: adj.【im-不，无，memorial 记忆的；“无法记忆的”】
+        meaning: 无法追忆的，太古的，远古的
   - name: memorable
+    phonetic: ［'memərəbl］
+    mnemonic: adj.【memor 记忆，-able 可…的】
+    meaning: 难忘的，值得纪念的
     children:
       - name: memorably
       - name: unmemorable
       - name: memorabilia
   - name: commemorate
+    phonetic: ［kə'meməreit］
+    mnemonic: v.【com-加强意义，memor 记忆 → 纪念，-ate 动词后缀，做…事】
+    meaning: 纪念
     children:
       - name: commemoration
+        phonetic: ［kəˌmemə'reiʃən］
+        mnemonic: n.【见上，-ion 名词后缀，表示事物】
+        meaning: 纪念，纪念会，纪念物
       - name: commemorative
+        phonetic: ［kə'memərətiv，kə'meməreitiv］
+        mnemonic: adj.【见上，-ative 表示有…性质的】
+        meaning: 纪念性的
       - name: commemorable
+        phonetic: ［kə'memərəbl］
+        mnemonic: adj.【见上，-able可…的】
+        meaning: 值得纪念的
   - name: memorandum
+    phonetic: ［ˌmemə'rændəm］
+    mnemonic: n.【memor 记忆，回忆，-andum= -and（-end）名词后缀，表示物；“以备回忆之物”，“something to be remembered” → 】
+    meaning: 备忘录
     children:
       - name: memo

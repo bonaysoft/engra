@@ -4,34 +4,64 @@ tags:
   - SOW
 children:
   - name: exhibit
+    phonetic: ［iɡ'zibit］
+    mnemonic: v.【ex-外，出，hibit 拿，持；“拿出去” → 摆出去给人看 → 】
+    meaning: 展出，展览，陈列，展示，显示
     children:
       - name: exhibited
       - name: exhibitor
+        phonetic: ［iɡ'zibitə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 展览会的参加者
       - name: exhibition
+        phonetic: ［ˌeksi'biʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 展览，展览会，展示
         children:
           - name: exhibitioner
+            phonetic: ［eksi'biʃənə］
+            mnemonic: n.【见上，-er 表示人】
+            meaning: 展出者
       - name: exhibitionism
       - name: exhibitionist
         children:
           - name: exhibitionistic
   - name: inhibit
+    phonetic: ［in'hibit］
+    mnemonic: v.【in-表示in，hibit 持，握；“to hold in”，“to maintain in” → 】
+    meaning: 阻止，禁止，抑制
     children:
       - name: inhibitor
+        phonetic: ［in'hibitə］
+        mnemonic: n.【见上，-or 表示人或物】
+        meaning: 阻止者，禁止者；抑制剂
       - name: inhibiting
       - name: inhibited
         children:
           - name: uninhibited
       - name: inhibitory
       - name: inhibition
+        phonetic: ［ˌinhi'biʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 阻止，禁止；抑制
         children:
           - name: disinhibition
   - name: prohibit
+    phonetic: ［prəu'hibit］
+    mnemonic: v.【pro-向前，hibit 持，握；“挡住” → 】
+    meaning: 阻止，禁止
     children:
       - name: prohibitor
+        phonetic: ［prəu'hibitə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 禁止者，阻止者
       - name: prohibited
       - name: prohibitive
         children:
           - name: prohibitively
       - name: prohibition
+        phonetic: ［ˌprəuhi'biʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 禁止，禁令
         children:
           - name: prohibitionist

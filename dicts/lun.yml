@@ -4,12 +4,30 @@ tags:
   - SOW
 children:
   - name: lunar
+    phonetic: ［'lju:nə］
+    mnemonic: adj.【lun 月亮，-ar 形容词后缀，…的】
+    meaning: 月亮的，太阴的；似月的；新月形的
     children:
       - name: sublunar
+        phonetic: ［'sʌb'lu:nə］
+        mnemonic: adj.【sub-下，在…之下，lun 月亮，-ar …的】
+        meaning: 在月下的，地上的，尘世的
       - name: semilunar
+        phonetic: ［ˌsemi'lu:nə］
+        mnemonic: adj.【semi-半，lun 月亮，-ar …的】
+        meaning: 半月形的，月牙形的
       - name: interlunar
+        phonetic: ［ˌintə'lu:nə］
+        mnemonic: adj.【inter-中间，…之间，lun 月，-ar …的；“介于新月与旧月之间的”，旧月已没，新月尚未出现之时】
+        meaning: 无月期间的，月晦的
       - name: translunar
+        phonetic: ［træns'lu:nə］
+        mnemonic: adj.【trans-超过】
+        meaning: 超过月球的，月球外侧的
       - name: circumlunar
+        phonetic: ［ˌsəkəm'lu:nə］
+        mnemonic: adj.【circum-周围，环绕，lun 月亮，-ar …的】
+        meaning: 环月的，绕月的
   - name: lunatic
     children:
       - name: lunacy

@@ -4,23 +4,44 @@ tags:
   - SOW
 children:
   - name: vivid
+    phonetic: ［'vivid］
+    mnemonic: adj.【viv 活，-id 形容词后缀，…的】
+    meaning: 活泼的，有生气的
     children:
       - name: vividly
       - name: vividness
   - name: revive
+    phonetic: ［ri'vaiv］
+    mnemonic: v.【re-再，viv 活】
+    meaning: 再生，复活，复苏
     children:
       - name: reviving
       - name: revived
       - name: revivify
+        phonetic: ［ri'vivifai］
+        mnemonic: v.【re-再，viv(i)活，-fy 使…】
+        meaning: （使）再生，（使）复活，（使）复苏
       - name: revival
+        phonetic: ［ri'vaivəl］
+        mnemonic: n.【见上，-al 名词后缀，表示情况、状态】
+        meaning: 再生，复活，复苏
         children:
           - name: revivalist
           - name: revivalism
   - name: survive
+    phonetic: ［sə'vaiv］
+    mnemonic: v.【sur-超过，viv 活；“活得比别人长”，“寿命超过别人” → 】
+    meaning: 比…活得长，后死，幸存，残存
     children:
       - name: survivor
+        phonetic: ［sə'vaivə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 幸存者，逃生者
       - name: surviving
       - name: survival
+        phonetic: ［sə'vaivəl］
+        mnemonic: n.【见上，-al 名词后缀，表示情况、状态】
+        meaning: 幸存，残存，尚存
         children:
           - name: survivalist
           - name: survivable

@@ -4,13 +4,31 @@ tags:
   - SOW
 children:
   - name: rodent
+    phonetic: ［'rəudənt］
+    mnemonic: adj./n.【rod 咬，-ent 名词及形容词后缀】
+    meaning: 咬的，嚼的；啮齿动物（如鼠等）
     children:
       - name: rodential
       - name: rodenticide
+        phonetic: ［rə'dentisaid］
+        mnemonic: n.【rodent 啮齿动物，鼠，-i-，cide 杀】
+        meaning: 杀鼠药
   - name: erode
+    phonetic: ［i'rəud］
+    mnemonic: v.【e-去掉，rod 咬；“咬掉”，“咬坏” → 】
+    meaning: 腐蚀；侵蚀
     children:
       - name: eroding
       - name: eroded
       - name: erodent
+        phonetic: ［i'rəudənt］
+        mnemonic: adj.【见上，-ent …的】
+        meaning: 腐蚀的；侵蚀的
       - name: erosive
+        phonetic: ［i'rəusiv］
+        mnemonic: adj.【见上；-ive …的】
+        meaning: 腐蚀性的，侵蚀性的
       - name: erosion
+        phonetic: ［i'rəuʒən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 腐蚀；侵蚀

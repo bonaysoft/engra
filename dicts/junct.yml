@@ -4,10 +4,25 @@ tags:
   - SOW
 children:
   - name: junction
+    phonetic: ［'ʤʌŋkʃən］
+    mnemonic: n.【junct 连接，-ion 名词后缀】
+    meaning: 连接，接合；接合点
     children:
       - name: junctional
       - name: juncture
+        phonetic: ［'ʤʌŋktʃə］
+        mnemonic: n.【junct 连接，-ure 名词后缀】
+        meaning: 接合；接合点；交界处
   - name: adjunct
+    phonetic: ［'æʤʌŋkt］
+    mnemonic: n.【ad-表示to，junct 连接；“连接在他物之上” → 】
+    meaning: 附属物，附属品；附加语，修饰语；附属的
     children:
       - name: adjunction
+        phonetic: ［ə'ʤʌŋkʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 附加，添加
       - name: adjunctive
+        phonetic: ［ə'ʤʌŋktiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 附属的；附加语的

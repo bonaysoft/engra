@@ -1,10 +1,22 @@
 name: dic
 children:
   - name: indicate
+    phonetic: ［'indikeit］
+    mnemonic: v.【in-表示at，dic 言，说 → 说明，表明，表示，-ate 动词后缀】
+    meaning: 指示，指出，表明
     children:
       - name: indicator
+        phonetic: ［'indikeitə］
+        mnemonic: n.【见上，-or 表示人或物】
+        meaning: 指示者，指示器
       - name: indication
+        phonetic: ［ˌindi'keiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 指示，指出，表示
       - name: indicative
+        phonetic: ［in'dikətiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 指示的，表示的
   - name: dedicate
     children:
       - name: dedicated

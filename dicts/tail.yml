@@ -4,18 +4,36 @@ tags:
   - SOW
 children:
   - name: tailor
+    phonetic: ［'teilə］
+    mnemonic: n.【tail 切割 → 剪裁，-or 表示人；“剪裁者” → 】
+    meaning: 裁缝，成衣工，成衣商
     children:
       - name: tailoress
+        phonetic: ［'teiləris］
+        mnemonic: n.【见上，-ess 表示女性】
+        meaning: 女裁缝，女成衣工
       - name: tailoring
       - name: tailored
   - name: detail
+    phonetic: ［'di:teil，di'teil］
+    mnemonic: n.【de-加强意义，tail 切；“切碎的”，由整体切碎细分而成的部分 → 】
+    meaning: 细节，细目，详情，零件
     children:
       - name: details
       - name: detailing
       - name: detailed
+        phonetic: ［'di:teild］
+        mnemonic: adj.【见上，-ed …的】
+        meaning: 细节的，详细的
   - name: retail
+    phonetic: ［'ri:teil］
+    mnemonic: n./adj.；［ri:'teil］v.【re-再，tail 切；“再切” → 切碎 → 细分 → 由整变零 → 】
+    meaning: 零售，零卖，零售的
     children:
       - name: retailer
+        phonetic: ［'ri:teilə］
+        mnemonic: n.【见上，-er 表示人】
+        meaning: 零售商
       - name: retailing
   - name: entail
     children:

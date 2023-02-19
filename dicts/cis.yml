@@ -4,14 +4,23 @@ tags:
   - SOW
 children:
   - name: precise
+    phonetic: ［pri'sais］
+    mnemonic: adj.【pre- 先，前，cis 切；“预先切除不清楚的部分” → 】
+    meaning: 明确的，准确的，精确的
     children:
       - name: precisely
       - name: precision
+        phonetic: ［pri'siʒən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 精确性，精密度
       - name: imprecise
         children:
           - name: imprecisely
           - name: imprecision
   - name: concise
+    phonetic: ［kən'sais］
+    mnemonic: adj.【con- 表示加强意义，cis 切；“切短”，“切除”不必要的部分，删除冗言赘语，留下精简扼要的部分 → 】
+    meaning: 简明的，简洁的，简要的
     children:
       - name: concisely
       - name: concision

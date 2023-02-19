@@ -12,6 +12,9 @@ children:
       - name: postman
       - name: postmistress
   - name: posture
+    phonetic: ［'pɔstʃə］
+    mnemonic: n.【pos 放置→摆放，-ture 名词后缀；“摆出的姿势”】
+    meaning: 姿势，姿态
     children:
       - name: posturing
       - name: postural

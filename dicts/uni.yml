@@ -4,27 +4,54 @@ tags:
   - SOW
 children:
   - name: unit
+    phonetic: ［'ju:nit］
+    mnemonic: n.【un 单一，-it 名词后缀，表示物】
+    meaning: 单位，单元
     children:
       - name: unitary
         children:
           - name: unitarian
       - name: unitize
+        phonetic: ［'ju:nitaiz］
+        mnemonic: v.【见上，-ize 动词后缀，使成…】
+        meaning: 使成一个单元
         children:
           - name: unitized
       - name: subunit
   - name: unite
+    phonetic: ［ju:'nait］
+    mnemonic: v.【un = one 一，单一，-ite 动词后缀，使成…；“使成为一个整体” → 】
+    meaning: 统一，联合，团结
     children:
       - name: uniting
       - name: united
+        phonetic: ［ju:'naitid］
+        mnemonic: adj.【见上，-ed …的】
+        meaning: 统一的，联合的
       - name: unitive
+        phonetic: ［'ju:nitiv］
+        mnemonic: adj.【见上，-itive …的】
+        meaning: 统一的，联合的
       - name: reunite
         children:
           - name: reunited
   - name: unity
+    phonetic: ［'ju:niti］
+    mnemonic: n.【un 单一，-ity 名词后缀，表示情况、性质】
+    meaning: 统一，单一，整体，团结
     children:
       - name: disunity
+        phonetic: ［dis'ju:nəti］
+        mnemonic: n.【dis-不，见上】
+        meaning: 不统一，不团结
       - name: triunity
+        phonetic: ［trai'ju:niti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 三位一体
   - name: union
+    phonetic: ［'ju:niən］
+    mnemonic: n.【un 单一，-ion 名词后缀，表示行为或行为的结果；“联成一体” → 】
+    meaning: 联合，联合会，工会，联盟
     children:
       - name: unionist
       - name: unionism
@@ -33,18 +60,33 @@ children:
           - name: unionized
           - name: unionization
       - name: reunion
+        phonetic: ［ˌri:'ju:niən］
+        mnemonic: n.【re-再，见上】
+        meaning: 再联合，再结合
       - name: disunion
+        phonetic: ［ˌdis'ju:njən］
+        mnemonic: n.【dis-不，见上】
+        meaning: 不统一，不联合，不团结，分裂
   - name: unify
+    phonetic: ［'ju:nifai］
+    mnemonic: v.【uni = one 一，单一，-fy 动词后缀，使成…】
+    meaning: 统一，使成一体，使一元化
     children:
       - name: unifier
       - name: unifying
       - name: unified
       - name: unification
+        phonetic: ［'ju:nifi'keiʃən］
+        mnemonic: n.【见上，-fication 名词后缀】
+        meaning: 统一，联合
       - name: reunify
         children:
           - name: reunified
           - name: reunification
   - name: unique
+    phonetic: ［ju:'ni:k］
+    mnemonic: adj.【un = one 一，单一，-ique（=-ic）…的】
+    meaning: 唯一的，独一无二的
     children:
       - name: uniquely
       - name: uniqueness

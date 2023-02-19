@@ -9,26 +9,44 @@ children:
       - name: pathogen
         children:
           - name: pathogeny
+            phonetic: ［pə'θɔʤini］
+            mnemonic: n.【patho 病，gen 发生，-y 名词后缀】
+            meaning: 致病原因
             children:
               - name: pathogenetic
+                phonetic: ［ˌpæθəʤi'netik］
+                mnemonic: adj.【见上，-etic 形容词后缀】
+                meaning: 发病的；致病的，病原的
               - name: pathogenesis
           - name: pathogenic
             children:
               - name: pathogenicity
       - name: pathology
+        phonetic: ［pə'θɔləʤi］
+        mnemonic: n.【patho 病，-logy …学】
+        meaning: 病理学
         children:
           - name: pathologic
             children:
               - name: pathological
+                phonetic: ［ˌpæθə'lɔʤikəl］
+                mnemonic: adj.【patho 病，-logical …学的】
+                meaning: 病理学的
                 children:
                   - name: pathologically
           - name: pathologist
+            phonetic: ［pə'θɔləʤist］
+            mnemonic: n.【patho 病，-logist …学者】
+            meaning: 病理学者
           - name: histopathology
             children:
               - name: histopathologic
                 children:
                   - name: histopathological
           - name: zoopathology
+            phonetic: ［ˌzəuəupə'θɔləʤi］
+            mnemonic: n.【zoo 动物，pathology 病理学】
+            meaning: 动物病理学
   - name: pathy
     children:
       - name: apathy
@@ -48,12 +66,30 @@ children:
         children:
           - name: antipathetic
       - name: neuropathy
+        phonetic: ［ˌnjuə'rɔpəθi］
+        mnemonic: n.【neuro 神经，pathy 病】
+        meaning: 神经病
         children:
           - name: neuropathist
+            phonetic: ［njuə'rɔpəθist］
+            mnemonic: n.【见上，-ist 者】
+            meaning: 神经病学者；神经病医生
       - name: dermatopathy
+        phonetic: ［ˌdə:mə'tɔpəθi］
+        mnemonic: n.【dermato 皮肤，pathy 病】
+        meaning: 皮肤病
       - name: psychopathy
+        phonetic: ［sai'kɔpəθi］
+        mnemonic: n.【psycho 心理，精神，pathy 病】
+        meaning: 心理病态，精神变态
       - name: electropathy
+        phonetic: ［iˌlek'trɔpəθi］
+        mnemonic: n.【electro 电，pathy 疗法】
+        meaning: 电疗法
       - name: hydropathy
+        phonetic: ［hai'drɔpəθi］
+        mnemonic: n.【hydro 水，pathy 疗法】
+        meaning: 水疗法
   - name: pathetic
     children:
       - name: pathetically

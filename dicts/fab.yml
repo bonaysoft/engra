@@ -4,20 +4,49 @@ tags:
   - SOW
 children:
   - name: fable
+    phonetic: ［'feibl］
+    mnemonic: n.【fabl 言】
+    meaning: 寓言，传说
     children:
       - name: fabler
+        phonetic: ［'feiblə］
+        mnemonic: n.【fabl 言，-er…人】
+        meaning: 编寓言者
       - name: fabled
+        phonetic: ［'feibld］
+        mnemonic: adj.【见上，-ed…的】
+        meaning: 寓言中的，虚构的
       - name: fabulist
+        phonetic: ［'fæbjulist］
+        mnemonic: n.【fabul 言，-ist …人】
+        meaning: 寓言家，撒谎者
       - name: fabulous
+        phonetic: ［'fæbjuləs］
+        mnemonic: adj.【见上，-ous …的】
+        meaning: 寓言般的，传说的，编写寓言的
         children:
           - name: fabulously
       - name: fabulosity
+        phonetic: ［ˌfæbju'lɔsəti］
+        mnemonic: n.【见上，-osity 表示性质】
+        meaning: 寓言性质
   - name: affable
     children:
       - name: affably
       - name: affability
   - name: confab
+    phonetic: ［'kɔnfæb］
+    meaning: n.=confabulation
     children:
       - name: confabulation
+        phonetic: ［kənˌfæbju'leiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 闲谈，会谈
       - name: confabulator
+        phonetic: ［kən'fæbjuleitə］
+        mnemonic: n.【见上，-ator 表示人】
+        meaning: 闲谈者
   - name: effable
+    phonetic: ［'efəbəl］
+    mnemonic: adj.【ef-出，fabl 说】
+    meaning: 能被说出的，可说明的

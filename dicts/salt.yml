@@ -1,9 +1,14 @@
 name: salt
+phonetic: ［sɔ:lt］
+meaning: n. 盐
 children:
   - name: salt
     children:
       - name: salter
       - name: salty
+        phonetic: ［'sɔ:lti］
+        mnemonic: adj.【salty 盐，-y…的，有…的】
+        meaning: 盐的，含盐的，咸的
         children:
           - name: saltiness
       - name: salted
@@ -14,3 +19,6 @@ children:
       - name: saltpeter
       - name: saltshaker
       - name: desalt
+        phonetic: ［di:'sɔ:lt］
+        mnemonic: v.【de-除去，salt 盐】
+        meaning: 除去…的盐分，脱盐

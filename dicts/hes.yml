@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: hesitate
+    phonetic: ［'heziteit］
+    mnemonic: v.【hes 黏着，-it-, -ate 动词后缀；“黏着”在固定地方 → 踌躇不前，裹足不前】
+    meaning: 踌躇；犹豫
     children:
       - name: hesitating
         children:
@@ -12,8 +15,17 @@ children:
             children:
               - name: unhesitatingly
       - name: hesitation
+        phonetic: ［ˌhezi'teiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 踌躇；犹豫
       - name: hesitant
+        phonetic: ［'hezitənt］
+        mnemonic: adj.【见上，-ant 形容词后缀】
+        meaning: 踌躇的；犹豫的
         children:
           - name: hesitantly
           - name: hesitancy
+            phonetic: ［'hezitənsi］
+            mnemonic: n.【见上，-ancy 名词后缀】
+            meaning: 踌躇；犹豫
           - name: hesitance

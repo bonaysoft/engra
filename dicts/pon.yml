@@ -4,10 +4,16 @@ tags:
   - SOW
 children:
   - name: component
+    phonetic: ［kəm'pəunənt］
+    mnemonic: adj./n.【com-共同，一起，pon 放， -ent …的；“放在一起的” → 合在一起的 → 】
+    meaning: 合成的，组成的；【-ent 表示物】组成部分
     children:
       - name: componential
       - name: multicomponent
   - name: postpone
+    phonetic: ［ˌpəust'pəun］
+    mnemonic: v.【post-后，pon 放；“往后放” → 】
+    meaning: 推后，推迟，延期
     children:
       - name: postponed
       - name: postponement

@@ -3,14 +3,32 @@ children:
   - name: bureau
     children:
       - name: bureaucracy
+        phonetic: ［bjuə'rɔkrəsi］
+        mnemonic: n.【bureau 办公桌 → 办公处 → 衙门，官府 → 官僚，cracy 统治】
+        meaning: 官僚政治，官僚主义
       - name: bureaucrat
+        phonetic: ［'bjuərəukræt］
+        mnemonic: n.【见上，crat 统治者】
+        meaning: 官僚
         children:
           - name: bureaucratic
+            phonetic: ［ˌbjuərəu'krætik］
+            mnemonic: adj.【见上，-ic …的】
+            meaning: 官僚政治的，官僚主义的
             children:
               - name: bureaucratically
           - name: bureaucratism
+            phonetic: ［bjuə'rɔkrətizəm］
+            mnemonic: n.【见上，-ism 主义】
+            meaning: 官僚主义
           - name: bureaucratese
+            phonetic: ［'bjuərəuˌkræ'ti:z］
+            mnemonic: n.【见上，-ese 语言】
+            meaning: 官僚语言，官腔
           - name: bureaucratize
+            phonetic: ［bjuə'rɔkrətaiz］
+            mnemonic: v.【见上，ize…化】
+            meaning: 使官僚主义化
             children:
               - name: bureaucratized
               - name: bureaucratization

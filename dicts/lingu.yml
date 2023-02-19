@@ -4,9 +4,18 @@ tags:
   - SOW
 children:
   - name: linguist
+    phonetic: ［'liŋɡwist］
+    mnemonic: n.【lingu 语言，-ist 表示人】
+    meaning: 语言学者
     children:
       - name: linguistics
+        phonetic: ［liŋ'ɡwistiks］
+        mnemonic: n.【见上，-ics 名词后缀，…学】
+        meaning: 语言学
       - name: linguistic
+        phonetic: ［liŋ'ɡwistik］
+        mnemonic: adj.【见上，-ic …的】
+        meaning: 语言学的，语言的
         children:
           - name: linguistically
           - name: nonlinguistic

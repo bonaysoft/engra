@@ -4,9 +4,24 @@ tags:
   - SOW
 children:
   - name: longevity
+    phonetic: ［lɔn'ʤevəti］
+    mnemonic: n.【long 长，ev 年龄，寿命，-ity 名词后缀】
+    meaning: 长寿，长命
     children:
       - name: longevous
+        phonetic: ［lɔn'ʤi:vəs］
+        mnemonic: adj.【long 长，ev 寿命，-ous 形容词后缀，…的】
+        meaning: 长寿的，长命的
   - name: medieval
+    phonetic: ［ˌmedi'i:vəl］
+    mnemonic: adj.【medi 中间，ev 时代，-al …的】
+    meaning: 中古时代的，中世纪的
     children:
       - name: medievalist
+        phonetic: ［ˌmedi'i:vəlist］
+        mnemonic: n.【见上，-ist 表示人】
+        meaning: 中世纪史专家，中世纪文化研究者
       - name: medievalism
+        phonetic: ［ˌmedi'i:vəlizəm］
+        mnemonic: n.【见上，-ism 表示性质、状态、情况】
+        meaning: 中世纪精神（或特征、状态、风俗、信仰等）

@@ -4,22 +4,43 @@ tags:
   - SOW
 children:
   - name: mirror
+    phonetic: ［'mirə］
+    mnemonic: n.【mir 惊奇，-or 表示物；能映出影像，使人感到惊奇之物。最初人们对镜子能映出影像感到惊奇 → 】
+    meaning: 镜子
     children:
       - name: mirroring
       - name: mirrored
   - name: miracle
+    phonetic: ［'mirəkl］
+    mnemonic: n.【mir 惊奇，奇异，-acle 表示事物】
+    meaning: 奇事，奇迹
     children:
       - name: miraculous
+        phonetic: ［mi'rækjuləs］
+        mnemonic: adj.【见上，miracle + -ous（…的） → miraculous】
+        meaning: 像奇迹一样的，令人惊叹的
         children:
           - name: miraculously
   - name: admire
+    phonetic: ［əd'maiə］
+    mnemonic: v.【ad-加强意义，mir 惊奇，惊异 → 惊叹 → 】
+    meaning: 赞赏，羡慕，赞美，钦佩
     children:
       - name: admirer
+        phonetic: ［əd'maiərə］
+        mnemonic: n.【见上，-er 表示人】
+        meaning: 赞赏者，羡慕者
       - name: admired
       - name: admiring
         children:
           - name: admiringly
       - name: admiration
+        phonetic: ［ˌædmə'reiʃən］
+        mnemonic: n.【见上，-ation 名词后缀，表示行为、情况】
+        meaning: 赞赏，羡慕，钦佩
       - name: admirable
+        phonetic: ［'ædmərəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 令人赞赏的，可钦佩的
         children:
           - name: admirably

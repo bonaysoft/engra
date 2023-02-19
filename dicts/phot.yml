@@ -5,9 +5,15 @@ children:
       - name: photonic
       - name: photonics
   - name: photograph
+    phonetic: ［'fəutəuɡræf］
+    mnemonic: n./v.【photo 光，影，graph 写 → 记录；“把实物的影像录下来” → 】
+    meaning: 照相，拍照，摄影；照片
     children:
       - name: photographer
       - name: photography
+        phonetic: ［fə'tɔɡrəfi］
+        mnemonic: n.【见上，-y 名词后缀】
+        meaning: 摄影术
         children:
           - name: photographic
             children:

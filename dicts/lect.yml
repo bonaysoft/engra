@@ -4,16 +4,28 @@ tags:
   - SOW
 children:
   - name: elect
+    phonetic: ［i'lekt］
+    mnemonic: v.【e-出，lect 选；“选出” → 】
+    meaning: 选举
     children:
       - name: elector
+        phonetic: ［i'lektə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 选举者，有选举权的人
         children:
           - name: electoral
           - name: electorally
       - name: election
+        phonetic: ［i'lekʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 选举
       - name: elective
       - name: unelected
       - name: unelectable
   - name: select
+    phonetic: ［si'lekt］
+    mnemonic: v.【se-离开，分开，lect 选】
+    meaning: 挑选，选出，选择，选拔
     children:
       - name: selector
       - name: selectee
@@ -21,6 +33,9 @@ children:
         children:
           - name: unselected
       - name: selection
+        phonetic: ［si'lekʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 选择，选择物，选集，选品
       - name: selective
         children:
           - name: selectively
@@ -28,20 +43,32 @@ children:
       - name: selectman
       - name: deselect
   - name: collect
+    phonetic: ［kə'lekt］
+    mnemonic: v.【col-共同，一起，lect 收集；“收到一起来” → 】
+    meaning: 收集，聚集，集合
     children:
       - name: collector
       - name: collected
         children:
           - name: uncollected
       - name: collection
+        phonetic: ［kə'lekʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 收集，集合；收集物
       - name: collectible
         children:
           - name: uncollectible
       - name: collective
+        phonetic: ［kə'lektiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 聚集的，集合的，集体的
         children:
           - name: collectively
           - name: collectivity
           - name: collectivism
+            phonetic: ［kə'lektivizəm］
+            mnemonic: n.【见上，-ism 主义】
+            meaning: 集体主义
           - name: collectivist
             children:
               - name: collectivistic
@@ -53,15 +80,27 @@ children:
           - name: recollected
           - name: recollection
   - name: neglect
+    phonetic: ［ni'ɡlekt］
+    mnemonic: v.【neg-不，未，lect 选，收；“未选收”，“未收取” → 遗漏 → 】
+    meaning: 疏忽，漏做，忽略，忽视
     children:
       - name: neglected
       - name: neglectful
+        phonetic: ［ni'ɡlektful］
+        mnemonic: adj.【见上，-ful …的】
+        meaning: 疏忽的
   - name: eclectic
     children:
       - name: eclecticism
   - name: intellect
+    phonetic: ［'intilekt］
+    mnemonic: n.【intel-=inter-中间，lect 选；“从中选择” → “能于其中择其善者” → 选优择善的能力 → 】
+    meaning: 智力，才智，智慧
     children:
       - name: intellectual
+        phonetic: ［ˌinti'lektjuəl］
+        mnemonic: adj./n.【见上，-ual 形容词后缀，…的】
+        meaning: 有智力的；【转为名词】有知识者，知识分子
         children:
           - name: intellectually
             children:

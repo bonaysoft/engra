@@ -4,22 +4,55 @@ tags:
   - SOW
 children:
   - name: nutrition
+    phonetic: ［nju:'triʃən］
+    mnemonic: n.【nutri 营养，-tion 名词后缀】
+    meaning: 营养，滋养（物）
     children:
       - name: nutritional
+        phonetic: ［nju:'triʃənəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 营养的；营养物的
         children:
           - name: nutritionally
       - name: nutritionist
       - name: nutritious
+        phonetic: ［nju:'triʃəs］
+        mnemonic: adj.【nutri 营养，-tious …的】
+        meaning: 有营养的，滋养的
         children:
           - name: nutritiously
       - name: malnutrition
+        phonetic: ［ˌmælnju:'triʃən］
+        mnemonic: n.【mal-恶，不良，nutrition 营养】
+        meaning: 营养不良
       - name: innutrition
+        phonetic: ［inju:'triʃən］
+        mnemonic: n.【in-无，不，见上】
+        meaning: 营养不良；缺乏营养
       - name: innutritious
+        phonetic: ［ˌinju:'triʃəs］
+        mnemonic: adj.【见上，-tious …的】
+        meaning: 营养不良的；缺乏营养的
       - name: nutritive
+        phonetic: ［'nju:trətiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 有关营养的；有营养的
       - name: nutrient
+        phonetic: ［'nju:triənt］
+        mnemonic: adj./n.【nutri 营养，-ent 形容词兼名词后缀】
+        meaning: 有营养的；营养品
         children:
           - name: phytonutrient
       - name: nutriology
+        phonetic: ［ˌnju:tri'ɔləʤi］
+        mnemonic: n.【nutri 营养，-o-连接字母，-logy 学】
+        meaning: 营养学
       - name: nutriment
+        phonetic: ［'nju:trimənt］
+        mnemonic: n.【nutri 营养，-ment 名词后缀，表示物】
+        meaning: 营养品
         children:
           - name: nutrimental
+            phonetic: ［'nju:tri'mentəl］
+            mnemonic: adj.【见上，-al …的】
+            meaning: 有营养的，滋养的

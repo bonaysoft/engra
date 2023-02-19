@@ -4,13 +4,28 @@ tags:
   - SOW
 children:
   - name: nominal
+    phonetic: ［'nɔminəl］
+    mnemonic: adj.【nomin 名，-al…的】
+    meaning: 名义上的，有名无实的
     children:
       - name: nominally
       - name: nominalism
       - name: pronominal
   - name: nominate
+    phonetic: ［'nɔmineit］
+    mnemonic: v.【nomin 名，-ate 动词后缀，做…事】
+    meaning: 提名，任命
     children:
       - name: nominator
+        phonetic: ［'nɔmineitə］
+        mnemonic: n.【见上，-ator …者】
+        meaning: 提名者，任命者
       - name: nominated
       - name: nomination
+        phonetic: ［ˌnɔmi'neiʃən］
+        mnemonic: n.【见上，-ation 名词后缀，表示行为】
+        meaning: 提名，任命
       - name: nominee
+        phonetic: ［ˌnɔmi'ni:］
+        mnemonic: n.【见上，-ee 被…者】
+        meaning: 被提名者

@@ -1,9 +1,18 @@
 name: pens
 children:
   - name: pension
+    phonetic: ［'penʃən］
+    mnemonic: n.【pens 付钱，-ion 名词后缀，表示物；每年“付出的钱” → 】
+    meaning: 年金，养老金，退休金
     children:
       - name: pensioner
+        phonetic: ［'penʃənə］
+        mnemonic: n.【见上，-er 者】
+        meaning: 领取养老金者
   - name: pensive
+    phonetic: ［'pensiv］
+    mnemonic: adj.【pen 称量 → 衡量，权衡 → 思考，-ive …的】
+    meaning: 沉思的
     children:
       - name: pensively
   - name: compensate
@@ -21,11 +30,23 @@ children:
         children:
           - name: overcompensation
   - name: dispense
+    phonetic: ［dis'pens］
+    mnemonic: v.【dis-分散，pens 称量；“分开称量物品分量，进行分配”】
+    meaning: 分配，分发，配发
     children:
       - name: dispenser
+        phonetic: ［dis'pensə］
+        mnemonic: n.【见上，-er 表示人】
+        meaning: 分配者，施与者，配药者，药剂师；【-er 表示物】分配器，配出器；自动售货机
       - name: dispensary
+        phonetic: ［dis'pensəri］
+        mnemonic: adj.【见上，-ary 表示场所、地点；“分配药品的地方” → 】
+        meaning: 药房，配药处
       - name: dispensing
       - name: dispensation
+        phonetic: ［ˌdispen'seiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 分配，分给；分配物
       - name: dispensable
         children:
           - name: indispensable

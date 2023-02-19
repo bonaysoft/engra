@@ -4,8 +4,14 @@ tags:
   - SOW
 children:
   - name: manage
+    phonetic: ［'mæniʤ］
+    mnemonic: v.【man=manu 手；“以手操纵”，“以手处理” → 】
+    meaning: 管理，掌管，处理
     children:
       - name: manager
+        phonetic: ［'mæniʤə］
+        mnemonic: n.【见上，-er 表示人】
+        meaning: 掌管者，管理人，经理
       - name: managing
       - name: managed
       - name: management
@@ -18,6 +24,9 @@ children:
           - name: mismanagement
       - name: micromanage
   - name: manner
+    phonetic: ［'mænə］
+    mnemonic: n.【man=manu 手 → 用手做 → 做事，行为；“the way of doing”】
+    meaning: 举止，风度，方式，方法
     children:
       - name: mannerly
       - name: mannered
@@ -39,14 +48,26 @@ children:
       - name: outmaneuver
       - name: manoeuvre
   - name: manual
+    phonetic: ［'mænjuəl］
+    mnemonic: adj./n.【manu 手，-al 形容词后缀，…的】
+    meaning: 手的，手工做的，用手的；【转为名词】手册
     children:
       - name: manually
   - name: manufacture
+    phonetic: ［ˌmænju'fæktʃə］
+    mnemonic: v.【manu 手，fact 做，制作；“用手做” → 】
+    meaning: 制造，加工
     children:
       - name: manufacturer
+        phonetic: ［ˌmænju'fæktʃərə］
+        mnemonic: n.【见上，-er 表示人】
+        meaning: 制造者，制造商
       - name: manufacturing
       - name: manufactured
       - name: manufactural
         children:
           - name: manufacturable
       - name: manufactory
+        phonetic: ［ˌmænju'fæktəri］
+        mnemonic: n.【见上，-ory 表示场所】
+        meaning: 制造厂，工厂

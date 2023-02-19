@@ -4,12 +4,33 @@ tags:
   - SOW
 children:
   - name: inhale
+    phonetic: ［in'heil］
+    mnemonic: v.【in-入，hal 呼吸；“to breathe in”】
+    meaning: 吸入，吸气
     children:
       - name: inhaler
+        phonetic: ［in'heilə］
+        mnemonic: n.【见上，-er 表示人或物】
+        meaning: 吸入者，吸入器
       - name: inhalant
+        phonetic: ［in'heilənt］
+        mnemonic: n.【见上，-ant 表示物】
+        meaning: 被吸入的东西（指药剂等）
       - name: inhalation
+        phonetic: ［ˌinhə'leiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 吸入，吸入药剂
   - name: exhale
+    phonetic: ［eks'heil］
+    mnemonic: v.【ex-出，hal 呼吸；“to breathe out”】
+    meaning: 呼出，呼气
     children:
       - name: exhaled
       - name: exhalent
+        phonetic: ［eks'heilənt］
+        mnemonic: adj.【见上，-ent …的】
+        meaning: 呼出的
       - name: exhalation
+        phonetic: ［ˌekshə'leiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 呼气

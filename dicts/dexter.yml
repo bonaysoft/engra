@@ -1,18 +1,46 @@
 name: dexter
-meaning: 右
+phonetic: ［'dekstə］
+meaning: adj. 右边的，右侧的
 tags:
   - SOW
 children:
   - name: dexter
     children:
       - name: dexterity
+        phonetic: ［dek'sterəti］
+        mnemonic: n.【见上，-ity 抽象名词后缀】
+        meaning: 灵巧，敏捷；聪明；伶俐
       - name: dexterous
+        phonetic: ［'dekstərəs］
+        mnemonic: adj.【dexter 右，-ous 形容词后缀，…的，右手比左手灵巧敏捷 → 】
+        meaning: 灵巧的，敏捷的；伶俐的
       - name: dexterously
       - name: ambidexter
+        phonetic: ［ˌæmbi'dekstə］
+        mnemonic: adj./n.【ambi-二，两，dexter 右 → 右手；“两只右手” → 使用左手和使用右手同样灵巧方便】
+        meaning: 左右手都善用的（人）；两面讨好的（人）
         children:
           - name: ambidexterous
+            phonetic: ［ˌæmbi'dekstrəs］
+            mnemonic: adj.【见上，-ous …的】
+            meaning: 左右手都善用的；非常灵巧的；两面讨好的
           - name: ambidexterity
+            phonetic: ［ˌæmbidek'sterəti］
+            mnemonic: n.【见上，-ity 抽象名词后缀】
+            meaning: 左右手都善用的能力；两面讨好
       - name: dextral
+        phonetic: ［'dekstrəl］
+        mnemonic: adj.【dextr ← dexter 右，-al …的】
+        meaning: 右边的；用右手的
       - name: dextrorotation
+        phonetic: ［ˌdekstrərəu'teiʃən］
+        mnemonic: n.【dextr←dexter 右，-o-连接字母，rotation 旋转】
+        meaning: 向右旋转，顺时针方向旋转
       - name: dextrorotatory
+        phonetic: ［ˌdekstrəu'rəutətəri］
+        mnemonic: adj.【见上，rotatory 旋转的】
+        meaning: 向右旋转的
       - name: dextrose
+        phonetic: ［'dekstrəus］
+        mnemonic: n.【dextr ← dexter 右，-ose 名词后缀，表示糖】
+        meaning: 右旋糖，葡萄糖

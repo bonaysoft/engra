@@ -4,12 +4,24 @@ tags:
   - SOW
 children:
   - name: manor
+    phonetic: ［'mænə］
+    mnemonic: n.【man 居住，-or 名词后缀】
+    meaning: 庄园，庄园中的住宅
     children:
       - name: manorial
+        phonetic: ［mə'nɔ:riəl］
+        mnemonic: adj.【见上，-ial…的】
+        meaning: 庄园的
   - name: permanent
+    phonetic: ［'pə:mənənt］
+    mnemonic: adj.【per-贯穿，从始至终，一直，man 停留，-ent …的；“一直停留下去的” → 】
+    meaning: 永久的，常驻的，常设的
     children:
       - name: permanently
       - name: permanence
+        phonetic: ［'pə:mənəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 永久，永久性
       - name: permanency
       - name: impermanent
         children:

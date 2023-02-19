@@ -4,14 +4,32 @@ tags:
   - SOW
 children:
   - name: hospital
+    phonetic: ［'hɔspitəl］
+    mnemonic: n.【hospit 客人，-al 名词后缀；原义为接待“客人”的地方 → 接待“病客”的地方 → 】
+    meaning: 医院
     children:
       - name: hospitalize
+        phonetic: ［'hɔspitəlaiz］
+        mnemonic: v.【见上，-ize 动词后缀】
+        meaning: 把…送入医院治疗
         children:
           - name: hospitalized
           - name: hospitalization
   - name: hospitable
+    phonetic: ［'hɔspitəbl］
+    mnemonic: adj.【hospit 客人 → 待客，好客，-able…的】
+    meaning: 好客的，招待周到的，殷勤的
     children:
       - name: hospitality
+        phonetic: ［ˌhɔspi'tæliti］
+        mnemonic: n.【见上，-ality 名词后缀】
+        meaning: 好客，殷勤
       - name: inhospitable
+        phonetic: ［in'hɔspitəbl］
+        mnemonic: adj.【in-不，hospitable 好客的】
+        meaning: 不好客的，不殷勤的
         children:
           - name: inhospitality
+            phonetic: ［'inˌhɔspi'tæliti］
+            mnemonic: n.【见上】
+            meaning: 不好客，不殷勤

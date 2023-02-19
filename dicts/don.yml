@@ -4,23 +4,53 @@ tags:
   - SOW
 children:
   - name: donor
+    phonetic: ［'dəunə］
+    mnemonic: n.【don 给，赠给，-or 表示人】
+    meaning: 赠给者，捐献者
     children:
       - name: donee
+        phonetic: ［dəu'ni:］
+        mnemonic: n.【don 给，赠给，-ee 表示人，被…者】
+        meaning: 被赠给者，受赠者
   - name: donate
+    phonetic: ［dəu'neit］
+    mnemonic: v.【don 给，赠给，-ate 动词后缀】
+    meaning: 捐赠，赠给
     children:
       - name: donator
+        phonetic: ［dəu'neitə］
+        mnemonic: n.【见上，-or 者】
+        meaning: 捐赠者，赠给者
       - name: donated
       - name: donation
       - name: donative
+        phonetic: ［'dəunətiv］
+        mnemonic: adj./n.【见上，-ive …的】
+        meaning: 捐赠的，赠送的；【-ive 名词后缀，表示物】赠品，捐赠物
   - name: pardon
+    phonetic: ［'pɑ:dən］
+    mnemonic: v.【par-（=per-）完全，彻底，don 给，舍给 → 舍弃；“完全舍弃他人罪过” → 】
+    meaning: 原谅，宽恕，赦罪
     children:
       - name: pardoner
+        phonetic: ［'pɑ:dənə］
+        mnemonic: n.【见上，-er 表示人】
+        meaning: 原谅者，宽恕者
       - name: pardonable
+        phonetic: ［'pɑ:dənəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可以原谅的，可以宽恕的
         children:
           - name: pardonably
       - name: unpardoning
       - name: unpardoned
       - name: unpardonable
   - name: condone
+    phonetic: ［kən'dəun］
+    mnemonic: v.【con-加强意义，don 给 → 舍给 → 舍弃；“舍弃他人罪过” → 】
+    meaning: 宽恕，不咎（罪过）
     children:
       - name: condonation
+        phonetic: ［ˌkɔndəu'neiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 宽恕，赦免

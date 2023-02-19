@@ -4,22 +4,43 @@ tags:
   - SOW
 children:
   - name: case
+    phonetic: ［keis］
+    mnemonic: n.【cas 降；“突然降临的”、“偶然发生的”情况 → 】
+    meaning: 情况，情形，状况
     children:
       - name: encase
         children:
           - name: encasement
   - name: casual
+    phonetic: ［'kæʒjuəl］
+    mnemonic: adj.【cas 降，-ual 形容词后缀；“突然降临的” → 】
+    meaning: 偶然的，未意料到的
     children:
       - name: casually
       - name: casualty
+        phonetic: ［'kæʒjuəlti］
+        mnemonic: n.【见上，-ty 名词后缀；“偶然之事”，“突然” → 】
+        meaning: 伤亡
       - name: casualness
   - name: cascade
     children:
       - name: cascading
   - name: occasion
+    phonetic: ［ə'keiʒən］
+    mnemonic: n.【oc-加强意义，cas 降，-ion 名词后缀；“偶然降临的” → 】
+    meaning: 时机，机会；场合
     children:
       - name: occasional
+        phonetic: ［ə'keiʒənəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 偶然的，非经常的
         children:
           - name: occasionally
           - name: occasionality
+            phonetic: ［əkeiʒə'næliti］
+            mnemonic: n.【见上，-ity 名词后缀，表性质】
+            meaning: 偶然性
           - name: occasionalism
+            phonetic: ［ə'keiʒənəlizəm］
+            mnemonic: n.【见上，-ism …论】
+            meaning: 偶因论

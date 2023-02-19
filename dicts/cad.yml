@@ -11,8 +11,14 @@ children:
         children:
           - name: cadential
   - name: decadent
+    phonetic: ［'dekədənt］
+    mnemonic: adj.【见上，-ent 形容词后缀，…的】
+    meaning: 颓废的
     children:
       - name: decadence
+        phonetic: ［'dekədəns］
+        mnemonic: n.【de-下，cad 落，-ence 名词后缀】
+        meaning: 堕落，衰落，颓废
       - name: decadency
   - name: cadaver
     children:

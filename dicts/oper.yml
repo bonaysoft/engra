@@ -4,10 +4,19 @@ tags:
   - SOW
 children:
   - name: operate
+    phonetic: ［'ɔpəreit］
+    mnemonic: v.【oper 工作，-ate 动词后缀，做…】
+    meaning: 工作，操作，运转；动手术
     children:
       - name: operator
+        phonetic: ［'ɔpəreitə］
+        mnemonic: n.【oper 工作，操作，-ator 者】
+        meaning: 操作人员；（外科）施行手术者
       - name: operating
       - name: operation
+        phonetic: ［ˌɔpə'reiʃən］
+        mnemonic: n.【oper 工作，-ation 表示行为】
+        meaning: 工作，操作，运转；（外科）手术
         children:
           - name: operational
             children:
@@ -16,13 +25,22 @@ children:
                 children:
                   - name: operationalization
       - name: operable
+        phonetic: ［'ɔpərəbl］
+        mnemonic: adj.【oper 工作，操作，-able 可…的】
+        meaning: 可操作的；能施行手术治疗的
         children:
           - name: operability
           - name: inoperable
+            phonetic: ［in'ɔpərəbl］
+            mnemonic: adj.【in-不，oper 工作，操作 → 动手术，-able 能…的】
+            meaning: 不能施行手术的，不宜动手术的
             children:
               - name: interoperable
               - name: interoperability
   - name: operative
+    phonetic: ［'ɔpərətiv］
+    mnemonic: adj.【oper 工作，操作，-ative…的】
+    meaning: 工作的，操作的；手术的
     children:
       - name: inoperative
       - name: perioperative
@@ -32,11 +50,23 @@ children:
           - name: postoperatively
       - name: intraoperative
   - name: cooperate
+    phonetic: ［kəuˌɔpəreit］
+    mnemonic: v.【co-共同，oper 工作，-ate 动词后缀，做…】
+    meaning: 合作，协作
     children:
       - name: cooperator
+        phonetic: ［kəu'ɔpəreitə］
+        mnemonic: n.【见上，-ator 者】
+        meaning: 合作者，合作社社员
       - name: cooperating
       - name: cooperation
+        phonetic: ［kəuˌɔpə'reiʃən］
+        mnemonic: n.【见上，-ation 表示行为】
+        meaning: 合作，协作
       - name: cooperative
+        phonetic: ［kəu'ɔpərətiv］
+        mnemonic: adj.【见上，-ative …的】
+        meaning: 合作的，协作的；【转为名词】合作社
         children:
           - name: cooperatively
           - name: cooperativeness

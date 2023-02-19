@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: educate
+    phonetic: ［'edju(:)keit］
+    mnemonic: v.【e-出，duc 引导，-ate 动词后缀；“引导出来”，“把…由无知状态中引导出来” → 教导出来】
+    meaning: 教育
     children:
       - name: educator
         children:
@@ -13,6 +16,9 @@ children:
           - name: uneducated
           - name: undereducated
       - name: education
+        phonetic: ［ˌedju(:)'keiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 教育
         children:
           - name: educational
             children:
@@ -22,17 +28,32 @@ children:
           - name: miseducation
       - name: educative
       - name: educable
+        phonetic: ［'edju(:)kəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可教育的
       - name: coeducation
         children:
           - name: coeducational
   - name: produce
+    phonetic: ［prə'dju:s］
+    mnemonic: v.【pro-向前，duc 引导；“向前引” → 引出…来 → 制出，产生出】
+    meaning: 生产，出产，制造，产生，引起
     children:
       - name: producer
       - name: producing
       - name: product
+        phonetic: ［'prɔdəkt］
+        mnemonic: n.【见上】
+        meaning: 产品，产物，产量，出产
         children:
           - name: production
+            phonetic: ［prə'dʌkʃən］
+            mnemonic: n.【见上，-ion 名词后缀】
+            meaning: 生产，制造
           - name: productive
+            phonetic: ［prə'dʌktiv］
+            mnemonic: adj.【见上，-ive …的】
+            meaning: 生产的，生产性的
             children:
               - name: productively
               - name: productivity
@@ -42,6 +63,9 @@ children:
         children:
           - name: overproduction
       - name: reproduce
+        phonetic: ［ˌri:prə'dju:s］
+        mnemonic: v.【re-再，produce 生产】
+        meaning: 再生产，再造，复制
         children:
           - name: reproducer
           - name: reproduced

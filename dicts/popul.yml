@@ -4,38 +4,74 @@ tags:
   - SOW
 children:
   - name: popular
+    phonetic: ［'pɔpjulə］
+    mnemonic: adj.【popul 人民，民众→大众，-ar …的】
+    meaning: 人民的，大众的，大众化的，通俗的，大众喜欢的
     children:
       - name: popularly
       - name: popularity
+        phonetic: ［ˌpɔpju'lærəti］
+        mnemonic: n.【见上，-ity 名词后缀，表示性质】
+        meaning: 大众性，通俗性
       - name: popularize
+        phonetic: ［'pɔpjuləraiz］
+        mnemonic: v.【见上，-ize …化，使…】
+        meaning: （使）大众化，（使）普及，推广
         children:
           - name: popularizer
+            phonetic: ［'pɔpjuləraizə］
+            mnemonic: n.【见上，-er 者】
+            meaning: 普及者，推广者
           - name: popularized
           - name: popularization
+            phonetic: ［ˌpɔpjulərai'zeiʃən］
+            mnemonic: n.【见上，-ation 表示行为】
+            meaning: 普及，推广，通俗化
       - name: unpopular
+        phonetic: ［ʌn'pɔpjulə］
+        mnemonic: adj.【un-不，popular 大众的，通俗的】
+        meaning: 不通俗的，不流行的
         children:
           - name: unpopularity
   - name: populate
+    phonetic: ［'pɔpjuleit］
+    mnemonic: v.【popul 人民，-ate 动词后缀，使…，做…】
+    meaning: 使人民居住于…中，使人口集中在…之中；移民于…
     children:
       - name: populated
         children:
           - name: unpopulated
           - name: underpopulated
       - name: population
+        phonetic: ［ˌpɔpju'leiʃən］
+        mnemonic: n.【popul 人民 → 居民，-ation 名词后缀】
+        meaning: 全体居民，人口
         children:
           - name: subpopulation
       - name: repopulate
+        phonetic: ［ri'pɔpjuleit］
+        mnemonic: v.【re-再，重新，见上】
+        meaning: 使人民重新居住于…
         children:
           - name: repopulation
       - name: depopulate
+        phonetic: ［ˌdi:'pɔpjuleit］
+        mnemonic: v.【de-除去，去掉，popul 人民 → 人口，-ate 使…】
+        meaning: 使（某地）人口减少，减少人口
         children:
           - name: depopulated
           - name: depopulation
+            phonetic: ［ˌdi:ˌpɔpju'leiʃən］
+            mnemonic: n.【见上，-ation 表示行为、情况】
+            meaning: 人口减少
       - name: overpopulate
         children:
           - name: overpopulated
           - name: overpopulation
   - name: populace
+    phonetic: ［'pɔpjuləs］
+    mnemonic: n.【popul 人民 → 平民，-ace 名词后缀】
+    meaning: 平民，大众
     children:
       - name: populist
       - name: populism

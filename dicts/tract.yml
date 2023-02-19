@@ -5,21 +5,45 @@ tags:
 children:
   - name: tract
   - name: tractor
+    phonetic: ［'træktə］
+    mnemonic: n.【tract 拉，-or 名词后缀，表示物】
+    meaning: 拖拉机
     children:
       - name: traction
+        phonetic: ［'trækʃən］
+        mnemonic: n.【tract 拉，拖，引，-ion 名词后缀】
+        meaning: 拖，牵引（力）
       - name: tractive
+        phonetic: ［'træktiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 拖的，牵引的
   - name: contract
+    phonetic: ［'kɔntrækt］
+    mnemonic: n.；［kən'trækt］v.【con-共同，一起，tract拉；“把二者拉在一起” → 使二者结合在一起 → 】
+    meaning: 订约，缔结，契约，合同；【“共同拉紧” → 】收缩，（使）缩小，收缩了的
     children:
       - name: contractor
       - name: contracting
       - name: contracted
+        phonetic: ［kən'træktid］
+        mnemonic: adj.【见上，-ed …的】
+        meaning: 收缩的，缩小的；已定约的，已订婚的
       - name: contraction
+        phonetic: ［kən'trækʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 订约，收缩
         children:
           - name: contractionary
       - name: contractile
+        phonetic: ［kən'træktail］
+        mnemonic: adj.【见上，-ile 可…的】
+        meaning: 可收缩的，有收缩力的
         children:
           - name: contractility
       - name: contractual
+        phonetic: ［kən'træktjuəl］
+        mnemonic: adj.【见上，contract 契约，-ual …的】
+        meaning: 契约（性）的
         children:
           - name: contractually
       - name: subcontract
@@ -27,57 +51,108 @@ children:
           - name: subcontractor
           - name: subcontracting
   - name: attract
+    phonetic: ［ə'trækt］
+    mnemonic: v.【at-= ad-表示 to，tract 抽，引 → 】
+    meaning: 吸引，诱惑
     children:
       - name: attractor
       - name: attractant
       - name: attracting
       - name: attracted
       - name: attraction
+        phonetic: ［ə'trækʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 吸引，吸引力，诱惑力
       - name: attractive
+        phonetic: ［ə'træktiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 有吸引力的，有诱惑力的
         children:
           - name: attractively
           - name: attractiveness
           - name: unattractive
   - name: distract
+    phonetic: ［dis'trækt］
+    mnemonic: v.【dis-分开，离开，tract 抽，引；“把注意力引开” → 】
+    meaning: 分散（注意力），使（人）分心，弄昏，迷惑
     children:
       - name: distractor
       - name: distracter
       - name: distracting
       - name: distracted
+        phonetic: ［dis'træktid］
+        mnemonic: adj.【见上，-ed …的】
+        meaning: 心烦意乱的，发狂的
         children:
           - name: distractedly
       - name: distraction
+        phonetic: ［dis'trækʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 心神烦乱，精神错乱
       - name: distractive
   - name: extract
+    phonetic: ［ik'strækt］
+    mnemonic: v.【ex-出，tract 抽】
+    meaning: 抽出，拔出，取出
     children:
       - name: extractor
+        phonetic: ［ik'stræktə］
+        mnemonic: n.【见上，-or 表示人或物】
+        meaning: 抽取者，抽出器
       - name: extracted
       - name: extraction
+        phonetic: ［ik'strækʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 抽出，抽出物；摘要
       - name: extractive
       - name: extractable
   - name: abstract
+    phonetic: ［'æbstrækt］
+    mnemonic: adj./n.【abs-= ab-离开，去，出，tract 抽；“抽去”，“抽出” → 】
+    meaning: 抽象的；抽取，提取；摘要
     children:
       - name: abstractly
       - name: abstractness
       - name: abstraction
+        phonetic: ［æb'strækʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 抽象（化），提取，抽出，分离
         children:
           - name: abstractionist
       - name: abstracted
         children:
           - name: abstractedly
   - name: subtract
+    phonetic: ［səb'trækt］
+    mnemonic: v.【sub-下，tract 抽；“抽下” → 抽去 → 】
+    meaning: 减，减去，去掉
     children:
       - name: subtracter
       - name: subtraction
+        phonetic: ［səb'trækʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 减，减法
       - name: subtractive
       - name: subtrahend
+        phonetic: ［'sʌbtrəhend］
+        mnemonic: n.【见上，subtrah = subtract，-end 名词后缀】
+        meaning: 减数
   - name: detract
     children:
       - name: detractor
   - name: retract
+    phonetic: ［ri'trækt］
+    mnemonic: v.【re-回，tract 抽】
+    meaning: 缩回，缩进，收回，撤回
     children:
       - name: retractor
       - name: retracted
       - name: retraction
+        phonetic: ［ri'trækʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 缩回，收回，撤销
       - name: retractive
+        phonetic: ［ri'træktiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 缩回的
       - name: retractable

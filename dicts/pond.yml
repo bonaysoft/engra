@@ -1,8 +1,14 @@
 name: pond
 children:
   - name: ponder
+    phonetic: ［'pɔndə］
+    mnemonic: v.【pond←pend 称量，-er 动词后缀；称量 → 衡量，权衡 → 思量，思考 → 】
+    meaning: 深思，考虑，估量，衡量
     children:
       - name: ponderable
+        phonetic: ［'pɔndərəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可衡量的，可估量的
         children:
           - name: imponderable
       - name: ponderous

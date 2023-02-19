@@ -8,30 +8,48 @@ children:
       - name: graphing
       - name: graphic
       - name: graphics
+        phonetic: ［'ɡræfiks］
+        mnemonic: n.【graph 画，图，-ics…学】
+        meaning: 制图学，制图法
       - name: graphical
         children:
           - name: graphically
   - name: autograph
+    phonetic: ［'ɔ:təuɡrɑ:f］
+    mnemonic: n.【auto-自己，graph 写；“自己写的”，亲自写的 → 】
+    meaning: 亲笔，手稿
     children:
       - name: autographed
   - name: telegraph
+    phonetic: ［'teliɡrɑ:f］
+    mnemonic: n.【见上，graph 写，文字】
+    meaning: 电报；电报机
     children:
       - name: telegrapher
       - name: telegraphy
         children:
           - name: telegraphic
   - name: historiography
+    phonetic: ［ˌhistɔ:ri'ɔɡrəfi］
+    mnemonic: n.【histori 历史，-o-，graph 写，编写】
+    meaning: 编史工作
     children:
       - name: historiographer
       - name: historiographic
         children:
           - name: historiographical
   - name: monograph
+    phonetic: ［'mɔnəɡrɑ:f］
+    mnemonic: n.【mono-单一，一种，graph 写，论述】
+    meaning: 专题论文，专题著作
     children:
       - name: monography
         children:
           - name: monographic
   - name: polygraph
+    phonetic: ［'pɔliɡrɑ:f］
+    mnemonic: n.【poly-多，graph 写，写作，书写器】
+    meaning: 多产作家；复写器
     children:
       - name: polygrapher
   - name: choreograph

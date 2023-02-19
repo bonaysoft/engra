@@ -4,61 +4,109 @@ tags:
   - SOW
 children:
   - name: differ
+    phonetic: ［'difə］
+    mnemonic: v.【dif-分开，fer 拿，持；“分开拿”，“分取”，“各持己见”，“各执一词” → 互异 → 】
+    meaning: 不同，相异，意见不同
     children:
       - name: differing
       - name: difference
+        phonetic: ［'difərəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 相异，差别，差异，不同
       - name: different
+        phonetic: ［'difərənt］
+        mnemonic: adj.【见上，-ent …的】
+        meaning: 不同的，相异的
         children:
           - name: differently
           - name: differentiable
           - name: differential
+            phonetic: ［ˌdifə'renʃəl］
+            mnemonic: adj.【见上，-ial …的】
+            meaning: 不同的，差别的，区别的
             children:
               - name: differentially
           - name: differentiate
+            phonetic: ［ˌdifə'renʃieit］
+            mnemonic: v.【见上，-ate 动词后缀，使…】
+            meaning: 使不同，区分，区别
             children:
               - name: differentiating
               - name: differentiated
                 children:
                   - name: undifferentiated
               - name: differentiation
+                phonetic: ［ˌdifərenʃi'eiʃən］
+                mnemonic: n.【见上，-ation 名词后缀】
+                meaning: 区别，分别
       - name: indifference
         children:
           - name: indifferent
             children:
               - name: indifferently
   - name: confer
+    phonetic: ［kən'fə:］
+    mnemonic: v.【con-共同，一起，fer 拿；把意见“拿到一起来” → 】
+    meaning: 协商，商量，交换意见
     children:
       - name: conferee
       - name: conference
+        phonetic: ［'kɔnfərəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 协商会，讨论会，会议，会谈，讨论
         children:
           - name: conferencing
           - name: videoconference
             children:
               - name: videoconferencing
   - name: prefer
+    phonetic: ［pri'fə］
+    mnemonic: v.【pre-先，fer 拿，取；对某物“先取”，“先选”，宁愿“先要”某事物 → 】
+    meaning: 宁可，宁愿（选择），更喜欢…，偏爱…
     children:
       - name: preferred
       - name: preferment
       - name: preferable
+        phonetic: ［'prefərəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 更可取的，更好的
         children:
           - name: preferably
       - name: preference
+        phonetic: ［'prefərəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 优先，偏爱，优先权
       - name: preferent
         children:
           - name: preferential
+            phonetic: ［ˌprefə'renʃəl］
+            mnemonic: adj【见上，-ial …的】
+            meaning: 优先的，优待的
             children:
               - name: preferentially
   - name: transfer
+    phonetic: ［træns'fə:］
+    mnemonic: v.【trans-越过，转过，fer 拿；“拿过去” → 】
+    meaning: 转移，传递，传输，转让
     children:
       - name: transferee
       - name: transferal
       - name: transference
+        phonetic: ［'trænsfərəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 转移，传递，转让
       - name: transferable
         children:
           - name: transferability
   - name: offer
+    phonetic: ［'ɔfə］
+    mnemonic: v.【of-向，向前，fer 拿；“拿到前面来” → 】
+    meaning: 提出，提供，奉献，贡献
     children:
       - name: offering
+        phonetic: ［'ɔfəriŋ］
+        mnemonic: n.【见上，-ing 名词后缀，表示行为、物】
+        meaning: 提供，捐献物
       - name: offered
       - name: counteroffer
       - name: proffer

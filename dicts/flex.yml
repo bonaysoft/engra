@@ -1,5 +1,6 @@
 name: flex
-meaning: 弯曲
+phonetic: ［fleks］
+meaning: n. 弯曲，折曲
 tags:
   - SOW
 children:
@@ -9,8 +10,14 @@ children:
       - name: flexion
       - name: flexing
       - name: flexure
+        phonetic: ［'flektʃə］
+        mnemonic: n.【flex 弯曲，-ure 名词后缀】
+        meaning: 弯曲
       - name: flexural
       - name: flexible
+        phonetic: ［'fleksəbl］
+        mnemonic: adj.【见上，-ible 易…的】
+        meaning: 易弯曲的
         children:
           - name: flexibly
           - name: flexibility
@@ -20,6 +27,9 @@ children:
               - name: inflexibility
       - name: flextime
   - name: reflex
+    phonetic: ［ri'fleks］
+    mnemonic: n.【见上，flex = flect】
+    meaning: 反射，反射光，反映
     children:
       - name: reflexive
         children:

@@ -8,8 +8,20 @@ children:
       - name: prosperity
       - name: prosperous
   - name: desperate
+    phonetic: ［'despərit］
+    mnemonic: adj.【de-否定，失去，无，sper 希望，-ate 形容词后缀，…的】
+    meaning: 失望的，无望的，绝望的；（因绝望而）不顾一切的，拼死的
     children:
       - name: desperately
+        phonetic: ［'despəritli］
+        mnemonic: adv.【见上，-ly 副词后缀，…地】
+        meaning: 绝望地；不顾一切地
       - name: desperation
+        phonetic: ［ˌdespə'reiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 绝望；拼命，不顾一切
       - name: desperateness
       - name: desperado
+        phonetic: ［ˌdespə'rɑ:dəu］
+        mnemonic: n.【见上，-ado 来自西班牙语的名词后缀，表示人；“绝望的人” → 】
+        meaning: 亡命徒；暴徒

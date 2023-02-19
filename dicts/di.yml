@@ -14,11 +14,26 @@ children:
       - name: dietitian
       - name: dietician
   - name: diary
+    phonetic: ［'daiəri］
+    mnemonic: n.【di日，-ary 名词后缀，表示物】
+    meaning: 日记，日记簿
     children:
       - name: diarial
+        phonetic: ［dai'ɛəriəl］
+        mnemonic: adj.【见上，-ial …的】
+        meaning: 日记体的，日记的
       - name: diarist
+        phonetic: ［'daiərist］
+        mnemonic: n.【见上，-ist 表示人】
+        meaning: 记日记者
       - name: diarize
+        phonetic: ［'daiəraiz］
+        mnemonic: v.【见上，-ize 动词后缀，做…】
+        meaning: 记日记
   - name: dial
+    phonetic: ［'daiəl］
+    mnemonic: n.【di 日，-al 名词后缀，表示物】
+    meaning: 日晷，电话机拨号盘（该物圆形似日晷）
     children:
       - name: dialing
       - name: redial

@@ -4,37 +4,73 @@ tags:
   - SOW
 children:
   - name: include
+    phonetic: ［in'klu:d］
+    mnemonic: v.【in- 入，内，clud 关闭；“关在里面”，“包入” → 】
+    meaning: 包含，包括，包住，关住
     children:
       - name: including
       - name: included
       - name: inclusion
+        phonetic: ［in'klu:ʒən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 包含，包括，内含物
         children:
           - name: inclusionary
       - name: inclusive
+        phonetic: ［in'klu:siv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 包括在内的，包括的，包含的
         children:
           - name: inclusively
           - name: inclusiveness
   - name: exclude
+    phonetic: ［ik'sklu:d］
+    mnemonic: v.【ex- 外，clud 关；“关在外面” → 不许入内 → 】
+    meaning: 排斥，拒绝接纳，把…排除在外
     children:
       - name: excluder
       - name: excluding
       - name: excluded
       - name: exclusion
+        phonetic: ［ik'sklu:ʒən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 排斥，拒绝，排除，排外
         children:
           - name: exclusionary
           - name: exclusionism
+            phonetic: ［ik'sklu:ʒənizm］
+            mnemonic: n.【见上，-ism 主义】
+            meaning: 排外主义
   - name: conclude
+    phonetic: ［kən'klu:d］
+    mnemonic: v.【con-加强意义，clud 关闭 → 结束，完结】
+    meaning: 结束，完结，终了
     children:
       - name: concluding
       - name: conclusion
+        phonetic: ［kən'klu:ʒən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 完结，结束，结局，结论
       - name: conclusory
       - name: conclusive
+        phonetic: ［kən'klu:siv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 结论的，总结性的，最后的
         children:
           - name: conclusively
           - name: inconclusive
             children:
               - name: inconclusively
   - name: preclude
+    phonetic: ［pri'klu:d］
+    mnemonic: v.【pre-前，先，预先，clud 关闭；“预先关闭” → 】
+    meaning: 阻止，预防，排除，消除
     children:
       - name: preclusion
+        phonetic: ［pri'klu:ʃən］
+        mnemonic: n.【见上，clud → clus，-ion 名词后缀】
+        meaning: 预防，防止，排除
       - name: preclusive
+        phonetic: ［pri'klu:siv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 预防（性）的，排除的，阻止的

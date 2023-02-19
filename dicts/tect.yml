@@ -4,24 +4,42 @@ tags:
   - SOW
 children:
   - name: detect
+    phonetic: ［di'tekt］
+    mnemonic: v.【de-除去，取消，tect 掩盖；“除去掩盖” → 揭露秘密 → 查明真相 → 】
+    meaning: 侦查，侦察，发觉
     children:
       - name: detector
         children:
           - name: photodetector
       - name: detective
+        phonetic: ［di'tektiv］
+        mnemonic: adj./n.【见上，-ive …的】
+        meaning: 侦探的，侦察的；【-ive 表示人】侦探
       - name: detecting
       - name: detected
         children:
           - name: undetected
       - name: detection
+        phonetic: ［di'tekʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 侦查，侦察，察觉
       - name: detectable
         children:
           - name: detectability
           - name: undetectable
       - name: detectaphone
+        phonetic: ［di'tektəfəun］
+        mnemonic: n.【detect 侦察，-a-，phone 电话】
+        meaning: 侦听电话机，侦听器，窃听器
   - name: protect
+    phonetic: ［prə'tekt］
+    mnemonic: v.【pro-前面，tect 掩盖；“在前面掩护” → 】
+    meaning: 保护
     children:
       - name: protector
+        phonetic: ［prə'tektə］
+        mnemonic: n.【见上，-or 表示人或物】
+        meaning: 保护者，保护器
         children:
           - name: protectress
           - name: protectorate
@@ -29,11 +47,23 @@ children:
       - name: protected
         children:
           - name: unprotected
+            phonetic: ［ˌʌnprə'tektid］
+            mnemonic: adj.【un-无，protect 保护，-ed …的】
+            meaning: 无掩护的，没有防卫的，未设防的
       - name: protection
+        phonetic: ［prə'tekʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 保护，护卫，防护物
         children:
           - name: protectionist
           - name: protectionism
+            phonetic: ［prə'tekʃənizəm］
+            mnemonic: n.【见上，-ism 主义】
+            meaning: 保护（贸易）主义
       - name: protective
+        phonetic: ［prə'tektiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 保护的，防护的
         children:
           - name: protectively
           - name: protectiveness

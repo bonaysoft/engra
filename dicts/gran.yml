@@ -4,15 +4,36 @@ tags:
   - SOW
 children:
   - name: granary
+    phonetic: ［'ɡrænəri］
+    mnemonic: n.【gran 谷物，-ary 表示场所、地点】
+    meaning: 谷仓、粮仓，产粮区
   - name: grange
+    phonetic: ［ɡreinʤ］
+    mnemonic: n.【gran 谷物；“生产谷物的地方”】
+    meaning: 农场，农庄，田庄
     children:
       - name: granger
+        phonetic: ［'ɡreinʤə］
+        mnemonic: n.【见上，-er 表示人】
+        meaning: 田庄里的人，农民
   - name: granule
+    phonetic: ［'ɡrænju:l］
+    mnemonic: n.【gran 谷物，-ule 表示小；“小谷粒”】
+    meaning: 细粒，颗粒
     children:
       - name: granular
+        phonetic: ［'ɡrænjulə］
+        mnemonic: adj.【见上，-ar …的】
+        meaning: 颗粒状的
       - name: granulate
+        phonetic: ［'ɡrænjuleit］
+        mnemonic: v.【见上，-ate 动词后缀，使…】
+        meaning: 使成颗粒，使成粒状
         children:
           - name: granulated
           - name: granulation
       - name: granular
       - name: granularity
+        phonetic: ［ˌɡrænju'læriti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 颗粒状

@@ -4,9 +4,27 @@ tags:
   - SOW
 children:
   - name: mural
+    phonetic: ［'mjuərəl］
+    mnemonic: adj./n.【mur 墙壁，-al 形容词及名词后缀】
+    meaning: 墙壁的；墙壁上的；壁画
     children:
       - name: muralist
+        phonetic: ［'mjuərəlist］
+        mnemonic: n.【mural 壁画，-ist 人】
+        meaning: 壁画师，壁画家
       - name: photomural
+        phonetic: ［ˌfəutə'mjuərəl］
+        mnemonic: n.【photo 照片，mural 壁画】
+        meaning: 壁画式照片，大幅照片
       - name: intermural
+        phonetic: ［ˌintə'mjuərəl］
+        mnemonic: adj.【inter-中间，mur 墙，-al …的】
+        meaning: 壁间的，墙间的
       - name: intramural
+        phonetic: ［ˌintrə'mjuərəl］
+        mnemonic: adj.【intra-内，mur墙，-al …的；“墙内的”】
+        meaning: 内部的，（国家、城市、团体等）自己范围内的
       - name: extramural
+        phonetic: ［ˌekstrə'mjuərəl］
+        mnemonic: adj.【extra-外，mur 墙，-al …的】
+        meaning: 墙外的；城外的，大学之墙以外的

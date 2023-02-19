@@ -4,22 +4,49 @@ tags:
   - SOW
 children:
   - name: novel
+    phonetic: ［'nɔvəl］
+    mnemonic: n./adj.【nov 新，-el 名词后缀，表示物；新 → 新奇，“新奇的事” → 故事 → 】
+    meaning: 小说，长篇小说；新奇的
     children:
       - name: novelist
+        phonetic: ［'nɔvəlist］
+        mnemonic: n.【见上，-ist 表示人】
+        meaning: 小说家，小说作者
         children:
           - name: novelistic
       - name: novelize
+        phonetic: ［'nɔvəlaiz］
+        mnemonic: v.【见上，-ize 使成…】
+        meaning: 使成小说，使小说化
         children:
           - name: novelization
       - name: novelty
+        phonetic: ［'nɔvəlti］
+        mnemonic: n.【novel 新奇的，-ty 表示情况、事物】
+        meaning: 新奇，新颖，新奇的事物
       - name: novella
       - name: novelette
+        phonetic: ［ˌnɔvə'let］
+        mnemonic: n.【见上，-ette 名词后缀，表示小；比长篇小说小（短）的 → 】
+        meaning: 中篇小说
   - name: novice
+    phonetic: ［'nɔvis］
+    mnemonic: n.【nov 新，-ice 表示人】
+    meaning: 新手，初学者
     children:
       - name: noviciate
       - name: novitiate
   - name: renovate
+    phonetic: ［'renəuveit］
+    mnemonic: v.【re-再，nov 新，-ate 使…；“使再新” → 】
+    meaning: 更新，刷新，翻新，修复，革新
     children:
       - name: renovator
+        phonetic: ［ˌrenə'veitə］
+        mnemonic: n.【见上，-or者】
+        meaning: 更新者，革新者，刷新者，修复者
       - name: renovated
       - name: renovation
+        phonetic: ［ˌrenəu'veiʃən］
+        mnemonic: n.【见上，-ion 名词后缀，表示行为】
+        meaning: 更新，革新，翻新

@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: vanish
+    phonetic: ［'væniʃ］
+    mnemonic: v.【van 空，无，-ish 动词后缀】
+    meaning: 突然不见；逐渐消散；消失
     children:
       - name: vanished
       - name: vanishing

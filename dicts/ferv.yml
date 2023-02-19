@@ -4,8 +4,17 @@ tags:
   - SOW
 children:
   - name: fervor
+    phonetic: ［'fə:və］
+    mnemonic: n.【ferv 热，-or 抽象名词后缀】
+    meaning: 炽热；热情；热烈
     children:
       - name: fervent
+        phonetic: ［'fə:vənt］
+        mnemonic: adj.【ferv 热，-ent 形容词后缀，…的】
+        meaning: 炽热的；热情的；热烈的
         children:
           - name: fervently
       - name: fervency
+        phonetic: ［'fə:vənsi］
+        mnemonic: n.【ferv 热，-ency 抽象名词后缀】
+        meaning: 炽热；热情；热烈

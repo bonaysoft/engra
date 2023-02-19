@@ -4,12 +4,29 @@ tags:
   - SOW
 children:
   - name: abbreviate
+    phonetic: ［ə'bri:vieit］
+    mnemonic: v.【ab- 加强意义，brev 短，-i-，-ate 动词后缀，使…】
+    meaning: 缩短，缩写，节略（读物等）
     children:
       - name: abbreviated
       - name: abbreviation
+        phonetic: ［əˌbri:vi'eiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 缩写，缩短，节略；缩写式，缩写词
       - name: abbreviator
+        phonetic: ［ə'bi:vieitə］
+        mnemonic: n.【见上，-ator 表示人】
+        meaning: 缩写者，节略者
         children:
           - name: microbrewery
   - name: brevity
+    phonetic: ［'brevəti］
+    mnemonic: n.【brev 短，-ity 名词后缀】
+    meaning: （陈述等的）简短，简洁；（生命等的）短暂，短促
   - name: breviary
+    phonetic: ［'bri:vjəri］
+    mnemonic: n.【brev 短，-i-，-ary 名词后缀】
+    meaning: 缩略，摘要
   - name: breve
+    phonetic: ［bri:v］
+    meaning: n. 短音符号

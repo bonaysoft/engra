@@ -4,30 +4,57 @@ tags:
   - SOW
 children:
   - name: fluid
+    phonetic: ［'flu(:)id］
+    mnemonic: adj./n.【flu 流，-id 形容词后缀，…的】
+    meaning: 流动的，流体的，液体的；【转为名词】流体，液体
     children:
       - name: fluidity
+        phonetic: ［flu:'iditi］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 流动性，流度
       - name: fluidize
         children:
           - name: fluidized
       - name: superfluid
+        phonetic: ［ˌsju:pə'fluid］
+        mnemonic: n.【super-超，fluid 流体】
+        meaning: 超流体
         children:
           - name: superfluidity
   - name: influence
+    phonetic: ［'influəns］
+    mnemonic: n.【in-入，flu流，-ence 名词后缀；“流入” → 波及 → 对周围事物产生影响 → 】
+    meaning: 影响，感动，势力；【转为动词】感化，影响，对…有作用，左右
     children:
       - name: influencing
       - name: influenced
         children:
           - name: uninfluenced
       - name: influential
+        phonetic: ［ˌinflu'enʃəl］
+        mnemonic: adj.【见上，-ial…的】
+        meaning: 有影响的，施以影响的
         children:
           - name: uninfluential
+            phonetic: ［'ʌninflu'enʃəl］
+            mnemonic: adj.【un-不，无，见上】
+            meaning: 不产生影响的，没有影响的
   - name: influenza
+    phonetic: ［ˌinflu'enzə］
+    mnemonic: n.【见上，影响 → 感染】
+    meaning: 流行性感冒
     children:
       - name: flu
   - name: fluent
+    phonetic: ［'flu(:)ənt］
+    mnemonic: adj.【flu 流，-ent 形容词后缀，…的】
+    meaning: 流动的，流畅的，（语言）流利的
     children:
       - name: fluently
       - name: fluency
+        phonetic: ［'flu(:)ənsi］
+        mnemonic: n.【flu 流，-ency 名词后缀】
+        meaning: 流利，流畅
   - name: affluent
     children:
       - name: affluence

@@ -4,19 +4,43 @@ tags:
   - SOW
 children:
   - name: democracy
+    phonetic: ［di'mɔkrəsi］
+    mnemonic: n.【demo 人民，cracy 统治；“人民统治” → 人民做主 → 】
+    meaning: 民主；民主政治，民主政体；民主主义
   - name: autocracy
+    phonetic: ［ɔ:'tɔkrəsi］
+    mnemonic: n.【auto-自己，独自，cracy 统治；“独自统治” → 】
+    meaning: 独裁政治；专制，独裁；专制制度
     children:
       - name: surplus
       - name: surplusage
   - name: bureaucracy
   - name: plutocracy
+    phonetic: ［plu:'tɔkrəsi］
+    mnemonic: n.【pluto 财，财富，cracy 统治】
+    meaning: 财阀统治，富豪统治
   - name: theocracy
+    phonetic: ［θi'ɔkrəsi］
+    mnemonic: n.【theo 神，cracy 权力，统治】
+    meaning: 神权政治；僧侣政治
     children:
       - name: theocratic
+        phonetic: ［ˌθi:ə'krætik］
+        mnemonic: adj.【见上，-ic …的】
+        meaning: 神权政治的；僧侣政治的
   - name: monocracy
+    phonetic: ［mə'nɔkrəsi］
+    mnemonic: n.【mono-单一，独，cracy 统治】
+    meaning: 独裁政治
     children:
       - name: monocrat
+        phonetic: ［'mɔnəkræt］
+        mnemonic: n.【mono-单一，独，crat 统治者】
+        meaning: 独裁统治者，独裁者
       - name: monocratic
+        phonetic: ［ˌmɔnə'krætik］
+        mnemonic: adj.【见上，-ic …的】
+        meaning: 独裁政治的
   - name: bureaucracy
     children:
       - name: bureaucrat
@@ -25,3 +49,6 @@ children:
       - name: bureaucratism
       - name: bureaucratize
   - name: polycracy
+    phonetic: ［pɔli'kræsi］
+    mnemonic: n.【poly-多，cracy 统治；“多人统治” → 】
+    meaning: 多头政治

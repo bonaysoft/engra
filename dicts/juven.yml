@@ -4,13 +4,34 @@ tags:
   - SOW
 children:
   - name: juvenile
+    phonetic: ［'ʤu:vənail］
+    mnemonic: adj./n.【juven 年少，-ile 形容词后缀，…的】
+    meaning: 青少年的；【转作名词】青少年
     children:
       - name: juvenility
+        phonetic: ［ˌʤu:və'niləti］
+        mnemonic: n.【见上，-ility 名词后缀】
+        meaning: 年少，年轻
       - name: juvenescent
+        phonetic: ［ˌʤu:vi'nesnt］
+        mnemonic: adj.【见上，-escent 形容词后缀，表示逐渐形成某种状态的】
+        meaning: 由婴儿期向青年过渡的
       - name: juvenescence
+        phonetic: ［ˌʤu:vi'nesns］
+        mnemonic: n.【juven 年少，年轻，-escence 名词后缀，表示逐渐形成某种状态】
+        meaning: 变年轻，年轻
   - name: rejuvenate
+    phonetic: ［ri'ʤu:vəneit］
+    mnemonic: v.【re-再，juven 年轻，-ate 动词后缀；“再年轻” → 】
+    meaning: 返老还童，使返老还童，恢复活力
     children:
       - name: rejuvenator
+        phonetic: ［ri'ʤu:vineitə］
+        mnemonic: n.【见上，-ator 表示人或物】
+        meaning: （使）恢复青春活力的人（或物）
       - name: rejuvenating
       - name: rejuvenated
       - name: rejuvenation
+        phonetic: ［riˌʤu:vi'neiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 返老还童

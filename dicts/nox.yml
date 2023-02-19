@@ -4,8 +4,14 @@ tags:
   - SOW
 children:
   - name: noxious
+    phonetic: ［'nɔkʃəs］
+    mnemonic: adj.【nox 伤害，-ious 形容词后缀，…的】
+    meaning: 有害的，有毒的，不卫生的
     children:
       - name: noxiousness
+        phonetic: ［'nɔkʃəsnis］
+        mnemonic: n.【见上，-ness 名词后缀】
+        meaning: 有害，有毒；不卫生
   - name: obnoxious
     children:
       - name: obnoxiously

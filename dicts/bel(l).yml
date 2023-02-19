@@ -1,14 +1,29 @@
 name: bel(l)
 children:
   - name: belligerent
+    phonetic: ［bi'liʤərənt］
+    mnemonic: adj.【bell 战争，-i-，ger=to wage， -ent 形容词后缀，…的】
+    meaning: 好战的，挑起战争的
     children:
       - name: belligerently
       - name: belligerence
       - name: belligerency
+        phonetic: ［bi'liʤərənsi］
+        mnemonic: n.【见上，-ency 名词后缀，表性质】
+        meaning: 好战性
   - name: rebel
+    phonetic: ［ri'bel］
+    mnemonic: v.【re- 相反，be（l）战争，战斗；“反戈”，“反战” → 】
+    meaning: 反叛，反抗
     children:
       - name: rebellion
+        phonetic: ［ri'beljən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 反叛，反抗，叛乱
       - name: rebellious
+        phonetic: ［ri'beljəs］
+        mnemonic: adj.【见上，-ious 形容词后缀，…的】
+        meaning: 反叛的，反抗的，叛乱的
         children:
           - name: rebelliously
           - name: rebelliousness

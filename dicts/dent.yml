@@ -8,13 +8,37 @@ children:
       - name: dented
       - name: dentition
       - name: dental
+        phonetic: ［'dentəl］
+        mnemonic: adj.【dent 牙，-al …的】
+        meaning: 牙齿的，牙科的
       - name: dentist
+        phonetic: ［'dentist］
+        mnemonic: n.【dent 牙，-ist 表示人；“医治牙病的人”】
+        meaning: 牙科医生
         children:
           - name: dentistry
+            phonetic: ［'dentistri］
+            mnemonic: n.【见上，-ry 表示…学、技术、职业】
+            meaning: 牙科学，牙科，牙科业
       - name: denture
+        phonetic: ［'dentʃə］
+        mnemonic: n.【dent 牙，-ure 名词后缀】
+        meaning: 假牙
       - name: interdental
+        phonetic: ［ˌintə'dentl］
+        mnemonic: adj.【inter-中间，dent 齿，-al …的】
+        meaning: 齿间的
       - name: dentate
+        phonetic: ［'denteit］
+        mnemonic: adj.【dent 牙，ate …的】
+        meaning: 有齿的，齿状的
         children:
           - name: bidentate
           - name: multidentate
+            phonetic: ［ˌmʌlti'denteit］
+            mnemonic: adj.【multi-多，dent 牙，齿，-ate …的】
+            meaning: 多齿的
       - name: edentate
+        phonetic: ［i:'denteit］
+        mnemonic: adj.【e-无，dent 齿，-ate …的】
+        meaning: （动物）无齿的，贫齿目的

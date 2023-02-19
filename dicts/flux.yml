@@ -1,11 +1,29 @@
 name: flux
+phonetic: ［flʌks］
+mnemonic: n.【flux=flu 流】
+meaning: 流，流出，流动；变动
 children:
   - name: flux
     children:
       - name: fluxion
+        phonetic: ［'flʌkʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 流动，流出物；变动
         children:
           - name: fluxional
+            phonetic: ［'flʌkʃənəl］
+            mnemonic: adj.【见上，-al …的】
+            meaning: 流动的；变动的
       - name: reflux
+        phonetic: ［'ri:flʌks］
+        mnemonic: n.【re-回，反，flux 流】
+        meaning: 回流；倒流；逆流
       - name: influx
+        phonetic: ［'inflʌks］
+        mnemonic: n.【in-入，flux 流】
+        meaning: 流入
       - name: afflux
+        phonetic: ［'æflʌks］
+        mnemonic: n.【af-表示to，flux 流】
+        meaning: 流向，流入
       - name: efflux

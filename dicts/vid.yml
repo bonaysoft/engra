@@ -4,23 +4,41 @@ tags:
   - SOW
 children:
   - name: video
+    phonetic: ［'vidiəu］
+    mnemonic: n./adj.【vid 看；“可观看的图像”】
+    meaning: 电视；电视的
     children:
       - name: videotape
         children:
           - name: videotaping
       - name: videodisc
       - name: videophone
+        phonetic: ［'vidiəufəun］
+        mnemonic: n.【见上，phone 电话】
+        meaning: 电视电话，可视电话
       - name: videocast
+        phonetic: ［'vidiəukɑ:st］
+        mnemonic: n.【见上，cast 广播】
+        meaning: 电视广播
       - name: videocam
       - name: videocamera
   - name: evidence
+    phonetic: ［'evidens］
+    mnemonic: n.【见上，-ence 名词后缀】
+    meaning: 明显，明白，迹象，证据
     children:
       - name: evident
+        phonetic: ［'evident］
+        mnemonic: adj.【e-出，vid 看，-ent 形容词后缀，…的；“看得出来的” → 】
+        meaning: 明显的，明白的
         children:
           - name: evidently
           - name: evidential
           - name: evidentiary
   - name: provide
+    phonetic: ［prə'vaid］
+    mnemonic: v.【pro-前，先，预先，vid 看见；“预先见到而作准备” → 】
+    meaning: 作准备，预防，提供，装备，供给
     children:
       - name: provider
       - name: providing

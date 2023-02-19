@@ -4,11 +4,20 @@ tags:
   - SOW
 children:
   - name: vague
+    phonetic: ［veiɡ］
+    mnemonic: adj.【vag 漫游，游荡 → 游移不定 → （语义）不确定，不明确】
+    meaning: 含糊的，不明确的
     children:
       - name: vaguely
       - name: vagueness
   - name: extravagant
+    phonetic: ［ik'strævəɡənt］
+    mnemonic: adj.【extra-以外，vag 漫步，走， -ant …的；“走出范围之外的” → 超出范围的 → 】
+    meaning: 过分的，过度的，无节制的，奢侈的，浪费的
     children:
       - name: extravagantly
       - name: extravagance
+        phonetic: ［ik'strævəɡəns］
+        mnemonic: n.【见上，-ance 名词后缀】
+        meaning: 过分，过度，无节制，浪费，奢侈
       - name: extravaganza

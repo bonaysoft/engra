@@ -4,23 +4,47 @@ tags:
   - SOW
 children:
   - name: connect
+    phonetic: ［kə'nekt］
+    mnemonic: v.【con-共同，一起，nect 结，系；“结在一起” → 】
+    meaning: 连结，连接；把…联系起来
     children:
       - name: connector
+        phonetic: ［kə'nektə］
+        mnemonic: n.【见上，-or 表示人或物】
+        meaning: 连接者；连接物
       - name: connecting
       - name: connected
+        phonetic: ［kə'nektid］
+        mnemonic: adj.【见上，-ed …的】
+        meaning: 连结的，连接的；关联的
         children:
           - name: connectedness
           - name: unconnected
+            phonetic: ［ˌʌnkə'nektid］
+            mnemonic: adj.【un-不】
+            meaning: 不连接的，分离的
       - name: connection
+        phonetic: ［kə'nekʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 联系；连接
       - name: connective
+        phonetic: ［kə'nektiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 连结的，连接的
         children:
           - name: connectivity
       - name: disconnect
+        phonetic: ［ˌdiskə'nekt］
+        mnemonic: v.【dis-不，“不连接” → 】
+        meaning: 拆开，分离，撕开
         children:
           - name: disconnected
             children:
               - name: disconnectedness
           - name: disconnection
+            phonetic: ［ˌdiskə'nekʃən］
+            mnemonic: n.【见上，-ion 名词后缀】
+            meaning: 分离，分开
       - name: reconnect
         children:
           - name: reconnection

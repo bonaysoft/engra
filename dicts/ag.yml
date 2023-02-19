@@ -4,20 +4,59 @@ tags:
   - SOW
 children:
   - name: agent
+    phonetic: ［'eiʤ(ə)nt］
+    mnemonic: n.【ag 做，办理，-ent 名词后缀，表示人；“做事者”，“办事人” → 】
+    meaning: 代理人
     children:
       - name: agency
+        phonetic: ［'eiʤ(ə)nsi］
+        mnemonic: n.【ag 做，作，-ency 名词后缀】
+        meaning: 代理，代理处，机构，作用
       - name: agential
+        phonetic: ［ei'ʤenʃəl］
+        mnemonic: adj.【见上，-ial形容词后缀，…的】
+        meaning: 代理人的
       - name: agentry
       - name: subagent
+        phonetic: ［sʌb'eiʤənt］
+        mnemonic: n.【sub- 副的，agent 代理人】
+        meaning: 副代理人
       - name: countagent
       - name: coagent
+        phonetic: ［kəu'eiʤənt］
+        mnemonic: n.【co- 共同，ag 做，作，-ent 表示人】
+        meaning: 共事者，合作者
   - name: agile
+    phonetic: ［'æʤail］
+    mnemonic: adj.【ag 动 → 活动 → 灵活，-ile 形容词后缀，…的】
+    meaning: 灵活的，敏捷的
     children:
       - name: agility
+        phonetic: ［ə'ʤiliti］
+        mnemonic: n.【见上，-ility 名词后缀，表示抽象名词】
+        meaning: 灵活，敏捷
   - name: agitate
+    phonetic: ［'æʤiteit］
+    mnemonic: v.【ag 动，-it-，-ate 动词后缀，使…；“使骚动” → 】
+    meaning: 鼓动，煽动，搅动，使不安定
     children:
       - name: agitating
+        phonetic: ［'æʤiteitiŋ］
+        mnemonic: adj.【见上，-ing 形容词后缀，使…的】
+        meaning: 使人不安的，进行鼓动的
       - name: agitated
+        phonetic: ［'æʤiteitid］
+        mnemonic: adj.【见上，-ed 形容词后缀，…的】
+        meaning: 不安的
       - name: agitation
+        phonetic: ［ˌæʤi'teiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 鼓动，煽动
       - name: agitator
+        phonetic: ［'æʤiteitə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 鼓动者，煽动者
       - name: agitatress
+        phonetic: ［'æʤiteitris］
+        mnemonic: n.【见上，-ress 表示女性】
+        meaning: 女鼓动家

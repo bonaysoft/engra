@@ -4,24 +4,54 @@ tags:
   - SOW
 children:
   - name: vocal
+    phonetic: ［'vəukəl］
+    mnemonic: adj.【voc 声，-al …的】
+    meaning: 有声的；用语言表达的，口述的；歌唱的
     children:
       - name: vocally
       - name: vocalist
+        phonetic: ［'vəukəlist］
+        mnemonic: n.【见上，-ist 者】
+        meaning: 歌唱者；声乐家
       - name: vocalism
+        phonetic: ［'vəukəlizəm］
+        mnemonic: n.【见上，-ism 表行为】
+        meaning: 发声；歌唱
       - name: vocalize
+        phonetic: ［'vəukəlaiz］
+        mnemonic: v.【见上，-ize 动词后缀】
+        meaning: 发声；唱；说
         children:
           - name: vocalization
       - name: multivocal
   - name: vocabulary
+    phonetic: ［vəu'kæbjuləri］
+    mnemonic: n.【见上，-ary 名词后缀】
+    meaning: 词汇，字汇，语汇，词汇量
   - name: vocation
+    phonetic: ［vəu'keiʃən］
+    mnemonic: n.【voc 声音，语言，叫喊 → 召唤，-ation 名词后缀；原义为“根据上帝的召唤而做的事” → 天职，后演化、引申为“职业”】
+    meaning: 职业，行业
     children:
       - name: vocational
+        phonetic: ［vəu'keiʃənəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 职业的，行业的
         children:
           - name: vocationally
       - name: avocation
         children:
           - name: avocational
   - name: advocate
+    phonetic: ［'ædvəkeit］
+    mnemonic: v.；［'ædvəkət］n.【ad-加强意义，voc 声音 → 说话，-ate 动词后缀；“大声说”，“大声叫喊” → 极力主张 → 】
+    meaning: 拥护，提倡，鼓吹，辩护；【-ate 表示人】拥护者，提倡者，鼓吹者，主张者
     children:
       - name: advocator
+        phonetic: ［'ædvəkeitə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 拥护者，提倡者
       - name: advocacy
+        phonetic: ［'ædvəkəsi］
+        mnemonic: n.【见上，-acy 名词后缀】
+        meaning: 拥护，提倡，辩护，主张

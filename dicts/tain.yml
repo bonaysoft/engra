@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: contain
+    phonetic: ［kən'tein］
+    mnemonic: v.【con-共同，tain 握，持“to hold together，to hold within fixed limits” → 】
+    meaning: 容纳，包含，内装
     children:
       - name: containing
       - name: contained
@@ -12,6 +15,9 @@ children:
           - name: uncontainable
       - name: containment
       - name: container
+        phonetic: ［kən'teinə］
+        mnemonic: n.【见上，-er 表示物】
+        meaning: 容器，集装箱
         children:
           - name: containerize
             children:
@@ -35,15 +41,30 @@ children:
       - name: detainee
       - name: detainment
   - name: abstain
+    phonetic: ［əb'stein］
+    mnemonic: v.【abs-= ab-离（from），tain 握，持，守；“to hold（or keep）oneself from” → 】
+    meaning: 戒；避免，避开
     children:
       - name: abstainer
       - name: abstention
+        phonetic: ［əb'stenʃən］
+        mnemonic: n.【见上，ten = tain，-tion 名词后缀】
+        meaning: 戒；避免，避开
   - name: obtain
+    phonetic: ［əb'tein］
+    mnemonic: v.【ob-加强意义，tain 握，持；“to get hold of by effort” → 】
+    meaning: 取得，获得，得到，买到
     children:
       - name: obtainable
+        phonetic: ［əb'teinəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可获得的，可取得的，可买到的
         children:
           - name: unobtainable
   - name: sustain
+    phonetic: ［sə'stein］
+    mnemonic: v.【sus-= sub-下，tain 握，持；“在下面支持” → 】
+    meaning: 支持，支撑，维持，供养
     children:
       - name: sustainer
       - name: sustainment
@@ -55,10 +76,19 @@ children:
             children:
               - name: unsustainability
   - name: maintain
+    phonetic: ［mein'tein］
+    mnemonic: v.【main = man手，tain 握，持；“to hold in the hand，to keep up，to uphold” → 】
+    meaning: 保持，保存，维持，坚持，供养
     children:
       - name: maintainer
       - name: maintainable
+        phonetic: ［mein'teinəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可保持的，可维持的
       - name: maintenance
+        phonetic: ［'meintənəns］
+        mnemonic: n.【见上，ten = tain，-ance 名词后缀】
+        meaning: 保持，维持，坚持
       - name: maintained
         children:
           - name: unmaintained

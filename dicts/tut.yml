@@ -4,13 +4,34 @@ tags:
   - SOW
 children:
   - name: tutor
+    phonetic: ［'tju:tə］
+    mnemonic: n.【tut 监护，看管 → 管教，指导，-or 者；“指导儿童者，”“管教儿童者” → 】
+    meaning: 家庭教师；指导教师；监护人
     children:
       - name: tutoress
+        phonetic: ［'tju:təris］
+        mnemonic: n.【见上，-ess 表女性】
+        meaning: 女家庭教师；女指导教师；女助教
       - name: tutee
+        phonetic: ［tju:'ti:］
+        mnemonic: n.【见上，-ee 被…的人】
+        meaning: 被教导者，被指导者，学生
       - name: tutorial
+        phonetic: ［tju:'tɔ:riəl］
+        mnemonic: adj.【见上，-ial …的】
+        meaning: 家庭教师的；指导教师的
       - name: tutoring
       - name: tutored
         children:
           - name: untutored
+            phonetic: ［ʌn'tju:təd］
+            mnemonic: adj.【un-未，见上】
+            meaning: 未受教育的；无教养的
       - name: tutorage
+        phonetic: ［'tju:təriʤ］
+        mnemonic: n.【见上，-age 名词后缀，表职位】
+        meaning: 家庭教师（或指导教师）的职位
       - name: tutorship
+        phonetic: ［'tju:təʃip］
+        mnemonic: n.【见上，-ship 表身份、地位】
+        meaning: 家庭教师（或指导教师、监护人等）的地位、职位或职责

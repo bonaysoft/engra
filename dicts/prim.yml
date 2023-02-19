@@ -4,20 +4,40 @@ tags:
   - SOW
 children:
   - name: prime
+    phonetic: ［'praim］
+    meaning: adj. 最初的；原始的；首要的；基本的
     children:
       - name: primer
+        phonetic: ［'praimə］
+        mnemonic: n.【prim 最初，-er 表示物】
+        meaning: 初级读本；入门书；识字课本
       - name: primal
+        phonetic: ［'praiməl］
+        mnemonic: adj.【prim 最初，-al …的】
+        meaning: 最初的；原始的；首要的
       - name: primed
       - name: primacy
+        phonetic: ［'praiməsi］
+        mnemonic: n.【prim第一，-acy 名词后缀】
+        meaning: 第一位，首位
       - name: primate
+        phonetic: ［'praimit］
+        mnemonic: n.【prim 第一，主要的，-ate 表示人】
+        meaning: 大主教
         children:
           - name: primatology
           - name: primatologist
       - name: subprime
   - name: primary
+    phonetic: ［'praiməri］
+    mnemonic: adj.【prim 最初，-ary …的】
+    meaning: 最初的；原始的；初级的
     children:
       - name: primarily
   - name: primitive
+    phonetic: ［'primitiv］
+    mnemonic: adj.【prim 最初，-itive …的】
+    meaning: 原始的；早期的
     children:
       - name: primitively
       - name: primitivism

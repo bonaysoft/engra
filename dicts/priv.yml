@@ -13,8 +13,14 @@ children:
       - name: privacy
   - name: privacy
   - name: privilege
+    phonetic: ［'priviliʤ］
+    mnemonic: n.【priv←private 个人的，私有的， -i-，leg 法；“个人的法”，“私有的法” → 特殊的法 → 】
+    meaning: 特权
     children:
       - name: privileged
+        phonetic: ［'priviliʤd］
+        mnemonic: adj.【见上，-ed 形容词后缀，有…的】
+        meaning: 有特权的
         children:
           - name: underprivileged
   - name: deprive

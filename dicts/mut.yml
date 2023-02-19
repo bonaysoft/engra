@@ -4,9 +4,15 @@ tags:
   - SOW
 children:
   - name: mutual
+    phonetic: ［'mju:tjuəl，'mju:tʃuəl］
+    mnemonic: adj.【mut 变换 → 交换 → 互相之间，-ual …的】
+    meaning: 互相的，彼此的
     children:
       - name: mutually
       - name: mutuality
+        phonetic: ［'mju:tʃu'æləti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 相互关系
       - name: mutualism
       - name: mutualist
         children:
@@ -15,15 +21,33 @@ children:
     children:
       - name: mutated
       - name: mutation
+        phonetic: ［mju:'teiʃən］
+        mnemonic: n.【mut 变，-ation 名词后缀】
+        meaning: 变化，变异，更换，转变
       - name: mutant
+        phonetic: ［'mju:tənt］
+        mnemonic: adj.【mut 变，-ant …的】
+        meaning: 变异的；变异所引起的
       - name: mutable
+        phonetic: ［'mju:təbl］
+        mnemonic: adj.【mut 变换，-able 可…的】
+        meaning: 可变的；易变的；不定的
         children:
           - name: mutability
           - name: immutable
+            phonetic: ［i'mju:təbl］
+            mnemonic: adj.【im-不，见上】
+            meaning: 不可改变的；永远不变的
             children:
               - name: immutability
   - name: commute
+    phonetic: ［kə'mju:t］
+    mnemonic: v.【com-共同，mut 变换】
+    meaning: 变换；用…交换
     children:
       - name: commuter
       - name: commuting
       - name: commutation
+        phonetic: ［ˌkɔmju(:)'teiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 交换；代偿，（电）转换，变换；转向，整流

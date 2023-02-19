@@ -4,19 +4,31 @@ tags:
   - SOW
 children:
   - name: visible
+    phonetic: ［'vizəbl］
+    mnemonic: adj.【vis 看，-ible 可…的】
+    meaning: 看得见的，可见的
     children:
       - name: visibly
         children:
           - name: visibility
       - name: invisible
+        phonetic: ［in'vizəbl］
+        mnemonic: adj.【in-不，见上】
+        meaning: 看不见的，无形的
         children:
           - name: invisibly
           - name: invisiblity
   - name: vision
+    phonetic: ［'viʒən］
+    mnemonic: n.【vis 看，-ion 名词后缀】
+    meaning: 视，视力，视觉
     children:
       - name: visionary
       - name: envision
   - name: visual
+    phonetic: ［'viʒuəl］
+    mnemonic: adj.【vis 看，-ual …的】
+    meaning: 看的，视觉的，视力的
     children:
       - name: visuals
       - name: visually
@@ -28,18 +40,33 @@ children:
           - name: visualized
           - name: visualization
   - name: visit
+    phonetic: ［'vizit］
+    mnemonic: v./n.【vis 看，观看 → 参观】
+    meaning: 参观，游览，访问
     children:
       - name: visitor
+        phonetic: ［'vizitə］
+        mnemonic: n.【见上，-or表示人】
+        meaning: 参观者，观光者，游客，访问者
       - name: visiting
       - name: visitable
       - name: visitation
       - name: revisit
+        phonetic: ［ri:'vizit］
+        mnemonic: v./n.【re-再，见上】
+        meaning: 再参观，再游览，重游
   - name: advise
+    phonetic: ［əd'vaiz］
+    mnemonic: v.【ad-表示 to 向，vis 看 → 看法，意见；“to give one's opinion to”，“向别人提出自己的看法” → 】
+    meaning: 向…提意见，建议，作顾问；劝告
     children:
       - name: adviser
       - name: advisee
       - name: advisor
       - name: advisory
+        phonetic: ［əd'vaizəri］
+        mnemonic: adj.【见上，-ory …的】
+        meaning: 顾问的；劝告的，咨询的
       - name: advised
         children:
           - name: advisedly
@@ -49,24 +76,48 @@ children:
           - name: advisability
           - name: inadvisable
       - name: advice
+        phonetic: ［əd'vais］
+        mnemonic: n.【见上，字母变换：s → c】
+        meaning: （医生、顾问的）意见，劝告，忠告
   - name: revise
+    phonetic: ［ri'vaiz］
+    mnemonic: v.【re-再，vis 看；“再看” → 审阅 → 重新审查 → 】
+    meaning: 修订，修改，修正
     children:
       - name: revised
       - name: revision
+        phonetic: ［ri'viʒən］
+        mnemonic: n.【见上，-ion 名词后缀，表示行为、行为的结果】
+        meaning: 修订，修改，修正，修订本
         children:
           - name: revisionary
           - name: revisionist
           - name: revisionism
   - name: supervise
+    phonetic: ［'sju:pəvaiz］
+    mnemonic: v.【super-上，上面，vis 看；“从上面往下看” → 】
+    meaning: 监视，监督，管理
     children:
       - name: supervisor
+        phonetic: ［'sju:pəvaizə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 监视者，监督（人），管理人
       - name: supervising
       - name: supervised
         children:
           - name: unsupervised
       - name: supervision
+        phonetic: ［ˌsju:pə'viʒən］
+        mnemonic: n.【见上，-ion 名词后缀，表示行为】
+        meaning: 监督，管理
       - name: supervisory
+        phonetic: ［'sju:pəˌvaizəri］
+        mnemonic: adj.【见上，-ory …的】
+        meaning: 监督的，管理的
   - name: provision
+    phonetic: ［prə'viʒən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 预备，防备，供应，供应品
     children:
       - name: provisional
         children:
@@ -82,3 +133,6 @@ children:
           - name: improvisational
       - name: improvisatory
   - name: visa
+    phonetic: ［'vi:zə］
+    mnemonic: n./v.【vis 看 → 审视，审查 → 审查后的签字 → 】
+    meaning: 签证，签准

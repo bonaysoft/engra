@@ -10,6 +10,9 @@ children:
       - name: scriptorium
       - name: rescript
       - name: manuscript
+        phonetic: ［'mænjuskript］
+        mnemonic: n.【manu 手，script 写】
+        meaning: 手写本，手稿
       - name: typescript
       - name: subscript
       - name: superscript

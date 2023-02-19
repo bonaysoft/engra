@@ -1,11 +1,23 @@
 name: spec
 children:
   - name: special
+    phonetic: ［'speʃəl］
+    mnemonic: adj.【spec（=spect）看→外观，形状，形象；-ial …的；容易被“看”出的，外观显明的，形状特别醒目的→】
+    meaning: 特殊的，特别的
     children:
       - name: specially
+        phonetic: ［'speʃəli］
+        mnemonic: adv.【见上，-ly 副词后缀】
+        meaning: 特别地，专门地
       - name: specialness
       - name: specialist
+        phonetic: ［'speʃəlist］
+        mnemonic: n.【见上，-ist 表示人；“特殊的人”有特别专长的人→】
+        meaning: 专家
       - name: specialize
+        phonetic: ［'speʃəlaiz］
+        mnemonic: v.【见上，-ize 动词后缀】
+        meaning: 特别指出；专门研究，专攻
         children:
           - name: specialized
             children:
@@ -15,17 +27,32 @@ children:
         children:
           - name: subspecialty
       - name: speciality
+        phonetic: ［ˌspeʃi'æləti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 特性，特质，特长，专业
       - name: especial
+        phonetic: ［i'speʃəl］
+        mnemonic: adj.【e-加强意义，special 特别的】
+        meaning: 特别的，特殊的
         children:
           - name: especially
+            phonetic: ［i'speʃəli］
+            mnemonic: adv.【见上，-ly 副词后缀，…地】
+            meaning: 特别地，尤其，格外
   - name: specify
     children:
       - name: specified
         children:
           - name: unspecified
       - name: specific
+        phonetic: ［spi'sifik］
+        mnemonic: adj.【见上，-ific = -fic …的】
+        meaning: 特有的，特定的，明确的
         children:
           - name: specifically
+            phonetic: ［spi'sifikəli］
+            mnemonic: adv.【见上，-ally 副词后缀，…地】
+            meaning: 特别地，尤其
           - name: specification
           - name: specificity
           - name: conspecific
@@ -33,10 +60,19 @@ children:
           - name: intraspecific
       - name: specifiable
   - name: speculate
+    phonetic: ［'spekjuleit］
+    mnemonic: v.【spec（= spect）看，-ul-，-ate 动词后缀；看→观察，观测→推测→思考→】
+    meaning: 思索，沉思，推测，投机
     children:
       - name: speculator
+        phonetic: ［'spekjuleitə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 思索者；推测者；投机者
       - name: speculatory
       - name: speculation
+        phonetic: ［ˌspekju'leiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 思索，沉思，推测；投机
         children:
           - name: antispeculation
       - name: speculative

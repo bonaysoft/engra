@@ -4,7 +4,13 @@ tags:
   - SOW
 children:
   - name: sparse
+    phonetic: ［spɑ:s］
+    mnemonic: adj.【spars 散 → 散开 → 稀疏】
+    meaning: 稀少的；稀疏的
     children:
       - name: sparsely
       - name: sparsity
+        phonetic: ［'spɑ:səti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 稀少，稀疏
       - name: sparseness

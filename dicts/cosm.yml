@@ -4,27 +4,59 @@ tags:
   - SOW
 children:
   - name: cosmos
+    phonetic: ［'kɔzmɔs］
+    meaning: n. 宇宙
     children:
       - name: cosmic
+        phonetic: ［'kɔzmik］
+        mnemonic: adj.【cosm 宇宙，-ic …的】
+        meaning: 宇宙的
         children:
           - name: cosmical
             children:
               - name: cosmically
       - name: cosmology
+        phonetic: ［kɔz'mɔləʤi］
+        mnemonic: n.【cosmo 宇宙，-logy …学】
+        meaning: 宇宙学，宇宙论
         children:
           - name: cosmologic
+            phonetic: ［ˌkɔzməu'lɔʤik］
+            mnemonic: adj.【cosmo 宇宙，-logic …学的】
+            meaning: 宇宙学的，宇宙论的
             children:
               - name: cosmological
           - name: cosmologist
+            phonetic: ［kɔz'mɔləʤist］
+            mnemonic: n.【cosmo 宇宙，-logist …学者】
+            meaning: 宇宙论学者
       - name: cosmism
+        phonetic: ［'kɔzmizəm］
+        mnemonic: n.【cosm 宇宙，-ism 论】
+        meaning: 宇宙论，宇宙进化论
       - name: macrocosm
+        phonetic: ［'mækrəkɔzəm］
+        mnemonic: n.【macro 大，cosm 世界；“大世界” → 】
+        meaning: 宏观世界
       - name: microcosm
+        phonetic: ［'maikrəkɔzəm］
+        mnemonic: n.【micro 微，小，cosm 世界；“小世界” → 】
+        meaning: 微观世界
         children:
           - name: microcosmic
+            phonetic: ［ˌmaikrəu'kɔzmik］
+            mnemonic: adj.【见上，-ic …的】
+            meaning: 微观世界的，小宇宙的
       - name: cosmogony
       - name: cosmonaut
+        phonetic: ［'kɔzmənɔ:t］
+        mnemonic: n.【cosmo 宇宙，naut 船 → 航行者】
+        meaning: 宇宙航行员
         children:
           - name: cosmonautics
+            phonetic: ［ˌkɔzmə'nɔ:tiks］
+            mnemonic: n.【见上，-ics …学】
+            meaning: 宇宙航行学；宇宙航行术
   - name: cosmetic
     children:
       - name: cosmetics

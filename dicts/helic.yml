@@ -4,5 +4,11 @@ tags:
   - SOW
 children:
   - name: helicopter
+    phonetic: ［'helikɔptə］
+    mnemonic: n.【helico 螺旋，旋转，pter 翼；“装有旋转的翼”，利用“旋翼”飞行 → 】
+    meaning: 直升机
     children:
       - name: heliport
+        phonetic: ［'helipɔ:t］
+        mnemonic: n.【heli=helicopter】
+        meaning: 直升机场

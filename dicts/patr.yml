@@ -4,10 +4,19 @@ tags:
   - SOW
 children:
   - name: patron
+    phonetic: ［'peitrən，pætrən］
+    mnemonic: n.【patr 父，-on 名词后缀，表示人；“具有家长职责（或身份、权限等）的人” → 】
+    meaning: 庇护人，保护人
     children:
       - name: patroness
       - name: patronage
+        phonetic: ［'pætrəniʤ］
+        mnemonic: n.【见上，-age 表身份】
+        meaning: 保护人的身份
       - name: patronize
+        phonetic: ［'pætrənaiz］
+        mnemonic: v.【见上，-ize 动词后缀】
+        meaning: 保护，庇护
         children:
           - name: patronizing
             children:
@@ -15,19 +24,40 @@ children:
           - name: patronized
           - name: patronization
   - name: patriot
+    phonetic: ［'pætriət］
+    mnemonic: n.【patri 祖 → 祖国，-ot 名词后缀，表示人】
+    meaning: 爱祖国者，爱国主义者
     children:
       - name: patriotic
+        phonetic: ［ˌpætri'ɔtik］
+        mnemonic: adj.【见上，-otic 形容词后缀，…的】
+        meaning: 爱国的
         children:
           - name: patriotically
           - name: unpatriotic
+            phonetic: ［ˌʌnpætri'ɔtik］
+            mnemonic: adj.【un-不，见上】
+            meaning: 不爱国的
       - name: patriotism
+        phonetic: ［'pætriətizəm］
+        mnemonic: n.【见上，-ism 主义】
+        meaning: 爱国主义；爱国心
   - name: patriarch
     children:
       - name: patriarchy
         children:
           - name: patriarchic
       - name: patriarchal
+        phonetic: ［ˌpeitri'ɑ:kəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 家长的；族长的；家长似的
       - name: patriarchate
   - name: expatriate
+    phonetic: ［eks'pætrieit］
+    mnemonic: v./n.【ex-外，出外，patri 祖 → 祖国，-ate 动词兼名词后缀】
+    meaning: 把…逐出国外；移居国外；被逐出国外者
     children:
       - name: expatriation
+        phonetic: ［eksˌpætri'eiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 逐出国外

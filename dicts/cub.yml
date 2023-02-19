@@ -4,7 +4,19 @@ tags:
   - SOW
 children:
   - name: incubate
+    phonetic: ［'inkjubeit］
+    mnemonic: v.【in-加强意义，cub 卧，伏，-ate 动词后缀；“伏卧于卵上” → 】
+    meaning: 孵卵，伏巢，孵化
     children:
       - name: incubator
+        phonetic: ［'inkjubeitə］
+        mnemonic: n.【见上，-ator 表示人或物】
+        meaning: 孵卵器，孵化员
       - name: incubative
+        phonetic: ［'inkjubeitiv］
+        mnemonic: adj.【见上，-ative …的】
+        meaning: 孵卵的；潜伏期的
       - name: incubation
+        phonetic: ［ˌinkju'beiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 孵卵，伏巢，孵化

@@ -4,39 +4,82 @@ tags:
   - SOW
 children:
   - name: audio
+    phonetic: ［'ɔ:diəu］
+    meaning: adj.听觉的，声音的
     children:
       - name: audiology
+        phonetic: ［ˌɔ:di'ɔləʤi］
+        mnemonic: n.【audi 听，-o-，-logy …学】
+        meaning: 听觉学
         children:
           - name: audiologic
             children:
               - name: audiological
           - name: audiologist
       - name: audiovisuals
+        phonetic: ［'ɔ:diəu'viʒuəls］
+        mnemonic: n.【见上】
+        meaning: 视听教材，直观教具
       - name: audiobook
       - name: audiophile
       - name: audiotape
       - name: audiphone
+        phonetic: ［'ɔ:difəun］
+        mnemonic: n.【audi 听，phone 声音】
+        meaning: 助听器
       - name: audiometer
+        phonetic: ［'ɔ:diəu'mi:tə］
+        mnemonic: n.【audi 听，-o- 连接字母，meter 测量器，计】
+        meaning: 听力计，听力测量器
         children:
           - name: audiometry
+            phonetic: ［ˌɔ:di'ɔmitri］
+            mnemonic: n.【audi 听，-o-，-metry 测量】
+            meaning: 听力测量，测听术
             children:
               - name: audiometric
   - name: audible
+    phonetic: ［'ɔ:dəbl］
+    mnemonic: adj.【aud（i）听，-ible 形容词后缀，可…的】
+    meaning: 听得见的，可闻的
     children:
       - name: audibly
       - name: audibility
+        phonetic: ［ˌɔ:di'biləti］
+        mnemonic: n.【aud（i）听，-ibility 名词后缀，可…性】
+        meaning: 可听性，可闻度
       - name: inaudible
+        phonetic: ［in'ɔ:dəbl］
+        mnemonic: adj.【in- 不，见上】
+        meaning: 听不见的，不能听到的
         children:
           - name: inaudibly
   - name: audience
+    phonetic: ［'ɔ:diəns］
+    mnemonic: n.【audi 听，-ence 名词后缀】
+    meaning: 听众；倾听
     children:
       - name: audient
   - name: audit
+    phonetic: ［'ɔ:dit］
+    meaning: n. 旁听，审计
     children:
       - name: auditor
+        phonetic: ［'ɔ:ditə］
+        mnemonic: n.【-or 表示人】
+        meaning: 旁听生，旁听者，审计员
       - name: auditing
       - name: audited
       - name: audition
+        phonetic: ［ɔ:'diʃən］
+        mnemonic: n.【audit 听，-ion 名词后缀】
+        meaning: 听觉，听
       - name: auditory
+        phonetic: ［'ɔ:ditəri］
+        mnemonic: adj.【audit 听，-ory 形容词后缀，…的】
+        meaning: 听觉的
         children:
           - name: auditorium
+            phonetic: ［ˌɔ:di'tɔ:riəm］
+            mnemonic: n.【audit 听，-orium 名词后缀，表示场所、地点；“听讲的场所” → 】
+            meaning: 礼堂，讲堂，听众席

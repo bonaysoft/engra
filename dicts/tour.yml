@@ -1,5 +1,7 @@
 name: tour
-meaning: 迂回，转
+phonetic: ［tuə］
+mnemonic: n.【“迂回”而行，到处“转”游】
+meaning: 旅游，游历
 tags:
   - SOW
 children:
@@ -7,15 +9,27 @@ children:
     children:
       - name: touring
       - name: tourism
+        phonetic: ［'tuərizəm］
+        mnemonic: n.【见上，-ism 名词后缀，表示行为】
+        meaning: 旅游；导游业
         children:
           - name: ecotourism
       - name: tourist
+        phonetic: ［'tuərist］
+        mnemonic: n.【见上，-ist人】
+        meaning: 旅游者，游览者
         children:
           - name: touristy
           - name: touristic
           - name: ecotourist
       - name: tourer
   - name: contour
+    phonetic: ［'kɔntuə］
+    mnemonic: n.【con-加强意义，tour 迂回；“迂回”地画 → 】
+    meaning: 画轮廓，画外形；轮廓，外形
     children:
       - name: contoured
   - name: detour
+    phonetic: ［'di:ˌtuə，di'tuə］
+    mnemonic: n./v.【de-加强意义，tour 迂回】
+    meaning: 弯路，迂回路；绕道

@@ -4,11 +4,20 @@ tags:
   - SOW
 children:
   - name: utility
+    phonetic: ［ju:'tiləti］
+    mnemonic: n.【ut 用，-ility 名词后缀】
+    meaning: 效用，有用，实用，功利
     children:
       - name: utilize
+        phonetic: ［'ju:tilaiz］
+        mnemonic: v.【见上，-ize 动词后缀】
+        meaning: 利用
         children:
           - name: utilized
           - name: utilization
+            phonetic: ［ˌju:tilai'zeiʃən］
+            mnemonic: n.【见上，-ation 名词后缀】
+            meaning: 利用
           - name: underutilize
             children:
               - name: underutilized

@@ -4,14 +4,23 @@ tags:
   - SOW
 children:
   - name: volume
+    phonetic: ［'vɔlju:m］
+    mnemonic: n.【volu 滚 → 卷；古时书籍成卷轴形】
+    meaning: 卷；册
     children:
       - name: volumetric
       - name: voluminous
         children:
           - name: voluminously
   - name: revolution
+    phonetic: ［ˌrevə'lu:ʃən］
+    mnemonic: n.【re-回，volu 滚转，-tion 名词后缀；“回转” → 旋转 → 转动 → 变动 → 变革 → 】
+    meaning: 革命；剧烈的变革；旋转，周转
     children:
       - name: revolutionary
+        phonetic: ［ˌrevə'lu:ʃənəri］
+        mnemonic: n./adj.【见上，-ary 名词兼形容词后缀】
+        meaning: 革命者；革命的
       - name: revolutionist
       - name: revolutionize
         children:

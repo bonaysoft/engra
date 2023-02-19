@@ -4,13 +4,25 @@ tags:
   - SOW
 children:
   - name: inflate
+    phonetic: ［in'fleit］
+    mnemonic: v.【in-入，flat 吹；“吹入气体” → 】
+    meaning: 使充气；使膨胀；使通货膨胀
     children:
       - name: inflator
+        phonetic: ［in'fleitə］
+        mnemonic: n.【见上，-or 表示人或物】
+        meaning: 充气者；充气机；打气筒
       - name: inflating
       - name: inflated
       - name: inflation
+        phonetic: ［in'fleiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 充气；膨胀；通货膨胀
         children:
           - name: inflationary
+            phonetic: ［in'fleiʃənəri］
+            mnemonic: adj.【见上，-ary 形容词后缀，…的】
+            meaning: 膨胀的；通货膨胀的
           - name: hyperinflation
             children:
               - name: hyperinflationary
@@ -18,18 +30,30 @@ children:
             children:
               - name: disinflationary
       - name: inflatable
+        phonetic: ［in'fleitəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可膨胀的
       - name: reflate
         children:
           - name: reflation
           - name: reflationary
   - name: deflate
+    phonetic: ［di'fleit］
+    mnemonic: v.【de-取消，非，相反，flat 吹；“与吹入气体相反” → 排除气体，抽掉气体，放气 → 】
+    meaning: 使缩小；使瘪下去；紧缩（通货）
     children:
       - name: deflator
       - name: deflating
       - name: deflated
       - name: deflation
+        phonetic: ［di'fleiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 放气；缩小；弄瘪；紧缩通货
         children:
           - name: deflationary
+            phonetic: ［di'fleiʃənəri］
+            mnemonic: adj.【见上，-ary …的】
+            meaning: 紧缩通货的
   - name: flavor
     children:
       - name: flavorful

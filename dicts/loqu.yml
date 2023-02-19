@@ -4,7 +4,13 @@ tags:
   - SOW
 children:
   - name: eloquence
+    phonetic: ［'eləkwəns］
+    mnemonic: n.【见上，-ence 名词后缀】
+    meaning: 雄辩，善辩，有口才
     children:
       - name: eloquent
+        phonetic: ［'eləkwənt］
+        mnemonic: adj.【e-出，loqu 说，-ent …的；“说出的”，“道出的” → 能说会道的 → 】
+        meaning: 有口才的，雄辩的，善辩的，有说服力的
         children:
           - name: eloquently

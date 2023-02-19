@@ -4,16 +4,34 @@ tags:
   - SOW
 children:
   - name: document
+    phonetic: ［'dɔkjumənt］
+    mnemonic: n.【doc 教，指教 → 指示，-u-连接字母，-ment 名词后缀，表示物；“指示性的文件” → 】
+    meaning: 公文，文件；文献
     children:
       - name: documental
+        phonetic: ［ˌdɔkju'mentəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 公文的；文献的
       - name: documentary
+        phonetic: ［ˌdɔkju'mentəri］
+        mnemonic: adj.【见上，-ary …的】
+        meaning: 公文的，文件的；记录的，纪实的
       - name: documentation
       - name: documented
         children:
           - name: undocumented
   - name: docile
+    phonetic: ［'dəusail］
+    mnemonic: adj.【doc 教，-ile 易…的】
+    meaning: 容易管教的，驯良的
     children:
       - name: docilely
       - name: indocile
+        phonetic: ［in'dəusail］
+        mnemonic: adj.【in-不，doc 教，-ile 易…的】
+        meaning: 难驯服的
         children:
           - name: indocility
+            phonetic: ［ˌindəu'siləti］
+            mnemonic: n.【见上，-ility 名词后缀】
+            meaning: 难驯服

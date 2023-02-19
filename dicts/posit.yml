@@ -1,6 +1,9 @@
 name: posit
 children:
   - name: position
+    phonetic: ［pə'ziʃən］
+    mnemonic: n.【pos 放置，-ition 名词后缀；“放置的地方”】
+    meaning: 位置
     children:
       - name: positional
       - name: positioner
@@ -16,8 +19,14 @@ children:
         children:
           - name: positivistic
   - name: deposit
+    phonetic: ［di'pɔzit］
+    mnemonic: v.【de-下，pos 放；“放下”→存放】
+    meaning: 寄存，存放，存款，储蓄
     children:
       - name: depositor
       - name: deposition
+        phonetic: ［ˌdepə'ziʃən］
+        mnemonic: n.【见上，-ition 名词后缀】
+        meaning: 免职，罢官，废黜
       - name: depositary
       - name: depository

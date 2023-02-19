@@ -4,22 +4,46 @@ tags:
   - SOW
 children:
   - name: dictate
+    phonetic: ［dik'teit］
+    mnemonic: v.【dict 言，说 → 吩咐，命令，指示，-ate动词后缀；“口授命令或指示” → 】
+    meaning: 口述而令别人记录，使听写，命令，支配
     children:
       - name: dictated
       - name: dictation
+        phonetic: ［dik'teiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 口授，命令，支配，口述，听写
       - name: dictator
+        phonetic: ［dik'teitə］
+        mnemonic: n.【见上，-or 者；“口授命令者” → 支配者，掌权者】
+        meaning: 独裁者，专政者，口授者
         children:
           - name: dictatory
             children:
               - name: dictatorial
+                phonetic: ［ˌdiktə'tɔ:riəl］
+                mnemonic: adj.【见上，-ial …的】
+                meaning: 专政的，独裁的
           - name: dictatorship
+            phonetic: ［dik'teitəʃip］
+            mnemonic: n.【见上，-ship 名词后缀】
+            meaning: 专政，独裁
   - name: predict
+    phonetic: ［pri'dikt］
+    mnemonic: v.【pre-前，先，预先，dict 言】
+    meaning: 预言，预告
     children:
       - name: predictor
       - name: predicted
       - name: prediction
+        phonetic: ［pri'dikʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 预言，预告
       - name: predictive
       - name: predictable
+        phonetic: ［pri'diktəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可预言的，可预报的
         children:
           - name: predictably
           - name: predictability
@@ -29,18 +53,39 @@ children:
           - name: unpredictably
           - name: unpredictability
   - name: indict
+    phonetic: ［in'dait］
+    mnemonic: v.【in-表示on，upon，against，dict 言，诉说】
+    meaning: 控告，告发，对…起诉
     children:
       - name: indictor
+        phonetic: ［in'daitə］
+        mnemonic: n.【见上，-or 表示人，主动者】
+        meaning: 原告，起诉者（亦作 indicter）
       - name: indictee
+        phonetic: ［ˌindai'ti:］
+        mnemonic: n.【见上，-ee 表示人，被动者】
+        meaning: 被告，被起诉者
       - name: indictable
       - name: indictment
+        phonetic: ［in'daitmənt］
+        mnemonic: n.【见上，-ment 名词后缀】
+        meaning: 控告，起诉，起诉书
       - name: indicted
         children:
           - name: unindicted
   - name: contradict
+    phonetic: ［ˌkɔntrə'dikt］
+    mnemonic: v.【contra-相反，dict 言：说出“相反之言” → 】
+    meaning: 反驳，同…相矛盾，与…相抵触
     children:
       - name: contradiction
+        phonetic: ［ˌkɔntrə'dikʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 矛盾，抵触，对立
       - name: contradictory
+        phonetic: ［ˌkɔntrə'diktəri］
+        mnemonic: adj.【见上，-ory …的】
+        meaning: 矛盾的，对立的
   - name: addict
     children:
       - name: addicting

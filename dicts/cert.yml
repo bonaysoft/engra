@@ -4,31 +4,73 @@ tags:
   - SOW
 children:
   - name: certain
+    phonetic: ［'sə:tən］
+    mnemonic: adj.【cert 确实，-ain 形容词后缀】
+    meaning: 确实的，确信的，一定的
     children:
       - name: certainly
+        phonetic: ［'sə:tənli］
+        mnemonic: adv.【见上，-ly 副词后缀，…地】
+        meaning: 确实地，一定地，当然地
       - name: certainty
+        phonetic: ［'sə:tənti］
+        mnemonic: n.【见上，-ty 名词后缀】
+        meaning: 确实，必然，肯定；必然的事
       - name: uncertain
+        phonetic: ［ʌn'sə:tn］
+        mnemonic: adj.【un-不，见上】
+        meaning: 不确定的，靠不住的
         children:
           - name: uncertainly
           - name: uncertainty
+            phonetic: ［ˌʌn'sə:tnti］
+            mnemonic: n.【见上，-ty 名词后缀】
+            meaning: 不确定，靠不住
   - name: ascertain
+    phonetic: ［ˌæsə'tein］
+    mnemonic: v.【as-加强意义，certain 确实】
+    meaning: 确定，查明（真实情况）
     children:
       - name: ascertainable
+        phonetic: ［ˌæsə'teinəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可确定的，可查明的
       - name: ascertainment
+        phonetic: ［ˌæsə'teinmənt］
+        mnemonic: n.【见上，-ment 名词后缀】
+        meaning: 确定，查明
   - name: certify
+    phonetic: ［'sə:tifai］
+    mnemonic: v.【cert 确实，-i-，-fy 动词后缀，使…】
+    meaning: 证实，证明
     children:
       - name: certifier
+        phonetic: ［'sə:tifaiə］
+        mnemonic: n.【见上，-er 者】
+        meaning: 证实者，证明者
       - name: certifying
       - name: certified
+        phonetic: ［'sə:tifaid］
+        mnemonic: adj.【见上，-ed …的】
+        meaning: 被证实了的，被证明了的
         children:
           - name: uncertified
       - name: certifiable
+        phonetic: ［'sə:tiˌfaiəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可证实的，可证明的
         children:
           - name: certifiably
       - name: certificate
+        phonetic: ［sə'tifikit］
+        mnemonic: n.【见上，-ate 名词后缀】
+        meaning: 证明书
         children:
           - name: certificated
           - name: certification
+            phonetic: ［ˌsə:tifi'keiʃən］
+            mnemonic: n.【见上，-fication 名词后缀】
+            meaning: 证明；证明书
       - name: decertify
         children:
           - name: decertification

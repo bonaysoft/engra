@@ -4,11 +4,32 @@ tags:
   - SOW
 children:
   - name: avian
+    phonetic: ［'eiviən］
+    mnemonic: adj.【avi 鸟，-an 形容词后缀】
+    meaning: 鸟的；鸟类的，鸟纲的
     children:
       - name: aviary
+        phonetic: ［'eiviəri］
+        mnemonic: n.【avi 鸟，-ary 名词后缀，表示场所；“鸟的场所” → 】
+        meaning: 养鸟房，鸟槛，鸟舍
       - name: avicide
       - name: aviculture
+        phonetic: ［'eivikʌltʃə］
+        mnemonic: n.【avi 鸟，cult 培养，-ure 名词后缀】
+        meaning: 养鸟
       - name: aviate
+        phonetic: ［'eivieit］
+        mnemonic: v.【avi 鸟 → 飞行，-ate 动词后缀】
+        meaning: 飞行；驾驶飞机
       - name: aviation
+        phonetic: ［ˌeivi'eiʃən］
+        mnemonic: n.【avi 鸟 → 飞行，-ation 名词后缀】
+        meaning: 飞行，航空；飞行术，航空学
       - name: aviator
+        phonetic: ［'eivieitə］
+        mnemonic: n.【avi 鸟 → 飞行，-ator 名词后缀，表示人】
+        meaning: 飞行员，飞机驾驶员
       - name: aviatrix
+        phonetic: ［ˌeivi'eitriks］
+        mnemonic: n.【见上，-trix 名词后缀，表示女性】
+        meaning: 女飞行员

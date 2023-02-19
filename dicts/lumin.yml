@@ -4,11 +4,23 @@ tags:
   - SOW
 children:
   - name: luminous
+    phonetic: ［'lju:minəs］
+    mnemonic: adj.【lumin 光，-ous …的】
+    meaning: 发光的，发亮的
     children:
       - name: luminously
       - name: luminosity
+        phonetic: ［ˌlju:mi'nɔsəti］
+        mnemonic: n.【lumin 光，-osity 名词后缀】
+        meaning: 光明，光辉
       - name: luminance
       - name: luminist
       - name: luminary
+        phonetic: ［'lju:minəri］
+        mnemonic: n.【lumin 光，-ary 表示人或物】
+        meaning: 发光体；杰出人物
       - name: luminiferous
+        phonetic: ［ˌlu:mi'nifərəs］
+        mnemonic: adj.【lumin 光，-i-，fer 带有，产生， -ous …的】
+        meaning: 有光的，发光的
       - name: superluminal

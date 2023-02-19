@@ -4,15 +4,33 @@ tags:
   - SOW
 children:
   - name: anonymity
+    phonetic: ［ˌænə'niməti］
+    mnemonic: n.【an-无，onym 名，-ity 名词后缀】
+    meaning: 无名，匿名
     children:
       - name: anonymous
+        phonetic: ［ə'nɔniməs］
+        mnemonic: adj.【an-无，onym 名，-ous …的】
+        meaning: 无名的，匿名的
         children:
           - name: anonymously
   - name: synonym
+    phonetic: ［'sinənim］
+    mnemonic: n.【syn-同，相同，onym 名 → 单词的名称 → 单词；“意义相同的词”】
+    meaning: 同义词，同义语
     children:
       - name: synonymous
+        phonetic: ［si'nɔniməs］
+        mnemonic: adj.【见上，-ous …的】
+        meaning: 同义的，同义词的
         children:
           - name: synonymously
   - name: pseudonym
+    phonetic: ［'sju:dənim］
+    mnemonic: n.【pseud-假，onym 名】
+    meaning: 假名
     children:
       - name: pseudonymous
+        phonetic: ［sju:'dɔniməs］
+        mnemonic: adj.【pseud-假，onym 名，-ous …的】
+        meaning: 假名的；用假名的

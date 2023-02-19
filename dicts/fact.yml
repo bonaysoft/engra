@@ -1,11 +1,16 @@
 name: fact
-meaning: do，make做，作（fact也作fac）
+phonetic: ［fækt］
+mnemonic: n.【fact 做；“已经做出”的事 → 】
+meaning: 事实
 tags:
   - SOW
 children:
   - name: fact
     children:
       - name: factual
+        phonetic: ［'fæktjuəl］
+        mnemonic: adj.【见上，-ual …的】
+        meaning: 事实的，实情的，真实的
         children:
           - name: factually
           - name: factuality
@@ -33,7 +38,13 @@ children:
     children:
       - name: artifactual
   - name: benefactor
+    phonetic: ［'benifæktə］
+    mnemonic: n.【bene-好，fact 做，-or 表示人；“做好事者” → 】
+    meaning: 施恩者，恩人，捐助者
     children:
       - name: benefactress
       - name: benefaction
+        phonetic: ［ˌbeni'fækʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 施恩，行善，善行，捐助物
       - name: benefactive

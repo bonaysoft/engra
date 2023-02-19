@@ -4,22 +4,40 @@ tags:
   - SOW
 children:
   - name: complicate
+    phonetic: ［'kɔmplikeit］
+    mnemonic: v./adj.【com-加强意义，plic 重叠，重复 → 多层，复杂，-ate 动词后缀】
+    meaning: 使复杂，变复杂；【-ate 形容词后缀，…的】复杂的
     children:
       - name: complicating
       - name: complicated
+        phonetic: ［'kɔmplikeitid］
+        mnemonic: adj.【见上，-ed …的】
+        meaning: 复杂的，难解的
         children:
           - name: uncomplicated
       - name: complication
+        phonetic: ［ˌkɔmpli'keiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 复杂，混乱，纠纷
       - name: complicacy
+        phonetic: ［'kɔmplikəsi］
+        mnemonic: n.【见上，-acy 名词后缀】
+        meaning: 复杂，复杂性，复杂的事物
   - name: explicit
     children:
       - name: explicitly
       - name: explicitness
       - name: inexplicit
   - name: implicate
+    phonetic: ［'implikeit］
+    mnemonic: v.【im- = in 内，plic = fold，-ate 动词后缀；“to fold in”】
+    meaning: 含有…意思；使卷入，使牵连
     children:
       - name: implicated
       - name: implication
+        phonetic: ［ˌimpli'keiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 含蓄；牵连
       - name: implicature
   - name: replicate
     children:

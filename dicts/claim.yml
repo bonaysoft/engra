@@ -11,10 +11,19 @@ children:
           - name: unclaimed
       - name: quitclaim
   - name: proclaim
+    phonetic: ［prə'kleim］
+    mnemonic: v.【pro- 向前，claim 叫喊 → 声言】
+    meaning: 宣布，宣告，声明
     children:
       - name: proclaimed
       - name: proclamation
+        phonetic: ［ˌprɔklə'meiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 宣布，公布，声明
       - name: proclamatory
+        phonetic: ［prə'klæmətəri］
+        mnemonic: adj.【见上，-atory 形容词后缀，…的】
+        meaning: 公告的，布告的，宣言的
   - name: reclaim
     children:
       - name: reclaimer
@@ -23,12 +32,30 @@ children:
       - name: reclaimable
       - name: reclamation
   - name: exclaim
+    phonetic: ［ik'skleim］
+    mnemonic: v.【ex- 外，出，claim 叫，“大声叫出” → 】
+    meaning: 呼喊，惊叫
     children:
       - name: exclamation
+        phonetic: ［ˌeksklə'meiʃən］
+        mnemonic: n.【见上，exclam=exclaim，-ation名词后缀】
+        meaning: 呼喊，惊叫；感叹词，惊叹词
       - name: exclamative
       - name: exclamatory
+        phonetic: ［ek'sklæmətəri］
+        mnemonic: adj.【见上，-atory 形容词后缀，…的】
+        meaning: 叫喊的，惊叹的
   - name: acclaim
+    phonetic: ［ə'kleim］
+    mnemonic: v.【ac-表示加强意义，claim 叫 → 呼喊】
+    meaning: 欢呼，喝彩
     children:
       - name: acclaimed
       - name: acclamation
+        phonetic: ［ˌæklə'meiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 欢呼，喝彩
       - name: acclamatory
+        phonetic: ［ə'klæmətəri］
+        mnemonic: adj.【见上，-atory 形容词后缀，…的】
+        meaning: 欢呼的，喝彩的

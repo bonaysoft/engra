@@ -4,19 +4,37 @@ tags:
   - SOW
 children:
   - name: territory
+    phonetic: ［'teritəri］
+    mnemonic: n.【terr 土地，-it-，-ory 名词后缀】
+    meaning: 领土；领地
     children:
       - name: territorial
+        phonetic: ［ˌteri'tɔ:riəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 领土的
         children:
           - name: territorially
           - name: territoriality
           - name: exterritorial
+            phonetic: ［ˌeksteri'tɔ:riəl］
+            mnemonic: adj.【ex-外，见上；“领土之外的”】
+            meaning: 治外法权的
           - name: extraterritorial
             children:
               - name: extraterritoriality
   - name: terrace
+    phonetic: ［terəs］
+    mnemonic: n.【terr 土地，-ace 名词后缀】
+    meaning: 台地；地坪；平台，阳台
     children:
       - name: terracing
       - name: terraced
   - name: terrestrial
+    phonetic: ［ti'restriəl］
+    mnemonic: adj.【terr 土地 → 地球，-ial …的】
+    meaning: 地球（上）的，陆上的
     children:
       - name: extraterrestrial
+        phonetic: ［ˌekstrətə'restriəl］
+        mnemonic: adj.【extra-外，见上】
+        meaning: 地球外的

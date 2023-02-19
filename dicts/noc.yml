@@ -4,6 +4,12 @@ tags:
   - SOW
 children:
   - name: innocent
+    phonetic: ［'inəsənt］
+    mnemonic: adj.【in-不，无，noc 伤害，-ent …的；“incapable of doing harm” → guiltless，“不会做出伤害之事” → 】
+    meaning: 无罪的，清白的；天真的，无害的
     children:
       - name: innocently
       - name: innocence
+        phonetic: ［'inəsəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 无罪，清白；天真，无害

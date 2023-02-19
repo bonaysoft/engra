@@ -12,13 +12,25 @@ children:
         children:
           - name: intercollegiate
   - name: elegant
+    phonetic: ［'eliɡənt］
+    mnemonic: adj.【e-出，leg=lect 挑选，-ant 形容词后缀，…的；“挑选出来的”，“众里挑一的” → 】
+    meaning: 美好的，漂亮的，优美的，高雅的
     children:
       - name: elegantly
       - name: elegance
+        phonetic: ［'eliɡəns］
+        mnemonic: n.【见上，-ance 名词后缀】
+        meaning: 漂亮，优美，雅致
       - name: inelegant
+        phonetic: ［in'eliɡənt］
+        mnemonic: adj.【in-不，elegant 见上】
+        meaning: 不雅的，粗俗的
         children:
           - name: inelegantly
           - name: inelegance
+            phonetic: ［in'eliɡəns］
+            mnemonic: n.【见上，-ance 名词后缀】
+            meaning: 不雅，粗俗
   - name: delegate
     children:
       - name: delegator
@@ -32,11 +44,20 @@ children:
       - name: legionary
       - name: legionnaire
   - name: legend
+    phonetic: ［'leʤənd］
+    mnemonic: n.【leg 读，-end 名词后缀；“读物” → 】
+    meaning: 传奇；小说；传奇文学
     children:
       - name: legendary
+        phonetic: ［'leʤəndəri］
+        mnemonic: adj.【见上，-ary 形容词后缀，…的】
+        meaning: 传奇（中）的；传说（中）的；传奇似的
         children:
           - name: legendarily
       - name: legendry
+        phonetic: ［'leʤəndri］
+        mnemonic: n.【见上，-ry 名词后缀】
+        meaning: 传奇；传说
   - name: allege
     children:
       - name: alleged
@@ -56,31 +77,73 @@ children:
         children:
           - name: allegorization
   - name: legal
+    phonetic: ［'li:ɡəl］
+    mnemonic: adj.【leg 法，-al …的】
+    meaning: 法律上的；合法的
     children:
       - name: legally
       - name: legality
+        phonetic: ［li:'ɡæləti］
+        mnemonic: n.【legal 合法的，-ity 名词后缀】
+        meaning: 合法性，法律性
       - name: legalist
+        phonetic: ［'li:ɡəlist］
+        mnemonic: n.【legal 法律的，-ist 表示人】
+        meaning: 法律学家，条文主义者
         children:
           - name: legalistic
       - name: legalism
+        phonetic: ［'li:ɡəlizəm］
+        mnemonic: n.【legal 法律的，-ism 主义】
+        meaning: 条文主义，墨守成规
       - name: legalese
+        phonetic: ［ˌli:ɡə'li:z］
+        mnemonic: n.【legal 法律上的，-ese 表示语言】
+        meaning: 高深莫测的法律用语
       - name: legalize
+        phonetic: ［'li:ɡəlaiz］
+        mnemonic: v.【legal 合法的，-ize …化】
+        meaning: 使合法化
         children:
           - name: legalization
+            phonetic: ［ˌli:ɡəlai'zeiʃən］
+            mnemonic: n.【见上，-ization 名词后缀】
+            meaning: 合法化
       - name: illegal
+        phonetic: ［i'li:ɡəl］
+        mnemonic: adj.【il-不，非，legal 合法的】
+        meaning: 不合法的，非法的
         children:
           - name: illegally
           - name: illegality
           - name: illegalize
+            phonetic: ［i'li:ɡəlaiz］
+            mnemonic: v.【见上，-ize 使…】
+            meaning: 使非法，宣布…为非法
           - name: illegalization
       - name: paralegal
       - name: extralegal
+        phonetic: ［ˌekstrə'li:ɡəl］
+        mnemonic: adj.【extra-外】
+        meaning: 法律权力以外的
       - name: medicolegal
   - name: legislate
+    phonetic: ［'leʤisleit］
+    mnemonic: v.【legis 法，late 持，拿；“the carrying（hence passing）of a law or of Iaws” → 】
+    meaning: 立法
     children:
       - name: legislator
+        phonetic: ［'leʤisleitə］
+        mnemonic: n.【见上，-or 者】
+        meaning: 立法者，立法机关的成员
       - name: legislature
+        phonetic: ［'leʤisleitʃə］
+        mnemonic: n.【见上，-ure 名词后缀】
+        meaning: 立法机关
       - name: legislative
+        phonetic: ［'leʤislətiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 立法的
       - name: legislation
   - name: legitimate
     children:

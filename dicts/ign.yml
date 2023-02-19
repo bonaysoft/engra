@@ -4,8 +4,17 @@ tags:
   - SOW
 children:
   - name: ignite
+    phonetic: ［iɡ'nait］
+    mnemonic: v.【ign 火，-ite 动词后缀】
+    meaning: 点燃，点火于；使燃烧；着火
     children:
       - name: igniter
       - name: ignitable
+        phonetic: ［iɡ'naitəbl］
+        mnemonic: adj.【ign 火，-able 可…的】
+        meaning: 可燃的，可着火的
       - name: ignition
+        phonetic: ［iɡ'niʃən］
+        mnemonic: n.【ign 火，-ion 名词后缀】
+        meaning: 点火；着火
       - name: reignite

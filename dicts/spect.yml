@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: spectacle
+    phonetic: ［'spektəkl］
+    mnemonic: n.【spect 看，-acle 名词后缀，表示物；“观看的东西” → 】
+    meaning: 光景，景象，奇观，壮观
     children:
       - name: spectacular
         children:
@@ -13,9 +16,18 @@ children:
         children:
           - name: bespectacled
   - name: aspect
+    phonetic: ［'æspekt］
+    mnemonic: n.【a-= ad-表示 to，spect 看→外观】
+    meaning: 面貌，外表
   - name: expect
+    phonetic: ［ik'spekt］
+    mnemonic: v.【ex-外，（在x后省略s）pect = spect 看；“向外望”→】
+    meaning: 盼望，期待，期望
     children:
       - name: expectant
+        phonetic: ［ik'spektənt］
+        mnemonic: adj./n.【见上，-ant …的】
+        meaning: 盼望的，期待的；【-ant者】期待者
         children:
           - name: expectantly
       - name: expectancy
@@ -28,28 +40,52 @@ children:
               - name: unexpectedly
               - name: unexpectedness
   - name: inspect
+    phonetic: ［in'spekt］
+    mnemonic: v.【in-内，里，spect 看；“向里面仔细看”→】
+    meaning: 检查，审查
     children:
       - name: inspection
+        phonetic: ［in'spekʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 检查，审查
       - name: inspector
+        phonetic: ［in'spektə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 检查员
         children:
           - name: inspectorate
   - name: prospect
+    phonetic: ［'prɔspekt］
+    mnemonic: n.【pro-向前，spect 看；“向前看” → 】
+    meaning: 展望，期望，前景
     children:
       - name: prospector
       - name: prospecting
       - name: prospective
+        phonetic: ［prə'spektiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 盼望中的，未来的
       - name: prospectus
       - name: bioprospecting
   - name: respect
+    phonetic: ［ri'spekt］
+    mnemonic: v.【re-再，重复，spect 看；“再看”，“重复地看”→重视，看重→】
+    meaning: 尊重，尊敬
     children:
       - name: respecter
       - name: respecting
       - name: respected
       - name: respectable
+        phonetic: ［ri'spektəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可敬的，值得尊敬的
         children:
           - name: respectably
           - name: respectability
       - name: respectful
+        phonetic: ［ri'spektful］
+        mnemonic: adj.【见上，-ful …的】
+        meaning: 尊敬人的，恭敬的
         children:
           - name: respectfully
       - name: respective
@@ -63,26 +99,50 @@ children:
             children:
               - name: disrespectfully
   - name: suspect
+    phonetic: ［sə'spekt］
+    mnemonic: v.【sus-= sub-下，（s）pect 看；“由下看”→偷偷地看，斜眼看→】
+    meaning: 怀疑，猜疑，疑心
     children:
       - name: suspected
         children:
           - name: unsuspected
       - name: unsuspecting
       - name: suspicion
+        phonetic: ［sə'spiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 怀疑，疑心，猜疑
       - name: suspicious
+        phonetic: ［sə'spiʃəs］
+        mnemonic: adj.【见上，spect→spic，-ious…的】
+        meaning: 多疑的，可疑的，疑心的
         children:
           - name: suspiciously
           - name: suspiciousness
       - name: suspectable
+        phonetic: ［sə'spektəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可疑的
   - name: perspective
+    phonetic: ［pə(:)'spektiv］
+    mnemonic: adj./n.【per-透过，spect 看】
+    meaning: 透视，透视的，透视图，透镜
     children:
       - name: perspectively
       - name: perspectival
       - name: perspectograph
   - name: retrospect
+    phonetic: ［'retrəuspekt］
+    mnemonic: n./v.【retro-向后， spect看；“向后看” → 】
+    meaning: 回顾，追溯
     children:
       - name: retrospection
+        phonetic: ［ˌretrəu'spekʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 回顾，追溯
       - name: retrospective
+        phonetic: ［ˌretrəu'spektiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 回顾的，追溯的
         children:
           - name: retrospectively
   - name: spectrum

@@ -4,15 +4,33 @@ tags:
   - SOW
 children:
   - name: picture
+    phonetic: ［'piktʃə］
+    mnemonic: n.【pict 绘，-ure 名词后缀】
+    meaning: 绘画，图画；画像；图片
     children:
       - name: picturesque
+        phonetic: ［ˌpiktʃə'resk］
+        mnemonic: adj.【见上，-esque 如…的】
+        meaning: 如画的
         children:
           - name: picturesquely
   - name: pictorial
+    phonetic: ［pik'tɔ:riəl］
+    mnemonic: adj./n.【pict 画，-or-，-ial …的】
+    meaning: 绘画的，图片的；【转为名词】画报
     children:
       - name: pictorially
       - name: pictorialize
+        phonetic: ［pik'tɔ:riəlaiz］
+        mnemonic: v.【见上，-ize动词后缀】
+        meaning: 用图画表示
   - name: depict
+    phonetic: ［di'pikt］
+    mnemonic: v.【de-加强意义，pict 绘】
+    meaning: 描绘，描述
     children:
       - name: depiction
       - name: depicture
+        phonetic: ［di'piktʃə］
+        mnemonic: v.【见上】
+        meaning: 描绘，描述

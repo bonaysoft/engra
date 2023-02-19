@@ -8,6 +8,9 @@ children:
       - name: user
       - name: used
       - name: usage
+        phonetic: ［'ju:ziʤ］
+        mnemonic: n.【us 用，-age 名词后缀】
+        meaning: 使用，用法
       - name: usable
       - name: useable
       - name: useless
@@ -35,8 +38,14 @@ children:
       - name: misuse
       - name: peruse
   - name: usual
+    phonetic: ［'ju:ʒuəl］
+    mnemonic: adj.【us 用，-ual …的；用，使用 → 通常使用的，平常惯用的 → 】
+    meaning: 通常的，平常的，惯例的
     children:
       - name: usually
+        phonetic: ［'ju:ʒuəli］
+        mnemonic: adv.【见上，-ly 副词后缀】
+        meaning: 通常地，惯常地
       - name: unusual
         children:
           - name: unusually

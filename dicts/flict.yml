@@ -4,16 +4,34 @@ tags:
   - SOW
 children:
   - name: conflict
+    phonetic: ［'kɔnflikt］
+    mnemonic: n.【con-共同，flict 打击；“共同打” → “彼此互打” → 】
+    meaning: 冲突；战斗；交锋；斗争
     children:
       - name: conflicting
       - name: conflicted
       - name: conflictual
   - name: afflict
+    phonetic: ［ə'flikt］
+    mnemonic: v.【af-表示 at，to 等意义，flict 打击】
+    meaning: 使苦恼，折磨
     children:
       - name: afflicted
       - name: affliction
+        phonetic: ［ə'flikʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 苦恼，折磨；苦事
   - name: inflict
+    phonetic: ［in'flikt］
+    mnemonic: v.【in-使，作，flict 打击；“给以打击”】
+    meaning: 予以打击，使遭受痛苦；加刑，处罚
     children:
       - name: inflictor
       - name: inflictive
+        phonetic: ［in'fliktiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 施加痛苦的；处罚的
       - name: infliction
+        phonetic: ［in'flikʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 使受痛苦；处罚

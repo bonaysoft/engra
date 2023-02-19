@@ -6,11 +6,23 @@ children:
   - name: norm
     children:
       - name: normal
+        phonetic: ［'nɔ:məl］
+        mnemonic: adj.【norm 正规，-al …的】
+        meaning: 正规的，正常的
         children:
           - name: abnormal
+            phonetic: ［æb'nɔ:məl］
+            mnemonic: adj.【ab-离开，normal 正常的】
+            meaning: 反常的，变态的，不规则的
             children:
               - name: abnormally
   - name: enormous
+    phonetic: ［i'nɔ:məs］
+    mnemonic: adj.【e-外，出，norm 正常，-ous …的；“超出正常之外的” → 】
+    meaning: 巨大的，庞大的
     children:
       - name: enormously
       - name: enormity
+        phonetic: ［i'nɔ:miti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 巨大，庞大

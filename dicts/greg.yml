@@ -4,36 +4,63 @@ tags:
   - SOW
 children:
   - name: aggregate
+    phonetic: ［'æɡriɡət］
+    mnemonic: n./adj.【ag-加强意义，greg 集合，-ate 动词兼形容词后缀】
+    meaning: 合计，总计；聚集的；合计的
     children:
       - name: aggregator
       - name: aggregated
       - name: aggregative
       - name: aggregation
+        phonetic: ［ˌæɡri'ɡeiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 聚集；聚集物
       - name: disaggregate
         children:
           - name: disaggregated
           - name: disaggregation
   - name: congregate
+    phonetic: ［'kɔŋɡriɡeit］
+    mnemonic: v./adj.【con-共同，greg 集合，-ate 动词兼形容词后缀】
+    meaning: （使）集合；集合在一起的；集体的
     children:
       - name: congregant
       - name: congregation
+        phonetic: ［ˌkɔnɡri'ɡeiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 集合；会合；集会；人群
         children:
           - name: congregational
             children:
               - name: congregationalist
   - name: gregarious
+    phonetic: ［ɡre'ɡɛəriəs］
+    mnemonic: adj.【greg 群，-ous …的】
+    meaning: 群居的；群集的
     children:
       - name: gregariousness
   - name: egregious
+    phonetic: ［i'ɡri:ʤəs］
+    mnemonic: adj.【e-出，外，greg 群，众，-ious …的；“出众的” → 】
+    meaning: 异乎寻常的
     children:
       - name: egregiously
   - name: segregate
+    phonetic: ［'seɡriɡeit］
+    mnemonic: v.【se-分开，离开，greg 群，-ate 动词后缀；“离群”，“离开集体” → 】
+    meaning: （使）分离，（使）分开；使隔离
     children:
       - name: segregator
       - name: segregated
       - name: segregation
+        phonetic: ［ˌseɡri'ɡeiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 分开；离群；隔离
         children:
           - name: segregationist
+            phonetic: ［ˌseɡri'ɡeiʃənist］
+            mnemonic: n.【见上，-ist 者】
+            meaning: （种族）隔离主义者
       - name: segregable
       - name: desegregate
         children:

@@ -44,22 +44,46 @@ children:
       - name: omitted
       - name: omission
   - name: emit
+    phonetic: ［i'mit］
+    mnemonic: v.【e-出，mit 发】
+    meaning: 散发，放射；发行；发出
     children:
       - name: emitter
       - name: emitted
       - name: emission
+        phonetic: ［i'miʃən］
+        mnemonic: n.【e-外，出，miss 发，-ion 名词后缀】
+        meaning: 发出，发射，散发
       - name: emissary
+        phonetic: ［'emisəri］
+        mnemonic: n.【e-出，miss 送，派 -ary 表示人】
+        meaning: 派出的密使；间谍
       - name: emissive
+        phonetic: ［i'misiv］
+        mnemonic: adj.【e-外，出，miss 发，投，-ive …的】
+        meaning: 发出的，发射的
         children:
           - name: emissivity
   - name: transmit
+    phonetic: ［trænz'mit］
+    mnemonic: v.【trans-转，传，mit 送，发】
+    meaning: 传送；播送；发送
     children:
       - name: transmitter
+        phonetic: ［trænz'mitə］
+        mnemonic: n.【见上，-er 表人和物】
+        meaning: 传送者；发射机，发报机
       - name: transmission
+        phonetic: ［trænz'miʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 传送；发射，播送
       - name: transmitted
       - name: transmitting
       - name: transmittal
       - name: transmissible
+        phonetic: ［trænz'misəbl］
+        mnemonic: adj.【见上，-ible 可…的】
+        meaning: 能传送的；可发射的；可播送的
         children:
           - name: transmissibility
       - name: transmittance
@@ -67,6 +91,9 @@ children:
         children:
           - name: retransmission
   - name: commit
+    phonetic: ［kə'mit］
+    mnemonic: v.【com-加强意义，mit 送，委派】
+    meaning: 委任，委派，把…交托给
     children:
       - name: committal
         children:
@@ -82,6 +109,9 @@ children:
           - name: recommittal
           - name: recommitment
   - name: committee
+    phonetic: ［kə'miti］
+    mnemonic: n.【见上，-ee 表示人；“被委派的人” → 被委派的一组人 → 】
+    meaning: 委员会
     children:
       - name: committeeman
       - name: subcommittee

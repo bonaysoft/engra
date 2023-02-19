@@ -4,9 +4,15 @@ tags:
   - SOW
 children:
   - name: cognition
+    phonetic: ［kɔɡ'niʃən］
+    mnemonic: n.【cogn 知道 → 认识，认知，-ition 名词后缀】
+    meaning: 认识
     children:
       - name: cognitional
       - name: cognitive
+        phonetic: ［'kɔɡnitiv］
+        mnemonic: adj.【cogn 知道 → 认识，-itive 形容词后缀…的】
+        meaning: 认识的
         children:
           - name: cognitively
       - name: cognitivism
@@ -14,19 +20,31 @@ children:
         children:
           - name: metacognitive
       - name: precognition
+        phonetic: ［ˌpri:kɔɡ'niʃən］
+        mnemonic: n.【pre-预先，cogn 知道，-ition 名词后缀】
+        meaning: 预知，预察，预见
         children:
           - name: precognitive
   - name: recognize
+    phonetic: ［'rekəɡnaiz］
+    mnemonic: v.【re-，加强意义，cogn 知道 → 认识，-ize 动词后缀】
+    meaning: 认识，认出，认知
     children:
       - name: recognized
         children:
           - name: unrecognized
       - name: recognizance
       - name: recognition
+        phonetic: ［ˌrekəɡ'niʃən］
+        mnemonic: n.【re-加强意义，cogn 知道 → 认识，-ition 名词后缀】
+        meaning: 认出，认识，识别
         children:
           - name: nonrecognition
           - name: misrecognition
       - name: recognizable
+        phonetic: ［'rekəɡnaizəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可认识的，可认出的
         children:
           - name: recognizably
           - name: unrecognizable

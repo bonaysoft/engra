@@ -4,4 +4,7 @@ children:
     children:
       - name: vainly
       - name: vanity
+        phonetic: ［'vænəti］
+        mnemonic: n.【van 空，-ity 名词后缀】
+        meaning: 空虚，虚夸，虚荣心
       - name: vainglorious

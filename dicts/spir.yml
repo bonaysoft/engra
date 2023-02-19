@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: spirit
+    phonetic: ［'spirit］
+    mnemonic: n.【spir 呼吸，-it 名词后缀；呼吸→气息，the breath of life →】
+    meaning: 精神，心灵，灵魂
     children:
       - name: spiritless
       - name: spirited
@@ -11,12 +14,18 @@ children:
           - name: spiritedly
           - name: spiritedness
   - name: spiritual
+    phonetic: ［'spiritjuəl］
+    mnemonic: adj.【见上，-ual …的】
+    meaning: 精神（上）的，心灵的
     children:
       - name: spiritually
       - name: spirituality
       - name: spiritualist
       - name: spiritualism
   - name: inspire
+    phonetic: ［in'spaiə］
+    mnemonic: v.【in-入，spir 呼吸；“吸入”，吸气，注入→注入勇气，注入生气→】
+    meaning: 鼓舞，激励，激起，吸入，使生灵感
     children:
       - name: inspirer
       - name: inspiring
@@ -27,29 +36,50 @@ children:
           - name: uninspired
       - name: inspiratory
       - name: inspiration
+        phonetic: ［ˌinspə'reiʃən］
+        mnemonic: n.【见上，-ation 名词后缀，表示行为及行为结果】
+        meaning: 鼓舞，激励，吸气，灵感
         children:
           - name: inspirational
   - name: expire
+    phonetic: ［ik'spaiə］
+    mnemonic: v.【ex-出，（s）pir 呼吸，“呼出气体”】
+    meaning: 呼气，吐气；【呼出最后一口气→】断气，死亡，终止
     children:
       - name: expiring
       - name: expired
         children:
           - name: unexpired
       - name: expiration
+        phonetic: ［ˌekspi'reiʃən］
+        mnemonic: n.【见上，-ation 名词后缀，表示行为】
+        meaning: 吐气，断气，死亡，告终
   - name: aspire
     children:
       - name: aspirant
       - name: aspiring
       - name: aspirate
+        phonetic: ［'æspərət］
+        mnemonic: v.【a-加强意义，spir 呼吸，-ate 动词后缀；“呼气” → 送气 → 】
+        meaning: 发送气音；【转作名词】送气音
         children:
           - name: aspirated
           - name: aspiration
             children:
               - name: aspirational
   - name: conspire
+    phonetic: ［kən'spaiə］
+    mnemonic: v.【con-共同，spir 呼吸；“共呼吸” → 互通气息 → 】
+    meaning: 共谋，同谋，阴谋，密谋策划
     children:
       - name: conspiracy
+        phonetic: ［kən'spirəsi］
+        mnemonic: n.【见上，-acy 名词后缀，表示行为】
+        meaning: 共谋，同谋，阴谋，密谋
       - name: conspirator
+        phonetic: ［kən'spirətə］
+        mnemonic: n.【见上，-ator 表示人】
+        meaning: 共谋者，阴谋家
         children:
           - name: conspiratorial
   - name: transpire

@@ -4,11 +4,26 @@ tags:
   - SOW
 children:
   - name: idiot
+    phonetic: ［'idiət］
+    mnemonic: n.【idio 特殊的；“特殊的人” → 异于正常人的人 → 】
+    meaning: 傻子，痴人，白痴
     children:
       - name: idiotic
+        phonetic: ［ˌidi'ɔtik］
+        mnemonic: adj.【见上，-ic …的】
+        meaning: 白痴的，愚蠢的
         children:
           - name: idiotically
       - name: idiocy
+        phonetic: ［'idiəsi］
+        mnemonic: n.【见上，-cy 名词后缀】
+        meaning: 白痴，极端愚蠢
   - name: idiom
+    phonetic: ［'idiəm］
+    mnemonic: n.【idio 特殊的，专有的；“特殊的语言”，“专用的语言” → 】
+    meaning: 惯用语，方言，习语，成语
     children:
       - name: idiomatic
+        phonetic: ［ˌidiə'mætik］
+        mnemonic: adj.【见上，-atic 形容词后缀，…的】
+        meaning: 惯用语的，成语的

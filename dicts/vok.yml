@@ -7,27 +7,57 @@ children:
     children:
       - name: invocation
   - name: evoke
+    phonetic: ［i'vəuk］
+    mnemonic: v.【e-出，vok 声音，叫；“叫出”，“喊出” → 】
+    meaning: 唤起，召唤；召（魂）
     children:
       - name: evocation
+        phonetic: ［ˌi:vəu'keiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 唤起，召唤
       - name: evocative
+        phonetic: ［i'vɔkətiv］
+        mnemonic: adj.【见上，-ative …的】
+        meaning: 唤起…的，引起…的
         children:
           - name: evocatively
   - name: provoke
+    phonetic: ［prə'vəuk］
+    mnemonic: v.【pro-前，向前，vok 叫喊】
+    meaning: 对…挑衅；激怒；煽动；激起
     children:
       - name: provoking
       - name: provoked
         children:
           - name: unprovoked
       - name: provocation
+        phonetic: ［ˌprɔvə'keiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 挑衅；激怒；激起
       - name: provocative
+        phonetic: ［prə'vɔkətiv］
+        mnemonic: adj.【见上，-ative 形容词后缀，…的】
+        meaning: 挑衅的；激怒的；激起…的
         children:
           - name: provocatively
   - name: revoke
+    phonetic: ［ri'vəuk］
+    mnemonic: v.【re-回，vok 叫；“叫回” → 】
+    meaning: 撤回，撤销
     children:
       - name: revoked
       - name: revocation
+        phonetic: ［ˌrevə'keiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 撤回；取消
       - name: revocable
+        phonetic: ［'revəkəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可撤回的；可取消的
         children:
           - name: irrevocable
+            phonetic: ［i'revəkəbl］
+            mnemonic: adj.【ir-不，见上】
+            meaning: 不可挽回的；不可取消的
             children:
               - name: irrevocably

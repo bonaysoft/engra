@@ -1,6 +1,9 @@
 name: prem
 children:
   - name: premier
+    phonetic: ［'premjə，'pri:miə］
+    mnemonic: n.【prem=prim 第一 → 首要的， -ier 表示人；“首要的人” → 】
+    meaning: 首相，总理
     children:
       - name: premiership
       - name: premiere

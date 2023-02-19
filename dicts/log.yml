@@ -4,11 +4,20 @@ tags:
   - SOW
 children:
   - name: logic
+    phonetic: ［'lɔʤik］
+    mnemonic: n.【log 语言 → 辩论 → 推理，论理，-ic 名词后缀，表示…学】
+    meaning: 逻辑
     children:
       - name: logical
+        phonetic: ［'lɔʤikəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 逻辑的，符合逻辑的
         children:
           - name: logically
           - name: illogical
+            phonetic: ［i'lɔʤikəl］
+            mnemonic: adj.【il-不，见上】
+            meaning: 不合逻辑的
             children:
               - name: illogically
       - name: logician
@@ -18,9 +27,15 @@ children:
           - name: logistical
           - name: logistician
   - name: apology
+    phonetic: ［ə'pɔləʤi］
+    mnemonic: n.【apo-分开，离开，脱开，log 言，说；“说开” → 解说】
+    meaning: 道歉，谢罪；辩解
     children:
       - name: apologia
       - name: apologize
+        phonetic: ［ə'pɔləʤaiz］
+        mnemonic: v.【见上，-ize 动词后缀】
+        meaning: 道歉，谢罪；辩解
       - name: apologist
       - name: apologetic
         children:
@@ -39,11 +54,23 @@ children:
       - name: analogize
       - name: analogue
   - name: eulogy
+    phonetic: ［'ju:ləʤi］
+    mnemonic: n.【eu-美好，log 言，-y 名词后缀，“美言” → 】
+    meaning: 赞美之词，颂词，赞扬
     children:
       - name: eulogize
+        phonetic: ［'ju:ləʤaiz］
+        mnemonic: v.【见上，-ize 动词后缀】
+        meaning: 赞美，赞颂，颂扬
   - name: dialogue
+    phonetic: ［'daiəlɔɡ］
+    mnemonic: n.【dia-对，相对，log 言，说】
+    meaning: 对话
     children:
       - name: dialogist
+        phonetic: ［dai'æləʤist］
+        mnemonic: n.【见上，-ist 表示人】
+        meaning: 对话者
       - name: dialogic
         children:
           - name: dialogical
@@ -54,8 +81,14 @@ children:
       - name: cataloging
       - name: catalog
   - name: monologue
+    phonetic: ［'mɔnəlɔɡ］
+    mnemonic: n.【mono-单独，log 言，说】
+    meaning: （戏剧）独白
     children:
       - name: monologist
+        phonetic: ［mɔ'nɔləʤist］
+        mnemonic: n.【见上，-ist 表示人】
+        meaning: （戏剧）独白者
       - name: monologic
         children:
           - name: monological

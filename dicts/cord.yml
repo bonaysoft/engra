@@ -4,30 +4,72 @@ tags:
   - SOW
 children:
   - name: cordial
+    phonetic: ［'kɔ:djəl］
+    mnemonic: adj.【cord 心，-ial 形容词后缀，…的】
+    meaning: 衷心的，诚心的
     children:
       - name: cordially
+        phonetic: ［'kɔ:djəli］
+        mnemonic: adv.【见上，-ly 副词后缀，…地】
+        meaning: 衷心地，诚心地，真诚地
       - name: cordiality
+        phonetic: ［ˌkɔ:di'æləti］
+        mnemonic: n.【见上，-ity名词后缀】
+        meaning: 诚心，热诚，亲切
   - name: record
+    phonetic: ［ri'kɔ:d］
+    mnemonic: v.【re-回，再，cord 心 → 想，忆；“回忆” → 以备“回忆”之用 → 】
+    meaning: 记录，记载
     children:
       - name: recorder
+        phonetic: ［ri'kɔ:də］
+        mnemonic: n.【见上，-er 表示人或物】
+        meaning: 记录者，录音机
       - name: recording
+        phonetic: ［ri'kɔ:diŋ］
+        mnemonic: n.【见上，-ing 名词后缀】
+        meaning: 记录，录音
       - name: recorded
         children:
           - name: unrecorded
       - name: recordable
+        phonetic: ［ri'kɔ:dəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可记录的
       - name: recordation
+        phonetic: ［ˌrekə'deiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 记录，记载
       - name: prerecord
   - name: accord
+    phonetic: ［ə'kɔ:d］
+    mnemonic: v.【ac-表示to，cord 心；“心心相印”】
+    meaning: 一致，协调，符合，使一致
     children:
       - name: according
         children:
           - name: accordingly
       - name: accordant
+        phonetic: ［ə'kɔ:dənt］
+        mnemonic: adj.【见上，-ant …的】
+        meaning: 一致的，协调的
       - name: accordance
+        phonetic: ［ə'kɔ:dəns］
+        mnemonic: n.【见上，-ance 名词后缀】
+        meaning: 一致，协调，调和
   - name: discord
+    phonetic: ［'diskɔ:d］
+    mnemonic: n./v.【dis-分，离，cord 心，意；“分心离意” → 】
+    meaning: 不一致，不协调，不和
     children:
       - name: discordant
+        phonetic: ［di'skɔ:dənt］
+        mnemonic: adj.【见上，-ant …的】
+        meaning: 不一致的，不协调的，不和的
       - name: discordance
+        phonetic: ［di'skɔ:dəns］
+        mnemonic: n.【见上，-ance 名词后缀】
+        meaning: 不一致，不协调，不和
   - name: accordion
     children:
       - name: accordionist

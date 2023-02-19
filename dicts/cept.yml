@@ -4,11 +4,20 @@ tags:
   - SOW
 children:
   - name: accept
+    phonetic: ［ək'sept］
+    mnemonic: v.【ac- 加强意义，cept 拿 → 接 → 】
+    meaning: 接受，领受，承认
     children:
       - name: acceptor
       - name: accepted
       - name: acceptance
+        phonetic: ［ək'septəns］
+        mnemonic: n.【见上，-ance 名词后缀】
+        meaning: 接受，领受，承认
       - name: acceptable
+        phonetic: ［ək'septəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可接受的
         children:
           - name: acceptably
           - name: acceptability
@@ -16,12 +25,24 @@ children:
             children:
               - name: unacceptably
   - name: except
+    phonetic: ［ik'sept］
+    mnemonic: prep.【ex- 外，出，cept 拿；“拿出去” → 排除，除外 → 】
+    meaning: 除…之外，把…除外
     children:
       - name: excepting
       - name: exceptive
+        phonetic: ［ik'septiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 作为例外的，特殊的
       - name: exception
+        phonetic: ［ik'sepʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 例外，除外
         children:
           - name: exceptional
+            phonetic: ［ik'sepʃənəl］
+            mnemonic: adj.【见上，-al …的】
+            meaning: 例外的，异常的，特殊的
             children:
               - name: exceptionally
               - name: exceptionality
@@ -47,9 +68,15 @@ children:
             children:
               - name: reconceptualization
   - name: intercept
+    phonetic: ［ˌintə'sept］
+    mnemonic: v.【inter- 中间 → 从中，cept 拿，取；“从中截取” → 】
+    meaning: 截取，截击，拦截，截断
     children:
       - name: interceptor
       - name: interception
+        phonetic: ［ˌintə'sepʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 截取，截住，拦截，截击
   - name: deception
     children:
       - name: deceptious

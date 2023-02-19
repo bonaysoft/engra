@@ -4,10 +4,19 @@ tags:
   - SOW
 children:
   - name: equal
+    phonetic: ［'i:kwəl］
+    mnemonic: adj.【equ 相等，-al …的】
+    meaning: 相等的，平等的，相同的
     children:
       - name: equally
       - name: equality
+        phonetic: ［i:'kwɔləti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 同等，平等，均等
       - name: equalize
+        phonetic: ［'i:kwəlaiz］
+        mnemonic: v.【见上，-ize 使…】
+        meaning: 使相等，使均等，使平等
         children:
           - name: equalizer
           - name: equalizing
@@ -22,6 +31,9 @@ children:
         children:
           - name: inequality
   - name: equity
+    phonetic: ［'ekwiti］
+    mnemonic: n.【equ 平，-ity 名词后缀】
+    meaning: 公平，公道
     children:
       - name: equitable
         children:
@@ -31,22 +43,52 @@ children:
         children:
           - name: inequitably
   - name: equate
+    phonetic: ［i'kweit］
+    mnemonic: v.【equ 相等，-ate 动词后缀，使…】
+    meaning: 使相等，使等同
     children:
       - name: equator
+        phonetic: ［i'kweitə］
+        mnemonic: n.【equ 相等，-ator 表示物；“均分地球为南北两半球的纬线” → 】
+        meaning: 赤道
         children:
           - name: equatorial
+            phonetic: ［ˌekwə'tɔ:riəl］
+            mnemonic: adj.【见上，-ial …的】
+            meaning: 赤道（附近）的
       - name: equation
+        phonetic: ［i'kweiʃən］
+        mnemonic: n.【equ 相等，-ation 名词后缀】
+        meaning: 平衡，均衡，平均，相等；（数学）等式
   - name: equivalent
+    phonetic: ［i'kwivələnt］
+    mnemonic: adj./n.【equ（i）相等，val=value 价值，-ent …的】
+    meaning: 等价的，相等的；【-ent 表示物】相等物，等值物，等价物
     children:
       - name: equivalently
       - name: equivalence
+        phonetic: ［i'kwivələns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 相等，均等，相当，等价，等值
       - name: equivalency
       - name: nonequivalent
   - name: adequate
+    phonetic: ［'ædikwət］
+    mnemonic: adj.【ad-=to，equ 相等，-ate …的；“equal to”，“与所需要的数量相等的” → 能满足需要的 → 】
+    meaning: 足够的，充分的，适当的
     children:
       - name: adequately
       - name: adequacy
+        phonetic: ［'ædikwəsi］
+        mnemonic: n.【见上，-acy 名词后缀】
+        meaning: 足够，充分，适合
       - name: inadequate
+        phonetic: ［in'ædikwit］
+        mnemonic: adj.【in-不，见上】
+        meaning: 不充足的，不适当的
         children:
           - name: inadequately
       - name: inadequacy
+        phonetic: ［in'ædikwəsi］
+        mnemonic: n.【见上】
+        meaning: 不充足，不适当

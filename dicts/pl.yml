@@ -30,6 +30,9 @@ children:
         children:
           - name: multiplier
           - name: multiplicity
+            phonetic: ［ˌmʌlti'plisəti］
+            mnemonic: n.【见上，-ity 表示性质】
+            meaning: 多重性，多倍，多样，复杂
           - name: multiplying
           - name: multiplication
           - name: multiplicative

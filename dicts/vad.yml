@@ -4,28 +4,58 @@ tags:
   - SOW
 children:
   - name: invade
+    phonetic: ［in'veid］
+    mnemonic: v.【in-入，vad 走；“走入” → 闯入 → 】
+    meaning: 侵入，侵略，侵犯
     children:
       - name: invader
+        phonetic: ［in'veidə］
+        mnemonic: n.【见上，-er 表示人】
+        meaning: 入侵者，侵略者，侵犯者
       - name: invading
       - name: invaded
       - name: invasion
+        phonetic: ［in'veiʒən］
+        mnemonic: n.【见上，vad → vas，-ion 名词后缀，表示行为】
+        meaning: 入侵，侵略
       - name: invasive
+        phonetic: ［in'veisiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 入侵的，侵略的
         children:
           - name: invasiveness
           - name: noninvasive
   - name: evade
+    phonetic: ［i'veid］
+    mnemonic: v.【e-外，出，vad 走；“走出” → 逃出 → 】
+    meaning: 逃避，躲避
     children:
       - name: evader
       - name: evasion
+        phonetic: ［i'veiʒən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 逃避，躲避，回避
       - name: evasive
+        phonetic: ［i'veisiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 逃避的，躲避的
         children:
           - name: evasively
           - name: evasiveness
   - name: pervade
+    phonetic: ［pə:'veid］
+    mnemonic: v.【per-= throughout 全，遍，vad 走；“走遍” → 】
+    meaning: 遍及，弥漫，渗透，充满
     children:
       - name: pervading
       - name: pervasion
+        phonetic: ［pə:'veiʒən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 遍布，弥漫，渗透，充满
       - name: pervasive
+        phonetic: ［pə:'veisiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 遍及的，遍布的，弥漫的，充满的
         children:
           - name: pervasively
           - name: pervasiveness

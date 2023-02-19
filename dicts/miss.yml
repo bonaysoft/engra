@@ -4,23 +4,41 @@ tags:
   - SOW
 children:
   - name: mission
+    phonetic: ［'miʃən］
+    mnemonic: n.【miss 送，派送，委派，-ion 名词后缀；“被派送（委派）出去者” → 】
+    meaning: 使团，代表团，使命
     children:
       - name: missionary
+        phonetic: ［'miʃənəri］
+        mnemonic: adj./n.【见上，-ary …的】
+        meaning: （被派遣出去）传教的；【转为名词】传教士
       - name: missionize
       - name: missiology
   - name: missile
+    phonetic: ［'misail，'misəl］
+    mnemonic: n./adj.【miss 投掷，发射，-ile 名词后缀，表示物】
+    meaning: 投掷物，发射物，导弹，飞弹；【-ile 形容词后缀，可…的】可投掷的，可发射的
     children:
       - name: missileman
       - name: antimissile
   - name: dismiss
+    phonetic: ［dis'mis］
+    mnemonic: v.【dis-离开，miss 送；“送出去”，打发走 → 】
+    meaning: 开除，免职；解散
     children:
       - name: dismissed
       - name: dismissal
       - name: dismission
+        phonetic: ［dis'miʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 开除，免职；解散
       - name: dismissive
         children:
           - name: dismissively
   - name: commission
+    phonetic: ［kə'miʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 委任，委派；委员会
     children:
       - name: commissioner
       - name: commissioning
@@ -32,6 +50,9 @@ children:
           - name: decommissioning
           - name: decommissioned
   - name: promise
+    phonetic: ［'prɔmis］
+    mnemonic: v.【pro-前，先，mis（=miss）发，“事先发出”之言 → 】
+    meaning: 诺言，允诺
     children:
       - name: promising
         children:
@@ -40,6 +61,9 @@ children:
       - name: promised
       - name: promissory
       - name: compromise
+        phonetic: ［'kɔmprəmaiz］
+        mnemonic: v.【见上，com-共同，promise 诺言；a mutual promise to abide by a decision，“共同承诺”遵守一项决定 → 】
+        meaning: 妥协，和解
         children:
           - name: compromiser
           - name: compromising

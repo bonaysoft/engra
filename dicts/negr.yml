@@ -6,23 +6,68 @@ children:
   - name: negro
     children:
       - name: negrodom
+        phonetic: ［'ni:ɡrəudəm］
+        mnemonic: n.【negro 黑人，-dom 抽象名词后缀】
+        meaning: 黑人社会，黑人全体
       - name: negroid
+        phonetic: ［'ni:ɡrɔid］
+        mnemonic: adj.【见上，-oid 似…的】
+        meaning: 似黑人的
       - name: negroism
+        phonetic: ［'ni:ɡrəuizəm］
+        mnemonic: n.【见上，-ism 表示风格、风俗】
+        meaning: 黑人的习俗
       - name: negroite
+        phonetic: ［'ni:ɡrəuit］
+        mnemonic: n.【见上，-ite 名词后缀，表示人】
+        meaning: 同情黑人的人，偏袒黑人者
       - name: negrolet
+        phonetic: ［'niɡrəulit］
+        mnemonic: n.【见上，-let 表示小】
+        meaning: 小黑人
       - name: negritic
   - name: negress
   - name: negrophile
+    phonetic: ［'ni:ɡrəfail］
+    mnemonic: n.【见上，phil 爱，喜欢】
+    meaning: 同黑人友好的人，关心黑人利益的人
   - name: negrophobe
+    phonetic: ［'niɡrəˌfəub］
+    mnemonic: n.【见上】
+    meaning: 畏惧黑人的人，厌恶黑人的人
     children:
       - name: negrophobia
+        phonetic: ［ˌniɡrə'fəubiə］
+        mnemonic: n.【见上，phob 怕，厌恶，-ia 名词后缀】
+        meaning: 厌恶黑人，对黑人的畏惧
   - name: nigrify
+    phonetic: ［'niɡrifai］
+    mnemonic: v.【nigr 黑，-i-，-fy 动词后缀，使…】
+    meaning: 使变黑
     children:
       - name: nigrescence
+        phonetic: ［nai'ɡresəns］
+        mnemonic: n.【nigr 黑，-escence 名词后缀，表示逐渐成为…状态】
+        meaning: 变黑；（发、肤等）黑色
       - name: nigrescent
+        phonetic: ［nai'ɡresənt］
+        mnemonic: adj.【nigr 黑，-escent 形容词后缀，表示成为…的】
+        meaning: 发黑的，变黑的，带黑的
       - name: nigritude
+        phonetic: ［'niɡritju:d］
+        mnemonic: n.【nigr 黑，-itude 名词后缀】
+        meaning: 黑色；黑色物
         children:
           - name: nigrification
+            phonetic: ［niɡrifi'keiʃən］
+            mnemonic: n.【nigr 黑，-i-，-fication 名词后缀】
+            meaning: 使成黑色，黑色化
       - name: denigrate
+        phonetic: ［'deniɡreit］
+        mnemonic: v.【de-使成为…，nigr 黑，-ate 动词后缀】
+        meaning: 使黑，抹黑，贬低，诋毁
         children:
           - name: denigrator
+            phonetic: ［'deniɡreitə］
+            mnemonic: n.【见上，-ator 表示人或物】
+            meaning: 涂黑者，涂黑物，贬低者，诋毁者

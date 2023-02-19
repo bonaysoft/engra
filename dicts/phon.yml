@@ -4,16 +4,25 @@ tags:
   - SOW
 children:
   - name: telephone
+    phonetic: ［'telifəun］
+    mnemonic: n.【tele 远，phon 声音；“由远处通过电波传来的声音” → 】
+    meaning: 电话
     children:
       - name: telephony
         children:
           - name: telephonic
       - name: phone
+        phonetic: ［fəun］
+        mnemonic: n.【telephone 的缩略形式】
+        meaning: 电话
         children:
           - name: cellphone
   - name: symphony
     children:
       - name: symphonic
+        phonetic: ［sim'fɔnik］
+        mnemonic: adj.【见上，-ic…的】
+        meaning: 交响乐的
       - name: symphonious
       - name: symphonism
       - name: symphonette

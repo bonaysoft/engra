@@ -4,28 +4,73 @@ tags:
   - SOW
 children:
   - name: sonic
+    phonetic: ［'sɔnik］
+    mnemonic: adj.【son 声音，-ic …的】
+    meaning: 声音的，音速的
     children:
       - name: sonics
+        phonetic: ［'sɔniks］
+        mnemonic: n.【son 声音，-ics …学】
+        meaning: 声能学
       - name: subsonic
+        phonetic: ［ˌsʌb'sɔnik］
+        mnemonic: adj.【sub-亚，次，son 声音，-ic …的】
+        meaning: 亚音速的
       - name: supersonic
+        phonetic: ［ˌsju:pə'sɔnik］
+        mnemonic: adj.【super-超，son 声音，-ic …的】
+        meaning: 超音速的
       - name: hypersonic
       - name: ultrasonic
+        phonetic: ［ˌʌltrə'sɔnik］
+        mnemonic: adj./n.【ultra-超，son 声音，-ic …的】
+        meaning: 超声的，超音速的；【转作名词】超声波
       - name: stereosonic
+        phonetic: ［ˌsteriə'sɔnik］
+        mnemonic: adj.【stereo-立体，son 声音，-ic …的】
+        meaning: 立体声的
   - name: resonate
+    phonetic: ［'rezəneit］
+    mnemonic: v.【见上，-ate 动词后缀】
+    meaning: 回声，反响，共鸣，共振
     children:
       - name: resonator
+        phonetic: ［'rezəneitə］
+        mnemonic: n.【见上，-or 表示物】
+        meaning: 共鸣器，谐振器
       - name: resonating
       - name: resonant
+        phonetic: ［'rezənənt］
+        mnemonic: adj.【re-回，son 声音，-ant …的】
+        meaning: 回声的，反响的
       - name: resonance
+        phonetic: ［'rezənəns］
+        mnemonic: n.【见上，-ance 名词后缀】
+        meaning: 回声，反响
   - name: unison
+    phonetic: ［'ju:nizn］
+    mnemonic: n.【uni 单一，son 声音；“同一声音” → 】
+    meaning: 同音，齐唱，调和，一致
     children:
       - name: unisonal
       - name: unisonous
+        phonetic: ［ju:'nisənəs］
+        mnemonic: adj.【见上，-ous…的】
+        meaning: 同音的，一致的
       - name: unisonant
+        phonetic: ［ju:ni'səunənt］
+        mnemonic: adj.【见上，-ant …的】
+        meaning: 同音的，一致的
       - name: unisonance
   - name: dissonance
+    phonetic: ［'disənəns］
+    mnemonic: n.【见上，-ance 名词后缀】
+    meaning: 不和谐，不一致
     children:
       - name: dissonant
+        phonetic: ［'disənənt］
+        mnemonic: adj.【dis-分开 → 不同，son 声音，-ant …的；“不同声音的”】
+        meaning: 不和谐的，不一致的
   - name: consonant
     children:
       - name: consonance

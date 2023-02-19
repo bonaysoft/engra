@@ -4,26 +4,74 @@ tags:
   - SOW
 children:
   - name: agriculture
+    phonetic: ［'æɡrikʌltʃə］
+    mnemonic: n.【agri 田地，cult 耕，-ure 抽象名词后缀；“耕种田地” → 】
+    meaning: 农业；农艺；农学
     children:
       - name: agriculturist
+        phonetic: ［ˌæɡri'kʌltʃərist］
+        mnemonic: n.【见上，-ist 人】
+        meaning: 农学家
       - name: agricultural
+        phonetic: ［ˌæɡri'kʌltʃərəl］
+        mnemonic: adj.【见上，-al 形容词后缀】
+        meaning: 农业的；农艺的；农学的
         children:
           - name: agriculturalist
           - name: nonagricultural
   - name: agricorporation
+    phonetic: ［'æɡriˌkɔ:pə'reiʃən］
+    mnemonic: n.【agri=agriculture 农业，cor- poration 公司】
+    meaning: 农业综合公司
   - name: agrimotor
+    phonetic: ［'æɡriˌməutə］
+    mnemonic: n.【agri 农田 → 农业，motor 机器】
+    meaning: 农用拖拉机
   - name: agronomy
+    phonetic: ［ə'ɡrɔnəmi］
+    mnemonic: n.【agro 农田 → 农业，nomy …学】
+    meaning: 农学，农艺学，作物学
     children:
       - name: agronomic
+        phonetic: ［ˌæɡrə'nɔmik］
+        mnemonic: adj.【见上，-ic 形容词后缀，…的】
+        meaning: 农学的，农艺学的
       - name: agronomist
+        phonetic: ［ə'ɡrɔnəmist］
+        mnemonic: n.【见上，-ist 表示人】
+        meaning: 农学家
   - name: agrology
+    phonetic: ［ə'ɡrɔləʤi］
+    mnemonic: n.【agro 田地，-logy …学】
+    meaning: 农业土壤学
   - name: agrobiology
+    phonetic: ［ˌæɡrəubai'ɔləʤi］
+    mnemonic: n.【agro 田地 → 农业，biology 生物学】
+    meaning: 农业生物学
   - name: agrotechnique
+    phonetic: ［ˌæɡrəutek'ni:k］
+    mnemonic: n.【agro 田地 → 农业，technique 技术】
+    meaning: 农业技术
   - name: agro-town
+    phonetic: ［'æɡrəutaun］
+    mnemonic: n.【agro 农田 → 农村，town 城镇】
+    meaning: 建在农村地区的城镇
   - name: agro-industry
+    phonetic: ［'æɡrəu'indəstri］
+    mnemonic: n.【agro 农田 → 农业，industry 工业】
+    meaning: 农业工业
   - name: agrochemicals
+    phonetic: ［ˌæɡrəu'kemikəls］
+    mnemonic: n.【agro 农田，chemicals 化学药品】
+    meaning: 农药
   - name: agrarian
+    phonetic: ［ə'ɡrɛəriən］
+    mnemonic: adj.【agr 田地，-arian 形容词后缀，…的】
+    meaning: 土地的，耕地的
     children:
       - name: agrarianism
       - name: agrarianize
   - name: agrestic
+    phonetic: ［ə'ɡrestik］
+    mnemonic: adj.【agr 田地 → 乡村 → 乡野】
+    meaning: 乡间的，乡野的，粗野的

@@ -4,20 +4,35 @@ tags:
   - SOW
 children:
   - name: pose
+    phonetic: ［pəuz］
+    mnemonic: v.【pos 放置→摆放】
+    meaning: 摆（好）姿势，摆样子，装腔作势
     children:
       - name: poser
       - name: poseur
       - name: posing
       - name: posed
   - name: propose
+    phonetic: ［prə'pəuz］
+    mnemonic: v.【pro-向前，pos 放置→呈；“向前呈”，“呈出”→】
+    meaning: 提出，提议，建议
     children:
       - name: proposer
       - name: proposed
       - name: proposal
+        phonetic: ［prə'pəuzəl］
+        mnemonic: n.【见上，-al 名词后缀，表示事物、行为】
+        meaning: 建议，提议；（建议等的）提出
       - name: proposition
+        phonetic: ［ˌprɔpə'ziʃən］
+        mnemonic: n.【见上，-ition 名词后缀】
+        meaning: 建议，提议，提出
         children:
           - name: propositional
   - name: oppose
+    phonetic: ［ə'pəuz］
+    mnemonic: v.【op-相反，相对，pos 放置；“置于相反位置或立场”→】
+    meaning: 反对，反抗，对抗
     children:
       - name: opposing
       - name: opposed
@@ -25,18 +40,30 @@ children:
           - name: unopposed
       - name: opposable
       - name: opposite
+        phonetic: ［'ɔpəzit］
+        mnemonic: adj.【见上，-ite 形容词后缀，…的】
+        meaning: 相反的，对立的，对面的
         children:
           - name: oppositely
       - name: opposition
+        phonetic: ［ˌɔpə'ziʃən］
+        mnemonic: n.【见上，-ition 表示作为、情况】
+        meaning: 反对，反抗，对立，相反
         children:
           - name: oppositional
           - name: oppositionist
   - name: expose
+    phonetic: ［ik'spəuz］
+    mnemonic: v.【ex-出，外，pos 放，摆；“摆出来”→把…亮出来→】
+    meaning: 揭露，揭发，使暴露
     children:
       - name: exposed
         children:
           - name: unexposed
       - name: exposure
+        phonetic: ［ik'spəuʒə］
+        mnemonic: n.【见上，-ure 名词后缀】
+        meaning: 揭露，揭发，暴露
       - name: overexpose
         children:
           - name: overexposed
@@ -46,14 +73,23 @@ children:
           - name: underexposed
           - name: underexposure
   - name: compose
+    phonetic: ［kəm'pəuz］
+    mnemonic: v.【com-共同，一起，pos 放；“放在一起”→组合在一起→】
+    meaning: 组成，构成，创作
     children:
       - name: composer
+        phonetic: ［kəm'pəuzə］
+        mnemonic: n.【见上，-er 者】
+        meaning: 创作者，作曲者
       - name: composing
       - name: composed
       - name: composure
       - name: composite
         children:
           - name: composition
+            phonetic: ［ˌkɔmpə'ziʃən］
+            mnemonic: n.【见上，-ition 表示物；“构成的东西”，“创作出来的东西”→】
+            meaning: 作文，作品，乐曲
             children:
               - name: compositional
       - name: recompose
@@ -73,15 +109,24 @@ children:
             children:
               - name: photodecomposition
   - name: dispose
+    phonetic: ［di'spəuz］
+    mnemonic: v.【dis-分开，pos 放；“分开放置”，“分别摆设”→】
+    meaning: 布置，安排，配置，处理
     children:
       - name: disposer
       - name: disposed
         children:
           - name: indisposed
       - name: disposition
+        phonetic: ［ˌdispə'ziʃən］
+        mnemonic: n.【见上，-ition 名词后缀】
+        meaning: 布置，安排，处理
         children:
           - name: dispositional
       - name: disposal
+        phonetic: ［di'spəuzəl］
+        mnemonic: n.【见上，-al 名词后缀，表示行为、事情】
+        meaning: 布置，安排，处理
       - name: disposable
       - name: dispositive
       - name: predispose
@@ -115,6 +160,9 @@ children:
           - name: superimposed
           - name: superimposition
   - name: purpose
+    phonetic: ［'pə:pəs］
+    mnemonic: n.【pur-（pro-的变体）前面，pos放；“放在自己前面的…”，“that which one places before himself as an object to be attained”→intention】
+    meaning: 目的，意图，打算，意向
     children:
       - name: purposely
       - name: purposeful

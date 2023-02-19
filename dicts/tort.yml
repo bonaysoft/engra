@@ -7,15 +7,30 @@ children:
     children:
       - name: tortious
   - name: tortoise
+    phonetic: ［'tɔ:təs］
+    mnemonic: n.【tort扭 → 扭曲】
+    meaning: 乌龟（乌龟的脚是扭曲的）
     children:
       - name: tortoiseshell
   - name: torture
+    phonetic: ［'tɔ:tʃə］
+    mnemonic: n./v.【tort扭 → 扭弯 → 折 → 折磨，-ure 名词后缀】
+    meaning: 拷打，折磨，严刑，痛苦；【转为动词】拷打，使痛苦，拷问，折磨，刑讯；【扭 → 扭歪】歪曲，曲解
     children:
       - name: torturer
+        phonetic: ［'tɔ:tʃərə］
+        mnemonic: n.【见上，-er 者】
+        meaning: 拷打者，拷问者，虐待者
       - name: torturing
       - name: tortured
       - name: torturous
+        phonetic: ［'tɔ:tʃərəs］
+        mnemonic: adj.【见上，-ous …的】
+        meaning: 使痛苦的，充满痛苦的
   - name: distort
+    phonetic: ［dis'tɔ:t］
+    mnemonic: v.【dis-离，tort 扭；“扭离正形” → 】
+    meaning: 弄歪（嘴脸等），使变形；歪曲，曲解（事实）
     children:
       - name: distorting
       - name: distorted
@@ -23,14 +38,35 @@ children:
           - name: undistorted
       - name: distortive
       - name: distortion
+        phonetic: ［dis'tɔ:ʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 弄歪，变形，歪曲，歪形
         children:
           - name: distortionist
+            phonetic: ［dis'tɔ:ʃənist］
+            mnemonic: n.【见上，-ist 表示人；“善画歪形的人” → 】
+            meaning: 漫画家；【“扭歪身体的人” → 】柔体表演者
   - name: contort
+    phonetic: ［kən'tɔ:t］
+    mnemonic: v.【con-加强意义，tort 扭 → 扭弯】
+    meaning: 扭歪，扭弯，曲解
     children:
       - name: contorted
       - name: contortion
+        phonetic: ［kən'tɔ:ʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 扭弯，扭歪，曲解
         children:
           - name: contortionist
+            phonetic: ［kən'tɔ:ʃənist］
+            mnemonic: n.【见上，-ist 表示人；“扭弯身体的人” → 】
+            meaning: 善作柔体表演的杂技演员
   - name: retort
+    phonetic: ［ri'tɔ:t］
+    mnemonic: v./n.【re-回，tort 扭；“扭回” → 打回 → 】
+    meaning: 反击，回报；反驳
     children:
       - name: retortion
+        phonetic: ［ri'tɔ:ʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 扭回，扭转；反击；报复

@@ -6,15 +6,33 @@ children:
   - name: err
     children:
       - name: error
+        phonetic: ［'erə］
+        mnemonic: n.【err 漫游，走 → 走离正道 → 走错，-or 抽象名词后缀】
+        meaning: 错误，谬误
       - name: erring
+        phonetic: ［'ə:riŋ］
+        mnemonic: adj.【见上，ing …的】
+        meaning: 做错了事的；走入歧途的
         children:
           - name: unerring
             children:
               - name: unerringly
       - name: errant
+        phonetic: ［'erənt］
+        mnemonic: adj.【err 漫游，-ant 形容词后缀，…的】
+        meaning: 周游的；漂泊的
       - name: errancy
       - name: inerrable
+        phonetic: ［in'erəbl］
+        mnemonic: adj.【in-不，err 走，走离正道 → 错误，-able 可…的】
+        meaning: 不会错的；绝对正确的
       - name: inerrancy
+        phonetic: ［in'erənsi］
+        mnemonic: n.【in-不，err 走离正道 → 错误，-ancy 名词后缀】
+        meaning: 无错误；绝对正确
   - name: erratic
+    phonetic: ［i'rætik］
+    mnemonic: adj.【err 漫游，-atic 形容词后缀，…的】
+    meaning: 飘忽不定的
     children:
       - name: erratically

@@ -4,11 +4,20 @@ tags:
   - SOW
 children:
   - name: exist
+    phonetic: ［iɡ'zist］
+    mnemonic: v.【ex-外，出，（在x后省略s）ist = sist 立；“to stand forth” → to emerge，to apear → 】
+    meaning: 存在
     children:
       - name: existing
       - name: existed
       - name: existence
+        phonetic: ［iɡ'zistəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 存在，存在物
       - name: existent
+        phonetic: ［iɡ'zistənt］
+        mnemonic: adj.【见上，-ent …的】
+        meaning: 存在的
         children:
           - name: existential
             children:
@@ -27,18 +36,36 @@ children:
         children:
           - name: nonexistence
   - name: insist
+    phonetic: ［in'sist］
+    mnemonic: v.【in-加强意义，sist 立；“坚立不移”】
+    meaning: 坚决主张，坚持
     children:
       - name: insistent
         children:
           - name: insistently
       - name: insistence
+        phonetic: ［in'sistəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 坚决主张，坚持
   - name: persist
+    phonetic: ［pə'sist］
+    mnemonic: v.【per-贯穿，从头到尾，自始至终，sist立】
+    meaning: 坚持，持续
     children:
       - name: persistent
+        phonetic: ［pə'sistənt］
+        mnemonic: adj.【见上，-ent …的】
+        meaning: 坚持的，持续的
         children:
           - name: persistently
       - name: persistence
+        phonetic: ［pə'sistəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 坚持，持续
   - name: consist
+    phonetic: ［kən'sist］
+    mnemonic: v.【con-共同，一起，sist 立；“立在一起” → 组合在一起 → 共同组成 → 】
+    meaning: 由…组成
     children:
       - name: consistent
         children:
@@ -50,23 +77,41 @@ children:
           - name: inconsistently
           - name: inconsistency
   - name: assist
+    phonetic: ［ə'sist］
+    mnemonic: v.【as-表示 at，sist 立，“立于一旁” → 】
+    meaning: 帮助，援助，辅助
     children:
       - name: assisting
       - name: assisted
         children:
           - name: unassisted
       - name: assistance
+        phonetic: ［ə'sistəns］
+        mnemonic: n.【见上，-ance 名词后缀】
+        meaning: 帮助，援助，辅助
       - name: assistant
+        phonetic: ［ə'sistənt］
+        mnemonic: adj.【见上，-ant 表示人】
+        meaning: 助手，助教，助理；【-ant …的】辅助的，助理的
         children:
           - name: assistantship
       - name: assistive
   - name: resist
+    phonetic: ［ri'zist］
+    mnemonic: v.【re-相反，反对，sist 立；“to stand against” → 】
+    meaning: 反抗，抵抗，对抗
     children:
       - name: resistor
       - name: resister
       - name: resisting
       - name: resistance
+        phonetic: ［ri'zistəns］
+        mnemonic: n.【见上，-ance 名词后缀】
+        meaning: 抵抗，反抗
       - name: resistant
+        phonetic: ［ri'zistənt］
+        mnemonic: adj.【见上，-ant …的】
+        meaning: 抵抗的；【-ant 表示人】抵抗者
       - name: resistive
         children:
           - name: resistivity

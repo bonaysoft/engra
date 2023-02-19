@@ -4,12 +4,21 @@ tags:
   - SOW
 children:
   - name: plenty
+    phonetic: ［'plenti］
+    mnemonic: n.【plen 满 → 丰足，-ty 表示情况、状态】
+    meaning: 丰富，充足，大量
     children:
       - name: aplenty
       - name: plentiful
+        phonetic: ［'plentiful］
+        mnemonic: adj.【见上，-ful …的】
+        meaning: 丰富的，充足的，大量的
         children:
           - name: plentifully
   - name: replenish
+    phonetic: ［ri'pleniʃ］
+    mnemonic: v.【re 再，plen 满，-ish 动词后缀，使…】
+    meaning: （再）填满，（再）装满
     children:
       - name: replenished
       - name: replenishment

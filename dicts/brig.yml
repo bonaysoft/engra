@@ -4,5 +4,11 @@ tags:
   - SOW
 children:
   - name: brigade
+    phonetic: ［bri'ɡeid］
+    mnemonic: n.【brig 战斗，-ade 名词后缀；“战斗的单位” → 】
+    meaning: 旅；队
     children:
       - name: brigadier
+        phonetic: ［ˌbriɡə'diə］
+        mnemonic: n.【见上，-ier 表示人】
+        meaning: 旅长

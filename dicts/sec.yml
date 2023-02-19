@@ -4,10 +4,16 @@ tags:
   - SOW
 children:
   - name: second
+    phonetic: ［'sekənd］
+    mnemonic: n.【sec 跟随；“跟随第一个之后”→】
+    meaning: 第二；【一小时第一次分为六十分，“第二次”再各分为六十秒→】秒
     children:
       - name: seconds
       - name: secondly
       - name: secondary
+        phonetic: ［'sekəndəri］
+        mnemonic: adj.【见上，-ary …的】
+        meaning: 第二的，第二位的，第二次的
         children:
           - name: secondarily
           - name: postsecondary
@@ -35,7 +41,16 @@ children:
       - name: prosecutive
       - name: prosecutable
   - name: persecute
+    phonetic: ［'pə:sikju:t］
+    mnemonic: v.【per-从头到尾，一直，sec 跟随；“一直跟随”→追踪→追捕→】
+    meaning: 迫害
     children:
       - name: persecutor
+        phonetic: ［'pə:sikjutə］
+        mnemonic: n.【见上，-or 者】
+        meaning: 迫害者
       - name: persecuted
       - name: persecution
+        phonetic: ［ˌpə:si'kju:ʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 迫害

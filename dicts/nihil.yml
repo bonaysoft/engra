@@ -4,6 +4,15 @@ tags:
   - SOW
 children:
   - name: annihilate
+    phonetic: ［ə'naiəleit］
+    mnemonic: v.【an-加强意义，nihil 无，不存在 → 消亡，-ate 动词后缀，使…；“使消亡” → 】
+    meaning: 消灭，歼灭
     children:
       - name: annihilator
+        phonetic: ［ə'naiəleitə］
+        mnemonic: n.【见上，-ator 者】
+        meaning: 消灭者
       - name: annihilation
+        phonetic: ［əˌnaiə'leiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 消灭，歼灭

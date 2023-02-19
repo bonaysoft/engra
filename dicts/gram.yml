@@ -1,17 +1,31 @@
 name: gram
-meaning: write，something written or drawn写，画，文字，图形
+phonetic: ［ɡræm］
+mnemonic: n.【gram 写 → 刻写；在重量计上所“刻写”的一个符号 → 重量单位】
+meaning: 克（国际重量单位）
 tags:
   - SOW
 children:
   - name: grammar
+    phonetic: ［'ɡræmə］
+    mnemonic: n.【gram 写，文字，m 重复字母，-ar 名词后缀；关于“文字”的法则 → 】
+    meaning: 语法，文法
     children:
       - name: grammarian
+        phonetic: ［ɡrə'mɛəriən］
+        mnemonic: n.【见上，-ian 名词后缀，表示人】
+        meaning: 语法学家，文法家
       - name: grammatical
+        phonetic: ［ɡrə'mætikəl］
+        mnemonic: adj.【见上，-atical 形容词后缀，…的】
+        meaning: 语法的，属于语法上的
         children:
           - name: grammatically
           - name: grammaticality
           - name: ungrammatical
   - name: program
+    phonetic: ［'prəuɡræm］
+    mnemonic: n.【pro-在前面，gram 写 → 书，表，单；“写在前面的说明文字” → 】
+    meaning: 节目单，戏单，说明书，大纲，方案
     children:
       - name: programme
       - name: programmer
@@ -26,5 +40,11 @@ children:
           - name: reprogramming
       - name: deprogram
   - name: diagram
+    phonetic: ［'daiəɡræm］
+    mnemonic: n.【dia-对穿，gram 画；“上下左右对穿画线” → 】
+    meaning: 图解，图表
     children:
       - name: diagrammatic
+        phonetic: ［ˌdaiəɡrə'mætik］
+        mnemonic: adj.【见上，-atic …的】
+        meaning: 图表的，图解的

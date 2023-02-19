@@ -4,8 +4,14 @@ tags:
   - SOW
 children:
   - name: course
+    phonetic: ［kɔːs］
+    mnemonic: n.【cours 跑 → 行进】
+    meaning: 行程，进程，路程，道路，课程
     children:
       - name: courser
+        phonetic: ［'kɔ:sə］
+        mnemonic: n.【cours 跑，-er 者；“善跑的人或动物” → 】
+        meaning: 跑者，追猎者，猎犬，骏马
       - name: coursing
       - name: coursework
       - name: courseware

@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: tone
+    phonetic: ［təun］
+    mnemonic: n.【ton 音】
+    meaning: 音；音调，调子
     children:
       - name: toner
       - name: toning
@@ -11,21 +14,51 @@ children:
       - name: tonic
         children:
           - name: diatonic
+            phonetic: ［ˌdaiə'tɔnik］
+            mnemonic: adj.【dia-贯穿，全，ton 音，-ic …的】
+            meaning: 全音阶的
       - name: tonal
+        phonetic: ［'təunl］
+        mnemonic: adj.【ton 音，-al …的】
+        meaning: 音调的
         children:
           - name: tonality
+            phonetic: ［təu'næliti］
+            mnemonic: n.【ton 音，-ality 名词后缀】
+            meaning: 音调
           - name: atonal
+            phonetic: ［ei'təunəl］
+            mnemonic: adj.【a-无，ton 音调，-al …的】
+            meaning: 无调的；不成调的
             children:
               - name: atonality
       - name: toneless
+        phonetic: ［'təunlis］
+        mnemonic: adj.【见上，-less 无】
+        meaning: 缺乏声调的；单调的
         children:
           - name: tonelessly
       - name: monotone
+        phonetic: ［'mɔnətəun］
+        mnemonic: n./adj.【mono-单一，ton 音调】
+        meaning: 单调；单调的
         children:
           - name: monotony
+            phonetic: ［mə'nɔtəni］
+            mnemonic: n.【见上，-y 表抽象名词】
+            meaning: 单音，单调；无变化
           - name: monotonous
+            phonetic: ［mə'nɔtənəs］
+            mnemonic: adj.【见上，-ous …的】
+            meaning: 单调的；单音调的
             children:
               - name: monotonously
   - name: intone
+    phonetic: ［in'təun］
+    mnemonic: v.【in-构成动词，表示做…，见上】
+    meaning: 发长音；吟诵，吟咏
     children:
       - name: intonation
+        phonetic: ［ˌintəu'neiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 声调；语调

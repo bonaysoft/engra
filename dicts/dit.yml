@@ -4,29 +4,56 @@ tags:
   - SOW
 children:
   - name: edit
+    phonetic: ［'edit］
+    mnemonic: v.【e-出，dit 给；“给出” → 发表，出版；将稿件编好以备发表 → 】
+    meaning: 编辑
     children:
       - name: editing
       - name: edited
         children:
           - name: unedited
       - name: edition
+        phonetic: ［i'diʃən］
+        mnemonic: n.【edit 编辑，-ion 名词后缀，“编成的样本”】
+        meaning: 版，版本
       - name: editor
+        phonetic: ［'editə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 编者，编辑
         children:
           - name: editorship
+            phonetic: ［'editəʃip］
+            mnemonic: n.【见上，-ship 名词后缀】
+            meaning: 编辑的职位，编辑工作
           - name: editorial
+            phonetic: ［ˌedi'tɔ:riəl］
+            mnemonic: n.【见上，-ial …的】
+            meaning: 编者的，编辑的；【编者写的文章 → 】社论
             children:
               - name: editorially
               - name: editorialist
               - name: editorialize
           - name: subeditor
+            phonetic: ［ˌsʌb'editə］
+            mnemonic: n.【sub-副，editor 编辑】
+            meaning: 副编辑
   - name: tradition
+    phonetic: ［trə'diʃən］
+    mnemonic: n.【tra-=trans-转，传，dit 给，-ion 名词后缀；“传给” → 】
+    meaning: 传统，传说，口传
     children:
       - name: traditional
+        phonetic: ［trə'diʃənəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 传统的，因袭的，惯例的
         children:
           - name: traditionally
           - name: untraditional
           - name: nontraditional
       - name: traditionalism
+        phonetic: ［trə'diʃənəl:zəm］
+        mnemonic: n.【见上，-ism 主义】
+        meaning: 传统主义
       - name: traditionalist
         children:
           - name: traditionalistic

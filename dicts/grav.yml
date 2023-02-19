@@ -4,23 +4,47 @@ tags:
   - SOW
 children:
   - name: grave
+    phonetic: ［ɡreiv］
+    mnemonic: adj.【grav 重】
+    meaning: 重大的；严重的
     children:
       - name: gravely
       - name: gravity
+        phonetic: ［'ɡræviti］
+        mnemonic: n.【见上，-ity 抽象名词后缀】
+        meaning: 严重，严重性；庄重；重力；重量
         children:
           - name: antigravity
       - name: gravimeter
+        phonetic: ［ɡrə'vimitə］
+        mnemonic: n.【grav 重，-i-，meter 计】
+        meaning: 比重计；重差计；测重器
   - name: aggravate
+    phonetic: ［'æɡrəveit］
+    mnemonic: v.【ag -加强意义，grav 重，-ate 动词后缀】
+    meaning: 加重
     children:
       - name: aggravating
       - name: aggravated
       - name: aggravation
+        phonetic: ［ˌæɡrə'veiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 加重，加剧
   - name: gravitate
+    phonetic: ［'ɡræviteit］
+    mnemonic: v.【grav 重，重力，-ate 动词后缀】
+    meaning: 受重力作用
     children:
       - name: gravitation
+        phonetic: ［ˌɡrævi'teiʃən］
+        mnemonic: n.【grav 重力，-ation 名词后缀】
+        meaning: 重力，地心吸力，万有引力
         children:
           - name: gravitational
             children:
               - name: gravitationally
       - name: graviton
       - name: gravitative
+        phonetic: ［'ɡræviteitiv］
+        mnemonic: adj.【grav 重力，-ative …的】
+        meaning: 受重力作用的；重力的

@@ -4,21 +4,44 @@ tags:
   - SOW
 children:
   - name: dome
+    phonetic: ［dəum］
+    meaning: n. 圆屋顶；大厦（诗歌用语）
     children:
       - name: domed
       - name: semidome
+        phonetic: ［'semidəum］
+        mnemonic: n.【semi-半，dome 圆屋顶】
+        meaning: 半圆屋顶
   - name: domestic
+    phonetic: ［də'mestik］
+    mnemonic: adj.【dom 屋，家，-tic 形容词后缀，…的】
+    meaning: 家里的；（引申为）国内的
     children:
       - name: domestically
       - name: domesticity
+        phonetic: ［ˌdəumes'tisəti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 家庭生活
       - name: domesticable
+        phonetic: ［də'mestəkəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可驯养的，可驯化的；习惯于家居的
       - name: domesticate
+        phonetic: ［də'mestikeit］
+        mnemonic: v.【见上，-ate 动词后缀】
+        meaning: 使家居；使野生动物成为家养动物，驯养（动物）；使归化
         children:
           - name: domesticator
+            phonetic: ［də'mestikeitə］
+            mnemonic: n.【见上，-ator 者】
+            meaning: 驯养者，驯化者；使归化者
           - name: domesticated
             children:
               - name: undomesticated
           - name: domestication
+            phonetic: ［dəˌmesti'keiʃən］
+            mnemonic: n.【见上，-ation 名词后缀】
+            meaning: 驯养，驯化；归化
       - name: semidomestic
         children:
           - name: semidomesticated

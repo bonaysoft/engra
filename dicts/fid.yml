@@ -10,19 +10,43 @@ children:
           - name: infidelic
           - name: infidelity
   - name: confide
+    phonetic: ［kən'faid］
+    mnemonic: v.【con-加强意义，fid 信任】
+    meaning: 信任；信托，委托
     children:
       - name: confiding
+        phonetic: ［kən'faidiŋ］
+        mnemonic: adj.【见上，-ing …的】
+        meaning: 信任别人的，易于信任别人的
       - name: confidence
+        phonetic: ［'kɔnfidəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 信任；信心，自信
       - name: confident
+        phonetic: ［'kɔnfidənt］
+        mnemonic: adj.【见上，-ent 形容词后缀】
+        meaning: 有信心的；确信的
         children:
           - name: confidently
           - name: confidential
+            phonetic: ［ˌkɔnfi'denʃəl］
+            mnemonic: adj.【见上，-ial 形容词后缀】
+            meaning: 极受信任的，心腹的
             children:
               - name: confidentially
               - name: confidentiality
       - name: overconfidence
+        phonetic: ［ˌəuvə'kɔnfidəns］
+        mnemonic: n.【over-过分，太甚】
+        meaning: 过分自信，过分相信
         children:
           - name: overconfident
       - name: confidant
+        phonetic: ［ˌkɔnfi'dænt］
+        mnemonic: n.【见上，-ant 名词后缀，表示人；“可信任的人” → 】
+        meaning: 密友，知己
         children:
           - name: confidante
+            phonetic: ［ˌkɔnfi'dænt］
+            mnemonic: n.【见上】
+            meaning: 知己的女友

@@ -4,60 +4,116 @@ tags:
   - SOW
 children:
   - name: sense
+    phonetic: ［sens］
+    meaning: n. 感觉，意识
     children:
       - name: sensor
       - name: sensing
       - name: sensory
+        phonetic: ［'sensəri］
+        mnemonic: adj.【sens 感觉，-ory …的】
+        meaning: 感觉的
         children:
           - name: sensorial
           - name: sensorium
           - name: multisensory
           - name: extrasensory
+            phonetic: ［ˌekstrə'sensəri］
+            mnemonic: adj.【extra-超，sens 感觉，-ory …的】
+            meaning: 超感觉的
       - name: senseless
+        phonetic: ［'senslis］
+        mnemonic: adj.【sense 感觉，-less 无…的】
+        meaning: 无感觉的，无知觉的，无意义的
         children:
           - name: senselessly
           - name: senselessness
   - name: sensual
+    phonetic: ［'senʃuəl］
+    mnemonic: adj.【sens 感觉，-ual …的】
+    meaning: 感觉的，肉感的
     children:
       - name: sensually
       - name: sensuality
       - name: sensualist
       - name: sensuous
+        phonetic: ［'senʃuəs］
+        mnemonic: adj.【sens 感觉，-uous …的】
+        meaning: 感官方面的，感觉上的
         children:
           - name: sensuously
   - name: sensitive
+    phonetic: ［'sensitiv］
+    mnemonic: adj.【sens 感觉，-itive …的】
+    meaning: 敏感的，神经过敏的
     children:
       - name: sensitively
       - name: sensitivity
       - name: oversensitive
+        phonetic: ［ˌəuvə'sensitiv］
+        mnemonic: adj.【over-过于】
+        meaning: 过分敏感的
       - name: supersensitive
       - name: hypersensitive
+        phonetic: ［haipə'sensitiv］
+        mnemonic: adj.【hyper-过于，sens 感觉， -itive …的】
+        meaning: 过敏的
         children:
           - name: hypersensitivity
       - name: sensitize
+        phonetic: ［'sensitaiz］
+        mnemonic: v.【sens 感觉，-it-，-ize 使…】
+        meaning: 使敏感，变敏感
         children:
           - name: sensitizer
           - name: sensitized
           - name: sensitization
           - name: desensitize
+            phonetic: ［di:'sensitaiz］
+            mnemonic: v.【de-除去，消除，见上】
+            meaning: 使不敏感，使脱敏
             children:
               - name: desensitizer
+                phonetic: ［di:'sensitaizə］
+                mnemonic: n.【见上，-er 表示物】
+                meaning: 脱敏药，脱敏剂
               - name: desensitized
               - name: desensitization
+                phonetic: ［di:ˌsensitai'zeiʃən］
+                mnemonic: n.【见上，-ation 名词后缀，表示情况，状态】
+                meaning: 脱敏（现象）
   - name: sensible
+    phonetic: ［'sensəbl］
+    mnemonic: adj.【sens 感觉，-ible 可…的】
+    meaning: 能感觉到的，可觉察的
     children:
       - name: sensibly
       - name: sensibility
+        phonetic: ［ˌsensi'biləti］
+        mnemonic: n.【sens 感觉，-ibility 名词后缀，…性】
+        meaning: 敏感性，感受性，感觉（力），触觉
       - name: insensible
+        phonetic: ［in'sensəbl］
+        mnemonic: adj.【in-无，不，sensible 感觉的】
+        meaning: 无感觉的，失去知觉的
         children:
           - name: insensibly
           - name: insensibility
   - name: nonsense
+    phonetic: ［'nɔnsəns］
+    mnemonic: n.【non-无，sense 感觉，意识 → 意义；“无意义”的话】
+    meaning: 胡说，废话，胡闹
     children:
       - name: nonsensical
   - name: sensation
+    phonetic: ［sen'seiʃən］
+    mnemonic: n.【sens 感觉，-ation 名词后缀】
+    meaning: 感觉，知觉
     children:
       - name: sensational
+        phonetic: ［sen'seiʃənl］
+        mnemonic: adj.【见上，-al…的】
+        meaning: 感觉的
         children:
           - name: sensationally
       - name: sensationalize
@@ -68,7 +124,13 @@ children:
         children:
           - name: sensationalistic
   - name: consensus
+    phonetic: ［kən'sensəs］
+    mnemonic: n.【con-同，共同，sens 感觉，认识，意见，-us名词后缀；“共同的认识” → 】
+    meaning: 共识，意见一致
     children:
       - name: consensual
+        phonetic: ［kən'sensjuəl］
+        mnemonic: adj.【见上，-ual …的】
+        meaning: （法律）经双方同意的
         children:
           - name: consensually

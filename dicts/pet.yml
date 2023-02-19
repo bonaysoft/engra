@@ -4,16 +4,37 @@ tags:
   - SOW
 children:
   - name: petition
+    phonetic: ［pi'tiʃən］
+    mnemonic: n.【pet 追求 → 请求，寻求，-ition 表示行为】
+    meaning: 申请，请求，请愿，请愿书
     children:
       - name: petitioner
+        phonetic: ［pi'tiʃənə］
+        mnemonic: n.【见上，-er 者】
+        meaning: 请求者，请愿者
       - name: petitioning
       - name: petitionary
+        phonetic: ［pi'tiʃənəri］
+        mnemonic: adj.【见上，-ary …的】
+        meaning: 请求的，申请的，请愿的
   - name: compete
+    phonetic: ［kəm'pi:t］
+    mnemonic: v.【com-共同，pet 追求；“共同追求” → 】
+    meaning: 竞争，角逐，比赛
     children:
       - name: competitor
+        phonetic: ［kəm'petitə］
+        mnemonic: n.【见上，-itor 表示人 → 】
+        meaning: 竞争者，比赛者
       - name: competing
       - name: competition
+        phonetic: ［ˌkɔmpi'tiʃən］
+        mnemonic: n.【见上，-ition 名词后缀，表示行为】
+        meaning: 竞争，角逐，比赛
       - name: competitive
+        phonetic: ［kəm'petətiv］
+        mnemonic: adj.【见上，-itive 形容词后缀，…的】
+        meaning: 竞争的，比赛的
         children:
           - name: competitively
           - name: competitiveness
@@ -29,14 +50,26 @@ children:
               - name: incompetence
               - name: incompetency
   - name: appetite
+    phonetic: ［'æpitait］
+    mnemonic: n.【ap-表示 to 向，pet 追求 → 渴求，渴望 → 】
+    meaning: 欲望，食欲
     children:
       - name: appetizer
       - name: appetizing
+        phonetic: ［'æpitaiziŋ］
+        mnemonic: adj.【见上，-iz（e） + -ing …的】
+        meaning: 促进食欲的，开胃的
         children:
           - name: unappetizing
       - name: appetitive
       - name: appetence
+        phonetic: ［'æpitəns］
+        mnemonic: n.【见上，-ence 表示情况】
+        meaning: 强烈的欲望，渴望
       - name: appetent
+        phonetic: ［'æpitənt］
+        mnemonic: adj.【见上，-ent …的】
+        meaning: 渴望的，有欲望的
   - name: impetus
     children:
       - name: impetuous

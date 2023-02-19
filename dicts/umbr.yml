@@ -4,19 +4,43 @@ tags:
   - SOW
 children:
   - name: umbra
+    phonetic: ［'ʌmbrə］
+    mnemonic: n.【umbr 影，-a 名词后缀】
+    meaning: 暗影
     children:
       - name: umbral
         children:
           - name: umbrella
+            phonetic: ［ʌm'brelə］
+            mnemonic: n.【umbr 阴影，-ella 名词后缀，表小；“遮有小阴影之物” → 】
+            meaning: 伞
       - name: umbrage
+        phonetic: ［'ʌmbriʤ］
+        mnemonic: n.【umbr 阴影，-age 名词后缀】
+        meaning: 树阴；阴影
       - name: umbrageous
+        phonetic: ［ʌm'breiʤəs］
+        mnemonic: adj.【见上，-ous …的】
+        meaning: 浓阴的；阴暗的
       - name: umbriferous
+        phonetic: ［ʌm'brifərəs］
+        mnemonic: adj.【umbr 影，-i-，fer 带有，-ous …的】
+        meaning: 有阴影的
       - name: urinate
         children:
           - name: urination
       - name: adumbral
+        phonetic: ［æd'ʌmbrəl］
+        mnemonic: adj.【ad-表示at，to，umbr 影，-al …的】
+        meaning: 阴影的，遮日的
         children:
           - name: adumbrate
+            phonetic: ［'ædʌmbreit］
+            mnemonic: v.【ad-表示 at，to，umbr 影，-ate 动词后缀；“画…的影” → 】
+            meaning: 勾画，画…的轮廓；在…上投下阴影
       - name: penumbra
+        phonetic: ［pi'nʌmbrə］
+        mnemonic: n.【pen-半，umbr 影】
+        meaning: 半影；（日、月食的）半影
         children:
           - name: penumbral

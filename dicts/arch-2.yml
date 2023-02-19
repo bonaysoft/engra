@@ -2,20 +2,65 @@ name: arch
 meaning: 统治者，首脑；archy 统治
 children:
   - name: anarchy
+    phonetic: ［'ænəki］
+    mnemonic: n.【an-无，archy 统治 → 政府】
+    meaning: 无政府状态
     children:
       - name: anarchism
+        phonetic: ［'ænəkizəm］
+        mnemonic: n.【见上，-ism 主义】
+        meaning: 无政府主义
       - name: anarchist
+        phonetic: ［'ænəkist］
+        mnemonic: n.【见上，-ist 者】
+        meaning: 无政府主义者
   - name: monarch
+    phonetic: ［'mɔnək］
+    mnemonic: n.【mon-独 → 一人，arch 统治者】
+    meaning: 君主，最高统治者；国王
     children:
       - name: monarchy
+        phonetic: ［'mɔnəki］
+        mnemonic: n.【mon-独 → 一人，archy 统治】
+        meaning: 君主政体，君主制度
         children:
           - name: monarchic
+            phonetic: ［mɔ'nɑ:kik］
+            mnemonic: adj.【见上，-ic …的】
+            meaning: 君主的，君主政体的
           - name: monarchism
+            phonetic: ［'mɔnəkizəm］
+            mnemonic: n.【见上，-ism 主义，制度】
+            meaning: 君主制度；君主主义
   - name: polyarchy
+    phonetic: ［'pɔliɑ:k］
+    mnemonic: n.【poly-多，archy 统治 → 政治】
+    meaning: 多头政治
   - name: oligarchy
+    phonetic: ［'ɔliɡɑ:k］
+    mnemonic: n.【olig 少，寡，archy 统治 → 政治】
+    meaning: 寡头政治，寡头统治
   - name: plutarchy
+    phonetic: ［'plu:tɑ:ki］
+    mnemonic: n.【plut 财富 → 财阀，富豪，archy 统治】
+    meaning: 富豪统治，财阀统治
   - name: gynarchy
+    phonetic: ［'ʤinɑ:ki］
+    mnemonic: n.【gyn 妇女，archy 统治 → 政治】
+    meaning: 妇人政治
   - name: patriarch
+    phonetic: ［'peitriɑ:k］
+    mnemonic: n.【patri 父，祖，arch 首脑，长】
+    meaning: 家长；族长
   - name: patriarchy
+    phonetic: ［'peitriɑ:ki］
+    mnemonic: n.【见上，-y 名词后缀】
+    meaning: 父权制；父权制社会
   - name: matriarch
+    phonetic: ［'meitriɑ:k］
+    mnemonic: n.【matri 母 → 女性，arch 首脑，长】
+    meaning: 女族长；女家长
   - name: matriarchy
+    phonetic: ［'meitriɑ:ki］
+    mnemonic: n.【见上，-y 名词后缀】
+    meaning: 女族长制，母权制，母系氏族制

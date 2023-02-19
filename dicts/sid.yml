@@ -4,23 +4,47 @@ tags:
   - SOW
 children:
   - name: preside
+    phonetic: ［pri'zaid］
+    mnemonic: v.【pre-前，sid 坐；开会时“坐在前面主要位置上”→主持会议】
+    meaning: 作会议的主席，主持，指挥，统辖
     children:
       - name: presider
       - name: presiding
       - name: presidium
+        phonetic: ［pri'sidiəm］
+        mnemonic: n.【见上，-ium 名词后缀】
+        meaning: 主席团
       - name: presidency
       - name: president
+        phonetic: ［'prezidənt］
+        mnemonic: n.【见上，-ent 表示人；“指挥者”，“统辖者”→首脑→】
+        meaning: 总统，大学校长，会长，总裁
         children:
           - name: presidential
+            phonetic: ［ˌprezi'denʃəl］
+            mnemonic: adj.【见上，-ial …的】
+            meaning: 总统（或校长）的，总统（或校长）职务的
             children:
               - name: presidentially
   - name: reside
+    phonetic: ［ri'zaid］
+    mnemonic: v.【re-后，sid 坐；“to sit back”→to stay behind，留下来，安顿下来→住下→】
+    meaning: 居住
     children:
       - name: residence
+        phonetic: ［'rezidəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 居住，住宅，住处，公馆
       - name: residency
       - name: resident
+        phonetic: ［'rezidənt］
+        mnemonic: adj.【见上，-ent 表示人】
+        meaning: 居民；【-ent …的】居住的，居留的
         children:
           - name: residential
+            phonetic: ［ˌrezi'denʃəl］
+            mnemonic: adj.【见上，-ial …的】
+            meaning: 居住的，住宅的
           - name: nonresident
             children:
               - name: nonresidential
@@ -31,9 +55,15 @@ children:
           - name: residuals
       - name: residuum
   - name: subside
+    phonetic: ［səb'said］
+    mnemonic: v.【sub-下，sid 坐；“坐下”→沉下】
+    meaning: 沉降，沉淀；【“坐下”→落下→沉静下来，平静下来→】平息
     children:
       - name: subsiding
       - name: subsidence
+        phonetic: ［sʌb'saidəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 沉降，沉淀；平息
   - name: subsidy
     children:
       - name: subsidize
@@ -46,5 +76,11 @@ children:
         children:
           - name: subsidiarity
   - name: dissident
+    phonetic: ［'disidənt］
+    mnemonic: adj.【见上，-ent 表示人】
+    meaning: 不同意的人，持异议者；【-ent …的】不同意的，持异议的
     children:
       - name: dissidence
+        phonetic: ［'disidəns］
+        mnemonic: n.【dis-分开，sid 坐，-ence 名词后缀；“与别人分开坐”→与别人不一致→持相反意见→】
+        meaning: 意见不同，不一致，不同意，异议

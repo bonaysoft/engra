@@ -5,5 +5,11 @@ children:
       - name: floury
       - name: floured
   - name: flourish
+    phonetic: ［'flʌriʃ］
+    mnemonic: v./n.【flour 花，-ish 动词后缀；“如开花一样” → 】
+    meaning: 繁荣，茂盛，兴旺，昌盛
     children:
       - name: flourishing
+        phonetic: ［'flʌriʃiŋ］
+        mnemonic: adj.【见上，-ing …的】
+        meaning: 茂盛的，兴旺的，欣欣向荣的

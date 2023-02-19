@@ -4,12 +4,24 @@ tags:
   - SOW
 children:
   - name: tenant
+    phonetic: ［'tenənt］
+    mnemonic: n.【ten 持，握 → 握有，占有，-ant 者；“房屋、田地等的占有者” → 】
+    meaning: 房客，承租人，租户，佃户
     children:
       - name: tenancy
+        phonetic: ［'tenənsi］
+        mnemonic: n.【见上，-ancy 表示行为、情况】
+        meaning: ，租赁，租用，租佃
       - name: tenement
   - name: tenacity
+    phonetic: ［ti'næsiti］
+    mnemonic: n.【见上，-acity 名词后缀，表示性质】
+    meaning: 紧握；坚持，固执，顽强
     children:
       - name: tenacious
+        phonetic: ［ti'neiʃəs］
+        mnemonic: adj.【ten 握，持，执，守，-acious 形容词后缀，…的】
+        meaning: 紧握的；坚持的，固执的，顽强的
         children:
           - name: tenaciously
   - name: tenure

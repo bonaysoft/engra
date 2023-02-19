@@ -52,7 +52,9 @@ type ComplexityRoot struct {
 		Children   func(childComplexity int) int
 		Constitute func(childComplexity int) int
 		Meaning    func(childComplexity int) int
+		Mnemonic   func(childComplexity int) int
 		Name       func(childComplexity int) int
+		Phonetic   func(childComplexity int) int
 		Tags       func(childComplexity int) int
 	}
 }
@@ -122,12 +124,26 @@ func (e *executableSchema) Complexity(typeName, field string, childComplexity in
 
 		return e.complexity.Vocabulary.Meaning(childComplexity), true
 
+	case "Vocabulary.mnemonic":
+		if e.complexity.Vocabulary.Mnemonic == nil {
+			break
+		}
+
+		return e.complexity.Vocabulary.Mnemonic(childComplexity), true
+
 	case "Vocabulary.name":
 		if e.complexity.Vocabulary.Name == nil {
 			break
 		}
 
 		return e.complexity.Vocabulary.Name(childComplexity), true
+
+	case "Vocabulary.phonetic":
+		if e.complexity.Vocabulary.Phonetic == nil {
+			break
+		}
+
+		return e.complexity.Vocabulary.Phonetic(childComplexity), true
 
 	case "Vocabulary.tags":
 		if e.complexity.Vocabulary.Tags == nil {
@@ -330,12 +346,16 @@ func (ec *executionContext) fieldContext_Query_vocabularies(ctx context.Context,
 			switch field.Name {
 			case "name":
 				return ec.fieldContext_Vocabulary_name(ctx, field)
+			case "phonetic":
+				return ec.fieldContext_Vocabulary_phonetic(ctx, field)
+			case "mnemonic":
+				return ec.fieldContext_Vocabulary_mnemonic(ctx, field)
+			case "constitute":
+				return ec.fieldContext_Vocabulary_constitute(ctx, field)
 			case "meaning":
 				return ec.fieldContext_Vocabulary_meaning(ctx, field)
 			case "tags":
 				return ec.fieldContext_Vocabulary_tags(ctx, field)
-			case "constitute":
-				return ec.fieldContext_Vocabulary_constitute(ctx, field)
 			case "children":
 				return ec.fieldContext_Vocabulary_children(ctx, field)
 			}
@@ -396,12 +416,16 @@ func (ec *executionContext) fieldContext_Query_vocabulary(ctx context.Context, f
 			switch field.Name {
 			case "name":
 				return ec.fieldContext_Vocabulary_name(ctx, field)
+			case "phonetic":
+				return ec.fieldContext_Vocabulary_phonetic(ctx, field)
+			case "mnemonic":
+				return ec.fieldContext_Vocabulary_mnemonic(ctx, field)
+			case "constitute":
+				return ec.fieldContext_Vocabulary_constitute(ctx, field)
 			case "meaning":
 				return ec.fieldContext_Vocabulary_meaning(ctx, field)
 			case "tags":
 				return ec.fieldContext_Vocabulary_tags(ctx, field)
-			case "constitute":
-				return ec.fieldContext_Vocabulary_constitute(ctx, field)
 			case "children":
 				return ec.fieldContext_Vocabulary_children(ctx, field)
 			}
@@ -593,6 +617,135 @@ func (ec *executionContext) fieldContext_Vocabulary_name(ctx context.Context, fi
 	return fc, nil
 }
 
+func (ec *executionContext) _Vocabulary_phonetic(ctx context.Context, field graphql.CollectedField, obj *model.Vocabulary) (ret graphql.Marshaler) {
+	fc, err := ec.fieldContext_Vocabulary_phonetic(ctx, field)
+	if err != nil {
+		return graphql.Null
+	}
+	ctx = graphql.WithFieldContext(ctx, fc)
+	defer func() {
+		if r := recover(); r != nil {
+			ec.Error(ctx, ec.Recover(ctx, r))
+			ret = graphql.Null
+		}
+	}()
+	resTmp, err := ec.ResolverMiddleware(ctx, func(rctx context.Context) (interface{}, error) {
+		ctx = rctx // use context from middleware stack in children
+		return obj.Phonetic, nil
+	})
+	if err != nil {
+		ec.Error(ctx, err)
+		return graphql.Null
+	}
+	if resTmp == nil {
+		if !graphql.HasFieldError(ctx, fc) {
+			ec.Errorf(ctx, "must not be null")
+		}
+		return graphql.Null
+	}
+	res := resTmp.(string)
+	fc.Result = res
+	return ec.marshalNString2string(ctx, field.Selections, res)
+}
+
+func (ec *executionContext) fieldContext_Vocabulary_phonetic(ctx context.Context, field graphql.CollectedField) (fc *graphql.FieldContext, err error) {
+	fc = &graphql.FieldContext{
+		Object:     "Vocabulary",
+		Field:      field,
+		IsMethod:   false,
+		IsResolver: false,
+		Child: func(ctx context.Context, field graphql.CollectedField) (*graphql.FieldContext, error) {
+			return nil, errors.New("field of type String does not have child fields")
+		},
+	}
+	return fc, nil
+}
+
+func (ec *executionContext) _Vocabulary_mnemonic(ctx context.Context, field graphql.CollectedField, obj *model.Vocabulary) (ret graphql.Marshaler) {
+	fc, err := ec.fieldContext_Vocabulary_mnemonic(ctx, field)
+	if err != nil {
+		return graphql.Null
+	}
+	ctx = graphql.WithFieldContext(ctx, fc)
+	defer func() {
+		if r := recover(); r != nil {
+			ec.Error(ctx, ec.Recover(ctx, r))
+			ret = graphql.Null
+		}
+	}()
+	resTmp, err := ec.ResolverMiddleware(ctx, func(rctx context.Context) (interface{}, error) {
+		ctx = rctx // use context from middleware stack in children
+		return obj.Mnemonic, nil
+	})
+	if err != nil {
+		ec.Error(ctx, err)
+		return graphql.Null
+	}
+	if resTmp == nil {
+		if !graphql.HasFieldError(ctx, fc) {
+			ec.Errorf(ctx, "must not be null")
+		}
+		return graphql.Null
+	}
+	res := resTmp.(string)
+	fc.Result = res
+	return ec.marshalNString2string(ctx, field.Selections, res)
+}
+
+func (ec *executionContext) fieldContext_Vocabulary_mnemonic(ctx context.Context, field graphql.CollectedField) (fc *graphql.FieldContext, err error) {
+	fc = &graphql.FieldContext{
+		Object:     "Vocabulary",
+		Field:      field,
+		IsMethod:   false,
+		IsResolver: false,
+		Child: func(ctx context.Context, field graphql.CollectedField) (*graphql.FieldContext, error) {
+			return nil, errors.New("field of type String does not have child fields")
+		},
+	}
+	return fc, nil
+}
+
+func (ec *executionContext) _Vocabulary_constitute(ctx context.Context, field graphql.CollectedField, obj *model.Vocabulary) (ret graphql.Marshaler) {
+	fc, err := ec.fieldContext_Vocabulary_constitute(ctx, field)
+	if err != nil {
+		return graphql.Null
+	}
+	ctx = graphql.WithFieldContext(ctx, fc)
+	defer func() {
+		if r := recover(); r != nil {
+			ec.Error(ctx, ec.Recover(ctx, r))
+			ret = graphql.Null
+		}
+	}()
+	resTmp, err := ec.ResolverMiddleware(ctx, func(rctx context.Context) (interface{}, error) {
+		ctx = rctx // use context from middleware stack in children
+		return obj.Constitute, nil
+	})
+	if err != nil {
+		ec.Error(ctx, err)
+		return graphql.Null
+	}
+	if resTmp == nil {
+		return graphql.Null
+	}
+	res := resTmp.([]string)
+	fc.Result = res
+	return ec.marshalOString2ᚕstringᚄ(ctx, field.Selections, res)
+}
+
+func (ec *executionContext) fieldContext_Vocabulary_constitute(ctx context.Context, field graphql.CollectedField) (fc *graphql.FieldContext, err error) {
+	fc = &graphql.FieldContext{
+		Object:     "Vocabulary",
+		Field:      field,
+		IsMethod:   false,
+		IsResolver: false,
+		Child: func(ctx context.Context, field graphql.CollectedField) (*graphql.FieldContext, error) {
+			return nil, errors.New("field of type String does not have child fields")
+		},
+	}
+	return fc, nil
+}
+
 func (ec *executionContext) _Vocabulary_meaning(ctx context.Context, field graphql.CollectedField, obj *model.Vocabulary) (ret graphql.Marshaler) {
 	fc, err := ec.fieldContext_Vocabulary_meaning(ctx, field)
 	if err != nil {
@@ -678,47 +831,6 @@ func (ec *executionContext) fieldContext_Vocabulary_tags(ctx context.Context, fi
 	return fc, nil
 }
 
-func (ec *executionContext) _Vocabulary_constitute(ctx context.Context, field graphql.CollectedField, obj *model.Vocabulary) (ret graphql.Marshaler) {
-	fc, err := ec.fieldContext_Vocabulary_constitute(ctx, field)
-	if err != nil {
-		return graphql.Null
-	}
-	ctx = graphql.WithFieldContext(ctx, fc)
-	defer func() {
-		if r := recover(); r != nil {
-			ec.Error(ctx, ec.Recover(ctx, r))
-			ret = graphql.Null
-		}
-	}()
-	resTmp, err := ec.ResolverMiddleware(ctx, func(rctx context.Context) (interface{}, error) {
-		ctx = rctx // use context from middleware stack in children
-		return obj.Constitute, nil
-	})
-	if err != nil {
-		ec.Error(ctx, err)
-		return graphql.Null
-	}
-	if resTmp == nil {
-		return graphql.Null
-	}
-	res := resTmp.([]string)
-	fc.Result = res
-	return ec.marshalOString2ᚕstringᚄ(ctx, field.Selections, res)
-}
-
-func (ec *executionContext) fieldContext_Vocabulary_constitute(ctx context.Context, field graphql.CollectedField) (fc *graphql.FieldContext, err error) {
-	fc = &graphql.FieldContext{
-		Object:     "Vocabulary",
-		Field:      field,
-		IsMethod:   false,
-		IsResolver: false,
-		Child: func(ctx context.Context, field graphql.CollectedField) (*graphql.FieldContext, error) {
-			return nil, errors.New("field of type String does not have child fields")
-		},
-	}
-	return fc, nil
-}
-
 func (ec *executionContext) _Vocabulary_children(ctx context.Context, field graphql.CollectedField, obj *model.Vocabulary) (ret graphql.Marshaler) {
 	fc, err := ec.fieldContext_Vocabulary_children(ctx, field)
 	if err != nil {
@@ -757,12 +869,16 @@ func (ec *executionContext) fieldContext_Vocabulary_children(ctx context.Context
 			switch field.Name {
 			case "name":
 				return ec.fieldContext_Vocabulary_name(ctx, field)
+			case "phonetic":
+				return ec.fieldContext_Vocabulary_phonetic(ctx, field)
+			case "mnemonic":
+				return ec.fieldContext_Vocabulary_mnemonic(ctx, field)
+			case "constitute":
+				return ec.fieldContext_Vocabulary_constitute(ctx, field)
 			case "meaning":
 				return ec.fieldContext_Vocabulary_meaning(ctx, field)
 			case "tags":
 				return ec.fieldContext_Vocabulary_tags(ctx, field)
-			case "constitute":
-				return ec.fieldContext_Vocabulary_constitute(ctx, field)
 			case "children":
 				return ec.fieldContext_Vocabulary_children(ctx, field)
 			}
@@ -2648,6 +2764,24 @@ func (ec *executionContext) _Vocabulary(ctx context.Context, sel ast.SelectionSe
 			if out.Values[i] == graphql.Null {
 				invalids++
 			}
+		case "phonetic":
+
+			out.Values[i] = ec._Vocabulary_phonetic(ctx, field, obj)
+
+			if out.Values[i] == graphql.Null {
+				invalids++
+			}
+		case "mnemonic":
+
+			out.Values[i] = ec._Vocabulary_mnemonic(ctx, field, obj)
+
+			if out.Values[i] == graphql.Null {
+				invalids++
+			}
+		case "constitute":
+
+			out.Values[i] = ec._Vocabulary_constitute(ctx, field, obj)
+
 		case "meaning":
 
 			out.Values[i] = ec._Vocabulary_meaning(ctx, field, obj)
@@ -2658,10 +2792,6 @@ func (ec *executionContext) _Vocabulary(ctx context.Context, sel ast.SelectionSe
 		case "tags":
 
 			out.Values[i] = ec._Vocabulary_tags(ctx, field, obj)
-
-		case "constitute":
-
-			out.Values[i] = ec._Vocabulary_constitute(ctx, field, obj)
 
 		case "children":
 

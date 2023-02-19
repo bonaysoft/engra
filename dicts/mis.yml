@@ -4,16 +4,40 @@ tags:
   - SOW
 children:
   - name: misanthropy
+    phonetic: ［mi'zænθrəpi］
+    mnemonic: n.【mis 厌恶，anthrop 人类，-y 名词后缀】
+    meaning: 厌恶人类，厌世，愤世嫉俗
     children:
       - name: misanthropist
+        phonetic: ［mi'zænθrəpist］
+        mnemonic: n.【见上，-ist 者】
+        meaning: 厌恶人类者，厌世者
       - name: misanthropic
+        phonetic: ［misən'θrɔpik］
+        mnemonic: adj.【见上，-ic …的】
+        meaning: 厌恶人类的，厌世的
       - name: misanthropize
+        phonetic: ［mi'zænθrəpaiz］
+        mnemonic: v.【见上，-ize 动词后缀】
+        meaning: 厌恶人类，厌世
   - name: misogamy
+    phonetic: ［mi'sɔɡəmi］
+    mnemonic: n.【miso 厌恶，gam 结婚，-y 名词后缀】
+    meaning: 厌婚症
     children:
       - name: misogamist
+        phonetic: ［mi'sɔɡəmist］
+        mnemonic: n.【见上，ist 者】
+        meaning: 厌恶结婚者
   - name: misogyny
     children:
       - name: misogynic
       - name: misogynist
   - name: misoneism
+    phonetic: ［ˌmisəu'ni:izəm］
+    mnemonic: n.【miso 厌恶，ne←neo 新，-ism 主义】
+    meaning: 厌新；守旧主义
   - name: misoneist
+    phonetic: ［ˌmisəu'ni:ist］
+    mnemonic: n.【见上，-ist 者】
+    meaning: 厌新者，守旧者

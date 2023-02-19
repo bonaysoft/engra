@@ -1,6 +1,9 @@
 name: poun
 children:
   - name: compound
+    phonetic: ［'kɔmpaund］
+    mnemonic: adj./n.【com-共同，一起，poun = pon 放；“放在一起的” → 】
+    meaning: 混合的，化合的；混合物，化合物
     children:
       - name: compounding
       - name: compounded

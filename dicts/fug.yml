@@ -4,5 +4,11 @@ tags:
   - SOW
 children:
   - name: refuge
+    phonetic: ［'refju:ʤ］
+    mnemonic: n.【re-回，fug 逃；“逃回”到安全地方 → 】
+    meaning: 避难
     children:
       - name: refugee
+        phonetic: ［ˌrefju'ʤi:，'refjuʤi:］
+        mnemonic: n.【见上，-ee 名词后缀，表示人】
+        meaning: 避难者，逃难者；流亡者；难民

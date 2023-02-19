@@ -9,14 +9,35 @@ children:
       - name: merging
       - name: merged
   - name: emerge
+    phonetic: ［i'mə:ʤ］
+    mnemonic: v.【e-外，出，merg 沉，沉于水中；“由水中浮出”】
+    meaning: 浮现；出现
     children:
       - name: emerging
       - name: emergence
+        phonetic: ［i'mə:ʤəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 浮现；出现
       - name: emergent
+        phonetic: ［i'mə:ʤənt］
+        mnemonic: adj.【见上，-ent 形容词后缀】
+        meaning: 浮现的；出现的；突然出现的；紧急的，意外的
         children:
           - name: emergency
+            phonetic: ［i'mə:ʤənsi］
+            mnemonic: n.【见上，-ency 名词后缀】
+            meaning: 突然出现的情况；突然事件，意外之变；紧急情况
   - name: submerge
+    phonetic: ［səb'mə:ʤ］
+    mnemonic: v.【sub-下，merg 沉】
+    meaning: 沉下，沉于水中，没入水中
     children:
       - name: submerged
       - name: submergence
+        phonetic: ［sʌb'mə:ʤəns］
+        mnemonic: n.【sub-下，merg 沉，-ence 名词后缀】
+        meaning: 沉没，浸没
       - name: submergible
+        phonetic: ［səb'mə:ʤibl］
+        mnemonic: adj.【sub-下，merg 沉，-ible 可…的】
+        meaning: 可沉入水中的

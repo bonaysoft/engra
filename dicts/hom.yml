@@ -1,5 +1,8 @@
 name: hom
 children:
   - name: homicide
+    phonetic: ［'hɔmisaid］
+    mnemonic: n.【homi 人，cid 杀】
+    meaning: 杀人，杀人者
     children:
       - name: homicidal

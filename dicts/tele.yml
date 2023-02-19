@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: telescope
+    phonetic: ［'teliskəup］
+    mnemonic: n.【tele 远，scop 镜】
+    meaning: 望远镜
     children:
       - name: telescoping
       - name: telescopic
@@ -16,7 +19,19 @@ children:
         children:
           - name: telegraphic
   - name: televise
+    phonetic: ［'telivaiz］
+    mnemonic: v.【见上】
+    meaning: 电视播送
     children:
       - name: televisor
+        phonetic: ［'telivaizə］
+        mnemonic: n.【见上，-or 表示人或物】
+        meaning: 电视播放者，电视接收机
       - name: television
+        phonetic: ［'teliˌviʒən］
+        mnemonic: n.【tele 远，vis 看，-ion 名词后缀；“由远处通过电波传来可观看的图像” → 】
+        meaning: 电视
       - name: televisual
+        phonetic: ［ˌteli'vizjuəl］
+        mnemonic: adj.【见上，-ual …的】
+        meaning: 电视的

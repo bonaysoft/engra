@@ -4,28 +4,73 @@ tags:
   - SOW
 children:
   - name: urban
+    phonetic: ［'ə:bən］
+    mnemonic: adj.【urb 城市，-an …的】
+    meaning: 城市的，都市的
     children:
       - name: urbanite
+        phonetic: ［'ə:bənait］
+        mnemonic: n.【见上，-ite 表示人】
+        meaning: 城市居民
       - name: urbanity
+        phonetic: ［ə:'bæniti］
+        mnemonic: n.【见上，-ity 名词后缀，表示性质】
+        meaning: 文雅，温文尔雅
       - name: urbanology
+        phonetic: ［əbə'nɔləʤi］
+        mnemonic: n.【urban 城市，-o-，-logy …学】
+        meaning: 城市学，都市学
       - name: urbanist
       - name: urbanism
       - name: urbanize
+        phonetic: ［'ə:bənaiz］
+        mnemonic: v.【见上，-ize 使…化】
+        meaning: 使都市化
         children:
           - name: urbanized
           - name: urbanization
+            phonetic: ［ˌə:bənai'zeiʃən］
+            mnemonic: n.【见上，-ization …化】
+            meaning: 都市化
       - name: urbane
+        phonetic: ［ə:'bein］
+        mnemonic: adj.【urb 城市，-ane（=-an）形容词后缀，表示有…性质的，原义来自“城市的人比乡村的人文雅” → 】
+        meaning: 文雅的，有礼貌的
         children:
           - name: inurbane
+            phonetic: ［ˌinə:'bein］
+            mnemonic: adj.【in-不，见上】
+            meaning: 不文雅的，粗野的，不礼貌的
             children:
               - name: inurbanity
+                phonetic: ［ˌinə'bænəti］
+                mnemonic: n.【见上，-ity 名词后缀】
+                meaning: 不文雅，粗野
       - name: interurban
+        phonetic: ［ˌintə(:)'ə:bən］
+        mnemonic: adj.【inter-在…之间，urb 城市， -an …的】
+        meaning: 城市与城市之间的
       - name: conurbation
+        phonetic: ［ˌkɔnə'beiʃən］
+        mnemonic: n.【con-共同，urb 城市，-ation 名词后缀；“几个城市共同组成的大城市”】
+        meaning: 集合城市（拥有卫星城市的大都市，如伦敦等）
   - name: suburb
+    phonetic: ［'sʌbə:b］
+    mnemonic: n.【sub-下，靠近，urb 城市；“城下”，“靠近城” → 城外 → 】
+    meaning: 郊区，郊外，近郊，城外
     children:
       - name: suburban
+        phonetic: ［sə'bə:bən］
+        mnemonic: adj.【见上，-an …的】
+        meaning: 郊区的；【-an 表示人】郊区居民
       - name: suburbia
       - name: suburbanite
+        phonetic: ［sə'bə:bənait］
+        mnemonic: n.【见上，-ite 表示人】
+        meaning: 郊区居民
       - name: suburbanize
+        phonetic: ［sə'bə:bənaiz］
+        mnemonic: v.【见上，-ize 使…化】
+        meaning: （使）市郊化
         children:
           - name: suburbanization

@@ -7,14 +7,32 @@ children:
     children:
       - name: purely
       - name: purity
+        phonetic: ［'pjuərəti］
+        mnemonic: n.【pur 纯净，-ity 名词后缀，表示性质】
+        meaning: 纯净，洁净，纯正
       - name: purist
       - name: purism
+        phonetic: ［'pjuərizəm］
+        mnemonic: n.【pur 纯净，-ism 表示主义、流派】
+        meaning: （艺术上的）纯粹派，纯粹主义
       - name: purify
+        phonetic: ［'pjuərifai］
+        mnemonic: v.【pur 纯净，-i-，-fy 使】
+        meaning: 使纯净，使洁净
         children:
           - name: purifier
+            phonetic: ［'pjuərifaiə］
+            mnemonic: n.【pur 纯净，-i-，-fier 使成…的人或物】
+            meaning: 使洁净的人（或物）
           - name: purifying
           - name: purified
           - name: purification
+            phonetic: ［ˌpjuərifi'keiʃən］
+            mnemonic: n.【pur 纯净，-i-，-fication 名词后缀，…化，化成…】
+            meaning: 纯化，净化
       - name: impure
         children:
           - name: impurity
+            phonetic: ［im'pjuəriti］
+            mnemonic: n.【im-不，见上】
+            meaning: 不纯，不洁

@@ -4,11 +4,23 @@ tags:
   - SOW
 children:
   - name: erupt
+    phonetic: ［i'rʌpt］
+    mnemonic: v.【e-外，出，rupt 破裂；“爆裂出来” → 】
+    meaning: 爆发，喷出，冒出，喷发
     children:
       - name: erupting
       - name: eruption
+        phonetic: ［i'rʌpʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 爆发，喷发，喷出物
       - name: eruptive
+        phonetic: ［i'rʌptiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 爆发的，喷出的，喷发的
   - name: interrupt
+    phonetic: ［ˌintə'rʌpt］
+    mnemonic: v.【inter-在…中间，rupt 破→断】
+    meaning: 中断，打断
     children:
       - name: interrupter
       - name: interrupted
@@ -17,8 +29,14 @@ children:
             children:
               - name: uninterruptedly
       - name: interruption
+        phonetic: ［ˌintə'rʌpʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 中断，打断
       - name: interruptible
   - name: corrupt
+    phonetic: ［kə'rʌpt］
+    mnemonic: v./adj.【cor-表示加强意义，rupt 破→坏→败坏，腐坏→】
+    meaning: 腐坏，腐烂，败坏，堕落，腐败，使败坏；贪污的，腐败的
     children:
       - name: corruptly
       - name: corrupting
@@ -26,31 +44,64 @@ children:
         children:
           - name: uncorrupted
       - name: corruption
+        phonetic: ［kə'rʌpʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 败坏，腐坏，腐化，贪污
       - name: corruptive
+        phonetic: ［kə'rʌptiv］
+        mnemonic: adj.【见上，-vie 有…作用的】
+        meaning: 引起腐坏的
       - name: corruptible
+        phonetic: ［kə'rʌptəbl］
+        mnemonic: adj.【见上，-ible 易…的】
+        meaning: 易腐坏的
         children:
           - name: corruptibility
       - name: incorrupt
+        phonetic: ［ˌinkə'rʌpt］
+        mnemonic: adj.【in-不，未，见上】
+        meaning: 未腐蚀的，未败坏的，廉洁的
         children:
           - name: incorruptible
+            phonetic: ［ˌinkə'rʌptəbl］
+            mnemonic: adj.【见上，-ible 易…的】
+            meaning: 不易败坏的，不易腐蚀的
             children:
               - name: incorruptibility
   - name: disrupt
+    phonetic: ［dis'rʌpt］
+    mnemonic: v.【dis-分开，rupt 破裂】
+    meaning: 分裂，瓦解，使崩裂
     children:
       - name: disrupter
       - name: disruptor
       - name: disrupted
       - name: disruption
+        phonetic: ［dis'rʌpʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 分裂，瓦解
       - name: disruptive
+        phonetic: ［dis'rʌptiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 分裂的，瓦解的
         children:
           - name: disruptiveness
   - name: bankrupt
+    phonetic: ［'bæŋkrʌpt］
+    mnemonic: adj./n./v.【bank = bench 长凳，原指钱商用的长凳或台板，最初是作为钱商的柜台，rupt 破，断；“钱商的柜台断了”→生意破产了→】
+    meaning: 破产的；破产者；使破产
     children:
       - name: bankruptcy
+        phonetic: ［'bæŋkrʌptsi］
+        mnemonic: n.【见上，-cy 名词后缀，表示状态】
+        meaning: 破产
   - name: abrupt
     children:
       - name: abruptly
       - name: abruptness
   - name: rupture
+    phonetic: ［'rʌptʃə］
+    mnemonic: n./v.【rupt 破，-ure 名词后缀，表示情况、状态】
+    meaning: 破裂，裂开，决裂；【转为动词】使破裂，裂开
     children:
       - name: ruptured

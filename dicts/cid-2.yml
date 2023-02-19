@@ -4,22 +4,43 @@ tags:
   - SOW
 children:
   - name: incident
+    phonetic: ［'insidənt］
+    mnemonic: n.【in-加强意义，cid 降；“突然降临的事” → 】
+    meaning: 事变；事件
     children:
       - name: incidental
+        phonetic: ［ˌinsi'dentl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 偶然碰到的
         children:
           - name: incidentally
       - name: incidence
   - name: coincide
+    phonetic: ［ˌkəuin'said］
+    mnemonic: v.【co-共同，in-加强意义，cid 降；“同时降临” → 】
+    meaning: 同时发生，相合，符合，重合，一致
     children:
       - name: coincidence
+        phonetic: ［kəu'insidəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 巧合；巧合的事物；符合，一致
       - name: coincident
+        phonetic: ［kəu'insidənt］
+        mnemonic: adj.【见上，-ent …的】
+        meaning: 同时发生的，重合的，一致的
         children:
           - name: coincidently
       - name: coincidental
         children:
           - name: coincidentally
   - name: accident
+    phonetic: ［'æksidənt］
+    mnemonic: n.【ac-加强意义，cid 降；“偶然降临的事” → 】
+    meaning: 偶然的事，意外的事
     children:
       - name: accidental
+        phonetic: ［ˌæksi'dentəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 偶然的，意外的
         children:
           - name: accidentally

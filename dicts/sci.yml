@@ -4,24 +4,51 @@ tags:
   - SOW
 children:
   - name: science
+    phonetic: ［'saiəns］
+    mnemonic: n.【sci 知 → 知识，-ence 表示抽象名词；“系统的知识” → 】
+    meaning: 科学
     children:
       - name: scient
+        phonetic: ［'saiənt］
+        mnemonic: adj.【sci 知 → 知识，-ent …的】
+        meaning: 有知识的
         children:
           - name: sciential
+            phonetic: ［sai'enʃəl］
+            mnemonic: adj.【见上，-ial …的】
+            meaning: 知识的，产生知识的，有充分知识的
           - name: scientist
+            phonetic: ［'saiəntist］
+            mnemonic: n.【见上，字母拼写改变：ce → t，-ist 表示人】
+            meaning: 科学家
           - name: scientism
           - name: scientific
+            phonetic: ［ˌsaiən'tifik］
+            mnemonic: adj.【见上，-i-，-fic…的】
+            meaning: 科学（上）的，符合科学规律的
             children:
               - name: scientifically
               - name: unscientific
               - name: nonscientific
           - name: prescient
+            phonetic: ［'presiənt, 'preʃiənt］
+            mnemonic: adj.【pre-先，预先，sci 知， -ent …的】
+            meaning: 预知的，有先知之明的
             children:
               - name: presciently
       - name: geoscience
+        phonetic: ［ˌʤi:əu'saiəns］
+        mnemonic: n.【geo 地，地球，science 科学】
+        meaning: 地球科学
       - name: bioscience
       - name: prescience
+        phonetic: ［'presiəns］
+        mnemonic: n.【见上，-ence 名词后缀】
+        meaning: 预知，先见
   - name: conscience
+    phonetic: ［'kɔnʃəns］
+    mnemonic: n.【con-共同，完全，sci 知，-ence 名词后缀；“完全知道善恶是非之分” → 】
+    meaning: 良心，道德心
     children:
       - name: conscienceless
       - name: conscionable
@@ -30,17 +57,32 @@ children:
             children:
               - name: unconscionably
       - name: conscientious
+        phonetic: ［ˌkɔnʃi'enʃəs］
+        mnemonic: adj.【见上，字母拼写改变：ce → t， -ious …的】
+        meaning: 凭良心的，诚心的，认真的
         children:
           - name: conscientiously
           - name: conscientiousness
   - name: conscious
+    phonetic: ［'kɔnʃəs］
+    mnemonic: adj.【con-加强意义，sci 知，知道，-ous …的；“知道的”，“感觉到的”，“觉悟到的” → 】
+    meaning: 意识到的，有意识的，自觉的
     children:
       - name: consciously
       - name: consciousness
+        phonetic: ［'kɔnʃəsnis］
+        mnemonic: n.【见上，-ness 表示抽象名词】
+        meaning: 意识，觉悟，知觉
       - name: subconscious
+        phonetic: ［ˌsʌb'kɔnʃəs］
+        mnemonic: adj.【sub-下，见上】
+        meaning: 下意识的，潜意识的
         children:
           - name: subconsciously
       - name: unconscious
+        phonetic: ［ˌʌn'kɔnʃəs］
+        mnemonic: adj.【un-无，不，见上】
+        meaning: 无意识的，不知不觉的，不知道的，未发觉的，失去知觉的，不省人事的
         children:
           - name: unconsciously
           - name: unconsciousness

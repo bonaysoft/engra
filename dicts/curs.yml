@@ -4,11 +4,23 @@ tags:
   - SOW
 children:
   - name: cursory
+    phonetic: ［'kə:səri］
+    mnemonic: adj.【surs 跑 → 急行，-ory …的；“急行奔走的” → 】
+    meaning: 仓猝的，草率的，粗略的
     children:
       - name: cursorial
+        phonetic: ［kə:'sɔ:riəl］
+        mnemonic: adj.【见上，-ial …的】
+        meaning: （动物）疾走的，善于奔驰的
   - name: precursor
+    phonetic: ［ˌpri(:)'kə:sə］
+    mnemonic: n.【pre-先，前，curs 跑 → 行，-or 者】
+    meaning: 先行者，先驱者，前任，前辈
     children:
       - name: precursory
+        phonetic: ［ˌpri(:)'kə:səri］
+        mnemonic: adj.【pre-先，前，curs 跑，-ory …的】
+        meaning: 先行的，先驱的，先锋的，前任的，前辈的
   - name: discursive
     children:
       - name: discursively

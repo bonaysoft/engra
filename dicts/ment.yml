@@ -4,18 +4,39 @@ tags:
   - SOW
 children:
   - name: mental
+    phonetic: ［'mentl］
+    mnemonic: adj.【ment 心，智，精神，-al …的】
+    meaning: 智力的；精神的；思想的；内心的
     children:
       - name: mentally
       - name: mentality
+        phonetic: ［men'tæliti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 智力；精神，思想
       - name: mentalist
+        phonetic: ［'mentəlist］
+        mnemonic: n.【见上，-ist 者】
+        meaning: 精神论者，心灵主义者
       - name: mentalism
+        phonetic: ［'mentəlizəm］
+        mnemonic: n.【见上，-ism 主义，论】
+        meaning: 精神论，心灵主义
   - name: mentor
+    phonetic: ［'mentɔ:］
+    mnemonic: n.【ment 意识 → 注意，-or 者；“提醒者”，“使注意者” → 劝告者 → 】
+    meaning: 良师，益友
     children:
       - name: mentoring
       - name: mentorship
   - name: mention
+    phonetic: ［'menʃən］
+    mnemonic: v.【ment意识 → 注意；“使注意”，“使意识到” → 提到，提及】
+    meaning: 说起，提到，论及
     children:
       - name: mentionable
+        phonetic: ［'menʃənəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可提到的，可论及的
         children:
           - name: unmentionable
       - name: unmentioned

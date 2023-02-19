@@ -4,7 +4,16 @@ tags:
   - SOW
 children:
   - name: enumerate
+    phonetic: ［i'nju:məreit］
+    mnemonic: v.【e-出，numer 数，-ate 动词后缀，做…；“数出” → 】
+    meaning: 数，点数，列举
     children:
       - name: enumerator
       - name: enumeration
+        phonetic: ［iˌnju:mə'reiʃən］
+        mnemonic: n.【见上，-ation 表示行为及行为的结果】
+        meaning: 计数，列举，细目
       - name: enumerable
+        phonetic: ［i'nju:mərəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可点数的，可列举的

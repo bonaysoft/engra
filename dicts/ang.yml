@@ -15,5 +15,8 @@ children:
             children:
               - name: triangulation
       - name: rectangle
+        phonetic: ［'rekˌtæŋɡl］
+        mnemonic: n.【rect 直，angle 角；“直角的图形”】
+        meaning: 矩形，长方形
         children:
           - name: rectangular

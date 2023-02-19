@@ -4,8 +4,14 @@ tags:
   - SOW
 children:
   - name: dimension
+    phonetic: ［di'menʃən, dai'menʃən］
+    mnemonic: n.【di-=dia-贯穿，透，遍及，mens 测量，-ion名词后缀；“量遍”，“量透”，“长、宽、高都测量” → 】
+    meaning: 尺寸，尺度；大小
     children:
       - name: dimensional
+        phonetic: ［dai'menʃənəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 有尺寸的，有尺度的，可量的
         children:
           - name: dimensionality
           - name: unidimensional
@@ -18,6 +24,12 @@ children:
               - name: multidimensionality
       - name: dimensionless
   - name: immense
+    phonetic: ［i'mens］
+    mnemonic: adj.【im-不，无，mens 测量；“无法测量”其大小的，“不能测量”的 → 】
+    meaning: 广大无边的，巨大的，无限的
     children:
       - name: immensely
       - name: immensity
+        phonetic: ［i'mensiti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 广大，巨大，无限

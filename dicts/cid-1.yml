@@ -4,6 +4,9 @@ tags:
   - SOW
 children:
   - name: decide
+    phonetic: ［di'said］
+    mnemonic: v.【de- 表示加强意义，cid 切，切断 → 裁断 → 裁决 → 】
+    meaning: 决定，裁决，判决，下决心
     children:
       - name: decider
       - name: deciding
@@ -11,21 +14,42 @@ children:
         children:
           - name: decidedly
           - name: undecided
+            phonetic: ［ˌʌndi'saidid］
+            mnemonic: adj.【见上，un- 不，未，decide 决定，-ed…的】
+            meaning: 未定的，未决的
       - name: decidable
+        phonetic: ［di'saidəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可以决定的
         children:
           - name: undecidable
       - name: decision
+        phonetic: ［di'siʒən］
+        mnemonic: n.【见 decide，字母转换：d → s，因此：cid → cis，-ion名词后缀】
+        meaning: 决定，决心，决议
         children:
           - name: decisional
           - name: indecision
+            phonetic: ［ˌindi'siʒən］
+            mnemonic: n.【in- 无，不，decision 决定】
+            meaning: 无决断力，犹豫不决
       - name: decisive
+        phonetic: ［di'saisiv］
+        mnemonic: adj.【见上，ive …的】
+        meaning: 决定性的
         children:
           - name: decisively
           - name: decisiveness
           - name: indecisive
+            phonetic: ［ˌindi'saisiv］
+            mnemonic: adj.【in- 非，不，见上】
+            meaning: 非决定性的，不决断的
             children:
               - name: indecisively
               - name: indecisiveness
   - name: suicide
+    phonetic: ［'sju:isaid］
+    mnemonic: n.【sui 自己，cid 杀】
+    meaning: 自杀，自杀者
     children:
       - name: suicidal

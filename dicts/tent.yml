@@ -1,5 +1,7 @@
 name: tent
-meaning: 延伸
+phonetic: ［tent］
+mnemonic: n.【tent 伸；能够“伸开（张开）”的东西（如皮革、帆布等），用作掩盖、庇护之用 → 】
+meaning: 帐篷
 tags:
   - SOW
 children:
@@ -7,6 +9,9 @@ children:
     children:
       - name: intently
       - name: intention
+        phonetic: ［in'tenʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 意图，打算，目的，意向
         children:
           - name: intentional
             children:

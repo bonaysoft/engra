@@ -4,21 +4,54 @@ tags:
   - SOW
 children:
   - name: very
+    phonetic: ［'veri］
+    mnemonic: adj.【ver 真实，-y 形容词后缀，…的】
+    meaning: 真实的，真正的，真的；十足的
     children:
       - name: verily
+        phonetic: ［'verəli］
+        mnemonic: adv.【veri 真实，-ly 副词后缀，…地】
+        meaning: 真正地；肯定地；真实地；忠实地
   - name: very
     children:
       - name: verily
   - name: veracious
+    phonetic: ［və'reiʃəs］
+    mnemonic: adj.【ver 真实，-acious 形容词后缀，…的】
+    meaning: 真实的；准确的；讲实话的；诚实的
   - name: veracity
+    phonetic: ［və'ræsəti］
+    mnemonic: n.【ver 真实，-acity 抽象名词后缀】
+    meaning: 真实性；确实；准确（性）；诚实；讲实话
   - name: verify
+    phonetic: ［'verifai］
+    mnemonic: v.【veri 真实，-fy 动词后缀】
+    meaning: 证实；核实；查证
     children:
       - name: verifiable
+        phonetic: ［'verifaiəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: 可证实的；可核实的；可检验的
   - name: verification
+    phonetic: ［ˌverifi'keiʃən］
+    mnemonic: n.【veri 真实，-fication 抽象名词后缀】
+    meaning: 证实；核实；证明
   - name: verifier
+    phonetic: ［'verifaiə］
+    mnemonic: n.【见上，-fier 表示人或物】
+    meaning: 核实者；检验者；核实器；检验器
   - name: verisimilar
   - name: verisimilitude
   - name: verism
+    phonetic: ［'viərizəm］
+    mnemonic: n.【ver 真实，-ism 主义】
+    meaning: 真实主义
   - name: verity
+    phonetic: ［'verəti］
+    mnemonic: n.【veri 真实，-ty 抽象名词后缀】
+    meaning: 真实性；事实
     children:
       - name: veritable
+        phonetic: ［'veritəbl］
+        mnemonic: adj.【见上，-able …的】
+        meaning: 确实的；真正的；名副其实的

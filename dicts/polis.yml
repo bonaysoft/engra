@@ -4,15 +4,45 @@ tags:
   - SOW
 children:
   - name: necropolis
+    phonetic: ［ne'krɔpəlis］
+    mnemonic: n.【necro 死尸，polis 城；“死者之城” → 】
+    meaning: 坟地
   - name: acropolis
+    phonetic: ［ə'krɔpəlis］
+    mnemonic: n.【acro 高，polis 城；“高城”】
+    meaning: （古希腊城市的）卫城
   - name: cosmopolis
+    phonetic: ［kɔz'mɔpəlis］
+    mnemonic: n.【cosmo 世界，polis 城市】
+    meaning: 国际都市
     children:
       - name: cosmopolitan
+        phonetic: ［ˌkɔzmə'pɔlitən］
+        mnemonic: adj.【见上，-an …的；“国际城市的” → 】
+        meaning: 世界主义的；全世界的
       - name: cosmopolitanism
+        phonetic: ［ˌkɔzmə'pɔlitənizəm］
+        mnemonic: n.【见上，-ism 主义】
+        meaning: 世界主义
   - name: megalopolis
+    phonetic: ［ˌmeɡə'lɔpəlis］
+    mnemonic: n.【megalo 特大，polis 城】
+    meaning: 特大的城市
     children:
       - name: megalopolitan
+        phonetic: ［ˌmeɡələu'pɔlitən］
+        mnemonic: adj.【见上，-an …的】
+        meaning: 特大城市的
   - name: metropolis
+    phonetic: ［mi'trɔpəlis］
+    mnemonic: n.【metro 母 → 主要的，polis 城；“母城” → 主要的城】
+    meaning: 大城市，大都会，首府
     children:
       - name: metropolitan
+        phonetic: ［ˌmetrə'pɔlitən］
+        mnemonic: adj.【见上，-an 形容词后缀，…的】
+        meaning: 大城市的，大都会的
       - name: metropolitanize
+        phonetic: ［ˌmetrə'pɔlitənaiz］
+        mnemonic: v.【见上，-ize …化】
+        meaning: 使大城市化，使大都会化

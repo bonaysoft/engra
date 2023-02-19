@@ -1,6 +1,9 @@
 name: dos
 children:
   - name: dose
+    phonetic: ［dəus］
+    mnemonic: n.【do 给，被“给”的一次用药量 → 】
+    meaning: 一剂药，一剂
     children:
       - name: dosage
       - name: overdose

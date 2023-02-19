@@ -4,16 +4,43 @@ tags:
   - SOW
 children:
   - name: migrate
+    phonetic: ［mai'ɡreit］
+    mnemonic: v.【migr 迁移，-ate 动词后缀】
+    meaning: 迁移，移居
     children:
       - name: migrant
+        phonetic: ［'maiɡrənt］
+        mnemonic: n.【migr 迁移，-ant 表人与物】
+        meaning: 迁移者；候鸟（随季节迁移的鸟）
       - name: migrating
       - name: migration
+        phonetic: ［mai'ɡreiʃən］
+        mnemonic: n.【migr 迁移，-ation 名词后缀】
+        meaning: 移居外国；迁居
       - name: migratory
   - name: immigrate
+    phonetic: ［'imiɡreit］
+    mnemonic: v.【im-入内，migr 迁移，-ate 动词后缀】
+    meaning: 移居入境，（从外国）移来，移入
     children:
       - name: immigration
+        phonetic: ［ˌimi'ɡreiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 移入，移居；外来的移民
       - name: immigrant
+        phonetic: ［'imiɡrənt］
+        mnemonic: n./adj.【见上，-ant 表示人】
+        meaning: 移入国内者，侨民，外来的移民；【-ant …的】移入国内的
   - name: emigrate
+    phonetic: ［'emiɡreit］
+    mnemonic: v.【e-外，出，migr 迁移，-ate 动词后缀】
+    meaning: 移出，永久移居外国
     children:
       - name: emigration
+        phonetic: ［ˌemi'ɡreiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 移居；移民出境
       - name: emigrant
+        phonetic: ［'emiɡrənt］
+        mnemonic: n./adj.【见上，-ant 表示人】
+        meaning: 移居国外者，移民，移出者；【-ant …的】移出的，迁移的，移民的

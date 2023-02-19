@@ -4,18 +4,30 @@ tags:
   - SOW
 children:
   - name: lateral
+    phonetic: ［'lætərəl］
+    mnemonic: adj.【later 边，-al …的】
+    meaning: 旁边的；侧面的
     children:
       - name: laterally
       - name: laterality
+        phonetic: ［lætə'ræliti］
+        mnemonic: n.【later 边，侧，-ality 名词后缀】
+        meaning: 偏重一侧，对一个侧面的偏重
       - name: lateralize
         children:
           - name: lateralization
   - name: unilateral
+    phonetic: ［ˌju:ni'lætərəl］
+    mnemonic: adj.【uni 单独，later 边，-al …的】
+    meaning: 一边的，单边的；一方的；片面的，单方面的
     children:
       - name: unilaterally
       - name: unilateralism
       - name: unilateralist
   - name: bilateral
+    phonetic: ［ˌbai'lætərəl］
+    mnemonic: adj.【bi-双，见上】
+    meaning: 双边的；两边的
     children:
       - name: bilaterally
       - name: bilateralism

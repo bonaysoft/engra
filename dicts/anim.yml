@@ -4,34 +4,82 @@ tags:
   - SOW
 children:
   - name: animal
+    phonetic: ［'æniməl］
+    mnemonic: n.【anim 生命，活的，-al 名词兼形容词后缀】
+    meaning: 动物；动物的
     children:
       - name: animality
+        phonetic: ［æni'mæliti］
+        mnemonic: n.【-ity 抽象名词后缀】
+        meaning: 动物性，兽性
       - name: animalism
+        phonetic: ［'æniməlizəm］
+        mnemonic: n.【-ism 表性质】
+        meaning: 动物性，兽欲
       - name: animalist
         children:
           - name: animalistic
       - name: animalize
+        phonetic: ［'æniməlaiz］
+        mnemonic: v.【-ize 动词后缀，使…】
+        meaning: 使动物化
         children:
           - name: animalization
   - name: animate
+    phonetic: ［'ænimeit］
+    mnemonic: v.【anim 生命，生气，-ate 动词后缀】
+    meaning: 使生气勃勃；使有生命
     children:
       - name: animator
+        phonetic: ［'ænimeitə］
+        mnemonic: n.【anim 生命，生气，-ator 人】
+        meaning: 赋予生气者；鼓舞者
       - name: animating
       - name: animated
         children:
           - name: animatedly
       - name: animation
+        phonetic: ［ˌæni'meiʃən］
+        mnemonic: n.【anim 生命，生气，-ation 名词后缀】
+        meaning: 生气；活跃
       - name: animative
+        phonetic: ［'ænə'metiv］
+        mnemonic: adj.【anim 生命，生气，-ative 形容词后缀】
+        meaning: 有生气的
       - name: reanimate
+        phonetic: ［ri:'ænimeit］
+        mnemonic: v.【re-再，复，anim 生命，活，-ate 动词后缀】
+        meaning: 使再生，使复活，使重振精神，使重新活跃
         children:
           - name: reanimation
+            phonetic: ［ri:ˌæni'meiʃən］
+            mnemonic: n.【见上，-ation 抽象名词后缀】
+            meaning: 再生，复活；重振精神
       - name: inanimate
+        phonetic: ［in'ænimit］
+        mnemonic: adj.【in-无，anim 生命，生气，-ate …的】
+        meaning: 无生命的；无生气的，不活泼的
         children:
           - name: inanimation
+            phonetic: ［inˌænə'meiʃən］
+            mnemonic: n.【见上，-ation 抽象名词后缀】
+            meaning: 无生命；无生气，不活泼
       - name: exanimate
+        phonetic: ［iɡ'zænimit］
+        mnemonic: adj.【ex-无，anim 生命，生气，-ate …的】
+        meaning: 无生命的；已死的；无生气的
         children:
           - name: exanimation
+            phonetic: ［iɡzæni'meiʃən］
+            mnemonic: n.【见上，-ation 抽象名词后缀】
+            meaning: 无生命，死；意志消沉
   - name: unanimous
+    phonetic: ［ju:'næniməs］
+    mnemonic: adj.【un = uni，一个，anim 心神，意见，-ous …的；“一个意见的” → 】
+    meaning: 一致的；一致同意的
     children:
       - name: unanimously
       - name: unanimity
+        phonetic: ［ˌju:nə'niməti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 全体一致；一致同意

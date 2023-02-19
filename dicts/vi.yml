@@ -4,22 +4,43 @@ tags:
   - SOW
 children:
   - name: previous
+    phonetic: ［'pri:viəs］
+    mnemonic: adj.【pre-先，前，vi 路 → 走路，行走， -ous …的；“going before” → foregoing】
+    meaning: 以前的，先前的
     children:
       - name: previously
   - name: obvious
+    phonetic: ［'ɔbviəs］
+    mnemonic: adj.【ob-表示 in（or on），vi 路，-ous…的；“摆在大路上的” → 大家都看得见的 → 】
+    meaning: 明显的，显而易见的，显著的
     children:
       - name: obviously
+        phonetic: ［'ɔbviəsli］
+        mnemonic: adv.【见上，-ly 副词后缀，…地】
+        meaning: 明显地，显著地
       - name: obviousness
   - name: deviate
+    phonetic: ［'di:vieit］
+    mnemonic: v.【de-离开，vi 道路 → 正道，-ate 动词后缀】
+    meaning: 背离（正道），偏离
     children:
       - name: deviated
       - name: deviation
+        phonetic: ［ˌdi:vi'eiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 背离，偏离，偏向，偏差
         children:
           - name: deviationist
+            phonetic: ［ˌdi:vi'eiʃənist］
+            mnemonic: n.【见上，-ist 表示人】
+            meaning: 叛离正道者，（政党的）异端分子
       - name: deviant
       - name: deviance
         children:
           - name: deviancy
       - name: devious
+        phonetic: ［'di:viəs］
+        mnemonic: adj.【de-离开，vi 道路 → 大道，正道，-ous …的】
+        meaning: 远离大路的，偏远的，偏僻的，离开正道的，误入歧途的
         children:
           - name: deviously

@@ -4,16 +4,31 @@ tags:
   - SOW
 children:
   - name: chronic
+    phonetic: ［'krɔnik］
+    mnemonic: adj.【chron 时间，-ic…的；“拖长时间的”】
+    meaning: 长时间的，长期的，（疾病）慢性的
     children:
       - name: chronical
         children:
           - name: chronically
       - name: chronicity
+        phonetic: ［krə'nisəti］
+        mnemonic: n.【见上，-icity 名词后缀】
+        meaning: 长期性，慢性
       - name: diachronic
   - name: chronicle
+    phonetic: ［'krɔnikl］
+    mnemonic: n.【chron 时间，-icle 名词后缀；“按时间顺序记载的史实” → 】
+    meaning: 编年史，年代纪，年代史
     children:
       - name: chronicler
+        phonetic: ［'krɔniklə］
+        mnemonic: n.【见上，-er 者】
+        meaning: 年代史编者
   - name: chronology
+    phonetic: ［krə'nɔləʤi］
+    mnemonic: n.【chron 时间 → 年代，-o-，-logy …学】
+    meaning: 年代学，年表
     children:
       - name: chronological
         children:

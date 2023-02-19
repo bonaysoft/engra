@@ -4,8 +4,17 @@ tags:
   - SOW
 children:
   - name: punctuate
+    phonetic: ［'pʌŋktʃueit，'pʌŋktjueit］
+    mnemonic: v.【punct 点，-u-，-ate 动词后缀】
+    meaning: 加标点于，点标点
     children:
       - name: punctuation
+        phonetic: ［ˌpʌŋktʃu'eiʃən, ˌpʌŋktju'eiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 点标点，标点法，标点符号
   - name: puncture
+    phonetic: ［'pʌŋktʃə］
+    mnemonic: n./v.【punct 刺，-ure 名词后缀】
+    meaning: 刺，穿刺，刺痕；【转为动词】（用针）刺，刺破，刺穿
     children:
       - name: punctured

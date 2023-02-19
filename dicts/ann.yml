@@ -6,18 +6,36 @@ children:
   - name: annal
     children:
       - name: annalist
+        phonetic: ［'ænəlist］
+        mnemonic: n.【见上，-ist 表示人】
+        meaning: 编年史作者
   - name: annual
+    phonetic: ［'ænjuəl］
+    mnemonic: adj.【ann 年，-ual 形容词后缀，…的】
+    meaning: 每年的，年度的
     children:
       - name: annually
       - name: annualized
       - name: biannual
       - name: semiannual
+        phonetic: ［'semi'ænjuəl］
+        mnemonic: adj.【semi- 半，ann 年，-ual …的】
+        meaning: 半年一次的
         children:
           - name: semiannually
       - name: interannual
   - name: annuity
+    phonetic: ［ə'nju:iti］
+    mnemonic: n.【ann 年，-u- 连接字母，-ity 名词后缀】
+    meaning: 年金；年金享受权
     children:
       - name: annuitant
+        phonetic: ［ə'nju:itənt］
+        mnemonic: n.【annuit（y）年金，-ant 表示人】
+        meaning: 领受年金的人
   - name: anniversary
+    phonetic: ［ˌæni'və:səri］
+    mnemonic: n./adj.【ann 年，-i-连接字母，vers 转，-ary 名词后缀；“时间转了一年”】
+    meaning: 周年纪念日，周年纪念；【-ary …的】周年纪念的，周年的
     children:
       - name: anniversarian

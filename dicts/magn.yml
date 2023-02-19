@@ -4,12 +4,24 @@ tags:
   - SOW
 children:
   - name: magnify
+    phonetic: ［'mæɡnifai］
+    mnemonic: v.【magni 大，-fy 使…】
+    meaning: 放大，扩大
     children:
       - name: magnifier
+        phonetic: ［'mæɡnifaiə］
+        mnemonic: n.【见上，-er 者】
+        meaning: 放大者；放大器；放大镜
       - name: magnifying
       - name: magnified
       - name: magnification
+        phonetic: ［ˌmænifi'keiʃən］
+        mnemonic: n.【见上，-fication 名词后缀】
+        meaning: 放大；放大率
   - name: magnificent
+    phonetic: ［mæɡ'nifisənt］
+    mnemonic: adj.【见上，-ent …的】
+    meaning: 壮丽的，宏伟的
     children:
       - name: magnificently
       - name: magnificence

@@ -4,26 +4,53 @@ tags:
   - SOW
 children:
   - name: project
+    phonetic: ［prə'ʤekt］
+    mnemonic: v.；［'prɔʤekt］n.【pro-向前，ject 掷】
+    meaning: 抛出，投出，投掷，发射，射出；【投出 → 拿出，“提出一种设想” → 】设计，计划，规划
     children:
       - name: projector
+        phonetic: ［prə'ʤektə］
+        mnemonic: n.【见上，-or 表示人或物】
+        meaning: 投射器，发射器，放映机；计划人，设计者
       - name: projected
       - name: projecting
       - name: projectile
+        phonetic: ［prə'ʤektail］
+        mnemonic: adj.【见上，-ile 表示物】
+        meaning: 抛射体，射弹；【-ile 形容词后缀，…的】抛射的
       - name: projective
       - name: projection
+        phonetic: ［prə'ʤekʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 投掷，发射，投影，投影图，设计，规划
         children:
           - name: projectionist
   - name: reject
+    phonetic: ［ri'ʤekt］
+    mnemonic: v.；［'ri:ʤekt］n.【re-回，反，ject 掷；“掷回” → 不接受 → 】
+    meaning: 拒绝，抵制，驳回
     children:
       - name: rejecter
+        phonetic: ［ri'ʤektə］
+        mnemonic: n.【见上，-er表示人】
+        meaning: 拒绝者
       - name: rejected
       - name: rejection
         children:
           - name: rejectionist
   - name: subject
+    phonetic: ［'sʌbʤikt］
+    mnemonic: n.【sub-在…之下，ject 投；“投于某种管辖之下” → 】
+    meaning: 使服从，使隶属，支配，统治；【转为“被统治的人” → 】臣民，臣下；【在句子中居于支配、统治地位的词 → 】（句子的）主语，主词
     children:
       - name: subjection
+        phonetic: ［səb'ʤekʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 征服，臣服，隶属，服从
       - name: subjective
+        phonetic: ［səb'ʤektiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 主语的，主词的，主观的
         children:
           - name: subjectively
       - name: subjectivity
@@ -33,9 +60,15 @@ children:
         children:
           - name: intersubjectivity
   - name: object
+    phonetic: ［'ɔbʤikt］
+    mnemonic: n.；［əb'ʤekt］v.【ob-相对，相反，对面，ject 投；“投放在对面（前面）之物” → 】
+    meaning: 对象，目标，物体；【与主语（主词）相对者 → 】宾语，受词；【投向对立面 → 】反对，抗议
     children:
       - name: objector
       - name: objective
+        phonetic: ［ɔb'ʤektiv］
+        mnemonic: adj.【见上，object 对象 → 客体 → 客观； -ive …的】
+        meaning: 客观的
         children:
           - name: objectivity
           - name: objectively
@@ -43,6 +76,9 @@ children:
           - name: objectivism
           - name: nonobjective
       - name: objection
+        phonetic: ［əb'ʤekʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 反对
         children:
           - name: objectionable
             children:
@@ -51,21 +87,45 @@ children:
         children:
           - name: objectification
   - name: inject
+    phonetic: ［in'ʤekt］
+    mnemonic: v.【in-入，ject 投；“投入” → 射入】
+    meaning: 注入，注射
     children:
       - name: injector
+        phonetic: ［in'ʤektə］
+        mnemonic: n.【见上，-or 表示人或物】
+        meaning: 注射者；注射器
       - name: injected
       - name: injection
+        phonetic: ［in'ʤekʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 注射
       - name: injectable
   - name: eject
+    phonetic: ［i'ʤekt］
+    mnemonic: v.【e-出，ject 掷，抛】
+    meaning: 逐出；喷射；吐出；发出
     children:
       - name: ejector
+        phonetic: ［i'ʤektə］
+        mnemonic: n.【见上，-or 表示人或物】
+        meaning: 逐出者；喷射器
       - name: ejected
       - name: ejecta
       - name: ejection
   - name: interject
+    phonetic: ［ˌintə'ʤekt］
+    mnemonic: v.【inter-中间，ject 投；“投入中间” → 】
+    meaning: （突然）插入
     children:
       - name: interjection
+        phonetic: ［ˌintə'ʤekʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 插入，插入物；【插入句子中间的词 → 】感叹词，惊叹词
   - name: abject
+    phonetic: ［'æbʤekt］
+    mnemonic: adj.【ab-离开，ject 抛；“被抛弃的” → 】
+    meaning: 卑贱的，可怜的，凄惨的
     children:
       - name: abjectly
       - name: abjection
@@ -74,5 +134,8 @@ children:
       - name: conjectural
       - name: conjecturable
   - name: adjective
+    phonetic: ［'æʤiktiv］
+    mnemonic: n./adj.【ad-表示to，ject 投，-ive 名词后缀；“投放在名词旁边的词” → 】
+    meaning: 形容词；【-ive …的】形容词的
     children:
       - name: adjectival

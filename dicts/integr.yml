@@ -4,22 +4,54 @@ tags:
   - SOW
 children:
   - name: integral
+    phonetic: ［'intiɡrəl］
+    mnemonic: adj.【integr 整，全，-al …的】
+    meaning: 完整的，整体的
     children:
       - name: integrally
       - name: integrality
+        phonetic: ［ˌinti'ɡræliti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 完整性，完全
   - name: integrity
+    phonetic: ［in'teɡrəti］
+    mnemonic: n.【integr 整，全，-ity 名词后缀】
+    meaning: 完整，完全，完善
   - name: integrate
+    phonetic: ［'intiɡreit］
+    mnemonic: v.【integr 整，全，-ate 动词后缀】
+    meaning: 使结合成一整体，使并入，使一体化，结为一体；【使黑人与白人成为一体 → 】（美国）取消种族隔离
     children:
       - name: integrator
       - name: integrating
       - name: integrated
       - name: integrative
+        phonetic: ［'intiɡreitiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 一体化的，整体化的，综合的
       - name: integration
+        phonetic: ［ˌinti'ɡreiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 整体化，一体化，结合，综合；取消种族隔离
         children:
           - name: integrationist
       - name: redintegrate
+        phonetic: ［ri:'intiɡreit］
+        mnemonic: v.【red-再，integrate 成整体，完整】
+        meaning: 使再完整
   - name: integrant
+    phonetic: ［'intiɡrənt］
+    mnemonic: n./adj.【integr 整 → 整体，-ant 表示物】
+    meaning: 构成整体的组成部分，要素，成分；【-ant …的】构成整体的，成分的，要素的
   - name: disintegrate
+    phonetic: ［dis'intiɡreit］
+    mnemonic: v.【dis-取消，不，integrate 结合】
+    meaning: （使）瓦解，（使）分裂
     children:
       - name: disintegrator
+        phonetic: ［dis'intiɡreitə］
+        mnemonic: n.【见上，-or 表示人或物】
+        meaning: 瓦解者，分裂者，粉碎机
   - name: integer
+    phonetic: ［'intiʤə］
+    meaning: n. 整数，完整的东西

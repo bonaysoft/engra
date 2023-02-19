@@ -1,6 +1,12 @@
 name: crus
 children:
   - name: crusade
+    phonetic: ［kru:'seid］
+    mnemonic: n.【crus=cruc 十字，-ade 名词后缀，表示集体】
+    meaning: 十字军
     children:
       - name: crusader
+        phonetic: ［kru:seidə］
+        mnemonic: n.【见上，-er 表示人】
+        meaning: 十字军参加者
       - name: crusading

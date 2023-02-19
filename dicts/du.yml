@@ -4,27 +4,63 @@ tags:
   - SOW
 children:
   - name: dual
+    phonetic: ［'dju:əl］
+    mnemonic: adj.【du 双，二，-al …的】
+    meaning: 二重的，双的，二元的
     children:
       - name: duality
+        phonetic: ［dju(:)'æliti］
+        mnemonic: n.【见上，-ity 名词后缀，表示性质】
+        meaning: 两重性，二元性
       - name: dualism
+        phonetic: ［'dju:əliz(ə)m］
+        mnemonic: n.【见上，-ism 表示性质，…论】
+        meaning: 双重性，二元性，二元论
       - name: dualist
+        phonetic: ［'dju:əlist］
+        mnemonic: n.【见上，-ist 者】
+        meaning: 二元论者
         children:
           - name: dualistic
+            phonetic: ［ˌdju:ə'listik］
+            mnemonic: adj.【见上，-istic …的】
+            meaning: 二元论的，二元的
       - name: dualize
+        phonetic: ［'dju:əlaiz］
+        mnemonic: v.【见上，-ize 动词后缀，使…】
+        meaning: 使具有两重性，使二元化
   - name: duplicate
+    phonetic: ［'dju:plikit］
+    mnemonic: v./adj./n.【du 双，二，plic 重叠，重复，-ate 使…】
+    meaning: 使成双，复制，复写；【-ate…的】二重的，二倍的，复制的；【转为名词】复制品
     children:
       - name: duplicator
       - name: duplicated
         children:
           - name: unduplicated
       - name: duplication
+        phonetic: ［ˌdju:pli'keiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 成双，成倍；复制，复制品
   - name: duel
+    phonetic: ［'dju:əl］
+    mnemonic: n.【du 双，二】
+    meaning: 两人决斗
     children:
       - name: dueling
       - name: duelist
+        phonetic: ［'dju(:)əlist］
+        mnemonic: n.【见上，-ist 者】
+        meaning: 决斗者
   - name: duet
+    phonetic: ［dju:'et］
+    mnemonic: n./v.【du 双，二】
+    meaning: 二重唱，二重奏
     children:
       - name: duettist
+        phonetic: ［dju:'etist］
+        mnemonic: n.【-ist 者】
+        meaning: 二重唱者，二重奏者
   - name: dusk
     children:
       - name: dusky

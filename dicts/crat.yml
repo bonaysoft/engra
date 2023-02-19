@@ -4,15 +4,36 @@ tags:
   - SOW
 children:
   - name: democrat
+    phonetic: ［'deməkræt］
+    mnemonic: n.【见上，crat 主张…统治的人】
+    meaning: 民主主义者
     children:
       - name: democratic
+        phonetic: ［ˌdemə'krætik］
+        mnemonic: adj.【见上，-ic …的】
+        meaning: 民主的，民主主义的，民主政体的
       - name: democratism
+        phonetic: ［di'mɔkrətizəm］
+        mnemonic: n.【见上，-ism 主义】
+        meaning: 民主主义
   - name: autocrat
+    phonetic: ［'ɔ:təukræt］
+    mnemonic: n.【auto- 自己，独自，crat 统治者】
+    meaning: 独裁者；暴君；专制君主
     children:
       - name: autocratic
+        phonetic: ［ˌɔ:təu'krætik］
+        mnemonic: adj.【见上，-ic …的】
+        meaning: 独裁的，专制的
   - name: plutocrat
+    phonetic: ［'plu:təkræt］
+    mnemonic: n.【pluto 财，财富，crat 统治者】
+    meaning: 富豪，财阀
     children:
       - name: plutocratic
+        phonetic: ［plu:tə'krætik］
+        mnemonic: adj.【见上，-ic …的】
+        meaning: 富豪统治的，财阀政治的；富豪（般）的
   - name: aristocrat
     children:
       - name: aristocratic

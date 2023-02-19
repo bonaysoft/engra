@@ -4,19 +4,31 @@ tags:
   - SOW
 children:
   - name: exit
+    phonetic: ［'eksit］
+    mnemonic: n.【ex-出，外，it 行走；“走出”，“向外走” → 】
+    meaning: 出口，太平门，退出
     children:
       - name: exiting
   - name: initial
+    phonetic: ［i'niʃəl］
+    mnemonic: adj.【in-入，it 走，-ial 形容词后缀，…的；“走入” → 进入 → 入门 → 开始】
+    meaning: 开始的，最初的
     children:
       - name: initially
       - name: initialize
         children:
           - name: initialization
   - name: initiate
+    phonetic: ［i'niʃieit］
+    mnemonic: v.【见上，-ate 动词后缀，使…】
+    meaning: 使入门，开始，创始
     children:
       - name: initiator
       - name: initiatory
       - name: initiative
+        phonetic: ［i'niʃiətiv］
+        mnemonic: adj.【见上，-ative …的】
+        meaning: 起始的，初步的
       - name: initiating
       - name: initiated
         children:
@@ -26,11 +38,20 @@ children:
       - name: commencement
       - name: recommence
   - name: transit
+    phonetic: ［'trænsit］
+    mnemonic: n.【trans-越过，it 走；“to go across，to go over” → 】
+    meaning: 通过，经过，通行，运送，过渡，转变
     children:
       - name: transition
+        phonetic: ［træn'ziʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 过渡，转变
         children:
           - name: transitional
       - name: transitory
+        phonetic: ［'trænsitəri］
+        mnemonic: adj.【见上，-ory…的；“走过的”，“经过的” → 逝去的，消逝的 → 】
+        meaning: 瞬息即逝的，短暂的
       - name: transitive
         children:
           - name: transitively

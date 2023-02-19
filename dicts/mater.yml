@@ -3,9 +3,15 @@ children:
   - name: mater
     children:
       - name: maternal
+        phonetic: ［mə'tə:nl］
+        mnemonic: adj.【mater=matr 母，-n-，-al …的】
+        meaning: 母亲的，母性的
         children:
           - name: maternally
       - name: maternity
+        phonetic: ［mə'tə:niti］
+        mnemonic: n./adj.【见上，-ity 名词后缀】
+        meaning: 母性，母道；产科医院；【转为形容词】产妇的，孕妇的
   - name: material
     children:
       - name: materially
