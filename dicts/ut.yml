@@ -1,5 +1,7 @@
 name: ut
 meaning: 用
+tags:
+  - SOW
 children:
   - name: utility
     children:

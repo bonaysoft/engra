@@ -1,4 +1,7 @@
 name: scend
+meaning: climb爬，攀
+tags:
+  - SOW
 children:
   - name: descend
     children:

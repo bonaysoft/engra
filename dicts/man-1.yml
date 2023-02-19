@@ -1,5 +1,7 @@
 name: man
 meaning: dwell，stay居住，停留
+tags:
+  - SOW
 children:
   - name: manor
     children:

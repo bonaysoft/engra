@@ -1,4 +1,7 @@
 name: sim
+meaning: 相似，相同
+tags:
+  - SOW
 children:
   - name: similar
     children:

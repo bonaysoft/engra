@@ -1,5 +1,7 @@
 name: spir
 meaning: breathe呼吸
+tags:
+  - SOW
 children:
   - name: spirit
     children:

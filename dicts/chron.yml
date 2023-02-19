@@ -1,5 +1,7 @@
 name: chron
 meaning: 时
+tags:
+  - SOW
 children:
   - name: chronic
     children:

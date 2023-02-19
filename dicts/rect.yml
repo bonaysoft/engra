@@ -1,5 +1,7 @@
 name: rect
 meaning: right，straight正，直
+tags:
+  - SOW
 children:
   - name: direct
     children:

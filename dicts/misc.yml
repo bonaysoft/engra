@@ -1,5 +1,7 @@
 name: misc
 meaning: 混合，混杂
+tags:
+  - SOW
 children:
   - name: miscellaneous
     children:

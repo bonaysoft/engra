@@ -1,4 +1,7 @@
 name: the
+meaning: 神
+tags:
+  - SOW
 children:
   - name: theology
     children:

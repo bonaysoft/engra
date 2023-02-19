@@ -1,4 +1,7 @@
 name: cosm
+meaning: 世界，宇宙，秩序
+tags:
+  - SOW
 children:
   - name: cosmos
     children:

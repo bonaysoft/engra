@@ -1,5 +1,7 @@
 name: splend
 meaning: 发光，照耀
+tags:
+  - SOW
 children:
   - name: splendid
     children:

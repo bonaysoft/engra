@@ -1,5 +1,7 @@
 name: du
 meaning: two二
+tags:
+  - SOW
 children:
   - name: dual
     children:

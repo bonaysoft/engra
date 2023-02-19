@@ -1,5 +1,7 @@
 name: grad
 meaning: step，go，grade步，走，级
+tags:
+  - SOW
 children:
   - name: grade
     children:

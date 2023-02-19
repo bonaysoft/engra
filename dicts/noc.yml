@@ -1,5 +1,7 @@
 name: noc
 meaning: 伤害
+tags:
+  - SOW
 children:
   - name: innocent
     children:

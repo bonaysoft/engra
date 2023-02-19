@@ -1,5 +1,7 @@
 name: plen
 meaning: full满，全
+tags:
+  - SOW
 children:
   - name: plenty
     children:

@@ -1,4 +1,7 @@
 name: gyn
+meaning: 妇女
+tags:
+  - SOW
 children:
   - name: gynecology
     children:

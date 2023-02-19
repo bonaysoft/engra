@@ -1,4 +1,7 @@
 name: amb
+meaning: 行，走
+tags:
+  - SOW
 children:
   - name: ambition
     children:

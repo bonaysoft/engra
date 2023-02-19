@@ -1,4 +1,7 @@
-name: ped-1
+name: ped
+meaning: 脚，足
+tags:
+  - SOW
 children:
   - name: pedal
     children:

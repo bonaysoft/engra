@@ -1,4 +1,7 @@
-name: ped-2
+name: ped
+meaning: 儿童，小孩
+tags:
+  - SOW
 children:
   - name: pediatric
     children:

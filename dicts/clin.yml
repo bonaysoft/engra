@@ -1,5 +1,7 @@
 name: clin
 meaning: 倾
+tags:
+  - SOW
 children:
   - name: clinic
     children:

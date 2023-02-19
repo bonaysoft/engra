@@ -1,4 +1,7 @@
 name: dexter
+meaning: 右
+tags:
+  - SOW
 children:
   - name: dexter
     children:

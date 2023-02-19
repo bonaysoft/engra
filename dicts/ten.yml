@@ -1,4 +1,7 @@
 name: ten
+meaning: hold握，持，守
+tags:
+  - SOW
 children:
   - name: tenant
     children:

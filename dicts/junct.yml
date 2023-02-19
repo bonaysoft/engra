@@ -1,5 +1,7 @@
 name: junct
 meaning: 连接，连结
+tags:
+  - SOW
 children:
   - name: junction
     children:

@@ -1,5 +1,7 @@
 name: cord
 meaning: heart心
+tags:
+  - SOW
 children:
   - name: cordial
     children:

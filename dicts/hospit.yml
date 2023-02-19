@@ -1,5 +1,7 @@
 name: hospit
 meaning: guest客人
+tags:
+  - SOW
 children:
   - name: hospital
     children:

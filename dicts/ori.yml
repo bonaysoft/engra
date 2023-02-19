@@ -1,5 +1,7 @@
 name: ori
 meaning: rise升起
+tags:
+  - SOW
 children:
   - name: orient
     children:

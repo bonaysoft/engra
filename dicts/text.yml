@@ -1,5 +1,7 @@
 name: text
 meaning: weave编织
+tags:
+  - SOW
 children:
   - name: text
     children:

@@ -1,5 +1,7 @@
 name: clar
 meaning: clear清楚，明白
+tags:
+  - SOW
 children:
   - name: clarity
     children:

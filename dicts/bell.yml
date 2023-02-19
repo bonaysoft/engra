@@ -1,5 +1,7 @@
 name: bell
 meaning: war战争
+tags:
+  - SOW
 children:
   - name: embellish
     children:

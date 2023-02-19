@@ -1,5 +1,7 @@
 name: flect
 meaning: 弯曲
+tags:
+  - SOW
 children:
   - name: reflect
     children:

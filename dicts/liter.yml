@@ -1,5 +1,7 @@
 name: liter
 meaning: letter文字，字母
+tags:
+  - SOW
 children:
   - name: literal
     children:

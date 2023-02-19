@@ -1,5 +1,7 @@
 name: corpor
 meaning: body体（corpor也作corp）
+tags:
+  - SOW
 children:
   - name: corporate
     children:

@@ -1,5 +1,7 @@
 name: doc
 meaning: 教
+tags:
+  - SOW
 children:
   - name: document
     children:

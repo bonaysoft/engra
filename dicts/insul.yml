@@ -1,5 +1,7 @@
 name: insul
 meaning: island岛
+tags:
+  - SOW
 children:
   - name: insular
     children:

@@ -1,5 +1,7 @@
 name: par
 meaning: 生，产
+tags:
+  - SOW
 children:
   - name: pare
     children:

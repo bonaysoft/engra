@@ -1,4 +1,7 @@
 name: tend
+meaning: stretch伸
+tags:
+  - SOW
 children:
   - name: tend
     children:

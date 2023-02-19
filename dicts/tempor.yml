@@ -1,4 +1,7 @@
-name: temp
+name: tempor
+meaning: time时
+tags:
+  - SOW
 children:
   - name: temporal
     children:

@@ -1,4 +1,7 @@
 name: aqu
+meaning: 水
+tags:
+  - SOW
 children:
   - name: aquatic
     children:

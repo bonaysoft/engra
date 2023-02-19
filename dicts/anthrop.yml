@@ -1,4 +1,7 @@
 name: anthrop
+meaning: 人，人类
+tags:
+  - SOW
 children:
   - name: anthropology
     children:

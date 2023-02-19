@@ -1,4 +1,7 @@
 name: magn
+meaning: 大
+tags:
+  - SOW
 children:
   - name: magnify
     children:

@@ -1,5 +1,7 @@
 name: past
 meaning: 喂，食
+tags:
+  - SOW
 children:
   - name: paste
     children:

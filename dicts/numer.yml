@@ -1,5 +1,7 @@
 name: numer
 meaning: number数
+tags:
+  - SOW
 children:
   - name: enumerate
     children:

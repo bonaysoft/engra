@@ -1,4 +1,7 @@
 name: duc
+meaning: lead引导
+tags:
+  - SOW
 children:
   - name: educate
     children:

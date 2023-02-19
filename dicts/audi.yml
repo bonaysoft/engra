@@ -1,5 +1,7 @@
 name: audi
 meaning: hear听（audi也作audit）
+tags:
+  - SOW
 children:
   - name: audio
     children:

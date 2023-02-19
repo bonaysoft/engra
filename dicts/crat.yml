@@ -1,5 +1,18 @@
 name: crat
+meaning: 支持（或实行）... 统治的人
+tags:
+  - SOW
 children:
+  - name: democrat
+    children:
+      - name: democratic
+      - name: democratism
+  - name: autocrat
+    children:
+      - name: autocratic
+  - name: plutocrat
+    children:
+      - name: plutocratic
   - name: aristocrat
     children:
       - name: aristocratic

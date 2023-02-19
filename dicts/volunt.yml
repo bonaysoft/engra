@@ -1,4 +1,7 @@
 name: volunt
+meaning: 意志，意愿
+tags:
+  - SOW
 children:
   - name: volunteer
     children:

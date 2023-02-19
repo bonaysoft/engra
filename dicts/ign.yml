@@ -1,5 +1,7 @@
 name: ign
 meaning: 火
+tags:
+  - SOW
 children:
   - name: ignite
     children:

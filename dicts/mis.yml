@@ -1,21 +1,19 @@
 name: mis
+meaning: 恨，厌恶
+tags:
+  - SOW
 children:
-  - name: promise
+  - name: misanthropy
     children:
-      - name: promising
-        children:
-          - name: promisingly
-          - name: unpromising
-      - name: promised
-      - name: promissory
-      - name: compromise
-        children:
-          - name: compromiser
-          - name: compromising
-            children:
-              - name: uncompromising
-                children:
-                  - name: uncompromisingly
-          - name: compromised
-            children:
-              - name: uncompromised
+      - name: misanthropist
+      - name: misanthropic
+      - name: misanthropize
+  - name: misogamy
+    children:
+      - name: misogamist
+  - name: misogyny
+    children:
+      - name: misogynic
+      - name: misogynist
+  - name: misoneism
+  - name: misoneist

@@ -1,4 +1,7 @@
-name: av
+name: avi
+meaning: 鸟
+tags:
+  - SOW
 children:
   - name: avian
     children:

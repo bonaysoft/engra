@@ -1,5 +1,7 @@
 name: ject
 meaning: throw投掷
+tags:
+  - SOW
 children:
   - name: project
     children:

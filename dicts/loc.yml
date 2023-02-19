@@ -1,5 +1,7 @@
 name: loc
 meaning: place地方
+tags:
+  - SOW
 children:
   - name: local
     children:

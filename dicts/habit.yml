@@ -1,5 +1,7 @@
 name: habit
 meaning: dwell居住
+tags:
+  - SOW
 children:
   - name: habit
     children:

@@ -1,5 +1,7 @@
 name: prim
 meaning: 第一，最初
+tags:
+  - SOW
 children:
   - name: prime
     children:

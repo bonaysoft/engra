@@ -1,5 +1,7 @@
 name: loqu
 meaning: speak言，说
+tags:
+  - SOW
 children:
   - name: eloquence
     children:

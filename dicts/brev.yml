@@ -1,5 +1,7 @@
 name: brev
 meaning: short短
+tags:
+  - SOW
 children:
   - name: abbreviate
     children:

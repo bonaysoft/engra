@@ -1,5 +1,7 @@
 name: ego
 meaning: 我
+tags:
+  - SOW
 children:
   - name: ego
     children:

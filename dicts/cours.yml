@@ -1,4 +1,7 @@
 name: cours
+meaning: 流，跑
+tags:
+  - SOW
 children:
   - name: course
     children:

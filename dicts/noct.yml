@@ -1,4 +1,7 @@
 name: noct
+meaning: 夜
+tags:
+  - SOW
 children:
   - name: nocturnal
     children:

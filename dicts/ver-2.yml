@@ -1,0 +1,24 @@
+name: ver
+meaning: 真实
+tags:
+  - SOW
+children:
+  - name: very
+    children:
+      - name: verily
+  - name: very
+    children:
+      - name: verily
+  - name: veracious
+  - name: veracity
+  - name: verify
+    children:
+      - name: verifiable
+  - name: verification
+  - name: verifier
+  - name: verisimilar
+  - name: verisimilitude
+  - name: verism
+  - name: verity
+    children:
+      - name: veritable

@@ -1,4 +1,7 @@
 name: petr
+meaning: 石
+tags:
+  - SOW
 children:
   - name: petroleum
     children:

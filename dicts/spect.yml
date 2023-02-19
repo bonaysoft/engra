@@ -1,5 +1,7 @@
 name: spect
 meaning: look看
+tags:
+  - SOW
 children:
   - name: spectacle
     children:

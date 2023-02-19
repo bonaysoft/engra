@@ -1,5 +1,7 @@
 name: flor
 meaning: flower花（flor也作flour）
+tags:
+  - SOW
 children:
   - name: flora
     children:

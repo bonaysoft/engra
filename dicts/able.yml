@@ -1,4 +1,5 @@
 name: able
+meaning: 有能力的，能干的
 children:
   - name: able
     children:

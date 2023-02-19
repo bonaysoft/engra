@@ -1,4 +1,7 @@
-name: mon-2
+name: mon
+meaning: 单独，一个
+tags:
+  - SOW
 children:
   - name: monopoly
     children:

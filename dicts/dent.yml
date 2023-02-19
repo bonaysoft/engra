@@ -1,5 +1,7 @@
 name: dent
 meaning: tooth牙齿
+tags:
+  - SOW
 children:
   - name: dent
     children:

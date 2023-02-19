@@ -1,4 +1,7 @@
 name: med
+meaning: middle中间
+tags:
+  - SOW
 children:
   - name: medium
     children:

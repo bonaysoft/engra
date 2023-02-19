@@ -1,5 +1,7 @@
 name: greg
 meaning: 群，集合
+tags:
+  - SOW
 children:
   - name: aggregate
     children:

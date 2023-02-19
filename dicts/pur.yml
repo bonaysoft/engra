@@ -1,5 +1,7 @@
 name: pur
 meaning: pure清，纯，净
+tags:
+  - SOW
 children:
   - name: pure
     children:

@@ -1,5 +1,7 @@
 name: cogn
 meaning: know知道
+tags:
+  - SOW
 children:
   - name: cognition
     children:

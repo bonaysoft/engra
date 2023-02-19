@@ -1,5 +1,7 @@
 name: migr
 meaning: remove，move迁移
+tags:
+  - SOW
 children:
   - name: migrate
     children:

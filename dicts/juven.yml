@@ -1,5 +1,7 @@
 name: juven
 meaning: young年轻，年少
+tags:
+  - SOW
 children:
   - name: juvenile
     children:

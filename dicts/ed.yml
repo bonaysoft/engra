@@ -1,5 +1,7 @@
 name: ed
 meaning: eat吃
+tags:
+  - SOW
 children:
   - name: comedy
     children:

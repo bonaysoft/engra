@@ -1,5 +1,7 @@
 name: sec
 meaning: follow跟随
+tags:
+  - SOW
 children:
   - name: second
     children:

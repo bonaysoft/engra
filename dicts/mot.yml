@@ -1,5 +1,7 @@
 name: mot
 meaning: move移动，动
+tags:
+  - SOW
 children:
   - name: motor
     children:

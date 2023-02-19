@@ -1,4 +1,7 @@
 name: vis
+meaning: see看
+tags:
+  - SOW
 children:
   - name: visible
     children:

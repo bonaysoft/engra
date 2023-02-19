@@ -1,5 +1,7 @@
 name: don
 meaning: give给（don也作do）
+tags:
+  - SOW
 children:
   - name: donor
     children:

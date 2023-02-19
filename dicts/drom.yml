@@ -1,5 +1,7 @@
 name: drom
 meaning: 跑
+tags:
+  - SOW
 children:
   - name: aerodrome
   - name: hippodrome

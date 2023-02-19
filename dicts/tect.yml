@@ -1,5 +1,7 @@
 name: tect
 meaning: cover掩盖
+tags:
+  - SOW
 children:
   - name: detect
     children:

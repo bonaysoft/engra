@@ -1,4 +1,7 @@
-name: fed
+name: feder
+meaning: 联盟
+tags:
+  - SOW
 children:
   - name: federal
     children:

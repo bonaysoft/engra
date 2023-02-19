@@ -1,5 +1,7 @@
 name: flict
 meaning: 打击
+tags:
+  - SOW
 children:
   - name: conflict
     children:

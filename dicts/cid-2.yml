@@ -1,4 +1,7 @@
-name: cid-2
+name: cid
+meaning: 降落，降临
+tags:
+  - SOW
 children:
   - name: incident
     children:

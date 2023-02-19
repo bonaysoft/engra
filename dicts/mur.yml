@@ -1,5 +1,7 @@
 name: mur
 meaning: 墙
+tags:
+  - SOW
 children:
   - name: mural
     children:

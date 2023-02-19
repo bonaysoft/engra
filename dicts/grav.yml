@@ -1,5 +1,7 @@
 name: grav
 meaning: 重
+tags:
+  - SOW
 children:
   - name: grave
     children:

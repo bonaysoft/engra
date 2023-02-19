@@ -1,4 +1,7 @@
 name: vok
+meaning: 声音，叫喊
+tags:
+  - SOW
 children:
   - name: invoke
     children:

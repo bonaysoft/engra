@@ -1,4 +1,7 @@
 name: nex
+meaning: 结，系
+tags:
+  - SOW
 children:
   - name: annex
     children:

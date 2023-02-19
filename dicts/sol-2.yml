@@ -1,4 +1,7 @@
-name: sol-2
+name: sol
+meaning: 太阳
+tags:
+  - SOW
 children:
   - name: solar
     children:

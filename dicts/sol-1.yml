@@ -1,4 +1,7 @@
-name: sol-1
+name: sol
+meaning: 单独
+tags:
+  - SOW
 children:
   - name: solo
     children:

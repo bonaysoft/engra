@@ -1,5 +1,7 @@
 name: sal
 meaning: salt盐
+tags:
+  - SOW
 children:
   - name: salary
     children:

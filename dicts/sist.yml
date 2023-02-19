@@ -1,5 +1,7 @@
 name: sist
 meaning: stand站立
+tags:
+  - SOW
 children:
   - name: exist
     children:

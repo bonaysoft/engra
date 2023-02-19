@@ -1,5 +1,7 @@
 name: nihil
 meaning: 无
+tags:
+  - SOW
 children:
   - name: annihilate
     children:

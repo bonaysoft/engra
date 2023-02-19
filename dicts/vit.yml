@@ -1,5 +1,7 @@
 name: vit
 meaning: life生命
+tags:
+  - SOW
 children:
   - name: vital
     children:

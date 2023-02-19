@@ -1,5 +1,7 @@
 name: di
 meaning: day日
+tags:
+  - SOW
 children:
   - name: diet
     children:

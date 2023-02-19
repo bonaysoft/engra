@@ -1,5 +1,7 @@
 name: cruc
 meaning: cross十字
+tags:
+  - SOW
 children:
   - name: crucial
     children:

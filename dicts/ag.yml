@@ -1,5 +1,7 @@
 name: ag
 meaning: do，act做，动
+tags:
+  - SOW
 children:
   - name: agent
     children:

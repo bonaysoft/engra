@@ -1,4 +1,7 @@
 name: vid
+meaning: see看
+tags:
+  - SOW
 children:
   - name: video
     children:

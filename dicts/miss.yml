@@ -1,5 +1,7 @@
 name: miss
 meaning: send投，送，发（miss也作mit）
+tags:
+  - SOW
 children:
   - name: mission
     children:
@@ -29,3 +31,22 @@ children:
         children:
           - name: decommissioning
           - name: decommissioned
+  - name: promise
+    children:
+      - name: promising
+        children:
+          - name: promisingly
+          - name: unpromising
+      - name: promised
+      - name: promissory
+      - name: compromise
+        children:
+          - name: compromiser
+          - name: compromising
+            children:
+              - name: uncompromising
+                children:
+                  - name: uncompromisingly
+          - name: compromised
+            children:
+              - name: uncompromised

@@ -1,4 +1,7 @@
 name: phil
+meaning: 爱，爱好
+tags:
+  - SOW
 children:
   - name: philosophy
     children:

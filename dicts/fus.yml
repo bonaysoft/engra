@@ -1,5 +1,7 @@
 name: fus
 meaning: pour灌，流，倾泻
+tags:
+  - SOW
 children:
   - name: fuse
     children:

@@ -1,5 +1,7 @@
 name: liber
 meaning: free自由
+tags:
+  - SOW
 children:
   - name: deliberate
     children:

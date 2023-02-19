@@ -1,41 +1,59 @@
 name: path
+meaning: 痛苦
+tags:
+  - SOW
 children:
+  - name: patho
+    meaning: 疾病的
+    children:
+      - name: pathogen
+        children:
+          - name: pathogeny
+            children:
+              - name: pathogenetic
+              - name: pathogenesis
+          - name: pathogenic
+            children:
+              - name: pathogenicity
+      - name: pathology
+        children:
+          - name: pathologic
+            children:
+              - name: pathological
+                children:
+                  - name: pathologically
+          - name: pathologist
+          - name: histopathology
+            children:
+              - name: histopathologic
+                children:
+                  - name: histopathological
+          - name: zoopathology
+  - name: pathy
+    children:
+      - name: apathy
+        children:
+          - name: apathetic
+      - name: sympathy
+        children:
+          - name: sympathetic
+            children:
+              - name: sympathetically
+              - name: unsympathetic
+              - name: parasympathetic
+          - name: sympathize
+            children:
+              - name: sympathizer
+      - name: antipathy
+        children:
+          - name: antipathetic
+      - name: neuropathy
+        children:
+          - name: neuropathist
+      - name: dermatopathy
+      - name: psychopathy
+      - name: electropathy
+      - name: hydropathy
   - name: pathetic
     children:
       - name: pathetically
-  - name: apathy
-    children:
-      - name: apathetic
-  - name: sympathy
-    children:
-      - name: sympathetic
-        children:
-          - name: sympathetically
-          - name: unsympathetic
-          - name: parasympathetic
-      - name: sympathize
-        children:
-          - name: sympathizer
-  - name: antipathy
-    children:
-      - name: antipathetic
-  - name: pathogen
-    children:
-      - name: pathogenic
-        children:
-          - name: pathogenicity
-      - name: pathogenetic
-      - name: pathogenesis
-  - name: pathology
-    children:
-      - name: pathologic
-        children:
-          - name: pathological
-            children:
-              - name: pathologically
-      - name: pathologist
-      - name: histopathology
-        children:
-          - name: histopathologic
-            children:
-              - name: histopathological

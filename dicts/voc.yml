@@ -1,5 +1,7 @@
 name: voc
 meaning: 声音，叫喊
+tags:
+  - SOW
 children:
   - name: vocal
     children:

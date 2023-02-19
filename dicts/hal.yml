@@ -1,5 +1,7 @@
 name: hal
 meaning: 呼吸
+tags:
+  - SOW
 children:
   - name: inhale
     children:

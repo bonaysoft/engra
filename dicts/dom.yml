@@ -1,5 +1,7 @@
 name: dom
 meaning: 屋，家
+tags:
+  - SOW
 children:
   - name: dome
     children:

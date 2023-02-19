@@ -1,5 +1,7 @@
 name: dit
 meaning: give给
+tags:
+  - SOW
 children:
   - name: edit
     children:

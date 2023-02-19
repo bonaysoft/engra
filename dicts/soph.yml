@@ -1,5 +1,7 @@
 name: soph
 meaning: 智慧
+tags:
+  - SOW
 children:
   - name: sophomore
     children:

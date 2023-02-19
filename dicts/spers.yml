@@ -1,5 +1,7 @@
 name: spers
 meaning: 散，撒
+tags:
+  - SOW
 children:
   - name: disperse
     children:

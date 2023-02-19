@@ -1,4 +1,5 @@
 name: arch
+meaning: 初始的，古代的
 children:
   - name: archive
     children:

@@ -1,5 +1,7 @@
 name: circ
 meaning: ring环，圆
+tags:
+  - SOW
 children:
   - name: circle
     children:

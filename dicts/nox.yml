@@ -1,4 +1,7 @@
 name: nox
+meaning: 伤害
+tags:
+  - SOW
 children:
   - name: noxious
     children:

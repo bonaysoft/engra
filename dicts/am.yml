@@ -1,5 +1,7 @@
 name: am
 meaning: 爱
+tags:
+  - SOW
 children:
   - name: amateur
     children:

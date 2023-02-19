@@ -1,4 +1,7 @@
 name: phob
+meaning: 怕
+tags:
+  - SOW
 children:
   - name: phobia
     children:

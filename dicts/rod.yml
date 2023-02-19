@@ -1,5 +1,7 @@
 name: rod
 meaning: 咬，啮
+tags:
+  - SOW
 children:
   - name: rodent
     children:

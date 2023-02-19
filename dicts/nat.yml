@@ -1,5 +1,7 @@
 name: nat
 meaning: 诞生
+tags:
+  - SOW
 children:
   - name: nation
     children:

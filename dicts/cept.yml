@@ -1,5 +1,7 @@
 name: cept
 meaning: take拿，取
+tags:
+  - SOW
 children:
   - name: accept
     children:

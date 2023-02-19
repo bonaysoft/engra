@@ -1,4 +1,7 @@
 name: claim
+meaning: cry，shout喊叫
+tags:
+  - SOW
 children:
   - name: claim
     children:

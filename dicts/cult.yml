@@ -1,5 +1,7 @@
 name: cult
 meaning: 耕，培养
+tags:
+  - SOW
 children:
   - name: cult
     children:

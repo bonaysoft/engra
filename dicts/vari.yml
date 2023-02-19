@@ -1,5 +1,7 @@
 name: vari
 meaning: change变化
+tags:
+  - SOW
 children:
   - name: vary
     children:

@@ -1,5 +1,7 @@
 name: sid
 meaning: sit坐
+tags:
+  - SOW
 children:
   - name: preside
     children:

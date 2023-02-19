@@ -1,5 +1,7 @@
 name: fer
 meaning: bring，carry带，拿
+tags:
+  - SOW
 children:
   - name: differ
     children:

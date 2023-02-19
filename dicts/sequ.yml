@@ -1,5 +1,7 @@
 name: sequ
 meaning: follow跟随
+tags:
+  - SOW
 children:
   - name: sequence
     children:

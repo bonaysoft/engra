@@ -1,4 +1,7 @@
-name: cur-1
+name: cur
+meaning: care关心，挂念，注意
+tags:
+  - SOW
 children:
   - name: curious
     children:

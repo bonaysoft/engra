@@ -1,5 +1,7 @@
 name: mob
 meaning: move动
+tags:
+  - SOW
 children:
   - name: mobile
     children:

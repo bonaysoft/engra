@@ -1,0 +1,27 @@
+name: cracy
+meaning: 统治
+tags:
+  - SOW
+children:
+  - name: democracy
+  - name: autocracy
+    children:
+      - name: surplus
+      - name: surplusage
+  - name: bureaucracy
+  - name: plutocracy
+  - name: theocracy
+    children:
+      - name: theocratic
+  - name: monocracy
+    children:
+      - name: monocrat
+      - name: monocratic
+  - name: bureaucracy
+    children:
+      - name: bureaucrat
+      - name: bureaucratic
+      - name: bureaucratese
+      - name: bureaucratism
+      - name: bureaucratize
+  - name: polycracy

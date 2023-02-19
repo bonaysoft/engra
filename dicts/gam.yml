@@ -1,5 +1,7 @@
 name: gam
 meaning: 婚姻
+tags:
+  - SOW
 children:
   - name: polygamy
     children:

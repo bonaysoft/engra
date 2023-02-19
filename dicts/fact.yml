@@ -1,5 +1,7 @@
 name: fact
 meaning: do，make做，作（fact也作fac）
+tags:
+  - SOW
 children:
   - name: fact
     children:

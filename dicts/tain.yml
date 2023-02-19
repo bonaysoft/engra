@@ -1,4 +1,7 @@
 name: tain
+meaning: hold握，持，守
+tags:
+  - SOW
 children:
   - name: contain
     children:

@@ -1,4 +1,7 @@
-name: nutr
+name: nutri
+meaning: 营养
+tags:
+  - SOW
 children:
   - name: nutrition
     children:

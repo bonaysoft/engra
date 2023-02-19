@@ -1,5 +1,7 @@
 name: cub
 meaning: 躺，卧
+tags:
+  - SOW
 children:
   - name: incubate
     children:

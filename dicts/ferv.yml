@@ -1,5 +1,7 @@
 name: ferv
 meaning: 沸，热
+tags:
+  - SOW
 children:
   - name: fervor
     children:

@@ -1,5 +1,7 @@
 name: anim
 meaning: 生命，活，心神，意见
+tags:
+  - SOW
 children:
   - name: animal
     children:

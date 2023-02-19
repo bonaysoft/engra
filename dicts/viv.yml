@@ -1,5 +1,7 @@
 name: viv
 meaning: live活
+tags:
+  - SOW
 children:
   - name: vivid
     children:

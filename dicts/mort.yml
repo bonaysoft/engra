@@ -1,5 +1,7 @@
 name: mort
 meaning: death死
+tags:
+  - SOW
 children:
   - name: mortal
     children:

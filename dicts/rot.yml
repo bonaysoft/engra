@@ -1,5 +1,7 @@
 name: rot
 meaning: 轮，转
+tags:
+  - SOW
 children:
   - name: rotate
     children:

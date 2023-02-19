@@ -1,5 +1,7 @@
 name: flu
 meaning: flow流
+tags:
+  - SOW
 children:
   - name: fluid
     children:

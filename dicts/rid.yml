@@ -1,5 +1,7 @@
 name: rid
 meaning: 笑
+tags:
+  - SOW
 children:
   - name: riddle
     children:

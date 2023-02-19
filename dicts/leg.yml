@@ -1,4 +1,7 @@
 name: leg
+meaning: 读、法、代理、委托、采集
+tags:
+  - SOW
 children:
   - name: college
     children:

@@ -1,4 +1,7 @@
 name: tent
+meaning: 延伸
+tags:
+  - SOW
 children:
   - name: intent
     children:

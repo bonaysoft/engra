@@ -1,5 +1,7 @@
 name: radic
 meaning: 根
+tags:
+  - SOW
 children:
   - name: radical
     children:

@@ -1,5 +1,7 @@
 name: clud
 meaning: close，shut关闭（clud也作clus）
+tags:
+  - SOW
 children:
   - name: include
     children:

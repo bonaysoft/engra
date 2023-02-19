@@ -1,5 +1,7 @@
 name: nav
 meaning: 船
+tags:
+  - SOW
 children:
   - name: navy
     children:

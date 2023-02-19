@@ -1,5 +1,7 @@
 name: tract
 meaning: draw拉，抽，引
+tags:
+  - SOW
 children:
   - name: tract
   - name: tractor

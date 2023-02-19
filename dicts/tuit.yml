@@ -1,4 +1,7 @@
 name: tuit
+meaning: 监护，看管
+tags:
+  - SOW
 children:
   - name: tuition
     children:

@@ -1,4 +1,7 @@
 name: helic
+meaning: 螺旋
+tags:
+  - SOW
 children:
   - name: helicopter
     children:

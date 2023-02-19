@@ -1,4 +1,7 @@
-name: cid-1
+name: cid
+meaning: cut，kill切，杀
+tags:
+  - SOW
 children:
   - name: decide
     children:

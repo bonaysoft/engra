@@ -1,5 +1,7 @@
 name: sat
 meaning: 足，满，饱
+tags:
+  - SOW
 children:
   - name: satisfy
     children:

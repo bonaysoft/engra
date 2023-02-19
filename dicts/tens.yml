@@ -1,4 +1,7 @@
 name: tens
+meaning: 延伸
+tags:
+  - SOW
 children:
   - name: tense
     children:

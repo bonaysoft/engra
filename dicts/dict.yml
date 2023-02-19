@@ -1,5 +1,7 @@
 name: dict
 meaning: say言，说（dict也作dic）
+tags:
+  - SOW
 children:
   - name: dictate
     children:

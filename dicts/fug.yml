@@ -1,5 +1,7 @@
 name: fug
 meaning: 逃，散
+tags:
+  - SOW
 children:
   - name: refuge
     children:

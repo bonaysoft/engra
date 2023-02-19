@@ -1,4 +1,7 @@
-name: cur-2
+name: cur(curs,cour,cours)
+meaning: run 跑
+tags:
+  - SOW
 children:
   - name: current
     children:

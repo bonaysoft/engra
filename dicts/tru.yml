@@ -1,6 +1,7 @@
 name: tru
+meaning: 忠诚的，真实的
 children:
-  - name: "true"
+  - name: true
     children:
       - name: truly
       - name: truth

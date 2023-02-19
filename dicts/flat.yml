@@ -1,5 +1,7 @@
 name: flat
 meaning: 吹
+tags:
+  - SOW
 children:
   - name: inflate
     children:

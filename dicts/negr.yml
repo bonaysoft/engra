@@ -1,5 +1,7 @@
 name: negr
 meaning: 黑
+tags:
+  - SOW
 children:
   - name: negro
     children:

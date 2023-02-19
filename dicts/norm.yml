@@ -1,5 +1,7 @@
 name: norm
 meaning: 规范，正规，正常
+tags:
+  - SOW
 children:
   - name: norm
     children:

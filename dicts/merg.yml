@@ -1,5 +1,7 @@
 name: merg
 meaning: dip，sink沉，没（merg也作mers）
+tags:
+  - SOW
 children:
   - name: merge
     children:

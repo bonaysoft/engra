@@ -1,5 +1,7 @@
 name: parl
 meaning: 说，谈
+tags:
+  - SOW
 children:
   - name: parliament
     children:

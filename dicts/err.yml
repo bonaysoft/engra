@@ -1,5 +1,7 @@
 name: err
 meaning: 漫游，走，行
+tags:
+  - SOW
 children:
   - name: err
     children:

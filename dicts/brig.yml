@@ -1,5 +1,7 @@
 name: brig
 meaning: 战斗，打
+tags:
+  - SOW
 children:
   - name: brigade
     children:

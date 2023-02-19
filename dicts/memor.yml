@@ -1,5 +1,7 @@
 name: memor
 meaning: memory记忆
+tags:
+  - SOW
 children:
   - name: memory
     children:

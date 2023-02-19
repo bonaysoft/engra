@@ -1,5 +1,7 @@
 name: orn
 meaning: 装饰
+tags:
+  - SOW
 children:
   - name: ornament
     children:

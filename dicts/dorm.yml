@@ -1,5 +1,7 @@
 name: dorm
 meaning: 睡眠
+tags:
+  - SOW
 children:
   - name: dormant
     children:

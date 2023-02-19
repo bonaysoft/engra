@@ -1,4 +1,7 @@
 name: ris
+meaning: 笑
+tags:
+  - SOW
 children:
   - name: rise
     children:

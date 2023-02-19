@@ -1,4 +1,7 @@
 name: duct
+meaning: lead引导
+tags:
+  - SOW
 children:
   - name: reduce
     children:

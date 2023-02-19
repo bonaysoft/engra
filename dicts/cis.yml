@@ -1,4 +1,7 @@
 name: cis
+meaning: 剪，切
+tags:
+  - SOW
 children:
   - name: precise
     children:

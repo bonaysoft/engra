@@ -1,4 +1,7 @@
 name: ros
+meaning: 咬，啮
+tags:
+  - SOW
 children:
   - name: rose
     children:

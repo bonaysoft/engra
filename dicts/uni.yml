@@ -1,4 +1,7 @@
 name: uni
+meaning: one一
+tags:
+  - SOW
 children:
   - name: unit
     children:

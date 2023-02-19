@@ -1,4 +1,7 @@
 name: pend
+meaning: hang悬挂
+tags:
+  - SOW
 children:
   - name: pendulum
     children:

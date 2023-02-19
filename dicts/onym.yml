@@ -1,5 +1,7 @@
 name: onym
 meaning: name名
+tags:
+  - SOW
 children:
   - name: anonymity
     children:

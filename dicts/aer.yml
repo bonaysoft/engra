@@ -1,4 +1,7 @@
 name: aer
+meaning: 空气，空中，航空
+tags:
+  - SOW
 children:
   - name: aerial
     children:

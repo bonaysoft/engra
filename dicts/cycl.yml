@@ -1,4 +1,7 @@
 name: cycl
+meaning: 圆，环，轮
+tags:
+  - SOW
 children:
   - name: cycle
     children:

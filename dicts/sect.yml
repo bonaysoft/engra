@@ -1,5 +1,7 @@
 name: sect
 meaning: cut切割
+tags:
+  - SOW
 children:
   - name: sect
     children:

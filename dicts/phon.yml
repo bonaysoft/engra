@@ -1,5 +1,7 @@
 name: phon
 meaning: sound声音
+tags:
+  - SOW
 children:
   - name: telephone
     children:

@@ -1,5 +1,7 @@
 name: son
 meaning: sound声音
+tags:
+  - SOW
 children:
   - name: sonic
     children:

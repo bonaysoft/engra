@@ -1,5 +1,7 @@
 name: milit
 meaning: soldier兵
+tags:
+  - SOW
 children:
   - name: military
     children:

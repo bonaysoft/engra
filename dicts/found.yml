@@ -1,4 +1,7 @@
 name: found
+meaning: 底，基础
+tags:
+  - SOW
 children:
   - name: found
     children:

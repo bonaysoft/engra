@@ -1,4 +1,5 @@
 name: ac
+meaning: 尖，酸
 children:
   - name: acid
     children:

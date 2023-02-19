@@ -1,5 +1,7 @@
 name: val
 meaning: 强
+tags:
+  - SOW
 children:
   - name: value
     children:

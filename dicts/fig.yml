@@ -1,4 +1,7 @@
 name: fig
+meaning: 制造，塑造，虚构
+tags:
+  - SOW
 children:
   - name: figure
     children:

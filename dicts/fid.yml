@@ -1,5 +1,7 @@
 name: fid
 meaning: 信任
+tags:
+  - SOW
 children:
   - name: fidelity
     children:

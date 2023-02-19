@@ -1,5 +1,7 @@
 name: mir
 meaning: wonder惊奇，惊异
+tags:
+  - SOW
 children:
   - name: mirror
     children:

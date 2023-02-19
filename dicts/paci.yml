@@ -1,4 +1,7 @@
-name: pac
+name: paci
+meaning: peace和平，平静
+tags:
+  - SOW
 children:
   - name: pacify
     children:

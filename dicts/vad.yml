@@ -1,4 +1,7 @@
-name: vad- = -vas
+name: vad(vas)
+meaning: walk，go行走
+tags:
+  - SOW
 children:
   - name: invade
     children:

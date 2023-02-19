@@ -1,5 +1,7 @@
 name: terr
 meaning: earth，land土地，陆地
+tags:
+  - SOW
 children:
   - name: territory
     children:

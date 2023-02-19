@@ -1,4 +1,7 @@
 name: fract
+meaning: 破，折
+tags:
+  - SOW
 children:
   - name: fraction
     children:

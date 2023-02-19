@@ -1,4 +1,7 @@
 name: vers
+meaning: turn转
+tags:
+  - SOW
 children:
   - name: verse
     children:

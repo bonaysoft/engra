@@ -1,5 +1,7 @@
 name: port
 meaning: carry拿，带，运
+tags:
+  - SOW
 children:
   - name: port
     children:

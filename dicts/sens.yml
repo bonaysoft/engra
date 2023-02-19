@@ -1,4 +1,7 @@
 name: sens
+meaning: feel感觉
+tags:
+  - SOW
 children:
   - name: sense
     children:

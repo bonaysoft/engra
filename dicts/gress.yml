@@ -1,5 +1,7 @@
 name: gress
 meaning: go，walk行走
+tags:
+  - SOW
 children:
   - name: progress
     children:

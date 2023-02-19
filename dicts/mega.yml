@@ -1,5 +1,7 @@
 name: mega
 meaning: 大
+tags:
+  - SOW
 children:
   - name: megaphone
   - name: megalith

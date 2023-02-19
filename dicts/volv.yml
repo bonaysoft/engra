@@ -1,4 +1,7 @@
 name: volv
+meaning: 滚，转
+tags:
+  - SOW
 children:
   - name: involve
     children:

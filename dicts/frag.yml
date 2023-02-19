@@ -1,4 +1,7 @@
 name: frag
+meaning: 破，折
+tags:
+  - SOW
 children:
   - name: fragile
     children:

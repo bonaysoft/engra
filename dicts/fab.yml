@@ -1,4 +1,7 @@
 name: fab
+meaning: 言
+tags:
+  - SOW
 children:
   - name: fable
     children:

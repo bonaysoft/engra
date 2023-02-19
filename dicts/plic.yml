@@ -1,5 +1,7 @@
 name: plic
 meaning: fold折，重叠
+tags:
+  - SOW
 children:
   - name: complicate
     children:

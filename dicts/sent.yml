@@ -1,4 +1,5 @@
 name: sent
+meaning: 存在
 children:
   - name: present
     children:

@@ -1,5 +1,7 @@
 name: integr
 meaning: 整，全
+tags:
+  - SOW
 children:
   - name: integral
     children:

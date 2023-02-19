@@ -1,4 +1,7 @@
 name: curs
+meaning: 流、跑
+tags:
+  - SOW
 children:
   - name: cursory
     children:

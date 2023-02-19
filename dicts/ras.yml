@@ -1,5 +1,7 @@
-name: ras
+name: ras(rad)
 meaning: 擦，刮
+tags:
+  - SOW
 children:
   - name: erase
     children:
@@ -9,3 +11,13 @@ children:
       - name: erasable
       - name: erasure
       - name: erasion
+  - name: abrade
+    children:
+      - name: abradant
+  - name: abrase
+    children:
+      - name: abrasion
+      - name: abrasive
+  - name: raze
+    children:
+      - name: razor

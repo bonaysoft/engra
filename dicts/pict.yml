@@ -1,5 +1,7 @@
 name: pict
 meaning: paint画，描绘
+tags:
+  - SOW
 children:
   - name: picture
     children:

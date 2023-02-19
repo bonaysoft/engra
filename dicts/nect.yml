@@ -1,5 +1,7 @@
 name: nect
 meaning: 结，系
+tags:
+  - SOW
 children:
   - name: connect
     children:

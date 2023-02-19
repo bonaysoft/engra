@@ -1,5 +1,7 @@
 name: lingu
 meaning: language语言
+tags:
+  - SOW
 children:
   - name: linguist
     children:

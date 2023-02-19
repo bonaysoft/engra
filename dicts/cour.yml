@@ -1,4 +1,7 @@
 name: cour
+meaning: 心(脏)
+tags:
+  - SOW
 children:
   - name: courage
     children:

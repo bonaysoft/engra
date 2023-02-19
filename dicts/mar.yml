@@ -1,5 +1,7 @@
 name: mar
 meaning: sea海
+tags:
+  - SOW
 children:
   - name: marine
     children:

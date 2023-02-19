@@ -1,5 +1,7 @@
 name: pet
 meaning: seek追求
+tags:
+  - SOW
 children:
   - name: petition
     children:

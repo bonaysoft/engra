@@ -1,5 +1,7 @@
 name: equ
 meaning: equal等，均，平
+tags:
+  - SOW
 children:
   - name: equal
     children:

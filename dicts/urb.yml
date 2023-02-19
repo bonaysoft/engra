@@ -1,5 +1,7 @@
 name: urb
 meaning: city城市
+tags:
+  - SOW
 children:
   - name: urban
     children:

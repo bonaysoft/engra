@@ -1,5 +1,7 @@
 name: plex
 meaning: 重叠，重
+tags:
+  - SOW
 children:
   - name: duplex
     children:

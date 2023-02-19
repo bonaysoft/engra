@@ -1,5 +1,7 @@
 name: luc
 meaning: 光
+tags:
+  - SOW
 children:
   - name: lucid
     children:

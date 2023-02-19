@@ -1,5 +1,7 @@
 name: rud
 meaning: 原始，粗野
+tags:
+  - SOW
 children:
   - name: rude
     children:

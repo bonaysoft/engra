@@ -1,4 +1,7 @@
 name: dem
+meaning: 人民
+tags:
+  - SOW
 children:
   - name: democracy
     children:

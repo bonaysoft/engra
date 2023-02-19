@@ -1,4 +1,7 @@
 name: vert
+meaning: turn转
+tags:
+  - SOW
 children:
   - name: advertise
     children:

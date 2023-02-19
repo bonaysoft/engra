@@ -1,5 +1,7 @@
 name: ton
 meaning: 音
+tags:
+  - SOW
 children:
   - name: tone
     children:

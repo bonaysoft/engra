@@ -1,4 +1,7 @@
-name: man-
+name: man
+meaning: hand手
+tags:
+  - SOW
 children:
   - name: manage
     children:

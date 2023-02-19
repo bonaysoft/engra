@@ -1,5 +1,7 @@
 name: tort
 meaning: 扭
+tags:
+  - SOW
 children:
   - name: tort
     children:

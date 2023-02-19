@@ -1,5 +1,7 @@
 name: vag
 meaning: 走，漫游
+tags:
+  - SOW
 children:
   - name: vague
     children:

@@ -1,4 +1,7 @@
 name: tag
+meaning: 触
+tags:
+  - SOW
 children:
   - name: contagion
     children:

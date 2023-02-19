@@ -1,0 +1,21 @@
+name: arch
+meaning: 统治者，首脑；archy 统治
+children:
+  - name: anarchy
+    children:
+      - name: anarchism
+      - name: anarchist
+  - name: monarch
+    children:
+      - name: monarchy
+        children:
+          - name: monarchic
+          - name: monarchism
+  - name: polyarchy
+  - name: oligarchy
+  - name: plutarchy
+  - name: gynarchy
+  - name: patriarch
+  - name: patriarchy
+  - name: matriarch
+  - name: matriarchy

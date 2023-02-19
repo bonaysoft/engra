@@ -1,5 +1,7 @@
-name: rur
+name: rur(rus)
 meaning: 农村
+tags:
+  - SOW
 children:
   - name: rural
     children:
@@ -7,3 +9,8 @@ children:
       - name: ruralist
       - name: ruralism
       - name: ruralize
+  - name: rustic
+    children:
+      - name: rusticity
+      - name: rusticate
+      - name: rustication

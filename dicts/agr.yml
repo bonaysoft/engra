@@ -1,4 +1,7 @@
 name: agr
+meaning: field田地，农田
+tags:
+  - SOW
 children:
   - name: agriculture
     children:
@@ -7,7 +10,20 @@ children:
         children:
           - name: agriculturalist
           - name: nonagricultural
+  - name: agricorporation
+  - name: agrimotor
+  - name: agronomy
+    children:
+      - name: agronomic
+      - name: agronomist
+  - name: agrology
+  - name: agrobiology
+  - name: agrotechnique
+  - name: agro-town
+  - name: agro-industry
+  - name: agrochemicals
   - name: agrarian
     children:
       - name: agrarianism
       - name: agrarianize
+  - name: agrestic

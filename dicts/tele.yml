@@ -1,5 +1,7 @@
 name: tele
 meaning: far远
+tags:
+  - SOW
 children:
   - name: telescope
     children:

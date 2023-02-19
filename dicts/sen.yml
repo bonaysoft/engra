@@ -1,5 +1,7 @@
 name: sen
 meaning: 老
+tags:
+  - SOW
 children:
   - name: senior
     children:

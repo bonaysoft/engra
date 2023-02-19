@@ -1,5 +1,7 @@
 name: oper
 meaning: work工作
+tags:
+  - SOW
 children:
   - name: operate
     children:

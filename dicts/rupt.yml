@@ -1,5 +1,7 @@
 name: rupt
 meaning: break破
+tags:
+  - SOW
 children:
   - name: erupt
     children:

@@ -1,4 +1,7 @@
 name: vi
+meaning: way路
+tags:
+  - SOW
 children:
   - name: previous
     children:

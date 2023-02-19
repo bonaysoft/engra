@@ -1,5 +1,7 @@
 name: phag
 meaning: 吃
+tags:
+  - SOW
 children:
   - name: esophagus
     children:

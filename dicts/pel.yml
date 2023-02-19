@@ -1,5 +1,7 @@
 name: pel
 meaning: push，drive推，逐，驱
+tags:
+  - SOW
 children:
   - name: impel
     children:

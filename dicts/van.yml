@@ -1,5 +1,7 @@
 name: van
 meaning: 空，无
+tags:
+  - SOW
 children:
   - name: vanish
     children:

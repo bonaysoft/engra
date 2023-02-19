@@ -1,4 +1,7 @@
 name: patr
+meaning: 父，祖
+tags:
+  - SOW
 children:
   - name: patron
     children:

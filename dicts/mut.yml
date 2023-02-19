@@ -1,5 +1,7 @@
 name: mut
 meaning: 变换
+tags:
+  - SOW
 children:
   - name: mutual
     children:

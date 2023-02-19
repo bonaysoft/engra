@@ -1,5 +1,7 @@
 name: punct
 meaning: point，prick点，刺
+tags:
+  - SOW
 children:
   - name: punctuate
     children:

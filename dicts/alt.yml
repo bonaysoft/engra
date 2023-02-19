@@ -1,5 +1,7 @@
 name: alt
 meaning: 高
+tags:
+  - SOW
 children:
   - name: altitude
     children:

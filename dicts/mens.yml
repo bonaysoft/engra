@@ -1,5 +1,7 @@
 name: mens
 meaning: 测量
+tags:
+  - SOW
 children:
   - name: dimension
     children:

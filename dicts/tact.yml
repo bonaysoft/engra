@@ -1,5 +1,7 @@
 name: tact
 meaning: 触
+tags:
+  - SOW
 children:
   - name: tact
     children:

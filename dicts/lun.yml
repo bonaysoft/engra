@@ -1,5 +1,7 @@
 name: lun
 meaning: moon月亮
+tags:
+  - SOW
 children:
   - name: lunar
     children:

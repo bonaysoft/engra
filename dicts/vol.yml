@@ -1,5 +1,7 @@
 name: vol
 meaning: 意志，意愿
+tags:
+  - SOW
 children:
   - name: benevolence
     children:

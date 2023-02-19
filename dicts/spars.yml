@@ -1,4 +1,7 @@
 name: spars
+meaning: 散，撒
+tags:
+  - SOW
 children:
   - name: sparse
     children:

@@ -1,4 +1,7 @@
-name: prec
+name: preci
+meaning: price价值
+tags:
+  - SOW
 children:
   - name: precious
     children:

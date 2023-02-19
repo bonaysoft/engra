@@ -1,5 +1,7 @@
 name: gram
 meaning: write，something written or drawn写，画，文字，图形
+tags:
+  - SOW
 children:
   - name: grammar
     children:

@@ -1,5 +1,7 @@
 name: ven
 meaning: come来
+tags:
+  - SOW
 children:
   - name: revenue
     children:

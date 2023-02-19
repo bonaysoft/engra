@@ -1,5 +1,7 @@
-name: trud
+name: trud(trus)
 meaning: 推，冲
+tags:
+  - SOW
 children:
   - name: intrude
     children:

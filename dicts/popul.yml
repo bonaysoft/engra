@@ -1,5 +1,7 @@
 name: popul
 meaning: people人民
+tags:
+  - SOW
 children:
   - name: popular
     children:

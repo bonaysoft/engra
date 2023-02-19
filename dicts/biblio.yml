@@ -1,4 +1,7 @@
-name: bibl
+name: biblio
+meaning: 书
+tags:
+  - SOW
 children:
   - name: bibliography
     children:

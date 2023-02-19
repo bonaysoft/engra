@@ -1,5 +1,7 @@
 name: bat
 meaning: 打
+tags:
+  - SOW
 children:
   - name: bat
     children:

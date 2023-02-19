@@ -1,4 +1,7 @@
 name: flex
+meaning: 弯曲
+tags:
+  - SOW
 children:
   - name: flex
     children:

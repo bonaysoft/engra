@@ -1,5 +1,7 @@
 name: sper
 meaning: 希望
+tags:
+  - SOW
 children:
   - name: prosper
     children:

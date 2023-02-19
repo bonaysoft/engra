@@ -1,4 +1,7 @@
 name: us
+meaning: 用
+tags:
+  - SOW
 children:
   - name: use
     children:

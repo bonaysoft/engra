@@ -1,5 +1,7 @@
 name: idio
 meaning: peculiar，own，private，proper特殊的，个人的，专有的
+tags:
+  - SOW
 children:
   - name: idiot
     children:

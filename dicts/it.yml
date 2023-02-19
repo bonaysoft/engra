@@ -1,5 +1,7 @@
 name: it
 meaning: go行走
+tags:
+  - SOW
 children:
   - name: exit
     children:

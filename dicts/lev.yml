@@ -1,5 +1,7 @@
 name: lev
 meaning: raise举，升
+tags:
+  - SOW
 children:
   - name: lever
     children:

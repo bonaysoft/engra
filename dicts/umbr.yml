@@ -1,5 +1,7 @@
 name: umbr
 meaning: 阴影
+tags:
+  - SOW
 children:
   - name: umbra
     children:

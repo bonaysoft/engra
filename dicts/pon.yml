@@ -1,5 +1,7 @@
 name: pon
 meaning: put放置
+tags:
+  - SOW
 children:
   - name: component
     children:

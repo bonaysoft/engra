@@ -1,5 +1,7 @@
 name: stell
 meaning: 星
+tags:
+  - SOW
 children:
   - name: stellar
     children:

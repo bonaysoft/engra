@@ -1,5 +1,7 @@
 name: cert
 meaning: 确实，确信
+tags:
+  - SOW
 children:
   - name: certain
     children:

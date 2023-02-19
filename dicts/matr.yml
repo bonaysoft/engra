@@ -1,7 +1,19 @@
-name: matr
+name: matr(metro)
+meaning: 母
+tags:
+  - SOW
 children:
+  - name: matriarch
+    children:
+      - name: matriarchy
+  - name: matrimony
+    children:
+      - name: matrimonial
   - name: matron
     children:
       - name: matronly
       - name: matronage
   - name: matrix
+  - name: maternal
+    children:
+      - name: maternity

@@ -1,4 +1,7 @@
-name: mon-1
+name: mon
+meaning: 告诫，提醒
+tags:
+  - SOW
 children:
   - name: money
     children:

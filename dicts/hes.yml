@@ -1,4 +1,7 @@
 name: hes
+meaning: 黏着，犹豫
+tags:
+  - SOW
 children:
   - name: hesitate
     children:

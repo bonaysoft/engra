@@ -1,4 +1,7 @@
 name: cas
+meaning: 落下，降临，发生
+tags:
+  - SOW
 children:
   - name: case
     children:

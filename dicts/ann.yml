@@ -1,5 +1,7 @@
 name: ann
 meaning: year年（ann也作enn）
+tags:
+  - SOW
 children:
   - name: annal
     children:
