@@ -21,6 +21,14 @@ import (
 	"gorm.io/gorm"
 )
 
+func startsWithNum(txt string) bool {
+	if len(txt) == 0 {
+		return false
+	}
+
+	return txt[0] >= 48 && txt[0] <= 57
+}
+
 func main() {
 	di, err := dict.NewDict()
 	if err != nil {
@@ -34,8 +42,13 @@ func main() {
 	}
 
 	var count int
-	var mnemonic, meaning string
+	var mnemonic, meaning, root string
 	for _, row := range rows {
+		if startsWithNum(row) {
+			root = row
+			fmt.Println(root)
+		}
+
 		mnemonic = ""
 		meaning = ""
 		items := strings.Split(row, "　")
@@ -52,23 +65,25 @@ func main() {
 		} else {
 			meaning = other[peIdx:]
 		}
-		v, err := di.Find(word)
+		_, err := di.Find(word)
 		if err != nil {
+			count++
+			fmt.Printf("word: %s, phonetic: %s, constitute: %s, meaning: %s\n", word, phonetic, mnemonic, meaning)
 			continue
 		}
 
-		vv, ok := v.Find(word)
-		if !ok {
-			return
-		}
-
-		vv.Phonetic = phonetic
-		vv.Meaning = meaning
-		vv.Mnemonic = mnemonic
-		v.Save()
-
-		count++
-		fmt.Printf("word: %s, phonetic: %s, constitute: %s, meaning: %s\n", word, phonetic, mnemonic, meaning)
+		// vv, ok := v.Find(word)
+		// if !ok {
+		// 	return
+		// }
+		//
+		// vv.Phonetic = phonetic
+		// vv.Meaning = meaning
+		// vv.Mnemonic = mnemonic
+		// v.Save()
+		//
+		// count++
+		fmt.Sprintf("word: %s, phonetic: %s, constitute: %s, meaning: %s\n", word, phonetic, mnemonic, meaning)
 	}
 	fmt.Println(count)
 

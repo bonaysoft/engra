@@ -15,7 +15,7 @@ type WordRoot struct {
 }
 
 func NewWordRoot(name string) (*WordRoot, error) {
-	path := "./dicts/" + name + ".yml"
+	path := "./dict/roots/" + name + ".yml"
 	content, err := script.File(path).Bytes()
 	if err != nil {
 		return nil, err

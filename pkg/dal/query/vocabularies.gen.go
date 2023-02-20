@@ -31,8 +31,11 @@ func newVocabulary(db *gorm.DB, opts ...gen.DOOption) vocabulary {
 	_vocabulary.Name = field.NewString(tableName, "name")
 	_vocabulary.Tag = field.NewString(tableName, "tag")
 	_vocabulary.Root = field.NewString(tableName, "root")
-	_vocabulary.Prefix = field.NewString(tableName, "prefix")
-	_vocabulary.Suffix = field.NewString(tableName, "suffix")
+	_vocabulary.Status = field.NewString(tableName, "status")
+	_vocabulary.Parts = field.NewString(tableName, "parts")
+	_vocabulary.Intro = field.NewString(tableName, "intro")
+	_vocabulary.Etymology = field.NewString(tableName, "etymology")
+	_vocabulary.NoRoot = field.NewBool(tableName, "no_root")
 
 	_vocabulary.fillFieldMap()
 
@@ -42,13 +45,16 @@ func newVocabulary(db *gorm.DB, opts ...gen.DOOption) vocabulary {
 type vocabulary struct {
 	vocabularyDo
 
-	ALL    field.Asterisk
-	Id     field.Int
-	Name   field.String
-	Tag    field.String
-	Root   field.String
-	Prefix field.String
-	Suffix field.String
+	ALL       field.Asterisk
+	Id        field.Int
+	Name      field.String
+	Tag       field.String
+	Root      field.String
+	Status    field.String
+	Parts     field.String
+	Intro     field.String
+	Etymology field.String
+	NoRoot    field.Bool
 
 	fieldMap map[string]field.Expr
 }
@@ -69,8 +75,11 @@ func (v *vocabulary) updateTableName(table string) *vocabulary {
 	v.Name = field.NewString(table, "name")
 	v.Tag = field.NewString(table, "tag")
 	v.Root = field.NewString(table, "root")
-	v.Prefix = field.NewString(table, "prefix")
-	v.Suffix = field.NewString(table, "suffix")
+	v.Status = field.NewString(table, "status")
+	v.Parts = field.NewString(table, "parts")
+	v.Intro = field.NewString(table, "intro")
+	v.Etymology = field.NewString(table, "etymology")
+	v.NoRoot = field.NewBool(table, "no_root")
 
 	v.fillFieldMap()
 
@@ -87,13 +96,16 @@ func (v *vocabulary) GetFieldByName(fieldName string) (field.OrderExpr, bool) {
 }
 
 func (v *vocabulary) fillFieldMap() {
-	v.fieldMap = make(map[string]field.Expr, 6)
+	v.fieldMap = make(map[string]field.Expr, 9)
 	v.fieldMap["id"] = v.Id
 	v.fieldMap["name"] = v.Name
 	v.fieldMap["tag"] = v.Tag
 	v.fieldMap["root"] = v.Root
-	v.fieldMap["prefix"] = v.Prefix
-	v.fieldMap["suffix"] = v.Suffix
+	v.fieldMap["status"] = v.Status
+	v.fieldMap["parts"] = v.Parts
+	v.fieldMap["intro"] = v.Intro
+	v.fieldMap["etymology"] = v.Etymology
+	v.fieldMap["no_root"] = v.NoRoot
 }
 
 func (v vocabulary) clone(db *gorm.DB) vocabulary {
