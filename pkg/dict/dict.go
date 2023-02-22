@@ -8,6 +8,7 @@ import (
 	"strings"
 
 	"github.com/bitfield/script"
+	"github.com/bonaysoft/engra/apis/graph/model"
 	"github.com/bonaysoft/engra/dict"
 	"github.com/olekukonko/tablewriter"
 )
@@ -27,6 +28,15 @@ func NewDict() (*Dict, error) {
 		roots:        roots,
 		LevelCounter: NewLevelCounter(),
 	}, nil
+}
+
+func (d *Dict) Find(name string) (*model.Vocabulary, error) {
+	v, err := d.roots.Find(name)
+	if err != nil {
+		return nil, err
+	}
+
+	return v.Vocabulary, nil
 }
 
 // BuildWordsMd 将词库单词与词根进行匹配，然后将词库数据汇总到一个md文件中

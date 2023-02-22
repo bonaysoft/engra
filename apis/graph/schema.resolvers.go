@@ -13,8 +13,7 @@ import (
 
 // Vocabularies is the resolver for the vocabularies field.
 func (r *queryResolver) Vocabularies(ctx context.Context, name string) (*model.Vocabulary, error) {
-	panic(1)
-	// return r.Find(name)
+	return r.Find(name)
 }
 
 // Vocabulary is the resolver for the vocabulary field.
