@@ -1,0 +1,35 @@
+query Find($word: String!) {
+    vocabulary(name: $word) {
+        self{
+            ...vocabularyWithChildren
+        }
+        root{
+            ...vocabularyWithChildren
+        }
+    }
+}
+
+fragment vocabulary on Vocabulary {
+    name
+    phonetic
+    mnemonic
+    meaning
+    tags
+    constitute
+}
+
+fragment vocabularyWithChildren on Vocabulary {
+    ...vocabulary
+    children {
+        ...vocabulary
+        children {
+            ...vocabulary
+            children {
+                ...vocabulary
+                children {
+                    ...vocabulary
+                }
+            }
+        }
+    }
+}

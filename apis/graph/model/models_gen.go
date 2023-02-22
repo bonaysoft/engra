@@ -2,9 +2,10 @@
 
 package model
 
-import (
-	"strconv"
-)
+type Result struct {
+	Self *Vocabulary `json:"self"`
+	Root *Vocabulary `json:"root"`
+}
 
 type Vocabulary struct {
 	Name       string        `json:"name"`
@@ -14,29 +15,4 @@ type Vocabulary struct {
 	Meaning    string        `json:"meaning" yaml:"meaning,omitempty"`
 	Tags       []string      `json:"tags" yaml:"tags,omitempty"`
 	Children   []*Vocabulary `json:"children" yaml:"children,omitempty"`
-}
-
-func (n *Vocabulary) Status() string {
-	var score int
-	if n.Phonetic != "" {
-		score++
-	}
-	if n.Meaning != "" {
-		score++
-	}
-	if n.Mnemonic != "" {
-		score++
-	}
-	if len(n.Constitute) > 0 {
-		score++
-	}
-	if len(n.Children) > 0 {
-		score++
-	}
-
-	if score > 0 {
-		return strconv.Itoa(score)
-	}
-
-	return "-"
 }

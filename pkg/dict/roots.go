@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/samber/lo"
+	"github.com/bonaysoft/engra/apis/graph/model"
 )
 
 type Roots struct {
@@ -35,11 +35,20 @@ func NewRoots() (*Roots, error) {
 	return &Roots{trees: trees}, nil
 }
 
-func (d *Roots) Find(word string) (*WordRoot, error) {
-	v, ok := lo.Find(d.trees, func(n *WordRoot) bool { return n.Exist(word) })
-	if !ok {
-		return nil, fmt.Errorf("[%s] not found at tree", word)
+func (d *Roots) Find(wordStr string) (*model.Vocabulary, *model.Vocabulary, error) {
+	var word, root *model.Vocabulary
+	for _, tree := range d.trees {
+		v, ok := tree.Find(wordStr)
+		if ok {
+			word = v
+			root = tree.Vocabulary
+			break
+		}
 	}
 
-	return v, nil
+	if word == nil {
+		return nil, nil, fmt.Errorf("not found")
+	}
+
+	return word, root, nil
 }

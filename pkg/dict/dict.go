@@ -10,7 +10,9 @@ import (
 	"github.com/bitfield/script"
 	"github.com/bonaysoft/engra/apis/graph/model"
 	"github.com/bonaysoft/engra/dict"
+	model2 "github.com/bonaysoft/engra/pkg/dal/model"
 	"github.com/olekukonko/tablewriter"
+	"github.com/samber/lo"
 )
 
 type Dict struct {
@@ -30,13 +32,18 @@ func NewDict() (*Dict, error) {
 	}, nil
 }
 
-func (d *Dict) Find(name string) (*model.Vocabulary, error) {
-	v, err := d.roots.Find(name)
+func (d *Dict) Find(name string) (*model.Vocabulary, *model.Vocabulary, error) {
+	v, wr, err := d.roots.Find(name)
 	if err != nil {
-		return nil, err
+		return nil, nil, err
 	}
 
-	return v.Vocabulary, nil
+	word, ok := lo.Find(dict.GetWords(), func(item model2.Vocabulary) bool { return item.Name == name })
+	if ok {
+		v.Tags = strings.Split(word.Tag, ",")
+	}
+
+	return v, wr, err
 }
 
 // BuildWordsMd 将词库单词与词根进行匹配，然后将词库数据汇总到一个md文件中
@@ -45,14 +52,13 @@ func (d *Dict) BuildWordsMd() error {
 	rows := make([][]string, 0)
 	words := dict.GetWords()
 	for idx, word := range words {
-		wr, _ := d.roots.Find(word.Name)
+		wr, v, _ := d.roots.Find(word.Name)
 		if wr != nil {
 			if words[idx].Root != "" {
 				words[idx].Root += "," + wr.Name
 			} else {
 				words[idx].Root += wr.Name
 			}
-			v, _ := wr.Find(word.Name)
 			words[idx].Status = v.Status()
 			count++
 		}
@@ -83,7 +89,7 @@ func (d *Dict) BuildSummary() error {
 	words := dict.GetWords()
 	for _, word := range words {
 		tags := strings.Split(word.Tag, ",")
-		_, err := d.roots.Find(word.Name)
+		_, _, err := d.roots.Find(word.Name)
 		d.LevelCounter.Count(tags, err == nil)
 	}
 

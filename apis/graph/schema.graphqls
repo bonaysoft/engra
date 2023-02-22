@@ -17,10 +17,13 @@ type Vocabulary  {
     children: [Vocabulary!] @goTag(key: "yaml",value: "children,omitempty")
 }
 
-type Query {
-    vocabularies(name: String!): Vocabulary!
+type Result{
+    self: Vocabulary!
+    root: Vocabulary!
+}
 
-    vocabulary(name: String!): Vocabulary!
+type Query {
+    vocabulary(name: String!): Result!
 }
 #
 #input NewTodo {

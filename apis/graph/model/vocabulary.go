@@ -1,24 +1,36 @@
 package model
 
 import (
-	"github.com/samber/lo"
+	"strconv"
 )
 
 func NewVocabulary() *Vocabulary {
 	return &Vocabulary{}
 }
 
-func (n *Vocabulary) Exist(word string) bool {
-	if n.Name == word {
-		return true
+func (n *Vocabulary) Status() string {
+	var score int
+	if n.Phonetic != "" {
+		score++
+	}
+	if n.Meaning != "" {
+		score++
+	}
+	if n.Mnemonic != "" {
+		score++
+	}
+	if len(n.Constitute) > 0 {
+		score++
+	}
+	if len(n.Children) > 0 {
+		score++
 	}
 
-	if len(n.Children) == 0 {
-		return false
+	if score > 0 {
+		return strconv.Itoa(score)
 	}
 
-	_, ok := lo.Find(n.Children, func(item *Vocabulary) bool { return item.Exist(word) })
-	return ok
+	return "-"
 }
 
 func (n *Vocabulary) Find(word string) (*Vocabulary, bool) {
