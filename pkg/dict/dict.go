@@ -33,17 +33,18 @@ func NewDict() (*Dict, error) {
 }
 
 func (d *Dict) Find(name string) (*model.Vocabulary, *model.Vocabulary, error) {
-	v, wr, err := d.roots.Find(name)
-	if err != nil {
-		return nil, nil, err
-	}
-
 	word, ok := lo.Find(dict.GetWords(), func(item model2.Vocabulary) bool { return item.Name == name })
-	if ok {
-		v.Tags = strings.Split(word.Tag, ",")
+	if !ok {
+		return nil, nil, fmt.Errorf("not found: %v", name)
 	}
 
-	return v, wr, err
+	v, wr, _ := d.roots.Find(name)
+	if v == nil {
+		return &model.Vocabulary{Name: name, Tags: strings.Split(word.Tag, ",")}, &model.Vocabulary{}, nil
+	}
+
+	v.Tags = strings.Split(word.Tag, ",")
+	return v, wr, nil
 }
 
 // BuildWordsMd 将词库单词与词根进行匹配，然后将词库数据汇总到一个md文件中
