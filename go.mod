@@ -4,10 +4,10 @@ go 1.19
 
 require (
 	github.com/99designs/gqlgen v0.17.24
+	github.com/Khan/genqlient v0.5.0
 	github.com/antchfx/htmlquery v1.3.0
 	github.com/bitfield/script v0.21.4
 	github.com/go-resty/resty/v2 v2.7.0
-	github.com/gocarina/gocsv v0.0.0-20230219202803-bcce7dc8d0bb
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/samber/lo v1.37.0
 	github.com/spf13/cobra v1.6.1
@@ -22,17 +22,15 @@ require (
 	gorm.io/plugin/dbresolver v1.3.0
 )
 
+
 require (
 	bitbucket.org/creachadair/shell v0.0.7 // indirect
-	github.com/Khan/genqlient v0.5.0 // indirect
 	github.com/agnivade/levenshtein v1.1.1 // indirect
-	github.com/alexflint/go-arg v1.4.2 // indirect
-	github.com/alexflint/go-scalar v1.0.0 // indirect
 	github.com/antchfx/xpath v1.2.3 // indirect
-	github.com/bradleyjkemp/cupaloy/v2 v2.6.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/go-sql-driver/mysql v1.6.0 // indirect
+	github.com/gocarina/gocsv v0.0.0-20230223115542-dc4ee9de5fe2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/gorilla/websocket v1.5.0 // indirect
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
@@ -59,7 +57,6 @@ require (
 	golang.org/x/text v0.6.0 // indirect
 	golang.org/x/tools v0.1.12 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
-	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gorm.io/datatypes v1.0.7 // indirect
 	gorm.io/hints v1.1.0 // indirect
 )

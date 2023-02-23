@@ -3,10 +3,13 @@
 schema: graph/*.graphqls
 operations:
   - genqlient.graphql
-generated: ../client/generated.go
+generated: ../pkg/client/generated.go
 
 bindings:
   DateTime:
     type: time.Time
 
-client_getter: "github.com/bonaysoft/engra/client/context.GetClient"
+client_getter: "github.com/bonaysoft/engra/pkg/client/context.GetClient"
+
+package_bindings:
+  - package: github.com/bonaysoft/engra/apis/graph/model
