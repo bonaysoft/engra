@@ -27,6 +27,14 @@ children:
             phonetic: ［ˌdekli'neiʃən］
             mnemonic: n.【见上，-ation 抽象名词后缀】
             meaning: 倾斜，下倾；衰落
+      - name: declinal
+        phonetic: ［di'klainəl］
+        mnemonic: adj.【见-decline，-al …的】
+        meaning: 倾斜的，下倾的
+      - name: declension
+        phonetic: ［di'klenʃən］
+        mnemonic: n.【de-加强意义，clen←clin 倾（音变：i → e），-sion抽象名词后缀】
+        meaning: 倾斜；衰落，衰退
   - name: recline
     phonetic: ［ri'klain］
     mnemonic: v.【re-向后，clin 倾斜】
@@ -34,6 +42,10 @@ children:
     children:
       - name: recliner
       - name: reclining
+      - name: reclination
+        phonetic: ［ˌreklə'neiʃən］
+        mnemonic: n.【见上，-ation 抽象名词后缀】
+        meaning: 斜倚；躺
   - name: incline
     phonetic: ［in'klain］
     mnemonic: v.【in-加强意义，clin 倾】

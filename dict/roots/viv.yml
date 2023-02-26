@@ -47,3 +47,27 @@ children:
           - name: survivable
             children:
               - name: survivability
+  - name: vivacious
+    phonetic: ［vi'veiʃəs］
+    mnemonic: adj.【viv 活，-acious 形容词后缀，…的】
+    meaning: 活泼的，有生气的
+  - name: vivacity
+    phonetic: ［vi'væsəti］
+    mnemonic: n.【viv 活，-acity 名词后缀，表示情况、状态】
+    meaning: 活泼，有生气
+  - name: vivify
+    phonetic: ［'vivifai］
+    mnemonic: v.【vivi = viv 活，-fy 使…】
+    meaning: 使活跃，使有生气
+  - name: vivarium
+    phonetic: ［vai'vɛəriəm］
+    mnemonic: n.【viv 活 → 活物，生物，动植物，-arium 表示场所】
+    meaning: （造成自然环境状态的）动物（或植物）园
+  - name: vivisect
+    phonetic: ［ˌvivi'sekt］
+    mnemonic: v.【viv(i)活 → 活体，sect 切，割 → 解剖】
+    meaning: 解剖（动物活体），进行动物活体解剖
+  - name: vivisection
+    phonetic: ［ˌvivi'sekʃən］
+    mnemonic: n.【见上，-ion 名词后缀，表示行为】
+    meaning: 活体解剖

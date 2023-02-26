@@ -29,3 +29,55 @@ children:
             mnemonic: n.【见上，-ancy 名词后缀】
             meaning: 踌躇；犹豫
           - name: hesitance
+  - name: adhere
+    phonetic: ［əd'hiə］
+    mnemonic: v.【ad-表示at，to，her 黏】
+    meaning: 黏附，胶着；依附
+  - name: adherent
+    phonetic: ［əd'hiərənt］
+    mnemonic: adj.【见上，-ent …的】
+    meaning: 黏着的；附着的
+  - name: adhesion
+    phonetic: ［əd'hi:ʒən］
+    mnemonic: n.【ad-表示at，to，hes 黏】
+    meaning: 黏着；黏合；附着
+  - name: adhesive
+    phonetic: ［əd'hi:siv］
+    mnemonic: adj.【见上，-ive 有…的】
+    meaning: 有黏合性的，黏着的
+  - name: cohere
+    phonetic: ［kəu'hiə］
+    mnemonic: v.【co-共同，一起，her 黏；“黏在一起”】
+    meaning: 黏着，附着
+  - name: coherent
+    phonetic: ［kəu'hiərənt］
+    mnemonic: adj.【见上，-ent …的】
+    meaning: 黏着的；附着的；相连的
+  - name: coherence
+    phonetic: ［kəu'hiərəns］
+    mnemonic: n.【见上，-ence 名词后缀】
+    meaning: 黏着；黏合性；相连，连贯
+  - name: cohesible
+    phonetic: ［ˌkəu'hi:zibl］
+    mnemonic: adj.【co-共同，一起，hes 黏，-ible 可…的】
+    meaning: 可黏着的
+  - name: cohesion
+    phonetic: ［kəu'hi:ʒən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 黏着；黏合；结合
+  - name: cohesive
+    phonetic: ［kəu'hi:siv］
+    mnemonic: adj.【见上，-ive …的】
+    meaning: 黏着的；紧密结合在一起的
+  - name: incoherent
+    phonetic: ［ˌinkəu'hiərənt］
+    mnemonic: adj.【in-不，coherent 黏着的】
+    meaning: 无凝聚力的；松散的
+  - name: inhere
+    phonetic: ［in'hiə］
+    mnemonic: v.【in-加强意义，her 黏；“黏在一起” → 相连，并存 → 原来就存在】
+    meaning: 生来就存在于，原来就有
+  - name: inherent
+    phonetic: ［in'hiərənt］
+    mnemonic: adj.【见上，-ent …的】
+    meaning: 生来的，固有的，原有的

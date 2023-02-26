@@ -26,3 +26,55 @@ children:
         children:
           - name: revolutionized
       - name: counterrevolution
+  - name: voluble
+    phonetic: ［'vɔljubl］
+    mnemonic: adj.【volu 转，-ble 可…的，易…的】
+    meaning: 易旋转的；（言词）流利的
+  - name: evolve
+    phonetic: ［i'vɔlv］
+    mnemonic: v.【e-出，外，volv 滚；“向外滚动” → 向前滚进 → 】
+    meaning: 进化；使进化；进展；演化
+  - name: evolution
+    phonetic: ［ˌi:və'lju:ʃən］
+    mnemonic: n.【见上，-tion 名词后缀】
+    meaning: 进化；进展；演化
+  - name: evolutionism
+    phonetic: ［ˌi:və'lju:ʃənizəm］
+    mnemonic: n.【见上，-ism 论】
+    meaning: 进化论
+  - name: evolutionist
+    phonetic: ［ˌi:və'lju:ʃənist］
+    mnemonic: n.【见上，-ist 者】
+    meaning: 进化论者
+  - name: involve
+    phonetic: ［in'vɔlv］
+    mnemonic: v.【in-入，volv 滚 → 卷，“卷入” → 包入 → 】
+    meaning: 卷缠；包缠；使卷入；包含
+  - name: involvement
+    phonetic: ［in'vɔlvmənt］
+    mnemonic: n.【见上，-ment 名词后缀】
+    meaning: 卷入，牵连；包含
+  - name: convolute
+    phonetic: ［'kɔnvəˌlu:t］
+    mnemonic: v.【con-加强意义，volu 滚，卷】
+    meaning: 卷绕，旋绕
+  - name: convolution
+    phonetic: ［ˌkɔnvə'lu:ʃən］
+    mnemonic: n.【见上，-tion 名词后缀】
+    meaning: 卷绕，旋绕
+  - name: intervolve
+    phonetic: ［ˌintə'vɔlv］
+    mnemonic: v.【inter-中间，在…之间 → 互相，volv 滚，卷】
+    meaning: （使）互卷，互相盘绕；缠绕
+  - name: circumvolution
+    phonetic: ［ˌsə:kəmvə'lu:ʃən］
+    mnemonic: n.【circum-周围，围绕，volv 转， -tion名词后缀】
+    meaning: （围绕一中心的）旋转，盘绕；迂回运行
+  - name: revolve
+    phonetic: ［ri'vɔlv］
+    mnemonic: v.【re-回，反，volv 转】
+    meaning: 旋转；使旋转
+  - name: revolver
+    phonetic: ［ri'vɔlvə］
+    mnemonic: n.【见上，-er 表示物或人；“连续转动之物” → 】
+    meaning: 左轮手枪；转炉；旋转者

@@ -12,3 +12,19 @@ children:
         phonetic: ［'ru:dnis］
         mnemonic: n.【见上，-ness 名词后缀】
         meaning: 原始，粗野
+  - name: rudiment
+    phonetic: ［'ru:dimənt］
+    mnemonic: n.【rud 原始 → 开始，起初，初步，-i-，-ment名词后缀】
+    meaning: 初步，入门；基础，基本原理
+  - name: rudimental
+    phonetic: ［ˌru:di'mentl］
+    mnemonic: adj.【见上，-al …的】
+    meaning: 初步的，基本的，起码的
+  - name: erudite
+    phonetic: ［'eru:dait］
+    mnemonic: adj./n.【e-除去，rud 粗野，-ite …的；“去掉粗野无知” → 】
+    meaning: 有学问的，博学的；有学问的人
+  - name: erudition
+    phonetic: ［ˌeru:'diʃən］
+    mnemonic: n.【见上，-ition 名词后缀】
+    meaning: 博学

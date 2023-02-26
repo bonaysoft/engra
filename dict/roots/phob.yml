@@ -10,3 +10,39 @@ children:
     children:
       - name: homophobic
       - name: homophobe
+  - name: photophobia
+    phonetic: ［ˌfəutəu'fəubiə］
+    mnemonic: n.【photo 光，phob 怕，-ia 名词后缀】
+    meaning: 怕光，畏光，羞明
+  - name: dentophobia
+    phonetic: ［ˌdentəu'fəubiə］
+    mnemonic: n.【dento 牙，phob 怕，-ia 名词后缀】
+    meaning: 害怕牙科治疗
+  - name: hydrophobia
+    phonetic: ［ˌhaidrəu'fəubiə］
+    mnemonic: n.【hydro 水，phob 怕，-ia 名词后缀】
+    meaning: 恐水病
+  - name: hydrophobic
+    phonetic: ［haidrəu'fəubik］
+    mnemonic: adj.【见上，-ic …的】
+    meaning: 恐水病的
+  - name: neophobia
+    phonetic: ［ni:əu'fəubiə］
+    mnemonic: n.【neo-新，phob 怕，-ia 名词后缀】
+    meaning: 新事物恐怖
+  - name: xenophobe
+    phonetic: ［'zinəfəub］
+    mnemonic: n.【xeno 异，外国人，phob 怕】
+    meaning: 畏惧和憎恨外国人的人
+  - name: xenophobia
+    phonetic: ［zenə'fəubiə］
+    mnemonic: n.【见上】
+    meaning: 对外国人的畏惧和憎恨
+  - name: xenophobic
+    phonetic: ［ˌzenəu'fəubik］
+    mnemonic: adj.【见上，-ic …的】
+    meaning: 畏惧和憎恨外国人的
+  - name: zoophobia
+    phonetic: ［ˌzəuəu'fəubiə］
+    mnemonic: n.【zoo 动物，phob 怕，-ia 名词后缀】
+    meaning: 动物恐怖症，对动物的恐惧

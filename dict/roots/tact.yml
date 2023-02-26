@@ -36,3 +36,31 @@ children:
             children:
               - name: syntactically
       - name: stereotactic
+  - name: tactual
+    phonetic: ［'tæktʃuəl］
+    mnemonic: adj.【tact 触，-ual 形容词后缀，…的】
+    meaning: 触觉器官的，触觉的
+  - name: contact
+    phonetic: ［'kɔntækt］
+    mnemonic: n./v.【con-共同，tact 触】
+    meaning: 接触；联络，联系
+  - name: contagion
+    phonetic: ［kən'teiʒən］
+    mnemonic: n.【con-共同，tag 触，-ion 名词后缀】
+    meaning: 接触传染；传染病
+  - name: contagious
+    phonetic: ［kən'teiʤəs］
+    mnemonic: adj.【见上，-ious …的】
+    meaning: 接触传染的，有传染性的
+  - name: contagiosity
+    phonetic: ［kənˌtæʤi'ɔsiti］
+    mnemonic: n.【见上，-osity 名词后缀】
+    meaning: 接触传染率
+  - name: contagium
+    phonetic: ［kən'teiʤiəm］
+    mnemonic: n.【见上，-ium 名词后缀】
+    meaning: 接触传染物
+  - name: anticontagious
+    phonetic: ［ˌæntikən'teiʤəs］
+    mnemonic: adj.【anti-反对 → 防止，见上】
+    meaning: 预防传染的

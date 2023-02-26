@@ -61,3 +61,23 @@ children:
         phonetic: ［eksˌpætri'eiʃən］
         mnemonic: n.【见上，-ation 名词后缀】
         meaning: 逐出国外
+  - name: patrimony
+    phonetic: ［'pætriməuni］
+    mnemonic: n.【patri 父，祖，-mony 名词后缀】
+    meaning: 祖传的财物；遗产
+  - name: compatriot
+    phonetic: ［kəm'pætriət］
+    mnemonic: n.【com-同，patri 祖 → 祖国，-ot 表示人】
+    meaning: 同国人，同胞；同国的
+  - name: repatriate
+    phonetic: ［ri:'pætrieit］
+    mnemonic: v.【re-回，patri 祖 → 祖国，-ate 动词兼名词后缀】
+    meaning: 把…遣返回国；回国；被遣返回国者
+  - name: repatriation
+    phonetic: ［ˌri:pætri'eiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 遣返回国
+  - name: patronymic
+    phonetic: ［ˌpætrə'nimik］
+    mnemonic: adj.【patr 父，onym 名，-ic …的】
+    meaning: 来源于父名（或祖先名）的（姓）

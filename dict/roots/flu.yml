@@ -58,3 +58,67 @@ children:
   - name: affluent
     children:
       - name: affluence
+  - name: confluent
+    phonetic: ［'kɔnfluənt］
+    mnemonic: adj.【con-共同，flu 流，-ent …的】
+    meaning: 合流的，汇合的
+  - name: confluence
+    phonetic: ［'kɔnfluəns］
+    mnemonic: n.【见上，-ence 名词后缀】
+    meaning: 合流，汇合；合流点，汇合处；汇流而成的河
+  - name: refluent
+    phonetic: ［'refluənt］
+    mnemonic: adj.【re-回，反，flu 流，-ent …的】
+    meaning: 倒流的，退潮的
+  - name: refluence
+    phonetic: ［'refluəns］
+    mnemonic: n.【见上，-ence 名词后缀】
+    meaning: 倒流，逆流，回流，退潮
+  - name: defluent
+    phonetic: ［'defluənt］
+    mnemonic: adj.【de-向下，flu 流，-ent …的】
+    meaning: 向下流的
+  - name: circumfluent
+    phonetic: ［sə:'kʌmfluənt］
+    mnemonic: adj.【circum-周围，flu 流，-ent …的】
+    meaning: 周流的，环流的
+  - name: effluent
+    phonetic: ［'efluənt］
+    mnemonic: adj.【ef-外，出，flu 流，-ent …的】
+    meaning: 流出的，发出的
+  - name: superfluous
+    phonetic: ［sju:'pə:fluəs］
+    mnemonic: adj.【super-超过 → 过多，flu 流，-ous…的】
+    meaning: 过剩的，多余的
+  - name: superfluity
+    phonetic: ［ˌsju:pə'fluiti］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 过剩，多余，奢侈
+  - name: interfluent
+    phonetic: ［in'tə:fluənt］
+    mnemonic: adj.【inter-互相，flu 流，-ent …的】
+    meaning: 交流的；【inter-中间，flu 流，-ent …的】流在中间的
+  - name: flux
+    phonetic: ［flʌks］
+    mnemonic: n.【flux=flu 流】
+    meaning: 流，流出，流动；变动
+  - name: fluxion
+    phonetic: ［'flʌkʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 流动，流出物；变动
+  - name: fluxional
+    phonetic: ［'flʌkʃənəl］
+    mnemonic: adj.【见上，-al …的】
+    meaning: 流动的；变动的
+  - name: afflux
+    phonetic: ［'æflʌks］
+    mnemonic: n.【af-表示to，flux 流】
+    meaning: 流向，流入
+  - name: reflux
+    phonetic: ［'ri:flʌks］
+    mnemonic: n.【re-回，反，flux 流】
+    meaning: 回流；倒流；逆流
+  - name: influx
+    phonetic: ［'inflʌks］
+    mnemonic: n.【in-入，flux 流】
+    meaning: 流入

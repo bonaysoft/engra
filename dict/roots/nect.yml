@@ -57,3 +57,19 @@ children:
           - name: interconnective
             children:
               - name: interconnectivity
+  - name: annex
+    phonetic: ［ə'neks］
+    mnemonic: v.【an-表示 to，nex 结；“连结在一起”，“结合起来” → 】
+    meaning: 合并，并吞，兼并（领土等）；附加
+  - name: annexation
+    phonetic: ［ˌænek'seiʃən］
+    mnemonic: n.【见上，-ation名词后缀】
+    meaning: 合并，并吞；附加；并吞物；附加物
+  - name: annexment
+    phonetic: ［ə'neksmənt］
+    mnemonic: n.【见上，-ment 表示物】
+    meaning: 并吞物；附加物
+  - name: reannex
+    phonetic: ［ˌri:ə'neks］
+    mnemonic: v.【re-再，annex 合并】
+    meaning: 再合并

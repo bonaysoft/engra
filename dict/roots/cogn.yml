@@ -25,26 +25,56 @@ children:
         meaning: 预知，预察，预见
         children:
           - name: precognitive
-  - name: recognize
-    phonetic: ［'rekəɡnaiz］
-    mnemonic: v.【re-，加强意义，cogn 知道 → 认识，-ize 动词后缀】
-    meaning: 认识，认出，认知
+  - name: cognize
+    phonetic: ［kɔɡ'naiz］
+    mnemonic: v.【cogn 知道，-ize 动词后缀】
+    meaning: 知道，认识
     children:
-      - name: recognized
-        children:
-          - name: unrecognized
-      - name: recognizance
-      - name: recognition
-        phonetic: ［ˌrekəɡ'niʃən］
-        mnemonic: n.【re-加强意义，cogn 知道 → 认识，-ition 名词后缀】
-        meaning: 认出，认识，识别
-        children:
-          - name: nonrecognition
-          - name: misrecognition
-      - name: recognizable
-        phonetic: ［'rekəɡnaizəbl］
+      - name: cognizable
+        phonetic: ［'kɔɡnizəbl］
         mnemonic: adj.【见上，-able 可…的】
-        meaning: 可认识的，可认出的
+        meaning: 可认识的，可认知的
         children:
-          - name: recognizably
-          - name: unrecognizable
+          - name: incognizable
+            phonetic: ［in'kɔɡnizəbl］
+            mnemonic: adj.【in-不，见上】
+            meaning: 不可认识的，不可知的
+      - name: cognizance
+        phonetic: ［'kɔɡnizəns］
+        mnemonic: n.【cogniz（e） + -ance 名词后缀】
+        meaning: 认识，认知
+      - name: cognizant
+        phonetic: ［'kɔɡnizənt］
+        mnemonic: adj.【cogniz（e） + -ant 形容词后缀，…的】
+        meaning: 认识的，知晓的
+      - name: incognizant
+        phonetic: ［in'kɔɡnizənt］
+        mnemonic: adj.【in-不，见上】
+        meaning: 没认识到的
+      - name: recognize
+        phonetic: ［'rekəɡnaiz］
+        mnemonic: v.【re-，加强意义，cogn 知道 → 认识，-ize 动词后缀】
+        meaning: 认识，认出，认知
+        children:
+          - name: recognized
+            children:
+              - name: unrecognized
+          - name: recognizance
+          - name: recognition
+            phonetic: ［ˌrekəɡ'niʃən］
+            mnemonic: n.【re-加强意义，cogn 知道 → 认识，-ition 名词后缀】
+            meaning: 认出，认识，识别
+            children:
+              - name: nonrecognition
+              - name: misrecognition
+          - name: recognizable
+            phonetic: ［'rekəɡnaizəbl］
+            mnemonic: adj.【见上，-able 可…的】
+            meaning: 可认识的，可认出的
+            children:
+              - name: recognizably
+              - name: unrecognizable
+              - name: irrecognizable
+                phonetic: ［i'rekəɡnaizəbl］
+                mnemonic: adj.【ir-不，见上】
+                meaning: 不能认识的，不能认出的

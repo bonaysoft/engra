@@ -14,3 +14,43 @@ children:
         meaning: 有口才的，雄辩的，善辩的，有说服力的
         children:
           - name: eloquently
+  - name: colloquial
+    phonetic: ［kə'ləukwiəl］
+    mnemonic: adj.【col-共同，loqu 说，-ial …的】
+    meaning: 口语的，会话的，白话的，用通俗口语的
+  - name: colloquialism
+    phonetic: ［kə'ləukwiəlizəm］
+    mnemonic: n.【见上，-ism 表示语言】
+    meaning: 俗语，口语，口语词
+  - name: multiloquent
+    phonetic: ［mʌl'tiləkwənt］
+    mnemonic: adj.【multi-多，loqu 言，-ent …的】
+    meaning: 多言的
+  - name: grandiloquent
+    phonetic: ［ɡræn'diləkwənt］
+    mnemonic: adj.【grand 大，-i-，loqu 言，-ent …的】
+    meaning: 夸大的，夸张的
+  - name: magniloquent
+    phonetic: ［mæɡ'niləkwənt］
+    mnemonic: adj.【magni 大，loqu 言，-ent…的】
+    meaning: 大言的，夸张的
+  - name: soliloquy
+    phonetic: ［sə'liləkwi］
+    mnemonic: n.【sol 单独，独自，-i-，loqu 言，-y 名词后缀】
+    meaning: 独白，自言自语
+  - name: somniloquy
+    phonetic: ［sɔm'niləkwi］
+    mnemonic: n.【somn 睡眠，-i-，loqu 说，-y 名词后缀；“睡梦中说话”】
+    meaning: 梦语，梦呓，说梦话
+  - name: obloquy
+    phonetic: ［'ɔbləkwi］
+    mnemonic: n.【ob-反对，loqu 言；“反对之言” → 】
+    meaning: 大骂，诽谤
+  - name: loquacious
+    phonetic: ［ləu'kweiʃəs］
+    mnemonic: adj.【loqu 言，-acious 形容词后缀，多…的】
+    meaning: 多言的，饶舌的
+  - name: loquacity
+    phonetic: ［ləu'kwæsiti］
+    mnemonic: n.【见上，-acity 名词后缀，表示情况】
+    meaning: 多话，过于健谈

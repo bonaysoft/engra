@@ -55,3 +55,7 @@ children:
     meaning: 民兵组织，民兵（总称）
     children:
       - name: militiaman
+  - name: hypermilitant
+    phonetic: ［ˌhaipə'militənt］
+    mnemonic: adj.【hyper-超，极度，见上】
+    meaning: 极度好战的

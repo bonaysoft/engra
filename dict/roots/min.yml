@@ -16,3 +16,27 @@ children:
     phonetic: ［'eminənt］
     mnemonic: adj.【e-出，外，min 突出，-ent …的】
     meaning: 杰出的，突出的，著名的
+  - name: eminence
+    phonetic: ［'eminəns］
+    mnemonic: n.【见上，-ence 名词后缀】
+    meaning: 杰出，卓越，著名
+  - name: supereminent
+    phonetic: ［ˌsju:pə'eminənt］
+    mnemonic: adj.【super-超，非常，eminent 突出的】
+    meaning: 非常突出的，十分卓越的
+  - name: preeminent
+    phonetic: ［pri'eminənt］
+    mnemonic: adj.【pre-前，eminent 突出的；“突出于众人之前的”】
+    meaning: 卓越的，杰出的
+  - name: preeminence
+    phonetic: ［pri'eminəns］
+    mnemonic: n.【见上，-ence 名词后缀】
+    meaning: 卓越，杰出
+  - name: imminent
+    phonetic: ［'iminənt］
+    mnemonic: adj.【im-加强意义，min 突出，-ent …的；“突出的” → 异乎寻常的 → 非常的 → 】
+    meaning: 急迫的，危急的；迫近的
+  - name: imminence
+    phonetic: ［'iminəns］
+    mnemonic: n.【见上，-ence 名词后缀】
+    meaning: 急迫，危急；迫近的危险

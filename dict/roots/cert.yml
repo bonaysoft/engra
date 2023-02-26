@@ -75,3 +75,12 @@ children:
         children:
           - name: decertification
       - name: recertification
+  - name: certitude
+    phonetic: ［'sə:titju:d］
+    mnemonic: n.【cert 确实，-itude 名词后缀】
+    meaning: 确实性，确信，必然性
+    children:
+      - name: incertitude
+        phonetic: ［in'sə:titju:d］
+        mnemonic: n.【in-不，见上】
+        meaning: 不确定，不肯定，无把握

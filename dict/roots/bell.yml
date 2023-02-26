@@ -9,3 +9,38 @@ children:
         children:
           - name: unembellished
       - name: embellishment
+  - name: rebel
+    phonetic: ［ri'bel］
+    mnemonic: v.【re- 相反，be（l）战争，战斗；“反戈”，“反战” → 】
+    meaning: 反叛，反抗
+    children:
+      - name: rebellion
+        phonetic: ［ri'beljən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 反叛，反抗，叛乱
+      - name: rebellious
+        phonetic: ［ri'beljəs］
+        mnemonic: adj.【见上，-ious 形容词后缀，…的】
+        meaning: 反叛的，反抗的，叛乱的
+  - name: bellicose
+    phonetic: ［'belikəus］
+    mnemonic: adj.【bell 战争，-icose 复合后缀，由 -ic + -ose 而成，表示有…性质的】
+    meaning: 好战的，好斗的
+    children:
+      - name: bellicosity
+        phonetic: ［'belikəusiti］
+        mnemonic: adj.【见上，-ity 名词后缀，表性质】
+        meaning: 好战性
+      - name: bellicism
+        phonetic: ［'belisizəm］
+        mnemonic: n.【见上，-ism 名词后缀，表性质】
+        meaning: 好战性，好战倾向
+  - name: belligerent
+    phonetic: ［bi'liʤərənt］
+    mnemonic: adj.【bell 战争，-i-，ger=to wage， -ent 形容词后缀，…的】
+    meaning: 好战的，挑起战争的
+    children:
+      - name: belligerency
+        phonetic: ［bi'liʤərənsi］
+        mnemonic: n.【见上，-ency 名词后缀，表性质】
+        meaning: 好战性

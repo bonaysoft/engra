@@ -36,3 +36,23 @@ children:
       - name: collateralize
         children:
           - name: collateralized
+  - name: trilateral
+    phonetic: ［ˌtrai'lætərəl］
+    mnemonic: adj.【tri-三，见上】
+    meaning: 三边的
+  - name: quadrilateral
+    phonetic: ［ˌkwɔdri'lætərəl］
+    mnemonic: adj.【quadri-四，见上】
+    meaning: 四边的，四边形的；四方面的
+  - name: multilateral
+    phonetic: ［'mʌlti'lætərəl］
+    mnemonic: adj.【multi-多，见上】
+    meaning: 多边的；涉及多方面的
+  - name: equilateral
+    phonetic: ［ˌi:kwi'lætərəl］
+    mnemonic: adj.【equi-等，见上】
+    meaning: 等边的
+  - name: laterad
+    phonetic: ［'lætəræd］
+    mnemonic: adv.【later 边，侧，-ad 副词后缀，表示向…】
+    meaning: 向侧面地

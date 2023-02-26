@@ -41,3 +41,39 @@ children:
   - name: apparel
     children:
       - name: apparatus
+  - name: parent
+    phonetic: ［'pɛərənt］
+    mnemonic: n.【par 生，生养，-ent 名词后缀，表示人；“生养子女的人”，“生育者” → 】
+    meaning: 父亲；母亲；（复数）双亲，父母
+  - name: parental
+    phonetic: ［pə'rentəl］
+    mnemonic: adj.【见上，-al …的】
+    meaning: 父母的
+  - name: parentage
+    phonetic: ［'pɛərəntiʤ］
+    mnemonic: n.【见上，-age 抽象名词后缀】
+    meaning: 出身，家系，门第
+  - name: primipara
+    phonetic: ［prai'mipərə］
+    mnemonic: n.【prim 初，-i-，par 产，-a 名词后缀】
+    meaning: 初产妇
+  - name: primiparous
+    phonetic: ［prai'mipərəs］
+    mnemonic: adj.【prim 初，-i-，par 产，-ous …的】
+    meaning: 初产的
+  - name: primiparity
+    phonetic: ［ˌpraimi'pærəti］
+    mnemonic: n.【prim 初，-i-，par 产，-ity 名词后缀】
+    meaning: 初产
+  - name: multiparous
+    phonetic: ［mʌl'tipərəs］
+    mnemonic: adj.【multi-多，par 产，-ous …的】
+    meaning: 多产的，一产多胎的
+  - name: biparous
+    phonetic: ［'bipərəs］
+    mnemonic: adj.【bi-双，两个，par 生，-ous …的】
+    meaning: 双生的，一产双胎的
+  - name: fissiparous
+    phonetic: ［fi'sipərəs］
+    mnemonic: adj.【fissi 裂，par 生殖，繁殖，-ous …的】
+    meaning: （生物）分裂生殖的，分体繁殖的

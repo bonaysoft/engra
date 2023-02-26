@@ -37,3 +37,23 @@ children:
         phonetic: ［træns'lu:səns］
         mnemonic: n.【见上，-ence 名词后缀】
         meaning: 半透明（性）
+  - name: lucent
+    phonetic: ［'lju:snt］
+    mnemonic: adj.【luc 光，-ent 形容词后缀】
+    meaning: 发亮的；透明的
+  - name: lucency
+    phonetic: ［'lju:sənsi］
+    mnemonic: n.【luc 光，-ency 名词后缀】
+    meaning: 发亮；透明
+  - name: noctiluca
+    phonetic: ［ˌnɔkti'lu:kə］
+    mnemonic: n.【nocti夜，luc 光，-a 名词后缀】
+    meaning: 夜光虫
+  - name: noctilucent
+    phonetic: ［ˌnɔkti'lu:sənt］
+    mnemonic: adj.【nocti 夜，luc 光，-ent …的】
+    meaning: 夜间发光的
+  - name: lucifugous
+    phonetic: ［lu:'sifjuɡəs］
+    mnemonic: adj.【luc 光，-i-，fug 逃避，-ous …的】
+    meaning: 避光的

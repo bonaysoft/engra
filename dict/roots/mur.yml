@@ -28,3 +28,15 @@ children:
         phonetic: ［ˌekstrə'mjuərəl］
         mnemonic: adj.【extra-外，mur 墙，-al …的】
         meaning: 墙外的；城外的，大学之墙以外的
+  - name: mure
+    phonetic: ［mjuə］
+    mnemonic: v.【mur 墙；“用墙围起来” → 】
+    meaning: 监禁，禁锢
+  - name: immure
+    phonetic: ［i'mjuə］
+    mnemonic: v.【im-内，入内，mur 墙；“置于墙内” → 】
+    meaning: 监禁，禁闭
+  - name: immurement
+    phonetic: ［i'mjuəment］
+    mnemonic: n.【见上，-ment 名词后缀】
+    meaning: 监禁，禁闭

@@ -13,3 +13,27 @@ children:
         phonetic: ［'inəsəns］
         mnemonic: n.【见上，-ence 名词后缀】
         meaning: 无罪，清白；天真，无害
+  - name: nocent
+    phonetic: ［'nəusənt］
+    mnemonic: adj.【noc 伤害，-ent …的】
+    meaning: 有害的，有毒的；加害的，有罪的
+  - name: nocuous
+    phonetic: ［'nɔkjuəs］
+    mnemonic: adj.【noc 伤害，-uous 形容词后缀，…的】
+    meaning: 有害的，有毒的
+  - name: innocuous
+    phonetic: ［i'nɔkjuəs］
+    mnemonic: adj.【in-无，noc 伤害，-uous …的】
+    meaning: 无害的，无毒的
+  - name: innocuity
+    phonetic: ［ˌinə'kju:əti］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 无害，无毒
+  - name: noxious
+    phonetic: ［'nɔkʃəs］
+    mnemonic: adj.【nox 伤害，-ious 形容词后缀，…的】
+    meaning: 有害的，有毒的，不卫生的
+  - name: noxiousness
+    phonetic: ［'nɔkʃəsnis］
+    mnemonic: n.【见上，-ness 名词后缀】
+    meaning: 有害，有毒；不卫生

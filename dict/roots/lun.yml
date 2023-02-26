@@ -31,3 +31,31 @@ children:
   - name: lunatic
     children:
       - name: lunacy
+  - name: demilune
+    phonetic: ［'demilju:n］
+    mnemonic: n.【demi-半，lun 月亮】
+    meaning: 半月，新月，弯月
+  - name: plenilune
+    phonetic: ［'pli:nilju:n］
+    mnemonic: n.【plen 满，全，-i-，lun 月亮】
+    meaning: 满月，望月，月满之时
+  - name: luniform
+    phonetic: ［'lu:nifɔ:m］
+    mnemonic: adj.【lun 月亮，-i-，-form 如…形的】
+    meaning: 月形的
+  - name: lunate
+    phonetic: ［'lu:neit］
+    mnemonic: adj.【lun 月亮，-ate…的】
+    meaning: 新月形的
+  - name: lunet
+    phonetic: ［lju:'net］
+    mnemonic: n.【lun 月亮，-et 名词后缀，表示小】
+    meaning: 小月
+  - name: lunitidal
+    phonetic: ［ˌlju:ni'taidəl］
+    mnemonic: adj.【lun 月亮，-i-，tidal 潮汐的】
+    meaning: 月潮的，太阴潮的
+  - name: superlunar
+    phonetic: ［ˌsju:pə'lju:nə］
+    mnemonic: adj.【super-上，在…之上，lun 月亮，-ar …的】
+    meaning: 在月球上的，世外的，天上的

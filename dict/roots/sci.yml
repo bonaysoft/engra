@@ -93,3 +93,19 @@ children:
         children:
           - name: semiconsciously
           - name: semiconsciousness
+  - name: omniscient
+    phonetic: ［ɔm'nisiənt］
+    mnemonic: adj.【omni-全，sci 知，-ent …的】
+    meaning: 全知的，无所不知的
+  - name: nescient
+    phonetic: ［'neisiənt］
+    mnemonic: adj.【ne-无，sci 知，-ent …的】
+    meaning: 无知的，缺乏知识的
+  - name: nescience
+    phonetic: ［'neisiəns］
+    mnemonic: n.【ne-无，sci 知，-ence 名词后缀】
+    meaning: 无知，缺乏知识
+  - name: pseudoscience
+    phonetic: ［'sju:dəuˌsaiəns］
+    mnemonic: n.【pseudo-假，science 科学】
+    meaning: 假科学，伪科学

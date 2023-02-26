@@ -35,3 +35,67 @@ children:
         phonetic: ［ˌteli'vizjuəl］
         mnemonic: adj.【见上，-ual …的】
         meaning: 电视的
+  - name: telecontrol
+    phonetic: ［ˌtelikən'trəul］
+    mnemonic: n.【tele 远，control 控制】
+    meaning: 远距离控制，遥控
+  - name: telephone
+    phonetic: ［'telifəun］
+    mnemonic: n.【tele 远，phon 声音；“由远处通过电波传来的声音” → 】
+    meaning: 电话
+  - name: telegram
+    phonetic: ［'teliɡræm］
+    mnemonic: n.【tele 远，gram 写，文字；“由远处通过电波传来的文字” → 】
+    meaning: 电报
+  - name: teleview
+    phonetic: ［'telivju:］
+    mnemonic: v.【见上，-view 看】
+    meaning: 收看电视
+  - name: telecourse
+    phonetic: ［'telikɔ:s］
+    mnemonic: n.【tele 电视，course 课程】
+    meaning: 电视课程
+  - name: telecast
+    phonetic: ［'telikɑ:st］
+    mnemonic: n.【tele 电视，cast 播】
+    meaning: 电视广播
+  - name: telefilm
+    phonetic: ［'telifilm］
+    mnemonic: n.【tele 电视，film 影片】
+    meaning: 电视影片
+  - name: teleplay
+    phonetic: ［'teliplei］
+    mnemonic: n.【tele 电视，play 剧】
+    meaning: 电视（广播）剧
+  - name: telescript
+    phonetic: ［'teliskript］
+    mnemonic: n.【tele 电视，script 稿】
+    meaning: 电视广播稿，电视剧本
+  - name: teleset
+    phonetic: ［'teliset］
+    mnemonic: n.【tele 电视，set 装置，设备】
+    meaning: 电视机
+  - name: telepaper
+    phonetic: ［'telipeipə］
+    mnemonic: n.【tele 电传，paper 报纸】
+    meaning: 电视传真报纸
+  - name: teleprinter
+    phonetic: ［'teliˌprintə］
+    mnemonic: n.【tele 电传，printer 印字机】
+    meaning: 电传打字电报机
+  - name: teletype
+    phonetic: ［'telitaip］
+    mnemonic: n.【tele 电传，type 打字机】
+    meaning: 电传打字电报机，电传打字电报
+  - name: telephoto
+    phonetic: ［ˌteli'fəutəu］
+    mnemonic: adj./n.【tele 远，photo 相片】
+    meaning: 远距离照相的，传真照片
+  - name: teleswitch
+    phonetic: ［'teliswitʃ］
+    mnemonic: n.【tele 远，switch 开关】
+    meaning: 遥控开关，遥控键
+  - name: telemeter
+    phonetic: ［'teliˌmi:tə］
+    mnemonic: n.【tele 远，meter 测量仪】
+    meaning: 遥测仪，测远仪

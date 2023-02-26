@@ -27,3 +27,15 @@ children:
         phonetic: ［ˌidiə'mætik］
         mnemonic: adj.【见上，-atic 形容词后缀，…的】
         meaning: 惯用语的，成语的
+  - name: idiograph
+    phonetic: ［'idiəɡrɑ:f］
+    mnemonic: n.【idio 个人的，专有的，graph 写，文字，图形】
+    meaning: 个人的签名；商标
+  - name: idiopathy
+    phonetic: ［ˌidi'ɔpəθi］
+    mnemonic: n.【idio 特殊的，自己的，pathy 病】
+    meaning: 特发病，自发病
+  - name: idiochromatic
+    phonetic: ［ˌidiəukrə'mætik］
+    mnemonic: adj.【idio 个人的，自己的，chrom 色，-atic …的】
+    meaning: 自色的，本色的

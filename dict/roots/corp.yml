@@ -9,3 +9,7 @@ children:
       - name: corpse
         phonetic: ［kɔ:ps］
         meaning: n.尸体，死体
+  - name: corpulent
+    phonetic: ［'kɔ:pjulənt］
+    mnemonic: adj.【corp 体， → 肉体，-ulent=-lent 多…的；“多肉体的” → 】
+    meaning: 肥胖的

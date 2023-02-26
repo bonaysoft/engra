@@ -55,3 +55,75 @@ children:
         phonetic: ［'ædvəkəsi］
         mnemonic: n.【见上，-acy 名词后缀】
         meaning: 拥护，提倡，辩护，主张
+  - name: vocative
+    phonetic: ［'vɔkətiv］
+    mnemonic: adj.【voc 声，发声 → 呼唤，-ative …的】
+    meaning: 呼唤的，称呼的
+  - name: vociferous
+    phonetic: ［vəu'sifərəs］
+    mnemonic: adj.【voc 声，-i-，fer 具有，-ous …的】
+    meaning: 有大声的，叫喊的；吵闹的，喧嚷的
+  - name: convoke
+    phonetic: ［kən'vəuk］
+    mnemonic: v.【con-共同，一起，vok 叫，召唤；“叫到一起来” → 】
+    meaning: 召集…开会，召集（会议）
+  - name: convocation
+    phonetic: ［ˌkɔnvəu'keiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 召集；集会
+  - name: revoke
+    phonetic: ［ri'vəuk］
+    mnemonic: v.【re-回，vok 叫；“叫回” → 】
+    meaning: 撤回，撤销
+  - name: revocation
+    phonetic: ［ˌrevə'keiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 撤回；取消
+  - name: revocable
+    phonetic: ［'revəkəbl］
+    mnemonic: adj.【见上，-able 可…的】
+    meaning: 可撤回的；可取消的
+  - name: irrevocable
+    phonetic: ［i'revəkəbl］
+    mnemonic: adj.【ir-不，见上】
+    meaning: 不可挽回的；不可取消的
+  - name: provoke
+    phonetic: ［prə'vəuk］
+    mnemonic: v.【pro-前，向前，vok 叫喊】
+    meaning: 对…挑衅；激怒；煽动；激起
+  - name: provocation
+    phonetic: ［ˌprɔvə'keiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 挑衅；激怒；激起
+  - name: provocative
+    phonetic: ［prə'vɔkətiv］
+    mnemonic: adj.【见上，-ative 形容词后缀，…的】
+    meaning: 挑衅的；激怒的；激起…的
+  - name: equivocal
+    phonetic: ［i'kwivəkəl］
+    mnemonic: adj.【equi 相等的，一样的，两可的，voc 声，言词，-al 形容词后缀，…的】
+    meaning: （语言）模棱两可的，双关的，含糊的；多义的
+  - name: equivocality
+    phonetic: ［iˌkwivə'kæləti］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: （语言的）含糊，两可；多义性
+  - name: equivoke
+    phonetic: ［'ekwivəuk］
+    mnemonic: n.【见上】
+    meaning: 模棱两可的话；双关语；两义语
+  - name: evoke
+    phonetic: ［i'vəuk］
+    mnemonic: v.【e-出，vok 声音，叫；“叫出”，“喊出” → 】
+    meaning: 唤起，召唤；召（魂）
+  - name: evocation
+    phonetic: ［ˌi:vəu'keiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 唤起，召唤
+  - name: evocative
+    phonetic: ［i'vɔkətiv］
+    mnemonic: adj.【见上，-ative …的】
+    meaning: 唤起…的，引起…的
+  - name: vocable
+    phonetic: ［vəukəbl］
+    mnemonic: n.【voc 声音 → 语言】
+    meaning: 词，语

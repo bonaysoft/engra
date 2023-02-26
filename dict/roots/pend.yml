@@ -120,3 +120,79 @@ children:
     children:
       - name: perpendicularly
       - name: perpendicularity
+  - name: independency
+    phonetic: ［ˌindi'pendənsi］
+    mnemonic: n.【见上，-ency = -ence】
+    meaning: 独立，独立国
+  - name: pending
+    phonetic: ［'pendiŋ］
+    mnemonic: adj.【pend 悬挂，-ing …的】
+    meaning: 悬而未决的
+  - name: pendent
+    phonetic: ［'pendənt］
+    mnemonic: adj./n.【pend 悬挂，-ent …的】
+    meaning: 悬空的，下垂的，悬而未决的；【-ent 表示物】悬垂物
+  - name: suspensible
+    phonetic: ［sə'spensəbl］
+    mnemonic: adj.【见上，-ible 可…的】
+    meaning: 可悬挂的，可吊的
+  - name: append
+    phonetic: ［ə'pend］
+    mnemonic: v.【ap-表示 to，pend 悬挂】
+    meaning: 挂上，附加
+  - name: appendage
+    phonetic: ［ə'pendiʤ］
+    mnemonic: n.【见上，-age 名词后缀，表示物】
+    meaning: 附加物，附属物
+  - name: impend
+    phonetic: ［im'pend］
+    mnemonic: v.【im-加强意义，pend 悬挂】
+    meaning: 悬挂；【悬在上面 → 悬在头上 → 事到临头 → 】即将发生，即将来临，逼近
+  - name: impending
+    phonetic: ［im'pendiŋ］
+    mnemonic: adj.【见上，-ing …的】
+    meaning: 即将来临的，迫近的
+  - name: impendent
+    phonetic: ［im'pendənt］
+    mnemonic: adj.【见上，-ent …的】
+    meaning: 悬挂的；即将发生的，逼近的
+  - name: dispense
+    phonetic: ［dis'pens］
+    mnemonic: v.【dis-分散，pens 称量；“分开称量物品分量，进行分配”】
+    meaning: 分配，分发，配发
+  - name: dispensary
+    phonetic: ［dis'pensəri］
+    mnemonic: adj.【见上，-ary 表示场所、地点；“分配药品的地方” → 】
+    meaning: 药房，配药处
+  - name: dispensation
+    phonetic: ［ˌdispen'seiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 分配，分给；分配物
+  - name: dispenser
+    phonetic: ［dis'pensə］
+    mnemonic: n.【见上，-er 表示人】
+    meaning: 分配者，施与者，配药者，药剂师；【-er 表示物】分配器，配出器；自动售货机
+  - name: pensive
+    phonetic: ［'pensiv］
+    mnemonic: adj.【pen 称量 → 衡量，权衡 → 思考，-ive …的】
+    meaning: 沉思的
+  - name: perpend
+    phonetic: ［pə:'pend］
+    mnemonic: v.【per-完全，十分，彻底，pend 称量 → 衡量；“仔细称量” → 仔细衡量 → 】
+    meaning: 细思，思考，考虑
+  - name: ponder
+    phonetic: ［'pɔndə］
+    mnemonic: v.【pond←pend 称量，-er 动词后缀；称量 → 衡量，权衡 → 思量，思考 → 】
+    meaning: 深思，考虑，估量，衡量
+  - name: ponderable
+    phonetic: ［'pɔndərəbl］
+    mnemonic: adj.【见上，-able 可…的】
+    meaning: 可衡量的，可估量的
+  - name: pension
+    phonetic: ［'penʃən］
+    mnemonic: n.【pens 付钱，-ion 名词后缀，表示物；每年“付出的钱” → 】
+    meaning: 年金，养老金，退休金
+  - name: pensioner
+    phonetic: ［'penʃənə］
+    mnemonic: n.【见上，-er 者】
+    meaning: 领取养老金者

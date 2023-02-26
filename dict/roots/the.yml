@@ -19,3 +19,59 @@ children:
         children:
           - name: theologically
       - name: theologize
+  - name: theism
+    phonetic: ［'θi:izəm］
+    mnemonic: n.【the 神，-ism论】
+    meaning: 有神论
+  - name: theist
+    phonetic: ［'θi:ist］
+    mnemonic: n.【见上，-ist 者】
+    meaning: 有神论者
+  - name: theistic
+    phonetic: ［θi:'istik］
+    mnemonic: adj.【见上，-istic 形容词后缀，…的】
+    meaning: 有神论的
+  - name: theocracy
+    phonetic: ［θi'ɔkrəsi］
+    mnemonic: n.【theo 神，cracy 权力，统治】
+    meaning: 神权政治；僧侣政治
+  - name: theocratic
+    phonetic: ［ˌθi:ə'krætik］
+    mnemonic: adj.【见上，-ic …的】
+    meaning: 神权政治的；僧侣政治的
+  - name: antitheism
+    phonetic: ［ˌænti'θi:izəm］
+    mnemonic: n.【anti-反对，theism 有神论】
+    meaning: 反有神论
+  - name: antitheist
+    phonetic: ［ˌænti'θi:ist］
+    mnemonic: n.【见上，-ist 者】
+    meaning: 反有神论者
+  - name: atheism
+    phonetic: ［'eiθiizəm］
+    mnemonic: n.【a-无，theism 神论】
+    meaning: 无神论
+  - name: atheist
+    phonetic: ［'eiθiist］
+    mnemonic: n.【见上，-ist 者】
+    meaning: 无神论者
+  - name: atheistic
+    phonetic: ［ˌeiθi'istik］
+    mnemonic: adj.【见上，-istic …的】
+    meaning: 无神论的
+  - name: monotheism
+    phonetic: ［'mɔnəuθi:ˌizəm］
+    mnemonic: n.【mono-单一，the 神，-ism 论】
+    meaning: 一神论；一神教
+  - name: monotheist
+    phonetic: ［'mɔnəuθi:ˌist］
+    mnemonic: n.【见上，-ist 者】
+    meaning: 一神论者；信一神教者
+  - name: polytheism
+    phonetic: ［'pɔliˌθi:izəm］
+    mnemonic: n.【poly-多，the 神，-ism 论】
+    meaning: 多神论，多神主义；多神教
+  - name: polytheist
+    phonetic: ［'pɔliθi:ist］
+    mnemonic: n.【见上，-ist 者】
+    meaning: 多神论者，多神主义者；多神教徒

@@ -31,3 +31,19 @@ children:
         phonetic: ［ˌintə'pə:ʃən］
         mnemonic: n.【见上，-ion 名词后缀】
         meaning: 散布，散置，点缀
+  - name: asperse
+    phonetic: ［ə'spə:s］
+    mnemonic: v.【a-=ad-加强意义，spers 散 → 洒 → 】
+    meaning: 洒水于…
+  - name: aspersion
+    phonetic: ［ə'spə:ʃən，ə'spə:ʒn］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 洒水
+  - name: sparse
+    phonetic: ［spɑ:s］
+    mnemonic: adj.【spars 散 → 散开 → 稀疏】
+    meaning: 稀少的；稀疏的
+  - name: sparsity
+    phonetic: ［'spɑ:səti］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 稀少，稀疏

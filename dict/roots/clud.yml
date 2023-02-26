@@ -31,6 +31,10 @@ children:
       - name: excluder
       - name: excluding
       - name: excluded
+      - name: exclusive
+        phonetic: ［ik'sklu:siv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 排外的，排他的，除外的
       - name: exclusion
         phonetic: ［ik'sklu:ʒən］
         mnemonic: n.【见上，-ion 名词后缀】
@@ -74,3 +78,42 @@ children:
         phonetic: ［pri'klu:siv］
         mnemonic: adj.【见上，-ive …的】
         meaning: 预防（性）的，排除的，阻止的
+  - name: seclude
+    phonetic: ［si'klu:d］
+    mnemonic: v.【se-离，分开，clud 关闭；“关闭起来，与外界隔离” → 】
+    meaning: 使隔离，使孤立，使退隐
+    children:
+      - name: seclusion
+        phonetic: ［si'klu:ʒən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 隔离，孤立，隐居，退隐
+      - name: seclusive
+        phonetic: ［si'klu:siv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 隐居性的，爱隐居的
+      - name: secluded
+        phonetic: ［si'klu:did］
+        mnemonic: adj.【见上，-ed …的】
+        meaning: 隔离的，隐退的，僻静的
+  - name: recluse
+    phonetic: ［ri'klu:s］
+    mnemonic: adj./n.【re-回，退，clus 关闭；“闭门退居” → 】
+    meaning: 退居的，隐居的；隐士，遁世者
+    children:
+      - name: reclusive
+        phonetic: ［ri'klu:siv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 隐退的，隐居的，遁世的
+  - name: occlude
+    phonetic: ［ə'klu:d］
+    mnemonic: v.【oc- = against，clud 关闭；“关闭起来，不让通过” → 】
+    meaning: 使堵塞，使闭塞
+    children:
+      - name: occlusion
+        phonetic: ［ə'klu:ʒən］
+        mnemonic: n.【见上，clud → clus，-ion 名词后缀】
+        meaning: 堵塞，闭塞
+      - name: occlusive
+        phonetic: ［ə'klu:siv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 闭塞的，堵塞的

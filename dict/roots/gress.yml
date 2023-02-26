@@ -46,3 +46,59 @@ children:
       - name: regressive
         children:
           - name: autoregressive
+  - name: retrogress
+    phonetic: ［ˌretrə'ɡres］
+    mnemonic: v.【retro-向后，gress 行走】
+    meaning: 后退，退步；退化
+  - name: retrogression
+    phonetic: ［ˌretrə'ɡreʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 倒退，退步；退化
+  - name: retrogressive
+    phonetic: ［ˌretrə'ɡresiv］
+    mnemonic: adj.【见上，-ive …的】
+    meaning: 后退的，退步的；退化的
+  - name: aggress
+    phonetic: ［ə'ɡres］
+    mnemonic: v.【ag-=at，to 向，gress 走；“走向” → 来到 → 逼近 → 闯来 → 进攻 → 】
+    meaning: 侵略，侵入，攻击
+  - name: aggression
+    phonetic: ［ə'ɡreʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 侵略，入侵
+  - name: aggressive
+    phonetic: ［ə'ɡresiv］
+    mnemonic: adj.【见上，-ive …的】
+    meaning: 侵略的
+  - name: aggressor
+    phonetic: ［ə'ɡresə］
+    mnemonic: n.【见上，-or 表示人】
+    meaning: 侵略者
+  - name: egress
+    phonetic: ［'i:ɡres］
+    mnemonic: n.【e-外，出，gress 行走】
+    meaning: 出去，离去，外出
+  - name: egression
+    phonetic: ［i:'ɡreʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 出去，离去，外出
+  - name: ingress
+    phonetic: ［'inɡres］
+    mnemonic: n.【in-入内，gress 行走】
+    meaning: 进入
+  - name: ingression
+    phonetic: ［in'ɡreʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 进入
+  - name: transgress
+    phonetic: ［træns'ɡres］
+    mnemonic: v.【trans-超过，gress 行走】
+    meaning: 超过（限度、范围等），越界，违反，犯法
+  - name: transgressor
+    phonetic: ［træns'ɡresə］
+    mnemonic: n.【见上，-or 表示人】
+    meaning: 犯法者，违反者
+  - name: digress
+    phonetic: ［dai'ɡres］
+    mnemonic: v.【di-=dis-离开，gress 行走；“离正道而行” → 】
+    meaning: 离开主题；入歧路

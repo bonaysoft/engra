@@ -41,3 +41,19 @@ children:
       - name: unadorned
         children:
           - name: unadornment
+  - name: ornamentation
+    phonetic: ［ˌɔ:nəmen'teiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 装饰，修饰；装饰术；装饰品
+  - name: suborn
+    phonetic: ［sʌ'bɔ:n］
+    mnemonic: v.【sub-下，底下 → 暗地里，秘密地，orn 装饰 → 装备 → 供给；“秘密地供给财物” → 】
+    meaning: 贿赂；唆使
+  - name: subornation
+    phonetic: ［ˌsʌbɔ:'neiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 贿赂，唆使
+  - name: suborner
+    phonetic: ［sʌ'bɔ:nə］
+    mnemonic: n.【见上，-er 者】
+    meaning: 唆使者

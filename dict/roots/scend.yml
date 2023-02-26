@@ -42,3 +42,43 @@ children:
       - name: ascending
       - name: ascendant
       - name: ascendancy
+  - name: ascendent
+    phonetic: ［ə'sendənt］
+    mnemonic: adj.【见上，-ent …的】
+    meaning: 上升的；向上的
+  - name: ascendency
+    phonetic: ［ə'sendənsi］
+    mnemonic: n.【见上，-ency 名词后缀；“升到高处”→】
+    meaning: 优势；支配地位
+  - name: ascension
+    phonetic: ［ə'senʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 上升，升高
+  - name: ascensive
+    phonetic: ［ə'sensiv］
+    mnemonic: adj.【见上，-ive …的】
+    meaning: 上升的，使上升的
+  - name: ascent
+    phonetic: ［ə'sent］
+    mnemonic: n.【见上，由 ascend 转成的名词】
+    meaning: 上升，升高，登高
+  - name: reascend
+    phonetic: ［ri:ə'send］
+    mnemonic: v.【re-再，ascend 上升】
+    meaning: 再上升，再升高
+  - name: redescend
+    phonetic: ［ˌri:di'send］
+    mnemonic: v.【re-再，decend 下降】
+    meaning: 再下降
+  - name: condescend
+    phonetic: ［ˌkɔndi'send］
+    mnemonic: v.【con-表加强意义，descend 下降 → 卑 → 谦】
+    meaning: 谦逊，俯就，屈尊
+  - name: condescension
+    phonetic: ［ˌkɔndi'senʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 屈尊
+  - name: transcendency
+    phonetic: ［træn'sendənsi］
+    mnemonic: n.【见上，-ency 名词后缀】
+    meaning: 超越，卓越

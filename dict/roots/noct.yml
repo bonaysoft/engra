@@ -6,3 +6,45 @@ children:
   - name: nocturnal
     children:
       - name: nocturne
+  - name: noctiflorous
+    phonetic: ［ˌnɔkti'flɔrəs］
+    mnemonic: adj.【nocti 夜，flor 花，-ous …的】
+    meaning: （植物）夜间开花的
+  - name: noctiluca
+    phonetic: ［ˌnɔkti'lu:kə］
+    mnemonic: n.【nocti 夜，luc 光，-a 名词后缀】
+    meaning: 夜光虫
+  - name: noctilucent
+    phonetic: ［ˌnɔkti'lju:sənt］
+    mnemonic: adj.【nocti 夜，luc 光，-ent …的】
+    meaning: 夜间发光的
+  - name: noctilucous
+    phonetic: ［ˌnɔkti'lju:səs］
+    meaning: adj.同 noctilucent
+  - name: noctivagant
+    phonetic: ［nɔk'tivəɡənt］
+    mnemonic: adj.【nocti 夜，vag 走，-ant …的】
+    meaning: 夜间徘徊的，夜游的
+  - name: noctivagous
+    phonetic: ［nɔk'tivəɡəs］
+    meaning: adj. 同 noctivagant
+  - name: noctambulant
+    phonetic: ［nɔk'tæmbjulənt］
+    mnemonic: adj.【noct 夜 → 梦中，ambul 行走， -ant …的】
+    meaning: 梦行的，梦游的
+  - name: noctambulation
+    phonetic: ［nɔkˌtæmbju'leiʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 梦行（症）
+  - name: noctambulist
+    phonetic: ［nɔk'tæmbjulist］
+    mnemonic: n.【见上，-ist 者】
+    meaning: 梦行者
+  - name: equinoctial
+    phonetic: ［ˌi:kwi'nɔkʃəl］
+    mnemonic: adj.【equi 平等，相等，noct 夜，-ial …的；“昼夜相等的”】
+    meaning: 昼夜平分（时）的；昼夜平分线的
+  - name: pernoctation
+    phonetic: ［ˌpə:nɔk'teiʃən］
+    mnemonic: n.【per-全，整，贯通，noct 夜，-ation 名词后缀】
+    meaning: 彻夜不眠；整夜不归

@@ -77,3 +77,11 @@ children:
         mnemonic: n.【见上，-ence 表示性质】
         meaning: 反击性，抵抗性
       - name: repellency
+  - name: dispel
+    phonetic: ［dis'pel］
+    mnemonic: v.【dis-分散，pel 驱】
+    meaning: 驱散
+  - name: compeller
+    phonetic: ［kəm'pelə］
+    mnemonic: n.【见上，-er 者】
+    meaning: 强迫他人者，驱使别人者

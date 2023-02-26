@@ -66,3 +66,35 @@ children:
         phonetic: ［di'fju:ʒən］
         mnemonic: n.【见上，-ion 名词后缀】
         meaning: 散开，扩散，弥漫，传布
+  - name: transfuse
+    phonetic: ［træns'fju:z］
+    mnemonic: v.【trans-越过，转移，fus 流，注入；“转流过去”，“移注过去” → 】
+    meaning: 移注，灌输，输（血），给…输血（将某人血液移注于另一人）
+  - name: transfusion
+    phonetic: ［træns'fju:ʒən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 移注，输血
+  - name: interfuse
+    phonetic: ［intə'fju:z］
+    mnemonic: v.【inter-互相，fus 灌，流；“互灌”，“互流” → 合流 → 】
+    meaning: （使）混合，（使）融合，渗透
+  - name: interfusion
+    phonetic: ［intə'fju:ʒən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 混合，融合，渗透
+  - name: affusion
+    phonetic: ［ə'fju:ʒən］
+    mnemonic: n.【af-表示at，to，fus 灌，注】
+    meaning: 注水，注水法，灌水法
+  - name: perfuse
+    phonetic: ［pə:'fju:z］
+    mnemonic: v.【per-贯穿，全，fus 流】
+    meaning: 泼洒，灌注，使充满
+  - name: profuse
+    phonetic: ［prə'fju:s］
+    mnemonic: adj.【pro-向前，fus 流，泻；“随意倾泻了的”，“流走了的”，“流掉了的” → 】
+    meaning: 浪费的，挥霍的，过多的，充沛的
+  - name: profusion
+    phonetic: ［pə:'fju:ʒən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 浪费，奢侈，挥霍，丰富，充沛

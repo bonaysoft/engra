@@ -172,3 +172,15 @@ children:
   - name: conifer
     children:
       - name: coniferous
+  - name: floriferous
+    phonetic: ［flɔ'rif(ə)rəs］
+    mnemonic: adj.【flor 花，-i-，fer 带有，-ous …的】
+    meaning: 有花的，多花的
+  - name: aquiferous
+    phonetic: ［æ'kwifərəs］
+    mnemonic: adj.【aqu 水，-i-，fer 带有，-ous …的】
+    meaning: 含水的
+  - name: cruciferous
+    phonetic: ［kru:'sifərəs］
+    mnemonic: adj.【cruc 十字形，-i-，fer 带有，-ous…的】
+    meaning: 饰有十字形的，带有十字架的

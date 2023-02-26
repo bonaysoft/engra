@@ -11,3 +11,51 @@ children:
       - name: deliberative
         children:
           - name: deliberatively
+  - name: liberate
+    phonetic: ［'libəreit］
+    mnemonic: v.【liber 自由，-ate 动词后缀，使…；“使自由”】
+    meaning: 解放，使获自由，释放
+  - name: liberation
+    phonetic: ［ˌlibə'reiʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 解放，释放
+  - name: preliberation
+    phonetic: ［'pri:libə'reiʃən］
+    mnemonic: adj.【pre-前，以前，liberation 解放】
+    meaning: 解放前的
+  - name: postliberation
+    phonetic: ［'pəustlibə'reiʃən］
+    mnemonic: adj.【post-后，以后】
+    meaning: 解放后的
+  - name: liberator
+    phonetic: ［'libreitə］
+    mnemonic: n.【见上，-or 者】
+    meaning: 解放者，释放者
+  - name: liberty
+    phonetic: ［'libəti］
+    mnemonic: n.【liber 自由，-ty 名词后缀】
+    meaning: 自由，自由权
+  - name: liberticide
+    phonetic: ［li'bə:tisaid］
+    mnemonic: n./adj.【liberty（y → i）自由，cid 杀】
+    meaning: 扼杀自由（者）；扼杀自由的
+  - name: liberal
+    phonetic: ［'libərəl］
+    mnemonic: adj.【liber 自由，-al 形容词后缀，…的】
+    meaning: 自由的，自由主义的；Liberal（英国等的）自由党的
+  - name: liberalism
+    phonetic: ［'libərəlizəm］
+    mnemonic: n.【见上，-ism 主义】
+    meaning: 自由主义
+  - name: liberalist
+    phonetic: ［'libərəlist］
+    mnemonic: n./adj.【见上，-ist 者】
+    meaning: 自由主义者；【-ist …的】自由主义的
+  - name: liberalize
+    phonetic: ［'libərəlaiz］
+    mnemonic: v.【见上，-ize 使…化】
+    meaning: （使）自由化，（使）自由主义化
+  - name: Liberia
+    phonetic: ［lai'biəriə］
+    mnemonic: n.【liber 自由，-ia 名词后缀；意为“自由之国”】
+    meaning: 利比里亚（非洲一国家名）

@@ -44,3 +44,11 @@ children:
     children:
       - name: textural
       - name: textured
+  - name: textile
+    phonetic: ［'tekstail］
+    mnemonic: n./adj.【text 编织，-ile 名词后缀，表示物】
+    meaning: 纺织品；【-ile 形容词后缀，…的】纺织的
+  - name: intertexture
+    phonetic: ［ˌintə'tekstʃə］
+    mnemonic: n.【inter-互相，交，text 编织，-ure 名词后缀】
+    meaning: 交织，交织物

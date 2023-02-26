@@ -71,3 +71,23 @@ children:
       - name: reallocate
         children:
           - name: reallocation
+  - name: locomotive
+    phonetic: ［'ləukəˌməutiv］
+    mnemonic: adj./n.【loc 地方，-o-，mot 动，移动，-ive …的；“能由一个地方移动至另一个地方”】
+    meaning: 移动的，运动的；【转为名词，“能牵引他物，由一地方移动至另一地方的机器” → 】机车，火车头
+  - name: collocate
+    phonetic: ［'kɔləkeit］
+    mnemonic: v.【col-共同，并，loc 地方，位置，-ate 动词后缀】
+    meaning: 并置，并列
+  - name: collocation
+    phonetic: ［ˌkɔlə'keiʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 并置，并列
+  - name: co-locate
+    phonetic: ［kəu'ləukeit］
+    mnemonic: v.【co-同，loc 地方，地点，-ate 动词后缀，使…】
+    meaning: （使）驻扎在同一地点
+  - name: translocate
+    phonetic: ［trænslə'keit］
+    mnemonic: v.【trans-转换，改变，loc 地方，位置，-ate 动词后缀】
+    meaning: 改变位置，易位

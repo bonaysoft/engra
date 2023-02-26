@@ -17,3 +17,39 @@ children:
         phonetic: ［i'nju:mərəbl］
         mnemonic: adj.【见上，-able 可…的】
         meaning: 可点数的，可列举的
+  - name: numeral
+    phonetic: ［'nju:mərəl］
+    mnemonic: adj./ n.【numer 数，-al…的】
+    meaning: 数字的，示数的；【转为名词】数字，（语法）数词
+  - name: numerable
+    phonetic: ［'nju:mərəbl］
+    mnemonic: adj.【numer 数，-able 可…的】
+    meaning: 可数的，可计算的
+  - name: numerous
+    phonetic: ［'nju:mərəs］
+    mnemonic: adj.【numer 数，-ous…的】
+    meaning: 为数众多的，许多的
+  - name: numerate
+    phonetic: ［'nju:məreit］
+    mnemonic: v.【numer 数，-ate 动词后缀，做…】
+    meaning: 计算，计数，数
+  - name: numerator
+    phonetic: ［'nju:məreitə］
+    mnemonic: n.【numer 数，-ator 表示人或物】
+    meaning: 计算者，计算器
+  - name: numerical
+    phonetic: ［nju:'merikəl］
+    mnemonic: adj.【numer 数，-ical 形容词后缀，…的】
+    meaning: 数字的，用数字表示的
+  - name: innumerable
+    phonetic: ［i'nju:mərəbl］
+    mnemonic: adj.【in-无，不，numer 数，-able 可…的】
+    meaning: 数不清的，无数的
+  - name: denumerable
+    phonetic: ［di'nju:mərəbl］
+    mnemonic: adj.【de-加强意义，numer 数，-able 可…的】
+    meaning: 可数的
+  - name: supernumerary
+    phonetic: ［sjupə'nju:mərəri］
+    mnemonic: adj./n.【super-超，超出，numer 数，-ary …的；“超出定数之外的” → 】
+    meaning: 额外的，多余的；【-ary 表示人或物】多余的人（或物）

@@ -13,15 +13,33 @@ children:
         mnemonic: adj.【见上，-ish …的】
         meaning: 业余的
       - name: amateurism
-  - name: amorous
-    phonetic: ［'æmərəs］
-    mnemonic: adj.【见上，-ous …的】
-    meaning: 恋爱的；多情的；色情的
+  - name: amour
+    phonetic: ［ə'muə］
+    mnemonic: n.【am 爱 → 爱情，-our 名词后缀】
+    meaning: 恋情；偷情，奸情
     children:
+      - name: amorous
+        phonetic: ［'æmərəs］
+        mnemonic: adj.【见上，-ous …的】
+        meaning: 恋爱的；多情的；色情的
       - name: amorist
         phonetic: ［'æmərist］
         mnemonic: n.【见上，-ist 人】
         meaning: 好色之徒；专写恋爱的作家
-  - name: enamor
-    children:
-      - name: enamored
+      - name: enamor
+        phonetic: ［i'næmə］
+        mnemonic: v.【en-使，amour 恋爱】
+        meaning: 使迷恋，使倾心
+        children:
+          - name: enamored
+            phonetic: ［ɪˈnæmərd］
+            mnemonic: n.【en-, 进入，使。 -am, 爱】
+            meaning: 迷恋
+      - name: enamour
+        phonetic: ［i'næmə］
+        mnemonic: v.【en-使，amour 恋爱】
+        meaning: 使迷恋，使倾心
+  - name: amatory
+    phonetic: ［'æmətəri］
+    mnemonic: adj.【an 爱 → 爱情，恋爱，-atory = -ory …的】
+    meaning: 恋爱的；色情的

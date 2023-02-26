@@ -27,3 +27,15 @@ children:
         mnemonic: n.【petro 石 → 石油，chemistry 化学】
         meaning: 石油化学
       - name: petrolatum
+  - name: petrify
+    phonetic: ［'petrifai］
+    mnemonic: v.【petri 石，-fy 使…化】
+    meaning: 使石化
+  - name: petrification
+    phonetic: ［ˌpetrifi'keiʃən］
+    mnemonic: n.【petri 石，-fication 名词后缀，化】
+    meaning: 石化作用
+  - name: petrous
+    phonetic: ［'petrəs］
+    mnemonic: adj.【petr 石，-ous …的】
+    meaning: 岩石（似）的；硬的

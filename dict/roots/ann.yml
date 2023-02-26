@@ -39,3 +39,25 @@ children:
     meaning: 周年纪念日，周年纪念；【-ary …的】周年纪念的，周年的
     children:
       - name: anniversarian
+  - name: annals
+    phonetic: ［'ænəlz］
+    mnemonic: n.【ann 年，-al 名词后缀】
+    meaning: 编年史
+  - name: superannuate
+    phonetic: ［ˌsju:pə'rænjueit］
+    mnemonic: adj.【super- 超过，ann 年 → 年龄， -u-，-ate 动词兼形容词后缀；“超过年龄” → 】
+    meaning: 因年老而令退休；太旧的，过时的
+    children:
+      - name: superannuation
+        phonetic: ［ˌsju:pə'rænju'eiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 年老退休
+  - name: perennial
+    phonetic: ［pə'reniəl］
+    mnemonic: adj.【per- 通，全，enn 年，-ial 形容词后缀，…的】
+    meaning: 全年的，四季不断的
+    children:
+      - name: perenniality
+        phonetic: ［pə'reniəliti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 全年，四季不断

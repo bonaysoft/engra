@@ -48,3 +48,39 @@ children:
         phonetic: ［ˌdaiəɡrə'mætik］
         mnemonic: adj.【见上，-atic …的】
         meaning: 图表的，图解的
+  - name: telegram
+    phonetic: ［'teliɡræm］
+    mnemonic: n.【tele远，gram 写，文字；“从远方通过电波传来的文字” → 】
+    meaning: 电报
+  - name: cryptogram
+    phonetic: ［'kriptəuɡræm］
+    mnemonic: n.【crypto 隐，秘密，gram 写，文字】
+    meaning: 密码，密码文，暗记
+  - name: parallelogram
+    phonetic: ［ˌpærə'leləɡræm］
+    mnemonic: n.【parallel 平行的，gram 图形；“对边平行的图形” → 】
+    meaning: 平行四边形
+  - name: kilogram
+    phonetic: ［'kiləɡræm］
+    mnemonic: n.【kilo-千，gram 克】
+    meaning: 千克，公斤
+  - name: gramophone
+    phonetic: ［'ɡræməfəun］
+    mnemonic: n.【gram 写 → 记录，-o-，phon 声音；“记录声音”的仪器 → 】
+    meaning: 留声机
+  - name: phonogram
+    phonetic: ［'fəunəuɡræm］
+    mnemonic: n.【phon 声音，-o-，gram 文字】
+    meaning: 音标文字，表音符号；唱片，录音片
+  - name: hologram
+    phonetic: ［'hɔləuɡræm］
+    mnemonic: n.【holo 全，gram 画，图形】
+    meaning: 全息图
+  - name: seismogram
+    phonetic: ［'saizməɡræm］
+    mnemonic: n.【seismo 地震，gram 画，图形】
+    meaning: 地震图
+  - name: electrocardiogram
+    phonetic: ［iˌlektrəu'kɑ:diəgræm］
+    mnemonic: n.【electro 电，cardi 心，-o-，gram 图】
+    meaning: 心电图

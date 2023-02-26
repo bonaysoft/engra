@@ -13,6 +13,11 @@ children:
         phonetic: ［ˌkredi'biləti］
         mnemonic: n.【cred 相信，信任，-ibility 表示性质】
         meaning: 可信，可靠，信用
+        children:
+          - name: incredibility
+            phonetic: ［inˌkredi'biləti］
+            mnemonic: n.【见上】
+            meaning: 不可信，难信
       - name: incredible
         phonetic: ［in'kredəbl］
         mnemonic: adj.【in-不，credible 可信的】
@@ -69,3 +74,16 @@ children:
           - name: credentialing
           - name: credentialed
           - name: credentialism
+  - name: credulous
+    phonetic: ［'kredjuləs］
+    mnemonic: adj.【cred 信任，-ulous 易…的】
+    meaning: 易信的，轻信的
+    children:
+      - name: incredulous
+        phonetic: ［in'kredjuləs］
+        mnemonic: adj.【in-不，见上】
+        meaning: 不轻信的
+  - name: creed
+    phonetic: ［kri:d］
+    mnemonic: n.【creed←cred 相信，信任】
+    meaning: 信条，教义，信念

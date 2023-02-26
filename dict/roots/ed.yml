@@ -10,3 +10,27 @@ children:
       - name: comedian
       - name: comedienne
       - name: tragicomedy
+  - name: edible
+    phonetic: ［'edibl］
+    mnemonic: adj.【ed 吃，-ible 形容词后缀，可…的】
+    meaning: 可以吃的，食用的
+  - name: edibility
+    phonetic: ［ˌedi'biləti］
+    mnemonic: n.【ed 吃，-ibility 名词后缀，可…性】
+    meaning: 可食性
+  - name: inedible
+    phonetic: ［in'edibl］
+    mnemonic: adj.【in-不，edible 可吃的】
+    meaning: 不可吃的，不适合食用的
+  - name: inedibility
+    phonetic: ［inedi'biləti］
+    mnemonic: n.【见上】
+    meaning: 不可食性
+  - name: edacious
+    phonetic: ［i'deiʃəs］
+    mnemonic: adj.【ed 吃，-acious 形容词后缀，表示有…性质的，好…的】
+    meaning: 贪吃的，狼吞虎咽的
+  - name: edacity
+    phonetic: ［i'dæsəti］
+    mnemonic: n.【ed 吃，-acity 名词后缀，表示性质、情况】
+    meaning: 贪吃，狼吞虎咽

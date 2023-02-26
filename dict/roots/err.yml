@@ -36,3 +36,19 @@ children:
     meaning: 飘忽不定的
     children:
       - name: erratically
+  - name: errantry
+    phonetic: ［'erəntri］
+    mnemonic: n.【见上，-ry 名词后缀】
+    meaning: 游侠行为；游侠
+  - name: aberrant
+    phonetic: ［æ'berənt］
+    mnemonic: adj.【ab-离开，err 走，-ant …的】
+    meaning: 离开正路的，脱离常轨的
+  - name: aberrance
+    phonetic: ［æ'berəns］
+    mnemonic: n.【ab-离开，err 走，-ance 名词后缀】
+    meaning: 离开正道，脱离常轨
+  - name: aberration
+    phonetic: ［ˌæbə'reiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 离开正道，脱离常轨

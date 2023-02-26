@@ -29,3 +29,31 @@ children:
         phonetic: ［'veikənsi］
         mnemonic: n.【vac 空，-ancy 表示情况、状态】
         meaning: 空，空白，空处；空虚
+  - name: evacuate
+    phonetic: ［i'vækjueit］
+    mnemonic: v.【e-外，出，vacu 空，-ate 动词后缀，使…；“使某地方空出来” → 】
+    meaning: 撤走，撤空，疏散居民，撤离（某地）
+  - name: evacuation
+    phonetic: ［iˌvækju'eiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 疏散，撤走，撤空
+  - name: evacuee
+    phonetic: ［iˌvækju'i:］
+    mnemonic: n.【见上，-ee 被…的人】
+    meaning: 被疏散的人员
+  - name: vacuous
+    phonetic: ［'vækjuəs］
+    mnemonic: adj.【vacu 空，-ous …的】
+    meaning: 空的，空洞的，空虚的
+  - name: vacuity
+    phonetic: ［væ'kju:əti］
+    mnemonic: n.【vacu 空，-ity 名词后缀，表示情况、状态】
+    meaning: 空，空白，空虚
+  - name: vacuum
+    phonetic: ［'vækjuəm］
+    mnemonic: n.【vacu空，-um 名词后缀】
+    meaning: 真空，真空状态，真空度
+  - name: vacuumize
+    phonetic: ［'vækjuəmaiz］
+    mnemonic: v.【见上，-ize 动词后缀，使…】
+    meaning: 使成真空，真空包装

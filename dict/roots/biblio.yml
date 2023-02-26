@@ -46,3 +46,7 @@ children:
   - name: Bible
     phonetic: ［'baibl］
     meaning: n. 圣经
+  - name: bibliopole
+    phonetic: ［'bibliəupəul］
+    mnemonic: n.【biblio 书，pol 卖】
+    meaning: 书商

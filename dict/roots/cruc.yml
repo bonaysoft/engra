@@ -24,3 +24,20 @@ children:
         phonetic: ［ˌkru:si'fikʃən］
         mnemonic: n.【cruc 十字，-i-，-fix 固定 → 钉，-ion 动词后缀】
         meaning: 在十字架上钉死的刑罚，酷刑
+  - name: crucifier
+    phonetic: ［'kru:sifaiə］
+    mnemonic: n.【见上，-er 表示人】
+    meaning: 钉罪人于十字架上者，施酷刑的人
+  - name: cruciform
+    phonetic: ［'kru:sifɔ:m］
+    mnemonic: adj.【cruc 十字，-form 形容词后缀，有…形状的】
+    meaning: 十字形的
+  - name: excruciate
+    phonetic: ［iks'kru:ʃieit］
+    mnemonic: v.【ex-使…，做…，cruc 十字，-ate 动词后缀；“把…钉在十字架上” → 】
+    meaning: 使受酷刑，拷打，折磨
+    children:
+      - name: excruciation
+        phonetic: ［ikˌskru:ʃi'eiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 惨刑，酷刑，拷问

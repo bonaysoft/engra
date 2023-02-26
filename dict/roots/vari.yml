@@ -46,3 +46,35 @@ children:
         meaning: 不变的，恒定的
         children:
           - name: invariably
+  - name: variant
+    phonetic: ［'vɛəriənt］
+    mnemonic: adj.【vari 变化，-ant …的】
+    meaning: 变异的，不同的，有差别的
+  - name: invariant
+    phonetic: ［in'vɛəriənt］
+    mnemonic: adj.【in-不，见上】
+    meaning: 不变的，恒定的
+  - name: variance
+    phonetic: ［'vɛəriəns］
+    mnemonic: n.【vari 变化，-ance 名词后缀，表示性质】
+    meaning: 变化，变动；变异
+  - name: invariance
+    phonetic: ［in'vɛəriəns］
+    mnemonic: n.【in-不，见上】
+    meaning: 不变性
+  - name: variation
+    phonetic: ［ˌvɛəri'eiʃən］
+    mnemonic: n.【vari 变化，-ation 名词后缀】
+    meaning: 变化，变动，变更
+  - name: varicoloured
+    phonetic: ［'vɛəriˌkʌləd］
+    mnemonic: adj.【vari 变化 → 多样，colour 颜色， -ed …的】
+    meaning: 杂色的，五颜六色的
+  - name: variform
+    phonetic: ［'vɛərifɔ:m］
+    mnemonic: adj.【vari 变化 → 多样，form 形状】
+    meaning: 有各种形状的，形形色色的
+  - name: varisized
+    phonetic: ［'vɛərisaizd］
+    mnemonic: adj.【vari 变化 → 多样，size 大小，-ed …的】
+    meaning: 各种大小的，不同尺寸的

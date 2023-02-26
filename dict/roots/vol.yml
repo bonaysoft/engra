@@ -14,3 +14,39 @@ children:
         meaning: 仁慈的，慈善的，善心的
         children:
           - name: benevolently
+  - name: volition
+    phonetic: ［vəu'liʃən］
+    mnemonic: n.【vol 意志，-ition 名词后缀】
+    meaning: 意志，意志力
+  - name: volitional
+    phonetic: ［vəu'liʃənəl］
+    mnemonic: adj.【见上，-al …的】
+    meaning: 意志的，意志力的
+  - name: volitive
+    phonetic: ［'vɔlitiv］
+    mnemonic: adj.【见上，-itive …的】
+    meaning: 意志的；表示愿望的
+  - name: malevolence
+    phonetic: ［mə'levələns］
+    mnemonic: n.【male-恶，坏，vol 意愿，-ence 名词后缀；“恶意”，“坏心” → 】
+    meaning: 恶意，恶毒；用心恶毒的行为
+  - name: malevolent
+    phonetic: ［mə'levələnt］
+    mnemonic: adj.【见上，-ent …的】
+    meaning: 含有恶意的，恶毒的
+  - name: volunteer
+    phonetic: ［ˌvɔlən'tiə］
+    mnemonic: n.【volunt 意志，志愿，-eer 者】
+    meaning: 自愿参加者，志愿者，志愿兵
+  - name: voluntary
+    phonetic: ［'vɔləntəri］
+    mnemonic: adj.【volunt 意志，志愿，-ary …的】
+    meaning: 自愿的，志愿的；故意的
+  - name: voluntarily
+    phonetic: ［'vɔləntərili］
+    mnemonic: adv.【见上，-ly 副词后缀】
+    meaning: 自愿地，志愿地
+  - name: involuntary
+    phonetic: ［in'vɔləntəri］
+    mnemonic: adj.【in-非，不，voluntary 自愿的】
+    meaning: 非自愿的；非故意的

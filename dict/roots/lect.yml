@@ -130,3 +130,47 @@ children:
       - name: dialectical
         children:
           - name: dialectically
+  - name: intelligence
+    phonetic: ［in'teliʤəns］
+    mnemonic: n.【见 intellect，lig=lect 选，-ence 名词后缀】
+    meaning: 智力，理解力，聪明
+  - name: intelligent
+    phonetic: ［in'teliʤənt］
+    mnemonic: adj.【见上，-ent …的】
+    meaning: 理解力强的，聪明的
+  - name: intelligentsia
+    phonetic: ［inteli'ʤentsiə］
+    mnemonic: n.【见上，-ia 表示集合名词，总称】
+    meaning: 知识界，知识分子（总称）
+  - name: elegant
+    phonetic: ［'eliɡənt］
+    mnemonic: adj.【e-出，leg=lect 挑选，-ant 形容词后缀，…的；“挑选出来的”，“众里挑一的” → 】
+    meaning: 美好的，漂亮的，优美的，高雅的
+  - name: elegance
+    phonetic: ［'eliɡəns］
+    mnemonic: n.【见上，-ance 名词后缀】
+    meaning: 漂亮，优美，雅致
+  - name: inelegant
+    phonetic: ［in'eliɡənt］
+    mnemonic: adj.【in-不，elegant 见上】
+    meaning: 不雅的，粗俗的
+  - name: inelegance
+    phonetic: ［in'eliɡəns］
+    mnemonic: n.【见上，-ance 名词后缀】
+    meaning: 不雅，粗俗
+  - name: eligible
+    phonetic: ［'eliʤəbl］
+    mnemonic: adj.【e-出，lig=lect 选，-ible 可…的】
+    meaning: 有被选出资格的，符合被推选的条件的
+  - name: ineligible
+    phonetic: ［in'eliʤəbl］
+    mnemonic: adj.【in-不，无，见上】
+    meaning: 无被选资格的，不合格的
+  - name: negligence
+    phonetic: ［'neɡliʤəns］
+    mnemonic: n.【见上，neglig=neglect（lig=lect）疏忽，-ence名词后缀】
+    meaning: 疏忽，忽视，忽略
+  - name: negligent
+    phonetic: ［'neɡliʤənt］
+    mnemonic: adj.【见上，-ent …的】
+    meaning: 疏忽的，忽视的，不小心的

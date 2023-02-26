@@ -54,3 +54,47 @@ children:
         phonetic: ［ˌpə:si'kju:ʃən］
         mnemonic: n.【见上，-ion 名词后缀】
         meaning: 迫害
+  - name: consecution
+    phonetic: ［ˌkɔnsi'kju:ʃən］
+    mnemonic: n.【con-= together，sec 跟随→相随，相连】
+    meaning: 连贯，连续，一致
+  - name: consecutive
+    phonetic: ［kən'sekjutiv］
+    mnemonic: adj.【见上，-ive …的】
+    meaning: 连贯的，连续的
+  - name: sequence
+    phonetic: ［'si:kwəns］
+    mnemonic: n.【sequ 跟，随，随其后→接着，相连接，-ence 名词后缀】
+    meaning: 继续，连续，一连串
+  - name: sequent
+    phonetic: ［'si:kwənt］
+    mnemonic: adj.【见上，-ent …的】
+    meaning: 连续的，相继的
+  - name: sequential
+    phonetic: ［si'kwenʃəl］
+    mnemonic: adj.【见上，-ial …的】
+    meaning: 连续的，相继的
+  - name: consequence
+    phonetic: ［'kɔnsikwəns］
+    mnemonic: n.【con-= together，sequ 跟随，随后，-ence 名词后缀，表示事物；“随后发生的事”→】
+    meaning: 后果，结果
+  - name: consequent
+    phonetic: ［'kɔnsikwənt］
+    mnemonic: adj.【见上，-ent …的；“随后发生的”】
+    meaning: 随之发生的，必然的
+  - name: subsequence
+    phonetic: ［'sʌbsikwəns］
+    mnemonic: n.【sub-下面，后面，sequ 跟随，-ence，表示事物】
+    meaning: 随后，后果，随后发生的事情
+  - name: subsequent
+    phonetic: ［'sʌbsikwənt］
+    mnemonic: adj.【见上，-ent …的】
+    meaning: 随后的，继…之后的，后来的
+  - name: sequacious
+    phonetic: ［si'kweiʃəs］
+    mnemonic: adj.【sequ 跟随，随从，-acious 形容词后缀，…的】
+    meaning: 盲从的
+  - name: sequacity
+    phonetic: ［si'kwæsiti］
+    mnemonic: n.【见上，-acity 名词后缀，表示情况、性质】
+    meaning: 盲从

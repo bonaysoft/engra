@@ -160,3 +160,91 @@ children:
         children:
           - name: spectrometry
       - name: spectrophotometer
+  - name: expectation
+    phonetic: ［ˌekspek'teiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 盼望，期待，期望
+  - name: introspect
+    phonetic: ［ˌintrəu'spekt］
+    mnemonic: v.【intro-向内，spect 看】
+    meaning: 内省，进行自我反省
+  - name: conspectus
+    phonetic: ［kən'spektəs］
+    mnemonic: n.【con-共同，全，spect 看，-us 表示物；“全看到” → 总览 → 】
+    meaning: 一览表，大纲，概况
+  - name: circumspect
+    phonetic: ［'sə:kəmspekt］
+    mnemonic: adj.【circum-周围，四周，spect 看；“向四周细看” → 】
+    meaning: 谨慎的，小心的，慎重的，仔细的
+  - name: circumspection
+    phonetic: ［ˌsə:kəm'spekʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 谨慎，小心，慎重
+  - name: spectate
+    phonetic: ［'spekteit］
+    mnemonic: v.【spect 看，-ate 动词后缀】
+    meaning: 出席观看
+  - name: spectator
+    phonetic: ［spek'teitə］
+    mnemonic: n.【spect 看，-ator 表示人】
+    meaning: 旁观者，观众
+  - name: conspicuous
+    phonetic: ［kən'spikjuəs］
+    mnemonic: adj.【con-共同，spic（= spect）看， -uous …的；“共同看见的”→大家都能看见的，有目共睹的→】
+    meaning: 明显的，显著的，惹人注目的
+  - name: specious
+    phonetic: ［'spi:ʃəs］
+    mnemonic: adj.【spec（= spect）看，-ious …的，“中看的”→】
+    meaning: 外表美观的，华而不实的
+  - name: special
+    phonetic: ［'speʃəl］
+    mnemonic: adj.【spec（=spect）看→外观，形状，形象；-ial …的；容易被“看”出的，外观显明的，形状特别醒目的→】
+    meaning: 特殊的，特别的
+  - name: speciality
+    phonetic: ［ˌspeʃi'æləti］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 特性，特质，特长，专业
+  - name: specialist
+    phonetic: ［'speʃəlist］
+    mnemonic: n.【见上，-ist 表示人；“特殊的人”有特别专长的人→】
+    meaning: 专家
+  - name: specialize
+    phonetic: ［'speʃəlaiz］
+    mnemonic: v.【见上，-ize 动词后缀】
+    meaning: 特别指出；专门研究，专攻
+  - name: specially
+    phonetic: ［'speʃəli］
+    mnemonic: adv.【见上，-ly 副词后缀】
+    meaning: 特别地，专门地
+  - name: specific
+    phonetic: ［spi'sifik］
+    mnemonic: adj.【见上，-ific = -fic …的】
+    meaning: 特有的，特定的，明确的
+  - name: specifically
+    phonetic: ［spi'sifikəli］
+    mnemonic: adv.【见上，-ally 副词后缀，…地】
+    meaning: 特别地，尤其
+  - name: especial
+    phonetic: ［i'speʃəl］
+    mnemonic: adj.【e-加强意义，special 特别的】
+    meaning: 特别的，特殊的
+  - name: especially
+    phonetic: ［i'speʃəli］
+    mnemonic: adv.【见上，-ly 副词后缀，…地】
+    meaning: 特别地，尤其，格外
+  - name: speculate
+    phonetic: ［'spekjuleit］
+    mnemonic: v.【spec（= spect）看，-ul-，-ate 动词后缀；看→观察，观测→推测→思考→】
+    meaning: 思索，沉思，推测，投机
+  - name: speculation
+    phonetic: ［ˌspekju'leiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 思索，沉思，推测；投机
+  - name: speculator
+    phonetic: ［'spekjuleitə］
+    mnemonic: n.【见上，-or 表示人】
+    meaning: 思索者；推测者；投机者
+  - name: specimen
+    phonetic: ［'spesimin］
+    mnemonic: n.【spec（=spect）看，-i-，-men 名词后缀；“给人看的东西”→】
+    meaning: 样品，样本，标本

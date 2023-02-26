@@ -50,3 +50,19 @@ children:
             phonetic: ［ˌkɔnfi'dænt］
             mnemonic: n.【见上】
             meaning: 知己的女友
+  - name: self-confidence
+    phonetic: ［ˌself'kɔnfidəns］
+    mnemonic: n.【self 自己，confidence 信任，信心】
+    meaning: 自信
+  - name: self-confident
+    phonetic: ［ˌself'kɔnfidənt］
+    mnemonic: adj.【self 自己，confident 有信心的】
+    meaning: 自信的，满怀信心的
+  - name: diffidence
+    phonetic: ［'difidəns］
+    mnemonic: n.【dif-否定，不，fid 信任，-ence 名词后缀；“不信任自己”】
+    meaning: 不自信，缺乏自信
+  - name: diffident
+    phonetic: ［'difidənt］
+    mnemonic: adj.【见上，-ent 形容词后缀】
+    meaning: 缺乏自信的

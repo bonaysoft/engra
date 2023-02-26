@@ -92,3 +92,76 @@ children:
       - name: addicted
       - name: addiction
       - name: addictive
+  - name: malediction
+    phonetic: ［ˌmæli'dikʃən］
+    mnemonic: n.【male-恶，坏，dict 言，-ion 名词后缀；“恶言” → 】
+    meaning: 咒骂，诽谤
+    children:
+      - name: maledictory
+        phonetic: ［ˌmæli'diktəri］
+        mnemonic: adj.【见上，-ory …的】
+        meaning: 咒骂的
+  - name: benediction
+    phonetic: ［ˌbeni'dikʃən］
+    mnemonic: n.【bene-好，dict 言词，-ion 名词后缀；“好的言词” → 】
+    meaning: 祝福
+    children:
+      - name: benedictory
+        phonetic: ［ˌbeni'diktəri］
+        mnemonic: adj.【见上，-ory …的】
+        meaning: 祝福的
+  - name: indicate
+    phonetic: ［'indikeit］
+    mnemonic: v.【in-表示at，dic 言，说 → 说明，表明，表示，-ate 动词后缀】
+    meaning: 指示，指出，表明
+    children:
+      - name: indication
+        phonetic: ［ˌindi'keiʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 指示，指出，表示
+      - name: indicator
+        phonetic: ［'indikeitə］
+        mnemonic: n.【见上，-or 表示人或物】
+        meaning: 指示者，指示器
+      - name: indicative
+        phonetic: ［in'dikətiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 指示的，表示的
+  - name: diction
+    phonetic: ［'dikʃən］
+    mnemonic: n.【dict 言，词，-ion 名词后缀】
+    meaning: 措词，辞令
+    children:
+      - name: dictionary
+        phonetic: ［'dikʃənəri］
+        mnemonic: n.【dict 言，词，diction 措词，-ary 名词后缀，表示物；“关于措词的书” → 】
+        meaning: 字典，词典
+  - name: dictum
+    phonetic: ［'diktəm］
+    mnemonic: n.【dict 言，词，-um 名词后缀】
+    meaning: 格言，名言
+  - name: edict
+    phonetic: ［'i:dikt］
+    mnemonic: n.【e-外，出，dict 言，词 → 指示；“统治者发出的话”，“当局发出的指示” → 】
+    meaning: 法令，布告
+  - name: dictaphone
+    phonetic: ［'diktəfən］
+    mnemonic: n.【dict 言，说，-a-连接字母，phone 声音，电话】
+    meaning: 口述录音机，录音电话机
+  - name: interdict
+    phonetic: ［ˌintə'dikt］
+    mnemonic: v.【inter-中间，dict 言；“从中插言” → 使停止 → 】
+    meaning: 制止，禁止
+    children:
+      - name: interdiction
+        phonetic: ［ˌintə'dikʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 制止，禁止
+      - name: interdictory
+        phonetic: ［ˌintə'diktəri］
+        mnemonic: adj.【见上，-ory 形容词后缀，…的】
+        meaning: 制止的，禁止的
+  - name: verdict
+    phonetic: ［'və:dikt］
+    mnemonic: n.【ver（=very）真正的，绝对的，恰好的，dict 言】
+    meaning: 裁决，判决，定论

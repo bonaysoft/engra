@@ -48,3 +48,31 @@ children:
         phonetic: ［'ɡræviteitiv］
         mnemonic: adj.【grav 重力，-ative …的】
         meaning: 受重力作用的；重力的
+  - name: gravid
+    phonetic: ［'ɡrævid］
+    mnemonic: adj.【grav 重，-id …的；“负重的”，“重身子”，“heavy with child” → 】
+    meaning: 怀孕的，妊娠的
+  - name: gravidity
+    phonetic: ［ɡrə'vidəti］
+    mnemonic: n.【见上，-idity 抽象名词后缀】
+    meaning: 怀孕，妊娠
+  - name: gravida
+    phonetic: ［'ɡrævidə］
+    mnemonic: n.【见上，-a 名词后缀】
+    meaning: 孕妇
+  - name: agravic
+    phonetic: ［ə'ɡrævik］
+    mnemonic: adj.【a-无，grav 重，重力，-ic …的】
+    meaning: 无重力情况的
+  - name: ingravescent
+    phonetic: ［ˌinɡrə'vesənt］
+    mnemonic: adj.【in-加强意义，grav 重，-escent 形容词后缀，表示“逐渐…的”】
+    meaning: （病等）越来越重的
+  - name: grieve
+    phonetic: ［ɡri:v］
+    mnemonic: v.【griev←grav重；“心情沉重”】
+    meaning: 悲伤，悲痛；使悲伤，使悲痛
+  - name: grief
+    phonetic: ［ɡri:f］
+    mnemonic: n.【见上，名词】
+    meaning: 悲伤，悲痛

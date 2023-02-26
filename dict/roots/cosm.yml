@@ -15,6 +15,10 @@ children:
           - name: cosmical
             children:
               - name: cosmically
+      - name: cosmics
+        phonetic: ［'kɔzmiks］
+        mnemonic: n.【cosm 宇宙，-ics …学】
+        meaning: 宇宙学
       - name: cosmology
         phonetic: ［kɔz'mɔləʤi］
         mnemonic: n.【cosmo 宇宙，-logy …学】
@@ -38,6 +42,11 @@ children:
         phonetic: ［'mækrəkɔzəm］
         mnemonic: n.【macro 大，cosm 世界；“大世界” → 】
         meaning: 宏观世界
+        children:
+          - name: macrocosmic
+            phonetic: ［ˌmækrəu'kɔzmik］
+            mnemonic: adj.【见上，-ic …的】
+            meaning: 宏观世界的，宏观宇宙的
       - name: microcosm
         phonetic: ［'maikrəkɔzəm］
         mnemonic: n.【micro 微，小，cosm 世界；“小世界” → 】
@@ -64,3 +73,17 @@ children:
       - name: cosmetology
         children:
           - name: cosmetologist
+  - name: cosmopolis
+    phonetic: ［kɔz'mɔpəlis］
+    mnemonic: n.【cosmo 世界，polis 城市；“世界城市” → 】
+    meaning: 国际都市
+    children:
+      - name: cosmopolitan
+        phonetic: ［ˌkɔzmə'pɔlitən］
+        mnemonic: adj./n.【cosmo 世界，polit←polis 城市】
+        meaning: 全世界的；世界主义的；世界主义者
+        children:
+          - name: cosmopolitanism
+            phonetic: ［ˌkɔzmə'pɔlitənizəm］
+            mnemonic: n.【见上，-ism 主义】
+            meaning: 世界主义

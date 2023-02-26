@@ -37,3 +37,16 @@ children:
     children:
       - name: dialing
       - name: redial
+  - name: meridian
+    phonetic: ［mə'ridiən］
+    mnemonic: n./adj.【meri 中间，di 日，-an 名词后缀】
+    meaning: 日中，正午，子午线；【-an …的】日中的，正午的
+    children:
+      - name: antemeridian
+        phonetic: ［æntimə'ridiən］
+        mnemonic: adj.【ante-前，meridian 日中，正午】
+        meaning: 日中以前的，午前的
+      - name: postmeridian
+        phonetic: ［pəustmə'ridiən］
+        mnemonic: adj.【post-后，meridian 日中，正午】
+        meaning: 日中以后的，午后的

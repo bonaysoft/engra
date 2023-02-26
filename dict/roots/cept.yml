@@ -73,6 +73,10 @@ children:
     meaning: 截取，截击，拦截，截断
     children:
       - name: interceptor
+      - name: intercepter
+        phonetic: ［ˌintə'septə］
+        mnemonic: n.【见上，-er 表示物】
+        meaning: 截击机
       - name: interception
         phonetic: ［ˌintə'sepʃən］
         mnemonic: n.【见上，-ion 名词后缀】
@@ -90,3 +94,7 @@ children:
     children:
       - name: susceptibly
       - name: susceptibility
+  - name: incept
+    phonetic: ［in'sept］
+    mnemonic: v.【in- 入，cept 拿，取；“拿入” → 收进 → 】
+    meaning: 接收（入会），摄入，摄取

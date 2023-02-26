@@ -75,3 +75,7 @@ children:
     children:
       - name: populist
       - name: populism
+  - name: populous
+    phonetic: ［'pɔpjuləs］
+    mnemonic: adj.【popul 人民 → 居民，-ous …的】
+    meaning: 人口稠密的

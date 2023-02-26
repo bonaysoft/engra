@@ -46,3 +46,51 @@ children:
       - name: replicated
       - name: replication
   - name: replica
+  - name: explicate
+    phonetic: ［'eksplikeit］
+    mnemonic: v.【ex-出，plic 折叠 → 包藏 → 深藏 → 深奥；“揭出深奥之处”，“to unfold the meaning of”】
+    meaning: 解释，说明
+  - name: explicable
+    phonetic: ［'eksplikəbl］
+    mnemonic: adj.【见上，-able 可…的】
+    meaning: 可解释的，可说明的
+  - name: explication
+    phonetic: ［ˌekspli'keiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 解释，说明
+  - name: explicatory
+    phonetic: ［ik'splikətəri］
+    mnemonic: adj.【见上，-atory …的】
+    meaning: 解释的，说明的
+  - name: supplicate
+    phonetic: ［'sʌplikeit］
+    mnemonic: v.【sup-下，plic 折，-ate 动词后缀；“向下折”→折下腰→弯下身→屈膝而求→】
+    meaning: 恳求，哀求
+  - name: supplication
+    phonetic: ［ˌsʌpli'keiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 恳求，哀求
+  - name: supplicatory
+    phonetic: ［'sʌplikətəri］
+    mnemonic: adj.【见上，-atory 形容词后缀，…的】
+    meaning: 恳求的，哀求的
+  - name: duplicate
+    phonetic: ［'dju:plikit］
+    mnemonic: v./adj./n.【du 双，二，plic 重叠，重复，-ate 使…】
+    meaning: 使成双，复制，复写；【-ate…的】二重的，二倍的，复制的；【转为名词】复制品
+  - name: duplication
+    phonetic: ［ˌdju:pli'keiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 成双，成倍；复制，复制品
+  - name: duplicity
+    phonetic: ［dju:'plisiti］
+    mnemonic: n.【见上，-ity 表示性质】
+    meaning: 二重性，表里不一，口是心非
+  - name: multiplicate
+    phonetic: ［'mʌltipliˌkeit］
+    mnemonic: adj.【multi-多，plic 重叠，-ate …的】
+    meaning: 多重的，多倍的，多样的
+  - name: multiplicity
+    phonetic: ［ˌmʌlti'plisəti］
+    mnemonic: n.【见上，-ity 表示性质】
+    meaning: 多重性，多倍，多样，复杂

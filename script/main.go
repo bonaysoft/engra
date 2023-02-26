@@ -12,6 +12,7 @@ import (
 	"time"
 
 	"github.com/bitfield/script"
+	model2 "github.com/bonaysoft/engra/apis/graph/model"
 	"github.com/bonaysoft/engra/pkg/dal/model"
 	"github.com/bonaysoft/engra/pkg/dal/query"
 	"github.com/bonaysoft/engra/pkg/dict"
@@ -30,10 +31,10 @@ func startsWithNum(txt string) bool {
 }
 
 func main() {
-	di, err := dict.NewDict()
-	if err != nil {
-		return
-	}
+	// di, err := dict.NewDict()
+	// if err != nil {
+	// 	return
+	// }
 
 	rows, err := script.File("data/yychdym.txt").Slice()
 	if err != nil {
@@ -42,11 +43,32 @@ func main() {
 	}
 
 	var count int
-	var mnemonic, meaning, root string
+	var mnemonic, meaning string
+	var rTree *dict.WordRoot
 	for _, row := range rows {
+		// fmt.Println(row)
 		if startsWithNum(row) {
-			root = row
-			fmt.Println(root)
+			items := strings.Split(row, ". ")
+			if len(items) != 2 {
+				continue
+			}
+
+			_, m := items[0], items[1]
+			var root string
+			for _, i := range m {
+				if !(i >= 97 && i <= 122) {
+					break
+				}
+				root += string(i)
+			}
+
+			fmt.Println(root, row)
+
+			rTree, err = dict.NewWordRoot(root)
+			if err != nil {
+				fmt.Println(err)
+				// return
+			}
 		}
 
 		mnemonic = ""
@@ -65,25 +87,25 @@ func main() {
 		} else {
 			meaning = other[peIdx:]
 		}
-		_, err := di.Find(word)
-		if err != nil {
-			count++
-			fmt.Printf("word: %s, phonetic: %s, constitute: %s, meaning: %s\n", word, phonetic, mnemonic, meaning)
+
+		if rTree == nil {
 			continue
 		}
 
-		// vv, ok := v.Find(word)
-		// if !ok {
-		// 	return
-		// }
-		//
-		// vv.Phonetic = phonetic
-		// vv.Meaning = meaning
-		// vv.Mnemonic = mnemonic
-		// v.Save()
-		//
-		// count++
-		fmt.Sprintf("word: %s, phonetic: %s, constitute: %s, meaning: %s\n", word, phonetic, mnemonic, meaning)
+		_, ok := rTree.Find(word)
+		if ok {
+			continue
+		}
+
+		rTree.Children = append(rTree.Children, &model2.Vocabulary{
+			Name:     word,
+			Phonetic: phonetic,
+			Mnemonic: mnemonic,
+			Meaning:  meaning,
+		})
+		rTree.Save()
+		count++
+		// fmt.Sprintf("word: %s, phonetic: %s, constitute: %s, meaning: %s\n", word, phonetic, mnemonic, meaning)
 	}
 	fmt.Println(count)
 

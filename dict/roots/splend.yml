@@ -15,3 +15,23 @@ children:
         phonetic: ［'splendərəs］
         mnemonic: adj.【见上，-ous …的】
         meaning: 有光辉的，有光彩的；显赫的
+  - name: splendent
+    phonetic: ［'splendənt］
+    mnemonic: adj.【splend 发光，-ent 形容词后缀，…的】
+    meaning: 发亮的，有光泽的；辉煌的；显著的
+  - name: splendour
+    phonetic: ［'splendə］
+    mnemonic: n.【splend 发光，-our 名词后缀】
+    meaning: 光辉，光彩；壮丽，显赫
+  - name: resplendent
+    phonetic: ［ri'splendənt］
+    mnemonic: adj.【re-再，splend 发光，-ent …的】
+    meaning: 灿烂的，光辉的，辉煌的，华丽的
+  - name: resplendence
+    phonetic: ［ri'splendəns］
+    mnemonic: n.【见上，-ence 名词后缀】
+    meaning: 灿烂，光辉，辉煌，华丽
+  - name: splendiferous
+    phonetic: ［ˌsplen'difərəs］
+    mnemonic: adj.【splend 发光，光彩，-i-，-ferous 有…的；“有光彩的” → 】
+    meaning: 极好的，华丽的

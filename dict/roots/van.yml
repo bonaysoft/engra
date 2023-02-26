@@ -12,3 +12,23 @@ children:
       - name: vanishing
         children:
           - name: vanishingly
+  - name: vanity
+    phonetic: ［'vænəti］
+    mnemonic: n.【van 空，-ity 名词后缀】
+    meaning: 空虚，虚夸，虚荣心
+  - name: evanesce
+    phonetic: ［ˌi:və'nes］
+    mnemonic: v.【e-表示 out，van 空，无 → 消失，-esce 动词后缀，表示逐渐成为…】
+    meaning: 逐渐消失；消散，消失
+  - name: evanescence
+    phonetic: ［ˌi:və'nesns］
+    mnemonic: n.【见上，-escence 名词后缀】
+    meaning: 消失，消散
+  - name: evanescent
+    phonetic: ［ˌi:və'nesnt］
+    mnemonic: adj.【见上，-escent 形容词后缀】
+    meaning: 很快消失的
+  - name: evanish
+    phonetic: ［i'væniʃ］
+    mnemonic: v.【见上，-ish 动词后缀】
+    meaning: 消失，消散

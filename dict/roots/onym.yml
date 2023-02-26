@@ -34,3 +34,43 @@ children:
         phonetic: ［sju:'dɔniməs］
         mnemonic: adj.【pseud-假，onym 名，-ous …的】
         meaning: 假名的；用假名的
+  - name: onymous
+    phonetic: ［'ɔniməs］
+    mnemonic: adj.【onym 名，-ous…的】
+    meaning: 有名字的；署名的
+  - name: anonym
+    phonetic: ［'ænənim］
+    mnemonic: n.【an-无，onym 名】
+    meaning: 匿名者，无名氏
+  - name: cryptonym
+    phonetic: ［'kriptəunim］
+    mnemonic: n.【crypt 隐，匿，onym 名】
+    meaning: 匿名
+  - name: homonymous
+    phonetic: ［hɔ'mɔniməs］
+    mnemonic: adj.【hom（o）同，onym名，-ous …的】
+    meaning: 同名的
+  - name: matronymic
+    phonetic: ［ˌmætrə'nimik］
+    mnemonic: n./adj.【matr 母，onym 名，-ic …的】
+    meaning: 取自母名的（名）
+  - name: patronymic
+    phonetic: ［ˌpætrə'nimik］
+    mnemonic: adj./n.【patr 父，onym 名，-ic …的】
+    meaning: 源于父名的（姓）
+  - name: pseudonymity
+    phonetic: ［sju:dəu'nimiti］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 使用假名
+  - name: synonymic
+    phonetic: ［ˌsinə'nimik］
+    mnemonic: adj.【见上，-ic …的】
+    meaning: 同义的，同义词的
+  - name: synonymity
+    phonetic: ［sinə'nimiti］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 同义
+  - name: antonym
+    phonetic: ［'æntənim］
+    mnemonic: n.【ant-（=anti-）相反，见上；“意义相反的词”】
+    meaning: 反义词，反义字，反义语

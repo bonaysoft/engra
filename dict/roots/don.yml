@@ -54,3 +54,29 @@ children:
         phonetic: ［ˌkɔndəu'neiʃən］
         mnemonic: n.【见上，-ation 名词后缀】
         meaning: 宽恕，赦免
+  - name: dose
+    phonetic: ［dəus］
+    mnemonic: n.【do 给，被“给”的一次用药量 → 】
+    meaning: 一剂药，一剂
+  - name: dot
+    phonetic: ［dɔt］
+    mnemonic: n.【do 给，女子出嫁时，娘家所“给”之物 → 】
+    meaning: 嫁妆，妆奁
+    children:
+      - name: dotal
+        phonetic: ［'dəutəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 嫁妆的，妆奁的
+  - name: anecdote
+    phonetic: ［'ænikdəut］
+    mnemonic: n.【an-不，未，ec-外，向外，do 给，给出 → 发表；“未曾向外发表过的”事 → 】
+    meaning: 轶事；奇闻，趣闻
+    children:
+      - name: anecdotist
+        phonetic: ［'ænikˌdəutist］
+        mnemonic: n.【见上，-ist人】
+        meaning: 收集轶事者；好谈轶事者
+      - name: anecdotical
+        phonetic: ［ˌænik'dɔtikəl］
+        mnemonic: adj.【见上，-ical…的】
+        meaning: 轶事的，奇闻的；爱谈奇闻轶事的

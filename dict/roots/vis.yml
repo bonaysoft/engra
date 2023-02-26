@@ -136,3 +136,63 @@ children:
     phonetic: ［'vi:zə］
     mnemonic: n./v.【vis 看 → 审视，审查 → 审查后的签字 → 】
     meaning: 签证，签准
+  - name: adviser，advisor
+    phonetic: ［əd'vaizə］
+    mnemonic: n.【见上，-er 或-or 表示人】
+    meaning: 顾问；劝告者
+  - name: previse
+    phonetic: ［pri'vaiz］
+    mnemonic: v.【pre-前，先，预先，vis 看见】
+    meaning: 预见，预知
+  - name: prevision
+    phonetic: ［ˌpri:'viʒən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 预见，预知，预测
+  - name: visage
+    phonetic: ［'viziʤ］
+    mnemonic: n.【vis 看，-age 表示物】
+    meaning: 外观，脸，面容，外表
+  - name: television
+    phonetic: ［'teliˌviʒən］
+    mnemonic: n.【tele 远，vis 看，-ion 名词后缀；“由远处通过电波传来可观看的图像” → 】
+    meaning: 电视
+  - name: televise
+    phonetic: ［'telivaiz］
+    mnemonic: v.【见上】
+    meaning: 电视播送
+  - name: televisual
+    phonetic: ［ˌteli'vizjuəl］
+    mnemonic: adj.【见上，-ual …的】
+    meaning: 电视的
+  - name: evident
+    phonetic: ［'evident］
+    mnemonic: adj.【e-出，vid 看，-ent 形容词后缀，…的；“看得出来的” → 】
+    meaning: 明显的，明白的
+  - name: evidence
+    phonetic: ［'evidens］
+    mnemonic: n.【见上，-ence 名词后缀】
+    meaning: 明显，明白，迹象，证据
+  - name: provide
+    phonetic: ［prə'vaid］
+    mnemonic: v.【pro-前，先，预先，vid 看见；“预先见到而作准备” → 】
+    meaning: 作准备，预防，提供，装备，供给
+  - name: provident
+    phonetic: ［'prɔvidənt］
+    mnemonic: adj.【pro-前，先，vid 看见，-ent …的】
+    meaning: 有远见的
+  - name: improvident
+    phonetic: ［im'prɔvidənt］
+    mnemonic: adj.【im-无，见上】
+    meaning: 无远见的
+  - name: video
+    phonetic: ［'vidiəu］
+    mnemonic: n./adj.【vid 看；“可观看的图像”】
+    meaning: 电视；电视的
+  - name: videophone
+    phonetic: ［'vidiəufəun］
+    mnemonic: n.【见上，phone 电话】
+    meaning: 电视电话，可视电话
+  - name: videocast
+    phonetic: ［'vidiəukɑ:st］
+    mnemonic: n.【见上，cast 广播】
+    meaning: 电视广播

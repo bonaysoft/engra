@@ -12,3 +12,39 @@ children:
         phonetic: ［ˌrefju'ʤi:，'refjuʤi:］
         mnemonic: n.【见上，-ee 名词后缀，表示人】
         meaning: 避难者，逃难者；流亡者；难民
+  - name: fugacious
+    phonetic: ［fju'ɡeiʃəs］
+    mnemonic: adj.【fug 散，-acious 形容词后缀，…的】
+    meaning: 易逸去的；转瞬即逝的
+  - name: fugacity
+    phonetic: ［fju'ɡæsiti］
+    mnemonic: n.【fug 散，-acity 抽象名词后缀】
+    meaning: 易逸性
+  - name: febrifuge
+    phonetic: ［'febrifju:ʤ］
+    mnemonic: n.【febri 热，fug 散；“散热” → 】
+    meaning: 解热剂，退热药
+  - name: febrifugal
+    phonetic: ［fi'brifjuɡəl］
+    mnemonic: adj.【见上，-al …的】
+    meaning: 解热的，退热的
+  - name: insectifuge
+    phonetic: ［in'sektifju:ʤ］
+    mnemonic: n.【insecti 虫，fug 散 → 驱散】
+    meaning: 驱虫剂
+  - name: lucifugous
+    phonetic: ［lu:'sifjuɡəs］
+    mnemonic: adj.【luci 光，fug 逃，避，-ous …的】
+    meaning: 避光的
+  - name: lactifuge
+    phonetic: ［'læktifju:ʤ］
+    mnemonic: adj./n.【lacti 乳，fug 散】
+    meaning: 抑乳的，散乳的；抑乳药
+  - name: vermifuge
+    phonetic: ［'və:mifju:ʤ］
+    mnemonic: n./adj.【vermi 虫，fug 散 → 驱散】
+    meaning: 驱（寄生）虫药；驱（寄生）虫的
+  - name: vermifugal
+    phonetic: ［'və:mifjuɡəl］
+    mnemonic: adj.【见上，-al …的】
+    meaning: 驱（寄生）虫的

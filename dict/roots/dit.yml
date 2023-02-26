@@ -67,3 +67,16 @@ children:
     children:
       - name: renter
       - name: rented
+  - name: extradite
+    phonetic: ［'ekstrədait］
+    mnemonic: v.【ex-=out 出，tra-=trans-转，dit 给；“转给”，“转交出” → 】
+    meaning: 引渡（逃犯，战俘等），使（逃犯等）被引渡
+    children:
+      - name: extradition
+        phonetic: ［ˌekstrə'diʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: （对逃犯等的）引渡
+      - name: extraditable
+        phonetic: ［'ekstrəˌ daitəbl］
+        mnemonic: adj.【见上，-able 可…的】
+        meaning: （逃犯等）可引渡的

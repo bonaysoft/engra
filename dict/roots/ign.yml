@@ -18,3 +18,19 @@ children:
         mnemonic: n.【ign 火，-ion 名词后缀】
         meaning: 点火；着火
       - name: reignite
+  - name: preignition
+    phonetic: ［ˌpri:iɡ'niʃən］
+    mnemonic: n.【pre-前，ignition 点火】
+    meaning: （内燃机汽缸内的）提前点火
+  - name: ignitron
+    phonetic: ［iɡ'naitrɔn］
+    mnemonic: n.【ign 火，-tron …管】
+    meaning: 点火管，引燃管
+  - name: igneous
+    phonetic: ［'iɡniəs］
+    mnemonic: adj.【ign 火，-eous …的】
+    meaning: 火的，似火的；火成的
+  - name: ignescent
+    phonetic: ［iɡ'nesənt］
+    mnemonic: adj.【ign 火，-escent …的】
+    meaning: （碰击后）发出火花的，突然燃起的，猝发成火焰的

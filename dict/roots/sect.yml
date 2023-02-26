@@ -6,3 +6,91 @@ children:
   - name: sect
     children:
       - name: sectarian
+  - name: insect
+    phonetic: ［'insekt］
+    mnemonic: n.【in-入内，sect 切，割；“切入”，“切裂” → 昆虫躯体分节，节与节之间宛如“切裂”、“割断”之状，故名 → 】
+    meaning: 昆虫
+  - name: insectology
+    phonetic: ［ˌinsek'tɔləʤi］
+    mnemonic: n.【见上，-o-，-logy …学】
+    meaning: 昆虫学
+  - name: section
+    phonetic: ［'sekʃən］
+    mnemonic: n.【sect 切，-ion 名词后缀，表示行为及行为的结果】
+    meaning: 切开，切断，切下的部分，一部分；【由大机关中“分割”出来的小机关】科，处，组，股
+  - name: sectional
+    phonetic: ［'sekʃənəl］
+    mnemonic: adj.【见上，-al …的】
+    meaning: 部分的
+  - name: sectile
+    phonetic: ［'sektail］
+    mnemonic: adj.【sect 切，-ile 易…的，可…的】
+    meaning: 可切开的
+  - name: bisect
+    phonetic: ［bai'sekt］
+    mnemonic: v.【bi-两，二，sect 切；“切成两份” → 】
+    meaning: 二等分，平分
+  - name: bisection
+    phonetic: ［ˌbai'sekʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 二等分，平分
+  - name: trisect
+    phonetic: ［trai'sekt］
+    mnemonic: v.【tri-三，sect 切】
+    meaning: 把…分成三份，三等分
+  - name: trisection
+    phonetic: ［ˌtrai'sekʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 三等分，分成三份
+  - name: dissect
+    phonetic: ［di'sekt］
+    mnemonic: v.【dis-分开，sect 切】
+    meaning: 切开，解剖，仔细分析
+  - name: dissection
+    phonetic: ［di'sekʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 解剖，分析
+  - name: transect
+    phonetic: ［træn'sekt］
+    mnemonic: v.【tran-横越，sect切】
+    meaning: 横切，切断，横断
+  - name: transection
+    phonetic: ［træn'zekʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 横切面，横切
+  - name: vivisect
+    phonetic: ［ˌvivi'sekt］
+    mnemonic: v.【viv(i)活→活体，sect 切→解剖】
+    meaning: 解剖动物活体
+  - name: vivisection
+    phonetic: ［ˌvivi'sekʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 活体解剖
+  - name: resect
+    phonetic: ［ri'sekt］
+    mnemonic: v.【re-再，sect 切】
+    meaning: 切除
+  - name: resectable
+    phonetic: ［ri'sektəbl］
+    mnemonic: adj.【见上，-able …的】
+    meaning: 可切除的
+  - name: resection
+    phonetic: ［ri'sekʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 切除，切除术
+  - name: intersect
+    phonetic: ［ˌintə'sekt］
+    mnemonic: v.【inter-中间，sect 切；“从中间切”→】
+    meaning: 横切，横断，和…交叉
+  - name: intersection
+    phonetic: ［ˌintə'sekʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 横断，交叉，交叉点，交叉路口
+  - name: secant
+    phonetic: ［'si:kənt］
+    mnemonic: n.【sec=sect 割，-ant 名词后缀】
+    meaning: （数学）割线，正割
+  - name: cosecant
+    phonetic: ［kəu'si:kənt］
+    mnemonic: n.【co-余，见上】
+    meaning: （数学）余割

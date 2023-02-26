@@ -74,3 +74,15 @@ children:
         meaning: （使）市郊化
         children:
           - name: suburbanization
+  - name: exurb
+    phonetic: ［'eksə:b］
+    mnemonic: n.【ex-外，urb 城市；“远在城市之外” → 】
+    meaning: 城市远郊地区
+  - name: exurban
+    phonetic: ［ek'sə:bən］
+    mnemonic: adj.【见上，-an …的】
+    meaning: 城市远郊的
+  - name: exurbanite
+    phonetic: ［eɡ'zə:bənait］
+    mnemonic: n.【见上，-ite 表示人】
+    meaning: 城市远郊区居民

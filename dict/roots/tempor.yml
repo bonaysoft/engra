@@ -39,3 +39,23 @@ children:
         meaning: 同时期的，同时代的，同时发生的
         children:
           - name: contemporaneously
+  - name: extempore
+    phonetic: ［ek'stempəri］
+    mnemonic: adj.【ex-外，tempor 时，时间；“在规定时间之外的” → 不在计划时间之内的 → 】
+    meaning: 临时的，即席的，当场的，无准备的
+  - name: extemporize
+    phonetic: ［ik'stempəraiz］
+    mnemonic: v.【见上，-ize 动词后缀，作…】
+    meaning: 临时作成，即席发言；即席演奏
+  - name: extemporization
+    phonetic: ［ikˌstempərai'zeiʃən］
+    mnemonic: n.【见上，-ization 名词后缀，表示行为】
+    meaning: 即席创作，即席发言
+  - name: extemporaneous
+    phonetic: ［ikˌstempə'reiniəs］
+    mnemonic: adj.【见上，-aneous 形容词后缀，…的】
+    meaning: 临时的，当场的，无准备的
+  - name: extemporary
+    phonetic: ［ik'stempərəri］
+    mnemonic: adj.【见上，-ary …的】
+    meaning: = extemporaneous

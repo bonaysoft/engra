@@ -77,3 +77,106 @@ children:
         children:
           - name: reproducibility
       - name: preproduction
+  - name: introduce
+    phonetic: ［ˌintrə'dju:s］
+    mnemonic: v.【intro-入，duc 引；“引入” → 】
+    meaning: 引进，介绍
+    children:
+      - name: introduction
+        phonetic: ［ˌintrə'dʌkʃən］
+        mnemonic: n.【intro-入，duct 引，-ion 名词后缀】
+        meaning: 引进，介绍
+      - name: introductory
+        phonetic: ［ˌintrə'dʌktəri］
+        mnemonic: adj.【见上，-ory …的】
+        meaning: 介绍的，导言的
+  - name: conduct
+    phonetic: ［'kɔndʌkt］
+    mnemonic: n.；［kən'dʌkt］v.【con-加强意义，duct引导，领导】
+    meaning: 引导，指导，管理，经营
+    children:
+      - name: condutor
+        phonetic: ［kən'dʌktə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 指导者，管理者，（乐队等的）指挥，（电车等的）售票员；【duct 引导 → 传导，-or 表示物】导体
+  - name: semiconductor
+    phonetic: ［ˌsemikən'dʌktə］
+    mnemonic: n.【semi-半，conductor 导体】
+    meaning: 半导体
+  - name: misconduct
+    phonetic: ［ˌmiskən'dʌkt］
+    mnemonic: v.【mis-误，错，conduct 指导 → 办理】
+    meaning: 办错，对…处理不当
+  - name: abduct
+    phonetic: ［æb'dʌkt］
+    mnemonic: v.【ab-离，去，duct 引；“引去” → 】
+    meaning: 诱拐，劫持
+    children:
+      - name: abduction
+        phonetic: ［æb'dʌkʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 诱拐，劫持
+      - name: abductor
+        phonetic: ［æb'dʌktə］
+        mnemonic: n.【见上，-or 表示人】
+        meaning: 诱拐者，拐子
+  - name: seduce
+    phonetic: ［si'dju:s］
+    mnemonic: v.【se-离，去，duc 引；“引诱去” → 】
+    meaning: 诱惑，诱使…堕落，勾引
+    children:
+      - name: seducer
+        phonetic: ［si'dju:sə］
+        mnemonic: n.【见上，-er 者】
+        meaning: 引诱者，勾引者
+      - name: seduction
+        phonetic: ［si'dʌkʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 勾引，诱惑
+  - name: aqueduct
+    phonetic: ［'ækwidʌkt］
+    mnemonic: n.【aque 水，duct 引导；“引导水流之物”】
+    meaning: 导水管，引水渠，沟渠，高架渠
+  - name: viaduct
+    phonetic: ［'vaiədʌkt］
+    mnemonic: n.【via 道路，duct 引导；“把路引导过去” → 】
+    meaning: 高架桥，跨线桥，旱桥，栈道
+  - name: ventiduct
+    phonetic: ［'ventidʌkt］
+    mnemonic: n.【venti 风，duct 引导；“引导风的”管道 → 】
+    meaning: 通风管，通风道
+  - name: reduce
+    phonetic: ［ri'dju:s］
+    mnemonic: v.【re-回，向后，duc 引；“引回”，“向后引” → 退缩，减退】
+    meaning: 减少，缩减
+    children:
+      - name: reduction
+        phonetic: ［ri'dʌkʃən］
+        mnemonic: n.【见上，-ion 名词后缀】
+        meaning: 减少，减小，缩减
+      - name: reductor
+        phonetic: ［ri'dʌktə］
+        mnemonic: n.【见上，-or 表示物】
+        meaning: 减速器，减压器
+      - name: induce
+        phonetic: ［in'dju:s］
+        mnemonic: v.【in-加强意义，duc 引 → 引诱】
+        meaning: 引诱，诱使，诱导
+        children:
+          - name: inducer
+            phonetic: ［in'dju:sə］
+            mnemonic: n.【见上，-er 表示人】
+            meaning: 引诱者，诱导者
+          - name: inducement
+            phonetic: ［in'dju:smənt］
+            mnemonic: n.【见上，-ment 名词后缀】
+            meaning: 引诱，劝诱
+  - name: educe
+    phonetic: ［i(:)'dju:s］
+    mnemonic: v.【e-外，出，duc 引】
+    meaning: 引出，推断出
+    children:
+      - name: educible
+        phonetic: ［i:'dju:səbl］
+        mnemonic: adj.【见上，-ible 可…的】
+        meaning: 可引出的，可推断出的

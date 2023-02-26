@@ -18,6 +18,10 @@ children:
               - name: cyclically
       - name: cyclist
       - name: cycling
+      - name: hemicycle
+        phonetic: ［'hemisaikl］
+        mnemonic: n.【hemi-半，cycl 圆】
+        meaning: 半圆形；半圆形结构
       - name: unicycle
         phonetic: ［'ju:nisaikl］
         mnemonic: n.【uni 单一，独，cycl 轮】
@@ -29,6 +33,10 @@ children:
         children:
           - name: bicyclist
           - name: bicycling
+      - name: autocycle
+        phonetic: ［'ɔ:təusaikl］
+        mnemonic: n.【auto-自己 → 自动，cycl 轮 → 车】
+        meaning: 摩托车，机器脚踏车
       - name: tricycle
         phonetic: ［'traisikl］
         mnemonic: n.【tri-三，cycl 轮】
@@ -60,3 +68,15 @@ children:
           - name: encyclopaedical
           - name: encyclopaedist
           - name: encyclopaedism
+  - name: cyclometer
+    phonetic: ［sai'klɔmitə］
+    mnemonic: n.【cyclo 圆，meter 测量器】
+    meaning: 圆弧测定器；车轮转数记录器
+  - name: cyclograph
+    phonetic: ［'saikləuɡrɑ:f］
+    mnemonic: n.【cyclo 圆，graph 写，画】
+    meaning: 圆弧规
+  - name: tetracycline
+    phonetic: ［ˌtetrə'saikli:n］
+    mnemonic: n.【tetra-四，cycl 环，-ine 表药物名称】
+    meaning: （药）四环素

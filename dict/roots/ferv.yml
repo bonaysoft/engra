@@ -18,3 +18,31 @@ children:
         phonetic: ［'fə:vənsi］
         mnemonic: n.【ferv 热，-ency 抽象名词后缀】
         meaning: 炽热；热情；热烈
+  - name: fervid
+    phonetic: ［'fə:vid］
+    mnemonic: adj.【ferv 热，-id 形容词后缀，…的】
+    meaning: 炽热的；热情的；热烈的
+  - name: fervidity
+    phonetic: ［fə:'vidəti］
+    mnemonic: n.【ferv 热，-idity 抽象名词后缀】
+    meaning: 炽热；热情；热烈
+  - name: fervescent
+    phonetic: ［'fə:vəsənt］
+    mnemonic: adj.【ferv 热，-escent 形容词后缀，表示正在进行的】
+    meaning: 发热的
+  - name: effervesce
+    phonetic: ［ˌefə'ves］
+    mnemonic: v.【ef-加强意义，ferv 沸，-esce 动词后缀，表示正在进行】
+    meaning: 沸腾；起泡沫，冒气泡
+  - name: effervescent
+    phonetic: ［ˌefə'vesənt］
+    mnemonic: adj.【ef-加强意义，ferv 沸，-escent 形容词后缀】
+    meaning: 冒泡的；泡腾的；沸腾的
+  - name: effervescence
+    phonetic: ［ˌefə'vəsəns］
+    mnemonic: n.【ef-加强意义，ferv 沸，-escence 抽象名词后缀】
+    meaning: 冒泡，起泡（沫）；泡腾
+  - name: perfervid
+    phonetic: ［pə'fə:vid］
+    mnemonic: adj.【per-完全，彻底，十分，ferv 热，-id 形容词后缀，…的】
+    meaning: 十分热烈的；十分热情的；非常热心的

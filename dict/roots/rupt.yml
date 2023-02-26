@@ -105,3 +105,15 @@ children:
     meaning: 破裂，裂开，决裂；【转为动词】使破裂，裂开
     children:
       - name: ruptured
+  - name: irrupt
+    phonetic: ［i'rʌpt］
+    mnemonic: v.【ir-= in-入，内 rupt 破；“破门而入” → 】
+    meaning: 闯入，侵入
+  - name: irruption
+    phonetic: ［i'rʌpʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 侵入，闯入，闯进
+  - name: irruptive
+    phonetic: ［i'rʌptiv］
+    mnemonic: adj.【见上，-ive 的】
+    meaning: 侵入的，闯进的

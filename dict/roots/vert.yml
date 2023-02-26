@@ -94,3 +94,115 @@ children:
       - name: vertebrate
         children:
           - name: invertebrate
+  - name: anniversary
+    phonetic: ［ˌæni'və:səri］
+    mnemonic: n./adj.【ann 年，-i-连接字母，vers 转，-ary 名词后缀；“时间转了一年”】
+    meaning: 周年纪念日，周年纪念；【-ary …的】周年纪念的，周年的
+  - name: adverse
+    phonetic: ［'ædvə:s］
+    mnemonic: adj.【ad-表示 to，vers 转；“转过来” → 反转 → 相反 → 敌对 → 】
+    meaning: （在位置或方向上）逆的，相反的；（引申为）敌对的
+  - name: adversity
+    phonetic: ［əd'və:səti］
+    mnemonic: n.【见上，advers（e）逆的，-ity 表示情况、状态】
+    meaning: 逆境，不幸，苦难
+  - name: adversary
+    phonetic: ［'ædvəsəri］
+    mnemonic: n.【见上，advers（e）敌对的，-ary 表示人】
+    meaning: 对手，敌手
+  - name: divorce
+    phonetic: ［di'vɔ:s］
+    mnemonic: n./v.【di-= dis-分开，散，vorc = vers 转；“to turn apart” → 】
+    meaning: 离婚，分离，脱离
+  - name: reverse
+    phonetic: ［ri'və:s］
+    mnemonic: n./v.【re-回，反 → 倒，vers 转】
+    meaning: 倒转，翻转，回转，逆转
+  - name: reversion
+    phonetic: ［ri'və:ʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 倒转，翻转，回复，反向
+  - name: reversible
+    phonetic: ［ri'və:səbl］
+    mnemonic: adj.【见上，-ible 可…的】
+    meaning: 可倒转的，可逆的
+  - name: irreversible
+    phonetic: ［ˌiri'və:səbl］
+    mnemonic: adj.【ir-不，见上】
+    meaning: 不可倒转的，不可逆的
+  - name: introvert
+    phonetic: ［'intrəuvə:t］
+    mnemonic: v./n.【intro-向内，vert 转】
+    meaning: 使（思想）内向，内省，使内弯；内向性格的人
+  - name: introversion
+    phonetic: ［ˌintrəu'və:ʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 内向，内省，内弯
+  - name: extrovert
+    phonetic: ［'ekstrəvə:t］
+    mnemonic: n.【extro-= extra-外，vert 转，转向】
+    meaning: 外向性格的人
+  - name: versatile
+    phonetic: ［'və:sətail］
+    mnemonic: adj.【vers 转，-atile 形容词后缀，可…的】
+    meaning: 可转动的，多方面的，多才多艺的
+  - name: controvert
+    phonetic: ［'kɔntrəvə:t］
+    mnemonic: v.【contro-（=contra-）相反，相对，vert 转；“to turn against”，针锋相对 → 】
+    meaning: 争论，辩论，论战，反驳
+  - name: controversy
+    phonetic: ［'kɔntrəvə:si］
+    mnemonic: n.【见上，-y 名词后缀】
+    meaning: 争论，论战，争吵
+  - name: controversial
+    phonetic: ［ˌkɔntrə'və:ʃəl］
+    mnemonic: adj.【见上，-ial 形容词后缀，…的】
+    meaning: 争论的，好争论的
+  - name: inverse
+    phonetic: ［ˌin'və:s］
+    mnemonic: adj.【见上】
+    meaning: 相反的，倒转的
+  - name: inversion
+    phonetic: ［in'və:ʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 反向，倒转，转换
+  - name: inversive
+    phonetic: ［in'və:siv］
+    mnemonic: adj.【见上，-ive …的】
+    meaning: 反向的，倒转的
+  - name: diverse
+    phonetic: ［dai'və:s］
+    mnemonic: adj.【di-（=dis-）离，分开，分数，vers 转；“转离原样”，“转为多样的” → 】
+    meaning: （和…）不一样的，多种多样的，形形色色的
+  - name: diversify
+    phonetic: ［dai'və:sifai］
+    mnemonic: v.【见上，-i-，-fy 使…】
+    meaning: 使不同，使多样化
+  - name: diversified
+    phonetic: ［dai'və:sifaid］
+    mnemonic: adj.【见上，-ed …的】
+    meaning: 多样化的
+  - name: diversification
+    phonetic: ［diˌvə:sifi'keiʃən］
+    mnemonic: n.【见上，-fication 名词后缀，…化】
+    meaning: 多样化
+  - name: diversiform
+    phonetic: ［dai'və:sifɔ:m］
+    mnemonic: adj.【见上，-form 有…形状的】
+    meaning: 各种形状的，各式各样的
+  - name: diversity
+    phonetic: ［dai'və:siti］
+    mnemonic: n.【见上，-ity 名词后缀，表性质、情况】
+    meaning: 多样性，变化，异样
+  - name: retrovert
+    phonetic: ［'retrəuvə:t］
+    mnemonic: v.【retro-向后，vert 转；“转向后” → 】
+    meaning: 使向后弯曲，使反转，使后倾
+  - name: retroversion
+    phonetic: ［ˌretrəu'və:ʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 后转，后倾，倒退，回顾
+  - name: version
+    phonetic: ［'və:ʃən，'və:ʒən］
+    mnemonic: n.【vers 转，-ion 名词后缀；“转” → 转换 → 由一种文字转换为另一种文字 → 转译 → 转译的文字】
+    meaning: 译文，译本，翻译

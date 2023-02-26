@@ -62,3 +62,11 @@ children:
       - name: flavored
         children:
           - name: unflavored
+  - name: deflatable
+    phonetic: ［di'fleitəbl］
+    mnemonic: adj.【见上，-able 可…的】
+    meaning: 可放气的；可紧缩的
+  - name: conflation
+    phonetic: ［kən'fleiʃən］
+    mnemonic: n.【con-共同，一起，flat 吹，-ion 名词后缀；“吹到一起” → 】
+    meaning: 合并，合成

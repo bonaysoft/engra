@@ -158,3 +158,83 @@ children:
         meaning: 预兆的，不祥之兆的
         children:
           - name: portentously
+  - name: extensive
+    phonetic: ［ik'stensiv］
+    mnemonic: adj.【见上，伸展 → 面积扩大 → 广阔，-ive …的】
+    meaning: 广阔的，广泛的
+  - name: tent
+    phonetic: ［tent］
+    mnemonic: n.【tent 伸；能够“伸开（张开）”的东西（如皮革、帆布等），用作掩盖、庇护之用 → 】
+    meaning: 帐篷
+  - name: intense
+    phonetic: ［in'tens］
+    mnemonic: adj.【in-加强意义，tens 伸；伸展 → 拉紧，绷紧 → 】
+    meaning: 紧张的，强烈的，剧烈的
+  - name: intensify
+    phonetic: ［in'tensifai］
+    mnemonic: v.【见上，-fy 动词后缀，使…】
+    meaning: 加剧，加强
+  - name: intensification
+    phonetic: ［inˌtensifi'keiʃən］
+    mnemonic: n.【见上，-fication 名词后缀，…化】
+    meaning: 强化，增强，加紧
+  - name: intension
+    phonetic: ［in'tenʃən］
+    mnemonic: n.【见上，-ion 名词后缀，表示情况、性质】
+    meaning: 紧张，强度
+  - name: intensive
+    phonetic: ［in'tensiv］
+    mnemonic: adj.【见上，-ive…的】
+    meaning: 加强的，深入的
+  - name: tension
+    phonetic: ［'tenʃən］
+    mnemonic: n.【tens 伸 → 绷紧，-ion 名词后缀】
+    meaning: 拉紧，绷紧，紧张，张力
+  - name: hypertension
+    phonetic: ［haipə'tenʃən］
+    mnemonic: n.【hyper-超过，tension 张力，压力；“血的压力过高” → 】
+    meaning: 高血压
+  - name: tense
+    phonetic: ［tens］
+    mnemonic: adj.【tens 伸，伸开 → 拉紧】
+    meaning: 拉紧的，绷紧的，紧张的
+  - name: tensible
+    phonetic: ［'tensəbl］
+    mnemonic: adj.【见上，-ible 可…的】
+    meaning: 可伸展的，可拉长的
+  - name: tensity
+    phonetic: ［'tensiti］
+    mnemonic: n.【见上，-ity 表示情况、性质】
+    meaning: 紧张，紧张度
+  - name: distend
+    phonetic: ［dis'tend］
+    mnemonic: v.【dis-散开，tend 伸，扩】
+    meaning: （使）扩张，（使）膨胀，（使）肿胀
+  - name: distension
+    phonetic: ［dis'tenʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 扩张，膨胀（作用）
+  - name: tend①
+    phonetic: ［tend］
+    mnemonic: v.【tend 伸；“把注意力伸向某人或某事” → 】
+    meaning: 照料，照管，护理，服侍
+  - name: tendance
+    phonetic: ［'tendəns］
+    mnemonic: n.【见上，-ance 名词后缀】
+    meaning: 服侍，照料，看护
+  - name: tend②
+    phonetic: ［tend］
+    mnemonic: v.【tend 伸；“伸向” → 】
+    meaning: 走向，趋向，倾向
+  - name: protend
+    phonetic: ［prəu'tend］
+    mnemonic: v.【pro-向前，tend 伸；“向前伸” → 】
+    meaning: （使）伸出，（使）伸展，（使）延伸
+  - name: protensive
+    phonetic: ［prəu'tensiv］
+    mnemonic: adj.【见上，protens = protend，-ive …的】
+    meaning: 伸长的，延长的，延长时间的
+  - name: intention
+    phonetic: ［in'tenʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 意图，打算，目的，意向

@@ -10,6 +10,10 @@ children:
     children:
       - name: circling
       - name: circled
+      - name: circlet
+        phonetic: ［'sə:klit］
+        mnemonic: n.【circle 圈，-et 表示小】
+        meaning: 小圈，小环
       - name: semicircle
         phonetic: ［'semiˌsə:kəl］
         mnemonic: n.【semi- 半，circle 圆】
@@ -60,8 +64,20 @@ children:
         phonetic: ［ˌsə:kju'leiʃən］
         mnemonic: n.【见上，-ion 名词后缀】
         meaning: 循环，环流，流通，流传
+      - name: circulative
+        phonetic: ［'sə:kjuleitiv］
+        mnemonic: adj.【见上，-ive …的】
+        meaning: 循环性的，流通性的
+      - name: circulatory
+        phonetic: ［ˌsə:kju'leitəri］
+        mnemonic: adj.【见上，-ory …的】
+        meaning: 循环的（指血液），循环上的
       - name: recirculate
         children:
           - name: recirculating
           - name: recirculated
           - name: recirculation
+  - name: circus
+    phonetic: ［'sə:kəs］
+    mnemonic: n.【circ 圆，-us 名词后缀；“圆形的表演场地” → 】
+    meaning: 马戏场；【转为 → 】马戏团

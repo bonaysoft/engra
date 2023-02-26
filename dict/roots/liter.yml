@@ -61,3 +61,27 @@ children:
         mnemonic: adj.【semi-半，literate 识字的】
         meaning: 半识字的，半文盲的
       - name: preliterate
+  - name: anti-illiteracy
+    phonetic: ［ˌænti-ˌi'litərəci］
+    mnemonic: 【anti-反，反对，illiteracy 文盲】
+    meaning: 扫除文盲
+  - name: biliteral
+    phonetic: ［ˌbai'litərəl］
+    mnemonic: adj.【bi-两个，见上】
+    meaning: 两个字母（组成）的
+  - name: triliteral
+    phonetic: ［ˌtrai'litərəl］
+    mnemonic: adj.【tri-三个，见上】
+    meaning: 三个字母的（词）
+  - name: transliterate
+    phonetic: ［træns'litərei］
+    mnemonic: v.【trans-转，换，liter 字母，-ate 动词后缀；“由一种字母转换成另一种字母”】
+    meaning: 按照字母直译，音译
+  - name: obliterate
+    phonetic: ［ə'blitəreit］
+    mnemonic: v.【ob-离，去掉，liter 字，字母 → 字迹， -ate 动词后缀；“把字迹涂掉”】
+    meaning: 涂抹，擦去，删除
+  - name: obliteration
+    phonetic: ［əˌblitə'reiʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 涂掉，涂抹，删除，灭迹

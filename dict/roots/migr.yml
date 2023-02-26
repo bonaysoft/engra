@@ -44,3 +44,19 @@ children:
         phonetic: ［'emiɡrənt］
         mnemonic: n./adj.【见上，-ant 表示人】
         meaning: 移居国外者，移民，移出者；【-ant …的】移出的，迁移的，移民的
+  - name: transmigrate
+    phonetic: ［ˌtrænzmai'ɡreit］
+    mnemonic: v.【trans-转，migr 迁移，-ate 动词后缀】
+    meaning: 移居（从一国或一地移到另一国或另一地）
+  - name: transmigration
+    phonetic: ［ˌtrænzmai'ɡreiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 移居
+  - name: transmigrator
+    phonetic: ［ˌtrænzmai'ɡreitə］
+    mnemonic: n.【见上，-ator 者】
+    meaning: 移居者，移民
+  - name: intermigration
+    phonetic: ［ˌintə(:)mai'ɡreiʃən］
+    mnemonic: n.【inter-互相，migr 迁移】
+    meaning: 互相迁移

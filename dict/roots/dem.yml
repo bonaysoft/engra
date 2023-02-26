@@ -49,3 +49,29 @@ children:
     meaning: 某地人（或某种人）特有的；（疾病等）地方性的
     children:
       - name: endemism
+  - name: demagogue
+    phonetic: ［'deməɡɔɡ］
+    mnemonic: n.【dem 人民 → 群众，agog 引导 → 鼓励，煽动；“煽动群众者” → 】
+    meaning: 煽动者，蛊惑民心的政客
+    children:
+      - name: demagogism
+        phonetic: ［'deməɡɔɡizəm］
+        mnemonic: n.【见上，-ism 表示主义或行为】
+        meaning: 煽动；煽动主义
+      - name: demagogic
+        phonetic: ［ˌdemə'ɡɔɡik］
+        mnemonic: adj.【见上，-ic …的】
+        meaning: 煽动的，蛊惑的
+  - name: demography
+    phonetic: ［di:'mɔɡrəfi］
+    mnemonic: n.【demo 人民 → 人数，人口，graphy 写，记录 → 统计】
+    meaning: 人口统计学
+    children:
+      - name: demographic
+        phonetic: ［ˌdemə'ɡræfik］
+        mnemonic: adj.【见上，-ic …的】
+        meaning: 人口统计的
+  - name: pandemic
+    phonetic: ［pæn'demik］
+    mnemonic: adj./n.【pan-全，遍，dem 人民，-ic …的；“遍行于人民之中的” → 】
+    meaning: （疾病）大流行的；大流行病

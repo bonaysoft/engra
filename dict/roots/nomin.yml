@@ -29,3 +29,23 @@ children:
         phonetic: ［ˌnɔmi'ni:］
         mnemonic: n.【见上，-ee 被…者】
         meaning: 被提名者
+  - name: denominate
+    phonetic: ［di'nɔmineit］
+    mnemonic: v.【de-加强意义，nomin名，-ate 做…事】
+    meaning: 给…命名
+  - name: denomination
+    phonetic: ［diˌnɔmi'neiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 命名，名称
+  - name: ignominious
+    phonetic: ［ˌiɡnə'miniəs］
+    mnemonic: adj.【ig-=in-不，nomin 名 → 名声， -ious 形容词后缀，…的；“名声不好的” → 】
+    meaning: 不名誉的，不光彩的，耻辱的
+  - name: ignominy
+    phonetic: ［'iɡnəmini］
+    mnemonic: n.【见上，-y 名词后缀，表示性质、情况】
+    meaning: 不名誉，不光彩，耻辱
+  - name: innominate
+    phonetic: ［i'nɔminit］
+    mnemonic: adj.【in-无，nomin 名，-ate 形容词后缀，…的】
+    meaning: 无名的，匿名的

@@ -38,3 +38,24 @@ children:
       - name: anachronistic
         children:
           - name: anachronistically
+  - name: synchronal
+    phonetic: ［'siŋkrənəl］
+    mnemonic: adj.【syn-同，chron 时，-al …的】
+    meaning: 同时发生的，同步的，同时以同速进行的
+    children:
+      - name: synchronism
+        phonetic: ［'siŋkrənizəm］
+        mnemonic: n.【见上，-ism 表示情况、性质】
+        meaning: 同时发生，同步
+      - name: synchronize
+        phonetic: ［'siŋkrənaiz］
+        mnemonic: v.【见上，-ize 动词后缀】
+        meaning: 同时发生，同步，使同步，使在时间上一致
+      - name: synchronoscope
+        phonetic: ［siŋ'krɔnəskəup］
+        mnemonic: n.【见上，scope 观测仪器】
+        meaning: 同步指示仪，同步示波器
+  - name: chronometer
+    phonetic: ［krə'nɔmitə］
+    mnemonic: n.【chron 时间，-o-，meter计，表，仪器】
+    meaning: 精密时计

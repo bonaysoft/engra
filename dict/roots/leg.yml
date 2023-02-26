@@ -158,3 +158,27 @@ children:
       - name: illegitimate
         children:
           - name: illegitimately
+  - name: legible
+    phonetic: ［'leʤəbl］
+    mnemonic: adj.【leg 读，-ible 可…的】
+    meaning: 可读的，易读的
+  - name: legibility
+    phonetic: ［ˌleʤə'biləti］
+    mnemonic: n.【见上，-ibility 可…性】
+    meaning: 可读性，易读
+  - name: illegible
+    phonetic: ［i'leʤəbl］
+    mnemonic: adj.【il-不，legible 可读的】
+    meaning: 不可读的，难读的，难以辨认的
+  - name: illegibility
+    phonetic: ［iˌleʤi'biləti］
+    mnemonic: n.【见上】
+    meaning: 难读，难读性
+  - name: privilege
+    phonetic: ［'priviliʤ］
+    mnemonic: n.【priv←private 个人的，私有的， -i-，leg 法；“个人的法”，“私有的法” → 特殊的法 → 】
+    meaning: 特权
+  - name: privileged
+    phonetic: ［'priviliʤd］
+    mnemonic: adj.【见上，-ed 形容词后缀，有…的】
+    meaning: 有特权的

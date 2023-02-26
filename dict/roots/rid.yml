@@ -7,3 +7,35 @@ children:
     children:
       - name: riddling
       - name: riddled
+  - name: ridicule
+    phonetic: ［'ridikju:l］
+    mnemonic: n.【rid 笑，-icule 名词后缀】
+    meaning: 嘲笑，嘲弄，奚落
+  - name: ridiculous
+    phonetic: ［ri'dikjuləs］
+    mnemonic: adj.【见上，-ous …的】
+    meaning: 可笑的，荒谬的
+  - name: risible
+    phonetic: ［'rizibl］
+    mnemonic: adj.【ris 笑，-ible 可…的】
+    meaning: 爱笑的，能笑的；可笑的
+  - name: risibility
+    phonetic: ［ˌrizi'biləti］
+    mnemonic: n.【ris 笑，-ibility 名词后缀】
+    meaning: 爱笑，能笑
+  - name: deride
+    phonetic: ［di'raid］
+    mnemonic: v.【de-加强意义，rid 笑】
+    meaning: 嘲笑，嘲弄
+  - name: derider
+    phonetic: ［di'raidə］
+    mnemonic: n.【见上，-er 者】
+    meaning: 嘲笑者，嘲弄者
+  - name: derision
+    phonetic: ［di'riʒən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 嘲笑，嘲弄；笑柄
+  - name: derisive
+    phonetic: ［di'raisiv］
+    mnemonic: adj.【见上，-ive …的】
+    meaning: 嘲笑的，嘲弄的；幼稚可笑的

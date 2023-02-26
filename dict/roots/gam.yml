@@ -10,3 +10,39 @@ children:
     children:
       - name: polygamist
       - name: polygamous
+  - name: monogamy
+    phonetic: ［mə'nɔɡəmi］
+    mnemonic: n.【mono-单一，gam 婚姻，-y 名词后缀；“单婚”，一夫一妻】
+    meaning: 一夫一妻制
+  - name: monogamous
+    phonetic: ［mə'nɔɡəməs］
+    mnemonic: adj.【mono-单一，gam 婚姻，-ous …的】
+    meaning: 一夫一妻制的
+  - name: bigamy
+    phonetic: ［'biɡəmi］
+    mnemonic: n.【bi-双，重，gam 婚姻，-y 名词后缀】
+    meaning: 重婚（罪）
+  - name: bigamous
+    phonetic: ［'biɡəməs］
+    mnemonic: adj.【bi-双，重，gam 婚姻，-ous …的】
+    meaning: 重婚的；犯重婚罪的
+  - name: bigamist
+    phonetic: ［'biɡəmist］
+    mnemonic: n.【bi-双，重，gam 婚姻，-ist …者】
+    meaning: 犯重婚罪者
+  - name: misogamy
+    phonetic: ［mi'sɔɡəmi］
+    mnemonic: n.【miso-厌恶，gam 婚姻， -y 名词后缀】
+    meaning: 厌恶结婚；厌婚症
+  - name: misogamist
+    phonetic: ［mi'sɔɡəmist］
+    mnemonic: n.【见上，-ist 者】
+    meaning: 厌恶结婚者
+  - name: neogamist
+    phonetic: ［'ni:əuɡəmist］
+    mnemonic: n.【neo-新，gam 结婚，-ist 者】
+    meaning: 新婚者
+  - name: exogamy
+    phonetic: ［ek'sɔɡəmi:］
+    mnemonic: n.【exo-外，异，gam 婚姻，-y 名词后缀】
+    meaning: 与外族结婚，异族结婚

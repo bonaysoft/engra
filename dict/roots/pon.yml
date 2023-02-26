@@ -17,3 +17,31 @@ children:
     children:
       - name: postponed
       - name: postponement
+  - name: antepone
+    phonetic: ［'æntipəun］
+    mnemonic: v.【ante-前，pon 放；“往前放” → 】
+    meaning: 移前
+  - name: compound
+    phonetic: ［'kɔmpaund］
+    mnemonic: adj./n.【com-共同，一起，poun = pon 放；“放在一起的” → 】
+    meaning: 混合的，化合的；混合物，化合物
+  - name: opponent
+    phonetic: ［ə'pəunənt］
+    mnemonic: adj./n.【op-= ob-相反，相对，pon 放置，-ent …的；“置于相反位置上的” → 】
+    meaning: 对立的，对抗的；【-ent 表示人】对手，敌手
+  - name: propone
+    phonetic: ［prə'pəun］
+    mnemonic: v.【pro-向前，pon 放；“向前放” → 向前呈出 → 】
+    meaning: 提出，提议，建立
+  - name: proponent
+    phonetic: ［prə'pəunənt］
+    mnemonic: n.【见上，-ent 表示人】
+    meaning: 提出者，提议者
+  - name: exponent
+    phonetic: ［ik'spəunənt］
+    mnemonic: adj./n.【ex-出，外，pon 放，摆，-ent …的；“摆出来的” → 摆明的 → 】
+    meaning: 说明的，讲解的；【-ent 表示人】说明者
+  - name: exponible
+    phonetic: ［eks'pəunəbl］
+    mnemonic: adj.【见上，-ible 可…的】
+    meaning: 可说明的

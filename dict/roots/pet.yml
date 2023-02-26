@@ -83,3 +83,7 @@ children:
       - name: perpetuate
         children:
           - name: perpetuation
+  - name: centripetal
+    phonetic: ［sen'tripitəl］
+    mnemonic: adj.【centr 中心，-i-，pet 追求 → 趋向，-al …的；“趋向中心的” → 】
+    meaning: 向心的

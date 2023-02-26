@@ -74,3 +74,83 @@ children:
           - name: compromised
             children:
               - name: uncompromised
+  - name: manumit
+    phonetic: ［ˌmænju'mit］
+    mnemonic: v.【manu 手，mit 送出，放出；“以手放出” → 】
+    meaning: 释放，解放
+  - name: manumission
+    phonetic: ［ˌmænju'miʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 释放，解放
+  - name: remit
+    phonetic: ［ri'mit］
+    mnemonic: v.【re-回，mit 送；“送回”，“把钱发送回去” → 】
+    meaning: 寄钱，汇款
+  - name: remittance
+    phonetic: ［ri'mitəns］
+    mnemonic: n.【见上，t 重复字母，-ance 名词后缀】
+    meaning: 汇款
+  - name: remittee
+    phonetic: ［riˌmi'ti:］
+    mnemonic: n.【见上，-ee人】
+    meaning: （汇票的）收款人
+  - name: transmit
+    phonetic: ［trænz'mit］
+    mnemonic: v.【trans-转，传，mit 送，发】
+    meaning: 传送；播送；发送
+  - name: transmission
+    phonetic: ［trænz'miʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 传送；发射，播送
+  - name: transmitter
+    phonetic: ［trænz'mitə］
+    mnemonic: n.【见上，-er 表人和物】
+    meaning: 传送者；发射机，发报机
+  - name: transmissible
+    phonetic: ［trænz'misəbl］
+    mnemonic: adj.【见上，-ible 可…的】
+    meaning: 能传送的；可发射的；可播送的
+  - name: intermit
+    phonetic: ［ˌintə'mit］
+    mnemonic: v.【inter-中间，mit 投，送；“投入中间”，“中间插入” → 】
+    meaning: 间歇，中断
+  - name: intermission
+    phonetic: ［ˌintə'miʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 中间休息；间歇，中断
+  - name: emissive
+    phonetic: ［i'misiv］
+    mnemonic: adj.【e-外，出，miss 发，投，-ive …的】
+    meaning: 发出的，发射的
+  - name: emission
+    phonetic: ［i'miʃən］
+    mnemonic: n.【e-外，出，miss 发，-ion 名词后缀】
+    meaning: 发出，发射，散发
+  - name: emissary
+    phonetic: ［'emisəri］
+    mnemonic: n.【e-出，miss 送，派 -ary 表示人】
+    meaning: 派出的密使；间谍
+  - name: emit
+    phonetic: ［i'mit］
+    mnemonic: v.【e-出，mit 发】
+    meaning: 散发，放射；发行；发出
+  - name: immit
+    phonetic: ［i'mit］
+    mnemonic: v.【im-入内，mit 投】
+    meaning: 投入，注入
+  - name: immission
+    phonetic: ［i'miʃən］
+    mnemonic: n.【im-入内，miss 投，-ion 名词后缀】
+    meaning: 投入，注入
+  - name: commit
+    phonetic: ［kə'mit］
+    mnemonic: v.【com-加强意义，mit 送，委派】
+    meaning: 委任，委派，把…交托给
+  - name: committee
+    phonetic: ［kə'miti］
+    mnemonic: n.【见上，-ee 表示人；“被委派的人” → 被委派的一组人 → 】
+    meaning: 委员会
+  - name: commissary
+    phonetic: ［'kɔmisəri］
+    mnemonic: n.【见上，-ary人】
+    meaning: 委员，代表

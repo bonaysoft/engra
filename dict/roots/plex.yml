@@ -31,3 +31,19 @@ children:
         phonetic: ［pə'pleksiti］
         mnemonic: n.【见上，-ity 名词后缀】
         meaning: 纠缠；困惑；窘困
+  - name: simplex
+    phonetic: ［'simpleks］
+    mnemonic: adj.【sim 来自拉丁语 sem 单一，一次，plex 重；“一重的” → 】
+    meaning: 单一的，单纯的
+  - name: triplex
+    phonetic: ［'tripleks］
+    mnemonic: adj.【tri-三，plex 重】
+    meaning: 三重的；三倍的；三层的
+  - name: quadruplex
+    phonetic: ［'kwɔdrupleks］
+    mnemonic: adj.【quadru-四，plex 重】
+    meaning: 四重的；四倍的
+  - name: multiplex
+    phonetic: ［'mʌltipleks］
+    mnemonic: adj.【multi-多，plex 重】
+    meaning: 多重的；多样的，复合的

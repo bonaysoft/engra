@@ -92,3 +92,47 @@ children:
       - name: maintained
         children:
           - name: unmaintained
+  - name: sustenance
+    phonetic: ［'sʌstinəns］
+    mnemonic: n.【见上，ten = tain，-ance 名词后缀】
+    meaning: 支持，维持，供养，粮食，食物
+  - name: tenant
+    phonetic: ［'tenənt］
+    mnemonic: n.【ten 持，握 → 握有，占有，-ant 者；“房屋、田地等的占有者” → 】
+    meaning: 房客，承租人，租户，佃户
+  - name: tenancy
+    phonetic: ［'tenənsi］
+    mnemonic: n.【见上，-ancy 表示行为、情况】
+    meaning: ，租赁，租用，租佃
+  - name: tenable
+    phonetic: ［'tenəbl］
+    mnemonic: adj.【ten 持，握，守，保有，-able 可…的】
+    meaning: 可保持的，可防守的，守得住的
+  - name: tenacious
+    phonetic: ［ti'neiʃəs］
+    mnemonic: adj.【ten 握，持，执，守，-acious 形容词后缀，…的】
+    meaning: 紧握的；坚持的，固执的，顽强的
+  - name: tenacity
+    phonetic: ［ti'næsiti］
+    mnemonic: n.【见上，-acity 名词后缀，表示性质】
+    meaning: 紧握；坚持，固执，顽强
+  - name: continue
+    phonetic: ［kən'tinju:］
+    mnemonic: v.【con-共同，一起，tin 握，持；“把前后各种事物保持在一起” → 使连在一起，使相连 → 】
+    meaning: 连续，继续，使连续，使继续
+  - name: continuation
+    phonetic: ［kənˌtinjuə'eiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 连续，继续，持续，继续部分
+  - name: continued
+    phonetic: ［kən'tinju:d］
+    mnemonic: adj.【见上，-ed …的】
+    meaning: 连续的，继续的
+  - name: continent
+    phonetic: ［'kɔntinənt］
+    mnemonic: n.【con-共同，一起，tin 握，持，-ent 表示物；“保持连在一起的陆地” → 】
+    meaning: 大陆，陆地，大洲
+  - name: continental
+    phonetic: ［ˌkɔnti'nentəl］
+    mnemonic: adj.【见上，-al…的】
+    meaning: 大陆的，大陆性的

@@ -40,3 +40,166 @@ children:
         children:
           - name: absentmindedly
       - name: absence
+  - name: sentiment
+    phonetic: ［'sentimənt］
+    mnemonic: n.【sent 感觉→感情，情绪，-i-，-ment 名词后缀】
+    meaning: 感情，情绪，思想感情，意见
+  - name: sentimental
+    phonetic: ［ˌsenti'mentəl］
+    mnemonic: adj.【见上，-al …的】
+    meaning: 情感（上）的，伤感的，多愁善感的
+  - name: consent
+    phonetic: ［kən'sent］
+    mnemonic: v./n.【con-同，共同，sent 感觉→意识，意见；“共同的意见”→】
+    meaning: 同意，赞同
+  - name: consenter
+    phonetic: ［kən'sentə］
+    mnemonic: n.【见上，-er 者】
+    meaning: 同意者，赞同者
+  - name: consentient
+    phonetic: ［kən'senʃənt］
+    mnemonic: adj.【见上，-i-，-ent …的】
+    meaning: 同意的，赞成的，一致的
+  - name: consentaneous
+    phonetic: ［ˌkɔnsen'teiniəs］
+    mnemonic: adj.【见上，consent 同意，-aneous 形容词后缀，…的】
+    meaning: 同意的，一致的
+  - name: consensus
+    phonetic: ［kən'sensəs］
+    mnemonic: n.【con-同，共同，sens 感觉，认识，意见，-us名词后缀；“共同的认识” → 】
+    meaning: 共识，意见一致
+  - name: consensual
+    phonetic: ［kən'sensjuəl］
+    mnemonic: adj.【见上，-ual …的】
+    meaning: （法律）经双方同意的
+  - name: dissent
+    phonetic: ［di'sent］
+    mnemonic: v.【dis-分开 → 不同，sent 感觉 → 意见】
+    meaning: 不同意，持不同意见，持异议
+  - name: dissension
+    phonetic: ［di'senʃən］
+    mnemonic: n.【见上，t → s，-ion 名词后缀】
+    meaning: 意见分歧，不和，争论，纠纷
+  - name: dissenter
+    phonetic: ［di'sentə］
+    mnemonic: n.【见上，-er 者】
+    meaning: 不同意者，反对者，持异议者
+  - name: dissentient
+    phonetic: ［di'senʃənt］
+    mnemonic: adj.【见上，-i-，ent …的】
+    meaning: 不同意的
+  - name: resent
+    phonetic: ［ri'zent］
+    mnemonic: v.【re-相反，sent 感觉，感情；“反感” → 】
+    meaning: 对…不满，怨恨
+  - name: resentful
+    phonetic: ［ri'zentful］
+    mnemonic: adj.【见上，-ful …的】
+    meaning: 不满的，愤恨的
+  - name: resentment
+    phonetic: ［ri'zentmənt］
+    mnemonic: n.【见上，-ment 名词后缀】
+    meaning: 不满，愤恨，怨恨
+  - name: presentiment
+    phonetic: ［pri'zentimənt］
+    mnemonic: n.【pre-先，预先，sent 感觉，-i-， -ment 名词后缀】
+    meaning: 预感
+  - name: sense
+    phonetic: ［sens］
+    meaning: n. 感觉，意识
+  - name: sensible
+    phonetic: ［'sensəbl］
+    mnemonic: adj.【sens 感觉，-ible 可…的】
+    meaning: 能感觉到的，可觉察的
+  - name: sensibility
+    phonetic: ［ˌsensi'biləti］
+    mnemonic: n.【sens 感觉，-ibility 名词后缀，…性】
+    meaning: 敏感性，感受性，感觉（力），触觉
+  - name: sensitive
+    phonetic: ［'sensitiv］
+    mnemonic: adj.【sens 感觉，-itive …的】
+    meaning: 敏感的，神经过敏的
+  - name: sensation
+    phonetic: ［sen'seiʃən］
+    mnemonic: n.【sens 感觉，-ation 名词后缀】
+    meaning: 感觉，知觉
+  - name: sensational
+    phonetic: ［sen'seiʃənl］
+    mnemonic: adj.【见上，-al…的】
+    meaning: 感觉的
+  - name: sensory
+    phonetic: ［'sensəri］
+    mnemonic: adj.【sens 感觉，-ory …的】
+    meaning: 感觉的
+  - name: senseless
+    phonetic: ［'senslis］
+    mnemonic: adj.【sense 感觉，-less 无…的】
+    meaning: 无感觉的，无知觉的，无意义的
+  - name: nonsense
+    phonetic: ［'nɔnsəns］
+    mnemonic: n.【non-无，sense 感觉，意识 → 意义；“无意义”的话】
+    meaning: 胡说，废话，胡闹
+  - name: insensible
+    phonetic: ［in'sensəbl］
+    mnemonic: adj.【in-无，不，sensible 感觉的】
+    meaning: 无感觉的，失去知觉的
+  - name: insensitive
+    phonetic: ［in'sensitiv］
+    mnemonic: adj.【in-无，sens 感觉，-itive …的】
+    meaning: 感觉迟钝的
+  - name: hypersensitive
+    phonetic: ［haipə'sensitiv］
+    mnemonic: adj.【hyper-过于，sens 感觉， -itive …的】
+    meaning: 过敏的
+  - name: oversensitive
+    phonetic: ［ˌəuvə'sensitiv］
+    mnemonic: adj.【over-过于】
+    meaning: 过分敏感的
+  - name: sensitize
+    phonetic: ［'sensitaiz］
+    mnemonic: v.【sens 感觉，-it-，-ize 使…】
+    meaning: 使敏感，变敏感
+  - name: desensitize
+    phonetic: ［di:'sensitaiz］
+    mnemonic: v.【de-除去，消除，见上】
+    meaning: 使不敏感，使脱敏
+  - name: desensitization
+    phonetic: ［di:ˌsensitai'zeiʃən］
+    mnemonic: n.【见上，-ation 名词后缀，表示情况，状态】
+    meaning: 脱敏（现象）
+  - name: desensitizer
+    phonetic: ［di:'sensitaizə］
+    mnemonic: n.【见上，-er 表示物】
+    meaning: 脱敏药，脱敏剂
+  - name: extrasensory
+    phonetic: ［ˌekstrə'sensəri］
+    mnemonic: adj.【extra-超，sens 感觉，-ory …的】
+    meaning: 超感觉的
+  - name: assent
+    phonetic: ［ə'sent］
+    mnemonic: n./v.【as-= to，sent 感觉 → 意识，意见；“to join one's sentiment or opinion to another's”（使自己的意见与别人的意见统一起来） → 】
+    meaning: 同意，赞同，赞成
+  - name: assentation
+    phonetic: ［ˌæsen'teiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 赞同，随声附和
+  - name: assentor
+    phonetic: ［ə'sentə］
+    mnemonic: n.【见上，-or 表示人】
+    meaning: 同意者，赞成者
+  - name: assentient
+    phonetic: ［ə'senʃənt］
+    mnemonic: adj.【见上，-i-，-ent …的】
+    meaning: 同意的，赞成的
+  - name: sentence
+    phonetic: ［'sentəns］
+    mnemonic: n.【sent 感觉，-ence 名词后缀；表达一种感觉或意义的一组单词 → 】
+    meaning: 句子
+  - name: sensual
+    phonetic: ［'senʃuəl］
+    mnemonic: adj.【sens 感觉，-ual …的】
+    meaning: 感觉的，肉感的
+  - name: sensuous
+    phonetic: ［'senʃuəs］
+    mnemonic: adj.【sens 感觉，-uous …的】
+    meaning: 感官方面的，感觉上的

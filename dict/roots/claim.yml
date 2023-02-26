@@ -31,6 +31,19 @@ children:
       - name: reclaiming
       - name: reclaimable
       - name: reclamation
+  - name: declaim
+    phonetic: ［di'kleim］
+    mnemonic: v.【de-加强意义，claim 叫 → 大声说】
+    meaning: 作慷慨激昂的演说，朗诵
+    children:
+      - name: declamation
+        phonetic: ［ˌdeklə'meiʃən］
+        mnemonic: n.【见上，-ation 名词后缀】
+        meaning: 慷慨激昂的演说，雄辩，朗诵
+      - name: declamatory
+        phonetic: ［di'klæmətəri］
+        mnemonic: adj.【见上，-atory …的】
+        meaning: 演说的，雄辩的，适宜于朗诵的
   - name: exclaim
     phonetic: ［ik'skleim］
     mnemonic: v.【ex- 外，出，claim 叫，“大声叫出” → 】
@@ -59,3 +72,16 @@ children:
         phonetic: ［ə'klæmətəri］
         mnemonic: adj.【见上，-atory 形容词后缀，…的】
         meaning: 欢呼的，喝彩的
+  - name: clamour
+    phonetic: ［'klæmə］
+    mnemonic: n.【clam 叫喊 → 吵，-our 名词后缀】
+    meaning: 喧嚷，吵闹
+    children:
+      - name: clamorous
+        phonetic: ［'klæmərəs］
+        mnemonic: adj.【见上，-ous …的】
+        meaning: 喧嚷的，吵吵嚷嚷的
+  - name: clamant
+    phonetic: ［'kleimənt］
+    mnemonic: adj.【clam 叫喊，-ant …的】
+    meaning: 喧嚷的，吵闹的

@@ -33,3 +33,23 @@ children:
         phonetic: ［i'mensiti］
         mnemonic: n.【见上，-ity 名词后缀】
         meaning: 广大，巨大，无限
+  - name: mensurable
+    phonetic: ［'mensjuərəbl］
+    mnemonic: adj.【mens 测量，-able 可…的】
+    meaning: 可测量的
+  - name: mensuration
+    phonetic: ［ˌmensjuə'reiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 测量，测定；量法
+  - name: mensural
+    phonetic: ［'mensjuərəl］
+    mnemonic: adj.【见上，-al …的】
+    meaning: 关于测量的，关于度量的
+  - name: commensurate
+    phonetic: ［kə'menʃərit］
+    mnemonic: adj.【com-共同，相同，mens 测量， -ate …的】
+    meaning: 同量的，等量的，同大小的；相称的
+  - name: commensuration
+    phonetic: ［kəˌmenʃə'reiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 等量，同量；相称

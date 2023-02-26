@@ -35,3 +35,19 @@ children:
           - name: unappreciative
       - name: unappreciated
       - name: underappreciated
+  - name: depreciate
+    phonetic: ［di'pri:ʃieit］
+    mnemonic: v.【de-下→降下，preci 价值，-ate 动词后缀】
+    meaning: 降低…的价值，跌价，贬值；轻视
+  - name: depreciation
+    phonetic: ［diˌpri:ʃi'eiʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 跌价，贬值；轻视
+  - name: depreciatory
+    phonetic: ［di'priʃiətəri］
+    mnemonic: adj.【见上，-ory…的】
+    meaning: 跌价的，贬值的；轻视的
+  - name: praise
+    phonetic: ［preiz］
+    mnemonic: v.【prais = preci = price 价值，评价；“称其有很高价值”，“给以很高评价” → 】
+    meaning: 称赞，赞美，赞扬，颂扬

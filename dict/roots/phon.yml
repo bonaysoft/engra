@@ -29,3 +29,79 @@ children:
   - name: saxophone
     children:
       - name: saxophonist
+  - name: microphone
+    phonetic: ［'maikrəfəun］
+    mnemonic: n.【micro-微小，phon 声音；“把微小声音放大”的仪器 → 】
+    meaning: 扩音器，麦克风，话筒
+  - name: videophone
+    phonetic: ［'vidiəufəun］
+    mnemonic: n.【video 电视，phone 电话】
+    meaning: 电视电话
+  - name: otophone
+    phonetic: ［'əutəfəun］
+    mnemonic: n.【oto 耳，phon 声音】
+    meaning: 助听器
+  - name: phonetic
+    phonetic: ［fəu'netik］
+    mnemonic: adj.【phon 声音 → 语音，-etic …的】
+    meaning: 语音的
+  - name: phonetics
+    phonetic: ［fəu'netiks］
+    mnemonic: n.【见上，-ics …学】
+    meaning: 语音学
+  - name: phonetist
+    phonetic: ［'fəunitist］
+    mnemonic: n.【见上，-ist 表示人】
+    meaning: 语音学家
+  - name: electrophone
+    phonetic: ［i'lektrəfəun］
+    mnemonic: n.【electro 电，phon 声音】
+    meaning: 电子乐器
+  - name: stereophone
+    phonetic: ［'steriəufəun］
+    mnemonic: n.【stereo 立体，phon 声音】
+    meaning: 立体音响
+  - name: gramophone
+    phonetic: ［'ɡræməfəun］
+    mnemonic: n.【gram 写 → 记录，-o-，phon 声音；“记录声音”的仪器 → 】
+    meaning: 留声机
+  - name: phonology
+    phonetic: ［fəu'nɔləʤi］
+    mnemonic: n.【phon 音 → 音韵，-o-，logy …学】
+    meaning: 音韵学
+  - name: euphonious
+    phonetic: ［ju:'fəuniəs］
+    mnemonic: adj.【eu-优美，好，phon 音，-ious …的】
+    meaning: 声音好听的
+  - name: cacophonous
+    phonetic: ［kə'kɔfənəs］
+    mnemonic: adj.【caco 恶，phon 音，-ous …的】
+    meaning: 音调不和谐的
+  - name: phonic
+    phonetic: ［'fɔnik，'fəunik］
+    mnemonic: adj.【phon 声音，-ic …的】
+    meaning: 声音的，语音的
+  - name: phonics
+    phonetic: ［'fɔniks，'fəuniks］
+    mnemonic: n.【phon 声音，-ics …学】
+    meaning: 声学
+  - name: aphonia
+    phonetic: ［æ'fəuniə］
+    mnemonic: n.【a-无，phon 声音，-ia 名词后缀】
+    meaning: 失音（症）
+  - name: dysphonia
+    phonetic: ［dis'fəuniə］
+    mnemonic: n.【dys-困难，phon 声音 → 发音】
+    meaning: 发音困难
+  - name: polyphone
+    phonetic: ［'pɔlifəun］
+    mnemonic: n.【poly-多，phon 声音】
+    meaning: 多音字母，多音符号
+  - name: polyphonic
+    phonetic: ［ˌpɔli'fɔnik］
+    mnemonic: adj.【见上，-ic …的】
+    meaning: 多音的
+  - name: megaphone
+    phonetic: ［'meɡəfəun］
+    mnemonic: n.【mega 大，“把声音扩大”的仪器 → 】
+    meaning: 扩音器，喇叭筒

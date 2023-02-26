@@ -34,3 +34,15 @@ children:
         phonetic: ［di'piktʃə］
         mnemonic: v.【见上】
         meaning: 描绘，描述
+  - name: picturize
+    phonetic: ［'piktʃəraiz］
+    mnemonic: v.【见上，-ize 动词后缀】
+    meaning: 用图画表现
+  - name: pictograph
+    phonetic: ［'piktəɡrɑ:f］
+    mnemonic: n.【pict 绘 → 图形，-o-，graph 写 → 文字】
+    meaning: 象形文字
+  - name: pictographic
+    phonetic: ［ˌpiktə'ɡræfik］
+    mnemonic: adj.【见上，-ic …的】
+    meaning: 象形文字的

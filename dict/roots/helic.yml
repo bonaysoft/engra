@@ -12,3 +12,19 @@ children:
         phonetic: ［'helipɔ:t］
         mnemonic: n.【heli=helicopter】
         meaning: 直升机场
+  - name: helilift
+    phonetic: ［'helilift］
+    mnemonic: v.【heli=helicopter，lift 搬起】
+    meaning: 用直升机运输
+  - name: helical
+    phonetic: ［'helikəl］
+    mnemonic: adj.【helic 螺旋，-al …的】
+    meaning: 螺旋形的
+  - name: helicity
+    phonetic: ［hi:'lisiti］
+    mnemonic: n.【helic 螺旋，-ity 抽象名词后缀】
+    meaning: 螺旋形
+  - name: helicoid
+    phonetic: ［'hi:likɔid］
+    mnemonic: adj.【helic 螺旋，-oid 表示…形，…体】
+    meaning: 螺旋体（的）；螺状的

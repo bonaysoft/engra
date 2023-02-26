@@ -26,3 +26,39 @@ children:
         phonetic: ［i'nɔ:miti］
         mnemonic: n.【见上，-ity 名词后缀】
         meaning: 巨大，庞大
+  - name: normality
+    phonetic: ［nɔ:'mæləti］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 正规状态，正常状态
+  - name: normalize
+    phonetic: ［'nɔ:məlaiz］
+    mnemonic: v.【见上，-ize …化】
+    meaning: 正常化，使正常化
+  - name: normalization
+    phonetic: ［ˌnɔ:məlai'zeiʃən］
+    mnemonic: n.【见上，-ization 名词后缀，…化】
+    meaning: 正常化
+  - name: abnormality
+    phonetic: ［æbnɔ:'mæləti］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 反常，变态，不规则
+  - name: abnormalist
+    phonetic: ［æb'nɔ:məlist］
+    mnemonic: n.【见上，-ist 人】
+    meaning: 不正常的人，畸形人
+  - name: abnormity
+    phonetic: ［æb'nɔ:miti］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 异常，畸形
+  - name: subnormal
+    phonetic: ［ˌsʌb'nɔ:məl］
+    mnemonic: adj.【sub-低，下，normal 正规的，正常的】
+    meaning: 低于正常的状态
+  - name: subnormality
+    phonetic: ［ˌsʌbnɔ:'mæləti］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 低于正常
+  - name: supernormal
+    phonetic: ［sju:pə'nɔ:məl］
+    mnemonic: adj.【super-超过，normal 正常的】
+    meaning: 超常态的，在一般以上的

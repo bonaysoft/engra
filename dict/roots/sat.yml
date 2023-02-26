@@ -76,3 +76,42 @@ children:
         phonetic: ［ˌsju:pə'sætʃəreit］
         mnemonic: v.【super-超过，过度，saturate 使饱和】
         meaning: 使过度饱和
+  - name: sate
+    phonetic: ［seit］
+    meaning: v. 使充分满足；使饱享
+  - name: satiable
+    phonetic: ［'seiʃiəbl］
+    mnemonic: adj.【sat 满，-i-，-able 可…的】
+    meaning: 可使满足的；可使饱的
+  - name: insatiable
+    phonetic: ［in'seiʃiəbl］
+    mnemonic: adj.【in-不，见上】
+    meaning: 不能满足的；贪得无厌的
+  - name: insatiability
+    phonetic: ［inˌseiʃiə'biləti］
+    mnemonic: n.【见上，-ability 抽象名词后缀】
+    meaning: 不能满足；贪得无厌
+  - name: satiate
+    phonetic: ［'seiʃieit］
+    mnemonic: v.【sat 满，-i-，-ate 动词后缀，使…】
+    meaning: 使充分满足；使饱享
+  - name: satiation
+    phonetic: ［ˌseiʃi'eiʃən］
+    mnemonic: n.【见上，-ation抽象名词后缀】
+    meaning: 充分满足，饱享
+  - name: insatiate
+    phonetic: ［in'seiʃiət］
+    mnemonic: adj.【in-不，见上】
+    meaning: 不满足的
+  - name: satiety
+    phonetic: ［sə'taiəti］
+    mnemonic: n.【sat 饱，-i-，-ety 抽象名词后缀】
+    meaning: 饱足；厌腻
+  - name: saturable
+    phonetic: ［'sætʃərəbl］
+    mnemonic: adj.【satur 饱，-able 可…的】
+    meaning: 可饱和的
+  - name: saturant
+    phonetic: ［'sætʃərənt］
+    mnemonic: adj./n.【satur 饱，-ant 形容词及名词后缀】
+    meaning: 饱和的；饱和剂

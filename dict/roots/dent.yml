@@ -42,3 +42,27 @@ children:
         phonetic: ［i:'denteit］
         mnemonic: adj.【e-无，dent 齿，-ate …的】
         meaning: （动物）无齿的，贫齿目的
+      - name: dentiform
+        phonetic: ［'dentifɔ:m］
+        mnemonic: adj.【dent 牙，-i-，-form 有…形状的】
+        meaning: 齿状的
+      - name: dentoid
+        phonetic: ［'dentɔid］
+        mnemonic: adj.【dent 牙，-oid 如…的】
+        meaning: 如齿的，齿状的
+      - name: indent
+        phonetic: ［in'dent］
+        mnemonic: v.【in-使成…，作成…，dent 牙】
+        meaning: 使成犬牙状，刻成锯齿形
+      - name: denticle
+        phonetic: ［'dentikl］
+        mnemonic: n.【dent 齿，-icle 表示小】
+        meaning: 小齿；小齿状突起
+      - name: bident
+        phonetic: ［'baidənt］
+        mnemonic: n.【bi-两个，二，dent 牙；“有两个齿形”的矛】
+        meaning: 两叉矛，两尖器
+      - name: trident
+        phonetic: ［'traidənt］
+        mnemonic: n.【tri-三，dent 牙；“有三叉齿形”的矛】
+        meaning: 三叉戟，三叉尖器

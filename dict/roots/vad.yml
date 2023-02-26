@@ -59,3 +59,11 @@ children:
         children:
           - name: pervasively
           - name: pervasiveness
+  - name: wade
+    phonetic: ［weid］
+    mnemonic: v.【w←v，wad←vad 行走】
+    meaning: 蹚，跋涉，费力地前进
+  - name: waddle
+    phonetic: ［'wɔdl］
+    mnemonic: v.【见上，wad = vad 行走，d 重复字母，-le 动词后缀，表示反复、连续动作】
+    meaning: 摇摇摆摆地走，蹒跚

@@ -12,3 +12,39 @@ children:
       - name: pastry
       - name: paster
       - name: pasting
+  - name: pasture
+    phonetic: ［'pɑ:stʃə，'pæstʃə］
+    mnemonic: n./v.【past 喂，食，-ure 表示行为，事物；“喂牛、羊”，“牛、羊吃草” → 】
+    meaning: 放牧，牧场；【转为动词】（牛、羊）吃草，放（牛、羊）吃草
+  - name: pasturage
+    phonetic: ［'pɑ:stʃəriʤ，'pɑ:stjuriʤ］
+    mnemonic: n.【见上，-age 表示行为】
+    meaning: 放牧；【-age 表示场所】牧场
+  - name: pastureland
+    phonetic: ［'pɑ:stʃəlænd］
+    mnemonic: n.【见上，land 场地】
+    meaning: 牧场
+  - name: depasture
+    phonetic: ［di:'pɑ:stʃə］
+    mnemonic: v.【de-加强意义，pasture 放牧】
+    meaning: 放牧，放养，（牛、羊）吃草
+  - name: pastor
+    phonetic: ［'pɑ:stə，'pæstə］
+    mnemonic: n.【past 喂，-or 表示人；“喂牛、羊的人” → 】
+    meaning: 牧人，牧羊人；（基督教的）牧师
+  - name: pastoral
+    phonetic: ［'pɑ:stərəl］
+    mnemonic: adj.【见上，-al …的】
+    meaning: 牧（羊）人的，牧人生活方式的，畜牧的；【转为】乡村的，田园诗的
+  - name: pastoralist
+    phonetic: ［'pɑ:stərəlist］
+    mnemonic: n.【见上，-ist 者】
+    meaning: 放牧者，畜牧者；田园诗的作者
+  - name: pastoralism
+    phonetic: ［'pɑ:stərəlizəm］
+    mnemonic: n.【见上，-ism 表示行为、风格等】
+    meaning: 畜牧，田园作品的风格
+  - name: repast
+    phonetic: ［ri'pɑ:st］
+    mnemonic: n./v.【re-加强意义，past 食】
+    meaning: 餐，饮食；就餐，设宴

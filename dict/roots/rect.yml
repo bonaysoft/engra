@@ -149,3 +149,27 @@ children:
     children:
       - name: insurrectionary
       - name: insurrectionist
+  - name: rectitude
+    phonetic: ［'rektitju:d］
+    mnemonic: n.【rect 正，直，-itude 名词后缀，表示情况、状态、性质】
+    meaning: 正直，正确，笔直
+  - name: rectilineal
+    phonetic: ［ˌrekti'liniəl］
+    mnemonic: adj.【rect 直，-i-，line 线，-al …的】
+    meaning: 直线的，直线运动的
+  - name: rectangle
+    phonetic: ［'rekˌtæŋɡl］
+    mnemonic: n.【rect 直，angle 角；“直角的图形”】
+    meaning: 矩形，长方形
+  - name: rectum
+    phonetic: ［'rektəm］
+    mnemonic: n.【rect 直，-um 名词后缀，表示物】
+    meaning: 直肠
+  - name: direct①
+    phonetic: ［ di'rekt］
+    mnemonic: v.【di- = de-加强意义，rect 正→矫正，纠正→指正，指导→】
+    meaning: 指示，指引，指挥，命令
+  - name: direct②
+    phonetic: ［di'rekt］
+    mnemonic: adj.【di- = de-加强意义，rect 直→直接→】
+    meaning: 直接的

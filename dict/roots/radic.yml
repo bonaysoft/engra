@@ -37,3 +37,19 @@ children:
         meaning: 可根除的
         children:
           - name: ineradicable
+  - name: radicate
+    phonetic: ［'rædikeit］
+    mnemonic: v.【radic 根，-ate 动词后缀，使…】
+    meaning: 使生根，确立
+  - name: radix
+    phonetic: ［'rædiks］
+    mnemonic: n.【radix=radic】
+    meaning: 根，根本，根源
+  - name: radicle
+    phonetic: ［'rædikəl］
+    mnemonic: n.【rad=radic 根，-icle 表示小】
+    meaning: 小根，幼根
+  - name: radish
+    phonetic: ［'rædiʃ］
+    mnemonic: n.【radish=radic 根；“一种植物的根”】
+    meaning: 小萝卜，萝卜（萝卜是一种植物的根）

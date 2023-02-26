@@ -14,6 +14,10 @@ children:
     mnemonic: n.【alt 高，-ar 表示物；“一块高地”，“一个高台” → 】
     meaning: 祭坛
     children:
+      - name: altarage
+        phonetic: ［'ɔ:ltəriʤ］
+        mnemonic: n.【见上，-age 表示物或费用】
+        meaning: 供于祭坛的祭品；香火钱
       - name: altarpiece
   - name: exalt
     phonetic: ［iɡ'zɔ:lt］
@@ -28,3 +32,15 @@ children:
         phonetic: ［ˌeɡzɔ:l'teiʃən］
         mnemonic: n.【见上，-ation 名词后缀】
         meaning: 升高，提高，晋升
+  - name: alto
+    phonetic: ［'æltəu］
+    mnemonic: n.【alt 高，-o 表示音乐术语】
+    meaning: （音乐）男声最高音
+  - name: altimeter
+    phonetic: ［'æltimi:tə］
+    mnemonic: n.【alt 高，-i-，meter 测量器，计】
+    meaning: 测高计，高度表
+  - name: altimetry
+    phonetic: ［æl'timitri］
+    mnemonic: n.【alt 高，-i-，metry 测量法】
+    meaning: 测高法

@@ -24,3 +24,35 @@ children:
         mnemonic: adj.【lumin 光，-i-，fer 带有，产生， -ous …的】
         meaning: 有光的，发光的
       - name: superluminal
+  - name: luminesce
+    phonetic: ［ˌlu:mi'nes］
+    mnemonic: v.【lumin 光，-esce 动词后缀】
+    meaning: 发光
+  - name: luminescent
+    phonetic: ［ˌlju:mi'nesənt］
+    mnemonic: adj.【lumin 光，-escent 形容词后缀】
+    meaning: 发光的
+  - name: illuminate
+    phonetic: ［i'lju:mineit］
+    mnemonic: v.【il-加强意义，lumin 光，-ate 动词后缀】
+    meaning: 照亮，照明；阐明，使明白
+  - name: illumination
+    phonetic: ［iˌlju:mineiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 照亮，照明；阐明，解释
+  - name: illuminator
+    phonetic: ［i'lju:mineitə］
+    mnemonic: n.【见上，-ator 表示人或物】
+    meaning: 发光器，照明装置；启发者
+  - name: illuminant
+    phonetic: ［i'lju:minənt］
+    mnemonic: n./adj.【见上，-ant 名词兼形容词后缀】
+    meaning: 发光物；发光的，照明的
+  - name: illuminable
+    phonetic: ［i'lju:minəbl］
+    mnemonic: adj.【见上，-able 可…的】
+    meaning: 可被照明的
+  - name: relumine
+    phonetic: ［ri:'lju:min］
+    mnemonic: v.【re-再，lumin 光 → 照】
+    meaning: 重新点燃；使重新照亮

@@ -44,3 +44,7 @@ children:
         meaning: 令人赞赏的，可钦佩的
         children:
           - name: admirably
+  - name: mirage
+    phonetic: ［'mirɑ:ʒ，mi'rɑ:ʒ］
+    mnemonic: n.【mir 奇异 → 奇观，-age 名词后缀，表示物】
+    meaning: 奇景，幻景，海市蜃楼

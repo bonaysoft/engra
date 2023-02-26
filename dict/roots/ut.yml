@@ -22,3 +22,42 @@ children:
             children:
               - name: underutilized
               - name: underutilization
+  - name: utilitarian
+    phonetic: ［ˌju:tili'tɛəriən］
+    mnemonic: adj./n.【见上，-arian …的；“有用的” → 有利的 → 功利的】
+    meaning: 功利的，功利主义的；【-arian 表示人】功利主义者
+  - name: utilizable
+    phonetic: ［'ju:tilaizəbl］
+    mnemonic: adj.【见上，-able 可…的】
+    meaning: 可利用的
+  - name: inutile
+    phonetic: ［in'ju:til］
+    mnemonic: adj.【in-无，ut 用，-ile …的】
+    meaning: 无用的，无益的
+  - name: inutility
+    phonetic: ［ˌinju:'tiləti］
+    mnemonic: n.【见上，-ility 名词后缀】
+    meaning: 无用，无益，无用的人或物
+  - name: utensil
+    phonetic: ［ju:'tensl］
+    meaning: n. 用具
+  - name: usage
+    phonetic: ［'ju:ziʤ］
+    mnemonic: n.【us 用，-age 名词后缀】
+    meaning: 使用，用法
+  - name: usual
+    phonetic: ［'ju:ʒuəl］
+    mnemonic: adj.【us 用，-ual …的；用，使用 → 通常使用的，平常惯用的 → 】
+    meaning: 通常的，平常的，惯例的
+  - name: usually
+    phonetic: ［'ju:ʒuəli］
+    mnemonic: adv.【见上，-ly 副词后缀】
+    meaning: 通常地，惯常地
+  - name: usury
+    phonetic: ［'ju:ʒuri］
+    mnemonic: n.【us 用，-u-，-ry 名词后缀；用 → 利用 → 利用本金贷出获利 → 】
+    meaning: 高利贷，高利剥削
+  - name: usurious
+    phonetic: ［ju:'zjuəriəs］
+    mnemonic: adj.【见上，-ous …的】
+    meaning: 高利贷的，高利的

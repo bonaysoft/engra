@@ -17,3 +17,60 @@ children:
   - name: aerosol
     children:
       - name: aerosolize
+  - name: aeriform
+    phonetic: ［'ɛərifɔ:m］
+    mnemonic: adj.【aer 空气，-i-，-form 如…形状的】
+    meaning: 气状的，气体的
+  - name: aerify
+    phonetic: ［'ɛərifai］
+    mnemonic: v.【aer 空气，-i-，-fy 动词后缀，使成为】
+    meaning: 使成为气体，使气体化
+  - name: aerification
+    phonetic: ［ˌɛərifi'keiʃən］
+    mnemonic: n.【aer 空气，-i-，-fication 名词后缀，化为】
+    meaning: 气化
+  - name: aerodrome
+    phonetic: ［'ɛərədrəum］
+    mnemonic: n.【aero 空中，航空 → 飞机，drom 跑，行；“飞机滑行的地方” → 】
+    meaning: 飞机场
+  - name: aerodynamics
+    phonetic: ［ˌɛərəudai'næmiks］
+    mnemonic: n.【aero 空中，dynam 力，-ics …学】
+    meaning: 空气动力学
+  - name: aerogram
+    phonetic: ［'ɛərəɡræm］
+    mnemonic: n.【aero 空中，gram 书写 → 信；“空中信” → 】
+    meaning: 无线电报；航空信件
+  - name: aerolith
+    phonetic: ［'ɛərəulait，'ɛərəuliθ］
+    mnemonic: n.【aero 空中，天空，lith 石；“由天空落下的石头” → 】
+    meaning: 陨石
+    children:
+    - name: aerolithology
+      phonetic: ［ˌɛərəuli'θɔləʤi］
+      mnemonic: n.【见上，-logy …学】
+      meaning: 陨石学
+  - name: aerology
+    phonetic: ［ɛə'rɔləʤi］
+    mnemonic: n.【aero 空气，-logy …学】
+    meaning: 大气学，气象学
+  - name: aeroscopy
+    phonetic: ［'ɛərəskəupi］
+    mnemonic: n.【aero 空气，scopy 观看】
+    meaning: 大气观测
+  - name: aerometer
+    phonetic: ［ɛə'rɔmitə］
+    mnemonic: n.【aero 空气，meter 测量器】
+    meaning: 气体测量器，气体比重计
+  - name: aerobiology
+    phonetic: ［ˌɛərəubai'ɔləʤi］
+    mnemonic: n.【aero 空气，biology 生物学】
+    meaning: 大气生物学
+  - name: aeromedicine
+    phonetic: ［ˌɛərəu'medisin］
+    mnemonic: n.【aero 天空，航空，medicine 医学】
+    meaning: 航空医学
+  - name: aeromechanics
+    phonetic: ［ˌɛərəumi'kæniks］
+    mnemonic: n.【aero 航空，mechanics 力学】
+    meaning: 航空力学

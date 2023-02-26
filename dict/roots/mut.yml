@@ -51,3 +51,51 @@ children:
         phonetic: ［ˌkɔmju(:)'teiʃən］
         mnemonic: n.【见上，-ation 名词后缀】
         meaning: 交换；代偿，（电）转换，变换；转向，整流
+  - name: intermutation
+    phonetic: ［intəˌmju:'teiʃən］
+    mnemonic: n.【inter-互相，mutation 变换】
+    meaning: 互换，交换，交替
+  - name: mutualize
+    phonetic: ［'mju:tʃuəlaiz］
+    mnemonic: v.【见上，-ize 动词后缀，使…】
+    meaning: 使相互之间发生关系；使成共有
+  - name: commutable
+    phonetic: ［kə'mju:təbl］
+    mnemonic: adj.【见上，-able 可…的】
+    meaning: 可以交换的；可以变换的
+  - name: commutability
+    phonetic: ［kəˌmju:tə'biləti］
+    mnemonic: n.【见上，-ability 可…性】
+    meaning: 可交换性；可变换性
+  - name: commutate
+    phonetic: ［'kɔmjuteit］
+    mnemonic: v.【见上，-ate 动词后缀】
+    meaning: 变换（电流的）方向；变交流电为直流电
+  - name: commutator
+    phonetic: ［'kɔmjuteitə］
+    mnemonic: n.【见上，-ator 表示物】
+    meaning: 转换器；交换机；整流器
+  - name: incommutable
+    phonetic: ［ˌinkə'mju:təbl］
+    mnemonic: adj.【in-不，见上】
+    meaning: 不能变换的；不能交换的
+  - name: permute
+    phonetic: ［pə(:)'mju:t］
+    mnemonic: v.【per-加强意义，mut变】
+    meaning: 变更；交换
+  - name: permutation
+    phonetic: ［ˌpə:mju(:)'teiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 变更；交换
+  - name: transmute
+    phonetic: ［'træzmju:t］
+    mnemonic: v.【trans-转，mut 变】
+    meaning: （使）变形；（使）变质
+  - name: transmutable
+    phonetic: ［trænz'mju:təbl］
+    mnemonic: adj.【见上，-able 可…的】
+    meaning: 可变形的；可变质的；可变的
+  - name: transmutation
+    phonetic: ［ˌtrænzmju:'teiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 变形；变质；演变，衍变

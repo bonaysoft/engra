@@ -21,3 +21,39 @@ children:
         mnemonic: n.【见上，-ance 名词后缀】
         meaning: 过分，过度，无节制，浪费，奢侈
       - name: extravaganza
+  - name: vagile
+    phonetic: ［'væʤil］
+    mnemonic: adj.【vag 漫游，-ile形容词后缀，…的】
+    meaning: 漫游的
+  - name: vagabond
+    phonetic: ［'væɡəbɔnd］
+    mnemonic: adj./n.【vag漫游 → 流浪】
+    meaning: 流浪的，漂泊的；流浪者
+  - name: vagabondage
+    phonetic: ［'væɡəbɔndiʤ］
+    mnemonic: n.【见上，-age 名词后缀】
+    meaning: 流浪（生活）
+  - name: divagate
+    phonetic: ［'daivəɡeit］
+    mnemonic: v.【di-= dis-离，vag 漫步，走，-ate 动词后缀；“走离” → 】
+    meaning: 流浪，漫游，入歧途；（谈话）离题
+  - name: divagation
+    phonetic: ［ˌdaivə'ɡeiʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 流浪，入歧途；离题
+  - name: noctivagant
+    phonetic: ［nɔk'tivəɡənt］
+    mnemonic: adj.【nocti 夜，vag 漫游，-ant …的】
+    meaning: 夜游的，夜间徘徊的
+  - name: vagrant
+    phonetic: ［'veiɡrənt］
+    mnemonic: adj./n.【vag 漫游 → 流浪，-ant …的】
+    meaning: 流浪的；【-ant 表示人】流浪者
+  - name: vagary
+    phonetic: ［'veiɡəri］
+    mnemonic: n.【vag 走，-ary 名词后缀；走 → 走离 → 走离常规，离开常规 → 异于寻常 → 不正常 → 】
+    meaning: 异想天开，反复无常的行为，古怪的行为
+  - name: vagarious
+    phonetic: ［və'ɡɛəriəs］
+    mnemonic: adj.【见上，-ous …的】
+    meaning: 异想天开的，古怪的，反复无常的

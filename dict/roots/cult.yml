@@ -54,3 +54,55 @@ children:
         phonetic: ［'kʌltivəbl］
         mnemonic: adj.【见上，-able 可…的】
         meaning: 可耕作的；可栽培的；可教养的；可教化的
+  - name: aquiculture
+    phonetic: ［'ækwiˌkʌltʃə］
+    mnemonic: n.【aqu 水，-i-，cult 养，-ure 名词后缀】
+    meaning: 水产养殖
+  - name: agriculture
+    phonetic: ［'æɡrikʌltʃə］
+    mnemonic: n.【agri 田地，cult 耕，-ure 抽象名词后缀；“耕种田地” → 】
+    meaning: 农业；农艺；农学
+    children:
+      - name: agricultural
+        phonetic: ［ˌæɡri'kʌltʃərəl］
+        mnemonic: adj.【见上，-al 形容词后缀】
+        meaning: 农业的；农艺的；农学的
+      - name: agriculturist
+        phonetic: ［ˌæɡri'kʌltʃərist］
+        mnemonic: n.【见上，-ist 人】
+        meaning: 农学家
+  - name: apiculture
+    phonetic: ［'eipikʌltʃə］
+    mnemonic: n.【api 蜜蜂，cult 养，-ure 名词后缀】
+    meaning: 养蜂，养蜂业
+    children:
+      - name: apiculturist
+        phonetic: ［ˌeipi'kʌltʃərist］
+        mnemonic: n.【见上，-ist 人】
+        meaning: 养蜂者，养蜂家
+  - name: arboriculture
+    phonetic: ［'ɑ:bəriˌkʌltʃə］
+    mnemonic: n.【arbor 树木，cult 培养，-ure 名词后缀】
+    meaning: 树木栽培（学）
+    children:
+      - name: arboriculturist
+        phonetic: ［ˌɑ:bəri'kʌltʃərist］
+        mnemonic: n.【见上，-ist 人】
+        meaning: 树木栽培家
+  - name: aviculture
+    phonetic: ［'eivikʌltʃə］
+    mnemonic: n.【avi 鸟，cult 培养，-ure 名词后缀】
+    meaning: 养鸟
+  - name: floriculture
+    phonetic: ［'flɔ:rikʌltʃə］
+    mnemonic: n.【flori 花，cult 培养，-ure 抽象名词后缀】
+    meaning: 养花，种花，花卉栽培，花艺
+    children:
+      - name: floricultural
+        phonetic: ［ˌflɔ:ri'kʌltʃərəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 养花的，花卉栽培的
+      - name: floriculturist
+        phonetic: ［ˌflɔri'kʌltʃərist］
+        mnemonic: n.【见上，-ist 人】
+        meaning: 养花者，花匠；花卉栽培家

@@ -29,3 +29,35 @@ children:
         phonetic: ［rəu'teitəri］
         mnemonic: adj.【见上，-ory …的】
         meaning: （使）旋转的；（使）轮流的，（使）循环的
+  - name: rotary
+    phonetic: ［'rəutəri］
+    mnemonic: adj./n.【rot 轮，转，-ary 名词及形容词后缀】
+    meaning: 旋转的，转动的；旋转运行的机器
+  - name: rotor
+    phonetic: ［'rəutə］
+    mnemonic: n.【见上，-or 表示物】
+    meaning: 旋转体，转动体；（直升机的）水平旋翼
+  - name: rotund
+    phonetic: ［rəu'tʌnd］
+    mnemonic: adj.【rot 轮 → 圆形，-und 形容词后缀，有…形的】
+    meaning: 圆形的；圆胖的
+  - name: rotunda
+    phonetic: ［rəu'tʌndə］
+    mnemonic: n.【见上，-a 名词后缀】
+    meaning: 圆形建筑物；圆形大厅
+  - name: rotundity
+    phonetic: ［rəu'tʌnditi］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 圆；圆形物；圆胖
+  - name: subrotund
+    phonetic: ［ˌsʌbrəu'tʌnd］
+    mnemonic: adj.【sub-稍，略，rotund 圆的】
+    meaning: 稍圆的，略圆的
+  - name: circumrotate
+    phonetic: ［ˌsə:kəm'rəuteit］
+    mnemonic: v.【circum-周围，rot 转，-ate 动词后缀】
+    meaning: 周转，回转
+  - name: circumrotatary
+    phonetic: ［ˌsə:kəm'rəuteitəri］
+    mnemonic: adj.【见上，-ary …的】
+    meaning: 周转的，回转的

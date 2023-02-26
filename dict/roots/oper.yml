@@ -71,3 +71,15 @@ children:
           - name: cooperatively
           - name: cooperativeness
           - name: uncooperative
+  - name: operose
+    phonetic: ［'ɔpərəus］
+    mnemonic: adj.【oper 工作 → 劳动，出力，-ose 形容词后缀，…的】
+    meaning: 费力的，用功的，勤勉的
+  - name: opera
+    phonetic: ［'ɔpərə］
+    mnemonic: n.【oper 工作 → 动作 → 表演，作戏 → 戏 → 】
+    meaning: 歌剧
+  - name: operatic
+    phonetic: ［ˌɔpə'rætik］
+    mnemonic: adj.【见上，-tic 形容词后缀，…的】
+    meaning: 歌剧的，歌剧式的

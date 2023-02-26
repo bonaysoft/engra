@@ -295,3 +295,43 @@ children:
     children:
       - name: juxtaposed
       - name: juxtaposition
+  - name: preposition
+    phonetic: ［ˌprepə'ziʃən］
+    mnemonic: n.【pre-前，-pos 放置，-ition 表示物；“放在（名词）前面的词”→】
+    meaning: 前置词，介词
+  - name: posture
+    phonetic: ［'pɔstʃə］
+    mnemonic: n.【pos 放置→摆放，-ture 名词后缀；“摆出的姿势”】
+    meaning: 姿势，姿态
+  - name: reposit
+    phonetic: ［ri'pɔzit］
+    mnemonic: v.【re-回，pos 放；“放回去”】
+    meaning: 保存，贮藏；【“放回原处”】使复位，使返回原处
+  - name: reposition
+    phonetic: ［ri:pə'ziʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 贮藏；复位，回原处
+  - name: position
+    phonetic: ［pə'ziʃən］
+    mnemonic: n.【pos 放置，-ition 名词后缀；“放置的地方”】
+    meaning: 位置
+  - name: interpose
+    phonetic: ［ˌintə'pəuz］
+    mnemonic: v.【inter-中间，pos 放置；“置于其中”→】
+    meaning: 插入，介入其中，干预
+  - name: transpose
+    phonetic: ［træns'pəuz］
+    mnemonic: v.【trans-转换，改变，pos 放置】
+    meaning: 使互换位置，调换位置
+  - name: deposit
+    phonetic: ［di'pɔzit］
+    mnemonic: v.【de-下，pos 放；“放下”→存放】
+    meaning: 寄存，存放，存款，储蓄
+  - name: depose
+    phonetic: ［di'pəuz］
+    mnemonic: v.【de-下，pos 放；“往下放”→使降下→】
+    meaning: 罢…的官，废黜，免职
+  - name: deposition
+    phonetic: ［ˌdepə'ziʃən］
+    mnemonic: n.【见上，-ition 名词后缀】
+    meaning: 免职，罢官，废黜

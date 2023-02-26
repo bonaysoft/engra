@@ -147,3 +147,11 @@ children:
         children:
           - name: purportedly
   - name: passport
+  - name: portfolio
+    phonetic: ［ˌpɔ:t'fəuliəu］
+    mnemonic: n.【port 拿，持，folio 对折纸，对开本；“手持的对开本形之物”→】
+    meaning: 公文夹，文件夹，公事包
+  - name: sport
+    phonetic: ［spɔ:t］
+    mnemonic: n.【s- = dis-分开，离，port = carry；“to carry（or remove）oneself away from（one's）work”，自己由工作中分身出来，把自己从工作中解脱出来→使自己轻松一下→】
+    meaning: 娱乐，玩，运动

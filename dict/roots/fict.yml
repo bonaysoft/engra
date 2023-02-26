@@ -37,3 +37,63 @@ children:
       - name: metafiction
         children:
           - name: metafictional
+  - name: fictile
+    phonetic: ［'fiktail］
+    mnemonic: adj./n.【fict塑造，-ile 形容词兼名词后缀】
+    meaning: 塑造的；可塑造的；陶制的；陶制品
+  - name: figment
+    phonetic: ［'fiɡmənt］
+    mnemonic: n.【fig 虚构，臆造，-ment 名词后缀】
+    meaning: 虚构的事；臆造的事物
+  - name: figure
+    phonetic: ［'fiɡə］
+    mnemonic: n.【fig 塑造，制作，-ure 名词后缀；“制作出来”的样子，“塑造成”的形状 → 】
+    meaning: 外形，轮廓；塑像；形象
+  - name: figurable
+    phonetic: ［'fiɡərəbl］
+    mnemonic: adj.【见上，-able 能…的】
+    meaning: 能成形的，能定形的
+  - name: figural
+    phonetic: ［'fiɡjurəl］
+    mnemonic: adj.【见上，-al …的】
+    meaning: 具有人（或动物）的形象的
+  - name: figuration
+    phonetic: ［ˌfiɡə'reiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 成形，定型；外表，轮廓
+  - name: figurine
+    phonetic: ［'fiɡəri:n］
+    mnemonic: n.【见上，-ine 名词后缀，表示物】
+    meaning: 小塑像；小雕像
+  - name: configure
+    phonetic: ［kən'fiɡə］
+    mnemonic: v.【con-加强意义，figure 形象】
+    meaning: 使成形，构形，使具形体
+  - name: configuration
+    phonetic: ［kənˌfiɡə'reiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 构造，结构；形状，外形
+  - name: disfigure
+    phonetic: ［dis'fiɡə］
+    mnemonic: v.【dis-取消，毁，figure 外形】
+    meaning: 毁…的外形（或容貌）
+  - name: disfigurement
+    phonetic: ［dis'fiɡəmənt］
+    mnemonic: n.【见上，-ment 名词后缀】
+    meaning: 毁形，毁容
+  - name: prefigure
+    phonetic: ［ˌpri:'fiɡə］
+    mnemonic: v.【pre-先，前，figure 形象；“预先以形象显示” → 】
+    meaning: 预示；预兆
+  - name: prefiguration
+    phonetic: ［ˌpri:fiɡju'reiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 预示；预兆
+  - name: transfigure
+    phonetic: ［træns'fiɡə］
+    mnemonic: v.【trans-转变，改换，figure 外形】
+    meaning: 使变形；使改观
+  - name: transfiguration
+    phonetic: ［ˌtrænsfiɡju'reiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 变形；改观

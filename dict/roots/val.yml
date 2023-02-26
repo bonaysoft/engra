@@ -82,3 +82,19 @@ children:
   - name: prevalent
     children:
       - name: prevalence
+  - name: valour
+    phonetic: ［'vælə］
+    mnemonic: n.【val 强 → 勇，-our 表抽象名词】
+    meaning: 勇猛，英勇
+  - name: convalesce
+    phonetic: ［ˌkɔnvə'les］
+    mnemonic: v.【con-用作加强意义，val 强 → 健康，-esce 动词后缀，表示动作开始或正在进行】
+    meaning: 渐愈，恢复健康
+  - name: convalescence
+    phonetic: ［ˌkɔnvə'lesns］
+    mnemonic: n.【见上，-escence 名词后缀】
+    meaning: 逐渐恢复健康
+  - name: convalescent
+    phonetic: ［ˌkɔnvə'lesnt］
+    mnemonic: adj.【见上，-escent 形容词后缀】
+    meaning: 恢复健康的，渐愈的

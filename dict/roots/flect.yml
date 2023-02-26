@@ -29,3 +29,38 @@ children:
       - name: deflector
       - name: deflected
       - name: deflection
+  - name: reflex
+    phonetic: ［ri'fleks］
+    mnemonic: n.【见上，flex = flect】
+    meaning: 反射，反射光，反映
+  - name: reflexible
+    phonetic: ［ri'fleksəbl］
+    mnemonic: adj.【见上，-ible 可…的】
+    meaning: 可反射的
+  - name: flection
+    phonetic: ［'flekʃən］
+    mnemonic: n.【flect 弯曲，-ion 名词后缀】
+    meaning: 弯曲，弯曲部分
+  - name: flectional
+    phonetic: ［'flekʃənl］
+    mnemonic: adj.【见上，-al …的】
+    meaning: 弯曲的，可弯曲的
+  - name: inflection
+    phonetic: ［in'flekʃən］
+    mnemonic: n.【in-内，flection 弯曲】
+    meaning: 向内弯曲
+  - name: flex
+    phonetic: ［fleks］
+    meaning: n. 弯曲，折曲
+  - name: flexible
+    phonetic: ［'fleksəbl］
+    mnemonic: adj.【见上，-ible 易…的】
+    meaning: 易弯曲的
+  - name: flexure
+    phonetic: ［'flektʃə］
+    mnemonic: n.【flex 弯曲，-ure 名词后缀】
+    meaning: 弯曲
+  - name: flexuous
+    phonetic: ［'fleksjuəs］
+    mnemonic: adj.【flex 弯曲，-uous …的】
+    meaning: 弯弯曲曲的

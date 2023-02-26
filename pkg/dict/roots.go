@@ -35,20 +35,13 @@ func NewRoots() (*Roots, error) {
 	return &Roots{trees: trees}, nil
 }
 
-func (d *Roots) Find(wordStr string) (*model.Vocabulary, *model.Vocabulary, error) {
-	var word, root *model.Vocabulary
+func (d *Roots) Find(wordStr string) (*model.Vocabulary, *WordRoot, error) {
 	for _, tree := range d.trees {
 		v, ok := tree.Find(wordStr)
 		if ok {
-			word = v
-			root = tree.Vocabulary
-			break
+			return v, tree, nil
 		}
 	}
 
-	if word == nil {
-		return nil, nil, fmt.Errorf("not found")
-	}
-
-	return word, root, nil
+	return nil, nil, fmt.Errorf("not found")
 }

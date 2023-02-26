@@ -25,3 +25,31 @@ children:
     children:
       - name: magnificently
       - name: magnificence
+  - name: magnanimous
+    phonetic: ［mæɡ'næniməs］
+    mnemonic: adj.【magn 大，anim 心神 → 气度，器量 -ous …的】
+    meaning: 大度的，宽宏大量的
+  - name: magnanimity
+    phonetic: ［ˌmæɡnə'nimiti］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 大度，宽宏大量
+  - name: magnifiable
+    phonetic: ［'mæɡnifaiəbl］
+    mnemonic: adj.【见上，-able 可…的】
+    meaning: 可放大的
+  - name: magniloquent
+    phonetic: ［mæɡ'niləkwənt］
+    mnemonic: adj.【magni 大，loqu 言，-ent …的】
+    meaning: 夸口的，夸张的；华而不实的
+  - name: magnitude
+    phonetic: ［'mæɡnitju:d］
+    mnemonic: n.【magn 大，-itude 名词后缀】
+    meaning: 巨大；广大
+  - name: magnific
+    phonetic: ［mæɡ'nifik］
+    mnemonic: adj.【magni 大，-fic 形容词后缀，…的】
+    meaning: 宏大的；壮丽的
+  - name: magnifico
+    phonetic: ［mæɡ'nifikəu］
+    mnemonic: n.【见上，-o 名词后缀，表示人；“大人物”】
+    meaning: 高官；贵人

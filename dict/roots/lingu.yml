@@ -25,3 +25,31 @@ children:
       - name: psycholinguist
         children:
           - name: psycholinguistic
+  - name: bilingual
+    phonetic: ［bai'liŋɡwəl］
+    mnemonic: adj.【bi-两，lingu 语言，-al …的】
+    meaning: 两种语言的
+  - name: bilingualist
+    phonetic: ［bai'liŋɡwist］
+    mnemonic: n.【见上，-ist 表示人】
+    meaning: 通晓两种语言者
+  - name: bilingualism
+    phonetic: ［bai'liŋɡwəlizəm］
+    mnemonic: n.【见上，-ism 表示行为或状况】
+    meaning: 通晓两种语言，用两种语言
+  - name: trilingual
+    phonetic: ［trai'liŋɡwəl］
+    mnemonic: adj.【tri-三，lingu 语言，-al …的】
+    meaning: 三种语言的
+  - name: multilingual
+    phonetic: ［ˌmʌlti'liŋɡwəl］
+    mnemonic: adj.【multi-多，lingu 语言，-al …的】
+    meaning: 多种语言的，懂（或用）多种语言的
+  - name: collingual
+    phonetic: ［kəu'liŋɡwəl］
+    mnemonic: adj.【col-同，lingu-语言，al …的】
+    meaning: （用）同一种语言的
+  - name: Linguaphone
+    phonetic: ［'liŋɡwəfəun］
+    mnemonic: n.【lingu 语言，-a-，phon 声音】
+    meaning: 灵格风（一种运用唱片进行的口语训练）

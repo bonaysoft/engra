@@ -42,6 +42,10 @@ children:
         phonetic: ［ˌdju:pli'keiʃən］
         mnemonic: n.【见上，-ation 名词后缀】
         meaning: 成双，成倍；复制，复制品
+  - name: duplicity
+    phonetic: ［dju:'plisiti］
+    mnemonic: n.【见上，-icity 表示性质】
+    meaning: 二重性，口是心非，表里不一
   - name: duel
     phonetic: ［'dju:əl］
     mnemonic: n.【du 双，二】
@@ -68,3 +72,7 @@ children:
           - name: duskiness
           - name: duskily
       - name: adusk
+  - name: duplex
+    phonetic: ［'dju:pleks］
+    mnemonic: adj.【du 双，plex（=fold）重】
+    meaning: 双重的，二重的

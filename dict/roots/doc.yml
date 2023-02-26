@@ -35,3 +35,37 @@ children:
             phonetic: ［ˌindəu'siləti］
             mnemonic: n.【见上，-ility 名词后缀】
             meaning: 难驯服
+  - name: doctor
+    phonetic: ［'dɔktə］
+    mnemonic: n.【doc 教 → 指教，-or 人；“指教者” → 】
+    meaning: 医生；博士
+    children:
+      - name: doctoral
+        phonetic: ［'dɔktərəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 博士的
+      - name: doctorate
+        phonetic: ［'dɔktərət］
+        mnemonic: n.【见上，-ate 名词后缀】
+        meaning: 博士衔，博士学位
+  - name: doctrine
+    phonetic: ［'dɔktrin］
+    mnemonic: n.【见上，-ine 名词后缀】
+    meaning: 教义，教旨，教条；主义
+    children:
+      - name: doctrinal
+        phonetic: ［dɔk'trainəl］
+        mnemonic: adj.【见上，al …的】
+        meaning: 教条的，教义的
+      - name: doctrinaire
+        phonetic: ［ˌdɔktri'nɛə］
+        mnemonic: n.【见上，-aire 名词后缀，表示人】
+        meaning: 教条主义者
+  - name: docility
+    phonetic: ［dəu'siləti］
+    mnemonic: n.【doc 教，-ility 名词后缀】
+    meaning: 容易管教，驯良
+  - name: docent
+    phonetic: ［dəu'sent］
+    mnemonic: n.【doc 教，-ent 名词后缀，表示人】
+    meaning: 教员；讲师

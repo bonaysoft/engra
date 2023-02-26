@@ -15,3 +15,43 @@ children:
         phonetic: ［æ'kwifərəs］
         mnemonic: adj.【aqu 水，-i-，fer 带有，-ous …的】
         meaning: 带有水的，含水的
+  - name: aquarium
+    phonetic: ［ə'kwɛəriəm］
+    mnemonic: n.【aqu 水，-arium 表示场所地点；“放养水生动物的地方”】
+    meaning: 水族馆，养鱼池
+  - name: aqueduct
+    phonetic: ［'ækwidʌkt］
+    mnemonic: n.【aqu 水，-e-，duct 引导；“引导水” → 】
+    meaning: 引水槽，水道，沟渠，导水管
+  - name: aqueous
+    phonetic: ［'eikwiəs］
+    mnemonic: adj.【aqu 水，-eous …的】
+    meaning: 水性的，多水的，含水的，水状的
+  - name: aquosity
+    phonetic: ［ə'kwɔsəti］
+    mnemonic: n.【aqu 水，-osity 名词后缀，表示状态】
+    meaning: 多水状态，潮湿
+  - name: aquiculture
+    phonetic: ［'ækwiˌkʌltʃə］
+    mnemonic: n.【aqu 水，-i-，cult 养育，-ure 名词后缀】
+    meaning: 饲养水栖动物，养鱼，水产养殖
+  - name: aquiform
+    phonetic: ［'ekwiˌfɔ:m］
+    mnemonic: adj.【aqu 水，-i-，-form 有…形状的】
+    meaning: 水状的
+  - name: subaqueous
+    phonetic: ［sʌb'eikwiəs］
+    mnemonic: adj.【sub-下，aqu 水，-eous …的】
+    meaning: 水下的，用于水下的
+  - name: superaqueous
+    phonetic: ［ˌsju:pə'reikwiəs］
+    mnemonic: adj.【super-上，aqu 水，-eous …的】
+    meaning: 水上的，水面上的
+  - name: aqualung
+    phonetic: ［'ækwəlʌŋ］
+    mnemonic: n.【aqua = aqu 水，lung 肺】
+    meaning: （潜水员背的）水中呼吸器
+  - name: aquashow
+    phonetic: ［'ækwəˌʃəu］
+    mnemonic: n.【aqua = aqu 水，show 表演】
+    meaning: 水上技艺表演

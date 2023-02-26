@@ -139,3 +139,11 @@ children:
     meaning: 形容词；【-ive …的】形容词的
     children:
       - name: adjectival
+  - name: deject
+    phonetic: ［di'ʤekt］
+    mnemonic: v.【de-下，ject 投，抛；“抛下” → 落下 → 使低落 → 使情绪低落 → 】
+    meaning: 使沮丧，使气馁
+  - name: dejected
+    phonetic: ［di'ʤektid］
+    mnemonic: adj.【见上，-ed …的】
+    meaning: 沮丧的，情绪低落的

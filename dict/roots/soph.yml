@@ -6,3 +6,35 @@ children:
   - name: sophomore
     children:
       - name: sophomoric
+  - name: philosopher
+    phonetic: ［fi'lɔsəfə］
+    mnemonic: n.【philo 爱，soph 智慧 → 知识，哲理，-er 者】
+    meaning: 哲学家；思想家
+  - name: philosophy
+    phonetic: ［fi'lɔsəfi］
+    mnemonic: n.【见上，-y 名词后缀】
+    meaning: 哲学；哲理
+  - name: philosophize
+    phonetic: ［fi'lɔsəfaiz］
+    mnemonic: v.【见上，-ize 动词后缀】
+    meaning: 推究哲理，进行哲学探讨
+  - name: philosophical
+    phonetic: ［ˌfilə'sɔfikəl］
+    mnemonic: adj.【见上，-ical …的】
+    meaning: 哲学家的；哲学（上）的
+  - name: unphilosophical
+    phonetic: ［'ʌnˌfilə'sɔfikəl］
+    mnemonic: adj.【un-不】
+    meaning: 不合哲理的，违背哲理的
+  - name: pansophic
+    phonetic: ［'pænsəfik］
+    mnemonic: adj.【pan-全，soph 智慧 → 知，-ic …的】
+    meaning: 全知的，无所不知的
+  - name: sophist
+    phonetic: ［'sɔfist］
+    mnemonic: n.【soph 智慧，-ist 者】
+    meaning: 大智者，博学者；【智慧 → 狡黠 → 诡辩】诡辩（学）者，诡辩家
+  - name: sophism
+    phonetic: ［'sɔfizəm］
+    mnemonic: n.【见上，-ism 表示行为】
+    meaning: 诡辩，诡辩法

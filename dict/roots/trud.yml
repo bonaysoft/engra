@@ -41,3 +41,31 @@ children:
         phonetic: ［prəu'tru:sail］
         mnemonic: adj.【见上，-ile 可…的】
         meaning: 可伸出的，可突出的
+  - name: extrude
+    phonetic: ［ek'stru:d］
+    mnemonic: v.【ex-出，trud 推；“推出” → 】
+    meaning: 逐出，赶走；挤压出，喷出
+  - name: extruder
+    phonetic: ［ek'stru:də］
+    mnemonic: n.【见上，-er 表示物】
+    meaning: 挤压机
+  - name: extrusion
+    phonetic: ［ek'stru:ʒən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 逐出；喷出；挤压
+  - name: extrusive
+    phonetic: ［ek'stru:siv］
+    mnemonic: adj.【见上，-ive …的】
+    meaning: 逐出的；喷出的；挤出的
+  - name: protrudent
+    phonetic: ［prəu'tru:dənt］
+    mnemonic: adj.【见上，-ent …的】
+    meaning: 伸出的，凸出的，突出的
+  - name: detrude
+    phonetic: ［di'tru:d］
+    mnemonic: v.【de-下，trud 推】
+    meaning: 推下，推落，推倒，推去
+  - name: detrusion
+    phonetic: ［di'tru:ʒən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 推下，推倒

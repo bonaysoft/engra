@@ -26,3 +26,27 @@ children:
         phonetic: ［ə'ʤʌŋktiv］
         mnemonic: adj.【见上，-ive …的】
         meaning: 附属的；附加语的
+  - name: conjunct
+    phonetic: ［'kɔnʤʌŋkt］
+    mnemonic: adj.【con-共同，junct 连接】
+    meaning: 连接的；联合的；结合的
+  - name: conjunction
+    phonetic: ［kən'ʤʌŋkʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 连接；联合；结合；（事件的）同时发生；连接词
+  - name: conjunctive
+    phonetic: ［kən'ʤʌŋktiv］
+    mnemonic: adj.【见上，-ive …的】
+    meaning: 连接的；联合的
+  - name: disjunct
+    phonetic: ［'disʤʌŋkt］
+    mnemonic: adj.【dis-不，junct 连接】
+    meaning: 不连接的，断离的
+  - name: disjunction
+    phonetic: ［dis'ʤʌŋkʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 分离，分裂，折断
+  - name: disjunctive
+    phonetic: ［dis'ʤʌŋktiv］
+    mnemonic: adj.【见上，-ive …的】
+    meaning: 分离的，分离性的

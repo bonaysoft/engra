@@ -58,3 +58,15 @@ children:
   - name: mediocre
     children:
       - name: mediocrity
+  - name: mediacy
+    phonetic: ［'mi:diəsi］
+    mnemonic: n.【medi 中间，-acy 名词后缀】
+    meaning: 中间状态，媒介，调停
+  - name: mediterranean
+    phonetic: ［ˌmeditə'reiniən］
+    mnemonic: adj./n.【medi 中间，terr 地，陆地， -anean=-an…的；“位于陆地中间的”】
+    meaning: 地中的，被陆地包围的；【Mediterranean 地中海】
+  - name: median
+    phonetic: ［'mi:diən］
+    mnemonic: adj./n.【medi 中间，-an…的】
+    meaning: 当中的，中央的；【转为名词】中部，当中

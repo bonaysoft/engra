@@ -92,3 +92,43 @@ children:
       - name: monologic
         children:
           - name: monological
+  - name: prologue
+    phonetic: ［'prəulɔɡ］
+    mnemonic: n.【pro-前，log 言】
+    meaning: 前言，序言
+  - name: epilogue
+    phonetic: ［'epilɔɡ］
+    mnemonic: n.【epi-旁，外，log 言，话；“正文以外的话” → 正文后面的话 → 】
+    meaning: 结束语，后记，跋；闭幕词
+  - name: epilogize
+    phonetic: ［e'piləʤaiz］
+    mnemonic: v.【见上，-ize 动词后缀】
+    meaning: 作结束语
+  - name: pseudology
+    phonetic: ［psju:'dɔləʤi］
+    mnemonic: n.【pseudo-假，log 言，话，-y 名词后缀】
+    meaning: 假话
+  - name: neologism
+    phonetic: ［ni(:)'ɔləʤizəm］
+    mnemonic: n.【neo-新，log 言，词，-ism 表示语言】
+    meaning: 新语，新词
+  - name: neologize
+    phonetic: ［ni:'ɔləʤaiz］
+    mnemonic: v.【见上，-ize 动词后缀】
+    meaning: 使用新词，创造新词
+  - name: antilogy
+    phonetic: ［æn'tiləʤi］
+    mnemonic: n.【anti-反对，相反，log 言；“相反之言” → 】
+    meaning: 前后矛盾，自相矛盾
+  - name: dyslogy
+    phonetic: ［'disləʤi］
+    mnemonic: n.【dys-恶，不良，log 言；“恶言” → 】
+    meaning: 非难，非议，指责，咒骂
+  - name: philologist
+    phonetic: ［fi'lɔləʤist］
+    mnemonic: n.【philo 爱好，log 语言，-ist 者】
+    meaning: 语言学者
+  - name: philology
+    phonetic: ［fi'lɔləʤi］
+    mnemonic: n.【见上，-y 名词后缀】
+    meaning: 语言学

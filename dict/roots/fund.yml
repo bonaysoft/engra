@@ -20,3 +20,39 @@ children:
       - name: refund
         children:
           - name: refundable
+  - name: profound
+    phonetic: ［prə'faund］
+    mnemonic: adj.【pro-加强意义，found 底，底下 → 深处 → 深 → 】
+    meaning: 深奥的，深远的，深重的，意义深长的，深深的；深处
+  - name: profundity
+    phonetic: ［prə'fʌnditi］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 深处，深度，深奥，深刻
+  - name: fundament
+    phonetic: ［'fʌndəmənt］
+    mnemonic: n.【fund 基础，-a-，-ment 名词后缀】
+    meaning: 基础；基本原理
+  - name: fundamental
+    phonetic: ［ˌfʌndə'mentl］
+    mnemonic: adj.【见上，-al …的】
+    meaning: 基础的，基本的，根本的
+  - name: found
+    phonetic: ［faund］
+    mnemonic: v.【found 基础】
+    meaning: 为（房屋等）打基础；建立，创立
+  - name: foundation
+    phonetic: ［faun'deiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 地基；基础，根本；基金
+  - name: foundational
+    phonetic: ［faun'deiʃənl］
+    mnemonic: adj.【见上，-al …的】
+    meaning: 基础的，基本的
+  - name: founder
+    phonetic: ［'faundə］
+    mnemonic: n.【见上，-er 者】
+    meaning: 奠基者，创立者
+  - name: foundress
+    phonetic: ［'faundris］
+    mnemonic: n.【见上，-ress 表示女性】
+    meaning: 女奠基者，女创立者

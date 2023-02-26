@@ -78,3 +78,35 @@ children:
     children:
       - name: arbitrarily
       - name: arbitrariness
+  - name: initiation
+    phonetic: ［iˌniʃi'eiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 开始，创始
+  - name: itinerary
+    phonetic: ［ai'tinərəri］
+    mnemonic: adj./n.【it 行走 → 旅行，-ary …的】
+    meaning: 旅行的，旅程的，路线的；【-ary 名词后缀】旅程，路线，旅行指南
+  - name: itinerate
+    phonetic: ［i'tinəreit］
+    mnemonic: v.【it 行走，-ate 动词后缀】
+    meaning: 巡游，巡回
+  - name: circuit
+    phonetic: ［'sə:kit］
+    mnemonic: n.【circ-圆，环，-u-，it 行】
+    meaning: 环行，周线，电路，回路
+  - name: circuitous
+    phonetic: ［sə'kju:itəs］
+    mnemonic: adj.【见上，-ous …的】
+    meaning: 迂回的，绕行的
+  - name: sedition
+    phonetic: ［si'diʃən］
+    mnemonic: n.【sed-=se-离开，it 走，-ion 名词后缀；“走离” → 离轨 → 越轨 → 越轨的言论或行动 → 】
+    meaning: 叛乱，暴动；煽动性的言论或行动
+  - name: seditionary
+    phonetic: ［si'diʃənəri］
+    mnemonic: n.【见上，-ary 表示人】
+    meaning: 煽动叛乱者，煽动分子
+  - name: seditious
+    phonetic: ［si'diʃəs］
+    mnemonic: adj.【见上，-ious 形容词后缀，…的】
+    meaning: 煽动性的，参与煽动的

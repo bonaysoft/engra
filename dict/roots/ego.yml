@@ -17,3 +17,23 @@ children:
         children:
           - name: egoistic
       - name: superego
+  - name: egocentric
+    phonetic: ［ˌeɡəu'sentrik］
+    mnemonic: adj.【ego 自我，centr 中心，-ic …的（人）】
+    meaning: 自我中心的；以我为中心的人，自我主义者
+  - name: egocentricity
+    phonetic: ［ˌeɡəusen'trisəti］
+    mnemonic: n.【见上，-icity 抽象名词后缀】
+    meaning: 自我中心；自私自利
+  - name: egoistical
+    phonetic: ［ˌi:ɡəu'istik］
+    mnemonic: adj.【ego 自我，-istical 形容词后缀，…的】
+    meaning: 利己的，利己主义的；自私自利的
+  - name: egomania
+    phonetic: ［eɡəu'meiniə］
+    mnemonic: n.【ego 自我，mania狂热，迷】
+    meaning: 极端利己主义
+  - name: egomaniac
+    phonetic: ［ˌeɡəu'menjæk］
+    mnemonic: n.【ego 自我，maniac …狂人】
+    meaning: 极端利己主义者

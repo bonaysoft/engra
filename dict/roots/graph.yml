@@ -76,3 +76,67 @@ children:
       - name: paragraphic
         children:
           - name: paragraphical
+  - name: photograph
+    phonetic: ［'fəutəuɡræf］
+    mnemonic: n./v.【photo 光，影，graph 写 → 记录；“把实物的影像录下来” → 】
+    meaning: 照相，拍照，摄影；照片
+  - name: photography
+    phonetic: ［fə'tɔɡrəfi］
+    mnemonic: n.【见上，-y 名词后缀】
+    meaning: 摄影术
+  - name: geography
+    phonetic: ［ʤi'ɔɡrəfi］
+    mnemonic: n.【geo 地，大地，graph 写 → 论述，-y 名词后缀；“关于大地的论述” → 】
+    meaning: 地理学，地理
+  - name: biography
+    phonetic: ［bai'ɔɡrəfi］
+    mnemonic: n.【bio 生命，graph 写，文字 → 记录，-y 名词后缀；“一人生平的记录” → 】
+    meaning: 传记
+  - name: autobiography
+    phonetic: ［ˌɔ:təubai'ɔɡrəfi］
+    mnemonic: n.【auto-自己，biography 传记】
+    meaning: 自传
+  - name: ideograph
+    phonetic: ［'idiəɡrɑ:f］
+    mnemonic: n.【ideo 意，graph 写，文字】
+    meaning: 表意文字，意符
+  - name: orthography
+    phonetic: ［ɔ:'θɔɡrəfi］
+    mnemonic: n.【ortho-正，graph 写，写字】
+    meaning: 正字法
+  - name: pseudograph
+    phonetic: ［'(p)sju:dəuɡrɑ:f］
+    mnemonic: n.【pseudo-假，伪，graph 写，文字 → 作品】
+    meaning: 伪书，冒名作品
+  - name: micrograph
+    phonetic: ［'maikrəuɡrɑ:f］
+    mnemonic: n.【micro-微小，graph 图形】
+    meaning: 显微图，微观图
+  - name: macrograph
+    phonetic: ［'mækrəɡrɑ:f］
+    mnemonic: n.【macro-宏大，graph 图形】
+    meaning: 宏观图，肉眼图
+  - name: seismograph
+    phonetic: ［'saizməɡrɑ:f］
+    mnemonic: n.【seismo 地震，graph 记录器】
+    meaning: 地震记录仪
+  - name: barograph
+    phonetic: ［'bærəɡrɑ:f］
+    mnemonic: n.【baro 重，压 → 气压，graph 记录器】
+    meaning: 气压记录器
+  - name: chronograph
+    phonetic: ［'krɔnəɡrɑ:f］
+    mnemonic: n.【chrono 时，graph 记录器】
+    meaning: 计时器，录时器
+  - name: stereograph
+    phonetic: ［'stiəriəɡrɑ:f］
+    mnemonic: n.【stereo 立体，graph 画 → 图像 → 照片】
+    meaning: 立体照片
+  - name: cyclograph
+    phonetic: ［'saikləˌɡrɑ:f］
+    mnemonic: n.【cyclo 圆，graph 画描器】
+    meaning: 画圆器，圆弧规
+  - name: holography
+    phonetic: ［hə'lɔɡrəfi］
+    mnemonic: n.【holo-全，graphy 描画，描记法】
+    meaning: 全息摄影（术）

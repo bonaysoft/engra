@@ -48,3 +48,51 @@ children:
         mnemonic: n.【见上，-ion 名词后缀】
         meaning: 施恩，行善，善行，捐助物
       - name: benefactive
+  - name: factory
+    phonetic: ［'fæktəri］
+    mnemonic: n.【fact 作，制作，-ory 名词后缀，表示场所、地点；“制作的场所” → 】
+    meaning: 工厂，制造厂
+  - name: manufacture
+    phonetic: ［ˌmænju'fæktʃə］
+    mnemonic: v.【manu 手，fact 作，制作；“用手制作”，古时生产全用手操作】
+    meaning: 制造，加工
+  - name: manufacturer
+    phonetic: ［ˌmænju'fæktʃərə］
+    mnemonic: n.【见上，-er 表示人】
+    meaning: 制造者，制造商，工厂主
+  - name: manufactory
+    phonetic: ［ˌmænju'fæktəri］
+    mnemonic: n.【见上，-ory 表示场所】
+    meaning: 制造厂，工厂
+  - name: malefactor
+    phonetic: ［'mælifæktə］
+    mnemonic: n.【male-恶，坏，fact 做，-or 者；“做坏事者” → 】
+    meaning: 作恶者，坏分子，犯罪分子
+  - name: malefaction
+    phonetic: ［'mælifækʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 犯罪（的行为），坏事
+  - name: factitious
+    phonetic: ［fæk'tiʃəs］
+    mnemonic: adj.【fact 做，-itious 形容词后缀，属于…的；“做作”出来的 → 】
+    meaning: 人为的，做作的，不自然的
+  - name: facsimile
+    phonetic: ［fæk'simili］
+    mnemonic: n.【fac 做，simil 相似；“作出相似的东西”，作出与原物相似之物 → 】
+    meaning: 誊写，摹写，摹真本
+  - name: facile
+    phonetic: ［'fæsail］
+    mnemonic: adj.【fac 做，-ile 形容词后缀，易…的】
+    meaning: 易做到的，易得到的
+  - name: facility
+    phonetic: ［fə'siliti］
+    mnemonic: n.【见上，-ity 名词后缀；“易做” → 】
+    meaning: 容易，便利
+  - name: facilitate
+    phonetic: ［fə'siliteit］
+    mnemonic: v.【见上，-ate 动词后缀，使…】
+    meaning: 使容易做，使容易，使便利，促进
+  - name: facture
+    phonetic: ［'fæktʃə］
+    mnemonic: n.【fact 作，制作，-ure 名词后缀】
+    meaning: 制作，制作法

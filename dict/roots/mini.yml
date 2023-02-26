@@ -88,3 +88,31 @@ children:
       - name: diminishment
       - name: diminution
       - name: diminutive
+  - name: minify
+    phonetic: ［'minifai］
+    mnemonic: v.【mini 小，-fy 动词后缀，使…】
+    meaning: 使缩小
+  - name: minim
+    phonetic: ［'minim］
+    mnemonic: n.【mini 小】
+    meaning: 微物，小量
+  - name: minimum
+    phonetic: ［'miniməm］
+    mnemonic: n.【见上，-um 名词后缀】
+    meaning: 最小量
+  - name: minimize
+    phonetic: ［'minimaiz］
+    mnemonic: v.【见上，-ize 动词后缀，使…】
+    meaning: 使缩到最小，使减到最少
+  - name: minimal
+    phonetic: ［'miniməl］
+    mnemonic: adj.【见上，-al …的】
+    meaning: 最小的，最低限度的
+  - name: undiminishable
+    phonetic: ［ˌʌndi'miniʃəbl］
+    mnemonic: adj.【un-不，见上】
+    meaning: 不可缩小的
+  - name: minus
+    phonetic: ［'mainəs］
+    mnemonic: n./adj.【min 小 → 减少，直接来自拉丁语 minus】
+    meaning: 减去，减号，负号，减去的，负的

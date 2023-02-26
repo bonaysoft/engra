@@ -29,3 +29,15 @@ children:
   - name: maternal
     children:
       - name: maternity
+  - name: metropolis
+    phonetic: ［mi'trɔpəlis］
+    mnemonic: n.【metro 母，polis 城市；“母城” → 首城，最大的城】
+    meaning: 大城市，主要城市，大都会，首府
+  - name: metropolitan
+    phonetic: ［ˌmetrə'pɔlitən］
+    mnemonic: adj.【见上，-an …的】
+    meaning: 主要城市的，大城市的，大都会的
+  - name: metropolitanize
+    phonetic: ［ˌmetrə'pɔlitənaiz］
+    mnemonic: v.【见上，-ize …化】
+    meaning: 使大都会化

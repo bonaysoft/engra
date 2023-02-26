@@ -156,3 +156,35 @@ children:
         mnemonic: adj.【见上，-ive …的】
         meaning: 缩回的
       - name: retractable
+  - name: protract
+    phonetic: ［prəu'trækt］
+    mnemonic: v.【pro-向前，tract 拉；“向前拉” → 拉长】
+    meaning: 延长，伸长，拖延
+  - name: protraction
+    phonetic: ［prəu'trækʃən］
+    mnemonic: n.【见上，-ion 名词后缀，表示行为】
+    meaning: 延长，拖延
+  - name: protractile
+    phonetic: ［prəu'træktil］
+    mnemonic: adj.【见上，-ile 可…的】
+    meaning: （爪、舌等）可伸长的，可伸出的
+  - name: protractor
+    phonetic: ［prəu'træktə］
+    mnemonic: n.【见上，-or表示人】
+    meaning: 延长者，拖延者
+  - name: protracted
+    phonetic: ［prə'træktid］
+    mnemonic: adj.【见上，-ed …的】
+    meaning: 延长的，拖延的
+  - name: contractible
+    phonetic: ［kən'træktəbl］
+    mnemonic: adj.【见上，-ible 可…的】
+    meaning: 可缩的，会缩的
+  - name: contractive
+    phonetic: ［kən'træktiv］
+    mnemonic: adj.【见上，-ive…的】
+    meaning: 收缩的，有收缩力的
+  - name: contracture
+    phonetic: ［kən'træktʃə］
+    mnemonic: n.【见上，-ure 名词后缀】
+    meaning: （医）挛缩，痉挛

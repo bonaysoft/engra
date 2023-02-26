@@ -70,3 +70,35 @@ children:
         phonetic: ［ri'tɔ:ʃən］
         mnemonic: n.【见上，-ion 名词后缀】
         meaning: 扭回，扭转；反击；报复
+  - name: extort
+    phonetic: ［ik'stɔ:t］
+    mnemonic: v.【ex-出，离去，tort 扭；“扭去”，“扭走” → 夺去，夺走 → 】
+    meaning: 强取，逼取，强索，敲诈，勒索
+  - name: extortion
+    phonetic: ［ik'stɔ:ʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 强取，逼取，敲诈，勒索
+  - name: extortioner
+    phonetic: ［ik'stɔ:ʃənə］
+    mnemonic: n.【见上，-er 表示人】
+    meaning: 强取者，勒索者
+  - name: tortuous
+    phonetic: ［'tɔ:tjuəs］
+    mnemonic: adj.【tort扭 → 扭弯，扭曲 → 弯曲，-uous 形容词后缀，…的】
+    meaning: 扭曲的，弯弯曲曲的，拐弯抹角的
+  - name: tortuosity
+    phonetic: ［ˌtɔ:tju'ɔsəti］
+    mnemonic: n.【见上，-osity 名词后缀】
+    meaning: 曲折，弯曲
+  - name: torment
+    phonetic: ［'tɔ:mənt］
+    mnemonic: n./v.【见上，tor（t） + -ment 】
+    meaning: 痛苦，折磨；使痛苦
+  - name: tortile
+    phonetic: ［'tɔ:tail］
+    mnemonic: adj.【tort 扭，-ile 形容词后缀，…的】
+    meaning: 扭转的，扭弯的
+  - name: torsion
+    phonetic: ［'tɔ:ʃən］
+    mnemonic: n.【tors = tort 扭，-ion 名词后缀】
+    meaning: 扭转，扭力

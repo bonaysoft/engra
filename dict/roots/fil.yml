@@ -31,3 +31,15 @@ children:
       - name: profiler
       - name: profiling
       - name: profiled
+  - name: filar
+    phonetic: ［'failə］
+    mnemonic: adj.【fil 线，-ar 形容词后缀，…的】
+    meaning: 线的；线状的，如丝的
+  - name: defile
+    phonetic: ［'di:fail］
+    mnemonic: v.【de-加强意义，fil 线 → 行列】
+    meaning: 纵列行军，单列前进
+  - name: filiform
+    phonetic: ［'failifɔ:m］
+    mnemonic: adj.【fil线，-i-，-form 如…形状的】
+    meaning: 线状的；丝状的

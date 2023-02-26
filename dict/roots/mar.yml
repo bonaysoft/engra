@@ -43,3 +43,19 @@ children:
     children:
       - name: marshy
       - name: marshland
+  - name: supersubmarine
+    phonetic: ［'sju:pə'sʌbməri:n］
+    mnemonic: n.【super-超，超级，submarine 潜水艇】
+    meaning: 超级潜水艇
+  - name: maritime
+    phonetic: ［'mæritaim］
+    mnemonic: adj.【来自拉丁语 maritimus，英语写作 maritime】
+    meaning: 海的，海上的，海事的，海运的，沿海的
+  - name: mariculture
+    phonetic: ［'mæriˌkʌltʃə］
+    mnemonic: n.【mar海 → 水产，-i-，culture 培养，养殖】
+    meaning: 水产物的养殖
+  - name: marigraph
+    phonetic: ［'mæriɡrɑ:f］
+    mnemonic: n.【mar 海，-i-，graph 写，记录】
+    meaning: 海潮记录仪，验潮计

@@ -30,3 +30,59 @@ children:
       - name: philanthropic
       - name: philanthropist
       - name: philanthropism
+  - name: philogyny
+    phonetic: ［fi'lɔʤəni］
+    mnemonic: n.【philo 爱，gyn 妇女，-y 名词后缀】
+    meaning: 对女人的爱好
+  - name: philogynist
+    phonetic: ［fi'lɔʤənist］
+    mnemonic: n.【见上，-ist 者】
+    meaning: 喜爱妇女的人
+  - name: philology
+    phonetic: ［fi'lɔləʤi］
+    mnemonic: n.【philo 爱，log 语言，-y 名词后缀】
+    meaning: 语言学
+  - name: philologist
+    phonetic: ［fi'lɔləʤist］
+    mnemonic: n.【见上，-ist 者】
+    meaning: 语言学家
+  - name: photophilous
+    phonetic: ［fəutəu'filəs］
+    mnemonic: adj.【photo 光，phil 爱，-ous …的】
+    meaning: （植物）喜光的
+  - name: bibliophilist
+    phonetic: ［ˌbibli'ɔfilist］
+    mnemonic: n.【biblio 书，phil 爱，-ist 者】
+    meaning: 爱书者，书籍爱好者
+  - name: bibliophilism
+    phonetic: ［ˌbibli'ɔfilizəm］
+    mnemonic: n.【见上，-ism 表特性】
+    meaning: 爱书癖
+  - name: hippophile
+    phonetic: ［'hipəufil］
+    mnemonic: n.【hippo 马，phil 爱】
+    meaning: 爱马者
+  - name: zoophilist
+    phonetic: ［zəu'ɔfilist］
+    mnemonic: n.【zoo 动物，phil 爱，-ist 者】
+    meaning: 爱护动物者
+  - name: zoophilous
+    phonetic: ［zəu'ɔfiləs］
+    mnemonic: adj.【见上，-ous …的】
+    meaning: 爱护动物的
+  - name: Sinophile
+    phonetic: ［'sainəfail］
+    mnemonic: n.【Sino 中国】
+    meaning: 喜爱中国文化的人
+  - name: Japanophile
+    phonetic: ［'ʤæpənəufail］
+    meaning: n. 亲日派人物
+  - name: Russophile
+    phonetic: ［'rʌsəfail］
+    meaning: n. 亲俄分子
+  - name: Anglophile
+    phonetic: ［'æŋɡləufail］
+    meaning: n. 亲英派的人
+  - name: Americanophile
+    phonetic: ［əˌmerikə'nəufail］
+    meaning: n. 亲美者

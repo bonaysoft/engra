@@ -74,3 +74,59 @@ children:
       - name: covenanter
       - name: covenantee
       - name: covenantal
+  - name: intervenient
+    phonetic: ［ˌintə'vi:njənt］
+    mnemonic: adj.【见上，-ient = -ent …的】
+    meaning: 干预的，干涉的，介入的
+  - name: prevent
+    phonetic: ［pri'vent］
+    mnemonic: v.【pre-前，先，ven 来；“先来” → 赶在前面 → 预先应付 → 提前准备 → 】
+    meaning: 预防，防止
+  - name: prevention
+    phonetic: ［pri'venʃən］
+    mnemonic: n.【见上，-ion 名词后缀，表示行为】
+    meaning: 预防，防止，阻止
+  - name: preventive
+    phonetic: ［pri'ventiv］
+    mnemonic: adj.【见上，-ive …的】
+    meaning: 预防的，防止的
+  - name: event
+    phonetic: ［i'vent］
+    mnemonic: n.【e-= out 出，ven 来；“出来” → 出现 → 发生 → 发生的事情 → 】
+    meaning: 事件，大事，事变，偶然事件
+  - name: eventful
+    phonetic: ［i'ventful］
+    mnemonic: adj.【见上，-ful 多…的】
+    meaning: 多事的，充满大事的，多变故的
+  - name: avenue
+    phonetic: ［'ævənju:］
+    mnemonic: n.【a-= ad-表示 to，ven 来；“来时所经由的路” → 】
+    meaning: 道路，林阴道，大街
+  - name: circumvent
+    phonetic: ［ˌsə:kəm'vent］
+    mnemonic: v.【circum-周围，四周，ven 来，“从四周来” → 】
+    meaning: 包围，围绕
+  - name: circumvention
+    phonetic: ［ˌsə:kəm'venʃən］
+    mnemonic: n.【见上，-ion 名词后缀，表示行为】
+    meaning: 包围，围绕
+  - name: circumventer
+    phonetic: ［ˌsə:kəm'ventə］
+    mnemonic: n.【见上，-er 者】
+    meaning: 包围者，用计取胜者
+  - name: supervene
+    phonetic: ［ˌsju:pə'vi:n］
+    mnemonic: v.【super-上面，ven 来；“由上面来” → 降临 → 突然发生 → 】
+    meaning: 意外发生
+  - name: supervention
+    phonetic: ［ˌsju:pə'venʃən］
+    mnemonic: n.【见上，-tion 名词后缀，表示情况、事情】
+    meaning: 意外发生，意外发生的事件
+  - name: contravene
+    phonetic: ［ˌkɔntrə'vi:n］
+    mnemonic: v.【contra-= against 反对，相反，ven来；“to come against” → contrary to → 】
+    meaning: 违反，触犯，抵触，与…相冲突；反驳
+  - name: contravention
+    phonetic: ［ˌkɔntrə'venʃən］
+    mnemonic: n.【见上，-tion 名词后缀】
+    meaning: 违反，触犯，抵触；反驳

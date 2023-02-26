@@ -22,3 +22,7 @@ children:
         meaning: 集体寝室，宿舍
       - name: dorm
       - name: dormer
+  - name: endorm
+    phonetic: ［in'dɔ:m］
+    mnemonic: v.【en-使…，dorm 睡】
+    meaning: 使入睡，催眠

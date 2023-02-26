@@ -80,3 +80,23 @@ children:
           - name: motivation
             children:
               - name: motivational
+  - name: commotion
+    phonetic: ［kə'məuʃən］
+    mnemonic: n.【com-加强意义，mot 动，-ion 名词后缀，表示行为；“激烈的动荡” → 】
+    meaning: 骚动，动乱
+  - name: locomotive
+    phonetic: ［'ləukəˌməutiv］
+    mnemonic: adj./n.【loc 地方，-o-，mot 移动，-ive …的；“能由一个地方移动至另一个地方的”】
+    meaning: 移动的，运动的；【转为名词，“能牵引他物，由一地方移动至另一地方的机器” → 】机车，火车头
+  - name: locomote
+    phonetic: ［ˌləukə'məut］
+    mnemonic: v.【见上】
+    meaning: 移动，行进
+  - name: automotive
+    phonetic: ［ˌɔ:təu'məutiv］
+    mnemonic: adj.【auto-自己，mot 动，-ive …的】
+    meaning: 自动的，机动的
+  - name: motile
+    phonetic: ［'məutail，'məutil］
+    mnemonic: adj.【mot 动，-ile 形容词后缀，…的】
+    meaning: （生物）能动的，有自动力的

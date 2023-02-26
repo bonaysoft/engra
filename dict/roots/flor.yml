@@ -15,3 +15,63 @@ children:
     meaning: 种花者，花商；花卉研究者
     children:
       - name: floristic
+  - name: florid
+    phonetic: ［'flɔrid］
+    mnemonic: adj.【flor 花，-id 如…的】
+    meaning: 如花的，鲜艳的，华丽的，绚丽的
+  - name: floridity
+    phonetic: ［'flɔ:'riditi］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 绚丽，华丽
+  - name: floriculture
+    phonetic: ［'flɔ:rikʌltʃə］
+    mnemonic: n.【flor 花，-i-，culture 培养】
+    meaning: 养花，种花，花卉栽培，花艺
+  - name: floriculturist
+    phonetic: ［ˌflɔri'kʌltʃərist］
+    mnemonic: n.【见上，-ist 表示人】
+    meaning: 养花者，花匠，花卉栽培家
+  - name: defloration
+    phonetic: ［ˌdi:flɔ:'reiʃən］
+    mnemonic: n.【ed-除去，去掉，毁掉，flor 花，-ation名词后缀】
+    meaning: 摘花，采花；奸污处女
+  - name: uniflorous
+    phonetic: ［ˌjuni'flɔrəs］
+    mnemonic: adj.【uni 单独，一个，flor 花，-ous …的】
+    meaning: 单花的
+  - name: multiflorous
+    phonetic: ［ˌmʌlti'flɔ:rəs］
+    mnemonic: adj.【multi-多，flor 花，-ous …的】
+    meaning: 多花的
+  - name: floret
+    phonetic: ［'flɔ:rit］
+    mnemonic: n.【flor 花，-et 表示小】
+    meaning: 小花
+  - name: floriferous
+    phonetic: ［flɔ'rif(ə)rəs］
+    mnemonic: adj.【flor 花，-i-，fer 带有，-ous …的】
+    meaning: 有花的，多花的
+  - name: effloresce
+    phonetic: ［ˌeflɔ:'res］
+    mnemonic: v.【ef 出 → 开出，flor 花，-esce 动词后缀】
+    meaning: 开花
+  - name: efflorescence
+    phonetic: ［ˌeflɔ:'resəns］
+    mnemonic: n.【见上，-escence 名词后缀】
+    meaning: 开花，开花期
+  - name: flourish
+    phonetic: ［'flʌriʃ］
+    mnemonic: v./n.【flour 花，-ish 动词后缀；“如开花一样” → 】
+    meaning: 繁荣，茂盛，兴旺，昌盛
+  - name: flourishing
+    phonetic: ［'flʌriʃiŋ］
+    mnemonic: adj.【见上，-ing …的】
+    meaning: 茂盛的，兴旺的，欣欣向荣的
+  - name: reflourish
+    phonetic: ［ri'flʌriʃ］
+    mnemonic: v.【re-再，见上】
+    meaning: 再繁荣，再兴旺
+  - name: noctiflorous
+    phonetic: ［ˌnɔkti'flɔrəs］
+    mnemonic: adj.【nocti 夜，flor 花，-ous …的】
+    meaning: （植物）夜间开花的

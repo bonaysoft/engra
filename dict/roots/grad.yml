@@ -68,3 +68,19 @@ children:
       - name: grad
         children:
           - name: undergrad
+  - name: retrograde
+    phonetic: ［'retrəuɡreid］
+    mnemonic: v.【retro-向后，grad 步，行走；“向后走” → 】
+    meaning: 后退，退步，逆行
+  - name: retrogradation
+    phonetic: ［ˌretrəuɡrə'deiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 后退，退步，逆行
+  - name: downgrade
+    phonetic: ［'daunɡreid］
+    mnemonic: v.【down 下，grad步，级】
+    meaning: 降低，贬低，降级，下坡
+  - name: gradine
+    phonetic: ［ɡrə'di:n］
+    mnemonic: n.【grad步，级 → 阶梯，-ine名词后缀】
+    meaning: 阶梯的一级，阶梯座位的一排

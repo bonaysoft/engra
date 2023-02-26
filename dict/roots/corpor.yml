@@ -38,3 +38,28 @@ children:
         meaning: 合并；【结合而成的组织 → 】团体，公司，社团
         children:
           - name: reincorporation
+  - name: agricorporation
+    phonetic: ［'æɡriˌkɔ:pə'reiʃən］
+    mnemonic: n.【agri=agriculture 农业，cor- poration 公司】
+    meaning: 农业综合公司
+  - name: corporal
+    phonetic: ［'kɔ:pərəl］
+    mnemonic: adj.【corpor 体 → 身体，肉体，-al …的】
+    meaning: 身体的，肉体的
+  - name: corporeal
+    phonetic: ［kɔ:'pɔ:riəl］
+    mnemonic: adj.【corpor 体 → 形体，-eal …的】
+    meaning: 形体的，有形的，物质的，肉体的
+    children:
+      - name: incorporeal
+        phonetic: ［ˌinkɔ:'pɔ:riəl］
+        mnemonic: adj.【in-无，非，corporeal 形体的】
+        meaning: 无形体的，无实体的，非物质的
+      - name: corporealize
+        phonetic: ［kɔ:'pɔ:riəlaiz］
+        mnemonic: v.【见 corporeal，-ize …化，使…】
+        meaning: 使具有形体，使物质化
+      - name: corporeality
+        phonetic: ［kɔ:ˌpɔ:ri'æliti］
+        mnemonic: n.【见上，-ity 名词后缀】
+        meaning: 形体的存在，具体性

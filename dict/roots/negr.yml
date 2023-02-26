@@ -71,3 +71,15 @@ children:
             phonetic: ［'deniɡreitə］
             mnemonic: n.【见上，-ator 表示人或物】
             meaning: 涂黑者，涂黑物，贬低者，诋毁者
+  - name: Negro
+    phonetic: ［'ni:ɡrəu］
+    mnemonic: n.【negr 黑，-o 名词后缀，表示人】
+    meaning: 黑人
+  - name: Negress
+    phonetic: ［'ni:ɡris］
+    mnemonic: n.【negr 黑，-ess 表女性】
+    meaning: 女黑人
+  - name: Negritic
+    phonetic: ［ne'ɡritik］
+    mnemonic: adj.【negr 黑，黑人，-itic 形容词后缀，…的】
+    meaning: （像）黑人的

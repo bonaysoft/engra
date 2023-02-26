@@ -29,3 +29,32 @@ children:
         mnemonic: n.【见上，-ist 者】
         meaning: 慈善家
       - name: philanthropism
+  - name: anthropoid
+    phonetic: ［'ænθrəupɔid］
+    mnemonic: adj.【anthrop 人，-oid 似…的】
+    meaning: 似人的；类人猿
+  - name: anthroposcopy
+    phonetic: ［ˌænθrə'pɔskəpi］
+    mnemonic: n.【anthropo 人，scopy 看；“观人面相” → 】
+    meaning: 观相学
+  - name: anthroposociology
+    phonetic: ［'ænθrəpəuˌsəusi'ɔləʤi］
+    mnemonic: n.【anthropo 人类，sociology 社会学】
+    meaning: 人类社会学
+  - name: anthropotomy
+    phonetic: ［ˌænθrə'pɔtəmi］
+    mnemonic: n.【anthropo 人 → 人体，tomy 切，割 → 解剖】
+    meaning: 人体解剖（学）
+  - name: misanthropy
+    phonetic: ［mi'zænθrəpi］
+    mnemonic: n.【mis = miso 厌，恨，恶，anthrop 人类】
+    meaning: 厌世，厌恶人类
+    children:
+      - name: misanthropist
+        phonetic: ［mi'zænθrəpist］
+        mnemonic: n.【见上，-ist 表示人】
+        meaning: 厌世者，厌恶人类者
+      - name: misanthropic
+        phonetic: ［mizən'θrɔpik］
+        mnemonic: adj.【见上，-ic …的】
+        meaning: 厌世的，厌恶人类的

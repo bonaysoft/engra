@@ -48,3 +48,35 @@ children:
         children:
           - name: commentator
           - name: commentation
+  - name: mentation
+    phonetic: ［men'teiʃən］
+    mnemonic: n.【ment 心 → 心理，-ation 名词后缀】
+    meaning: 心理活动；思想
+  - name: dement
+    phonetic: ［di'ment］
+    mnemonic: v.【de-除去，ment 智，理智；“除去理智” → 】
+    meaning: 使发狂
+  - name: dementation
+    phonetic: ［ˌdi:men'teiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 精神错乱，疯狂
+  - name: demented
+    phonetic: ［di'mentid］
+    mnemonic: adj.【见上，-ed …的】
+    meaning: 失去理智的，发狂的
+  - name: dementia
+    phonetic: ［di'menʃiə］
+    mnemonic: n.【见上，-ia 表疾病名称】
+    meaning: 痴呆，智力衰失
+  - name: mentioner
+    phonetic: ［'menʃənə］
+    mnemonic: n.【见上，-er 者】
+    meaning: 提到者，陈述者
+  - name: amentia
+    phonetic: ［ei'menʃə］
+    mnemonic: n.【a-无，缺乏，ment 智，智力，-ia 名词后缀，表疾病；“缺乏智力” → 】
+    meaning: （医学）智力缺陷；精神错乱
+  - name: ament
+    phonetic: ［'eiment，ə'ment］
+    mnemonic: n.【见上】
+    meaning: 智力有缺陷者，精神错乱者

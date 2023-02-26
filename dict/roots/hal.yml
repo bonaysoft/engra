@@ -34,3 +34,11 @@ children:
         phonetic: ［ˌekshə'leiʃən］
         mnemonic: n.【见上，-ation 名词后缀】
         meaning: 呼气
+  - name: inhalator
+    phonetic: ［'inhəˌleitə］
+    mnemonic: n.【见上，-ator 表示物】
+    meaning: （医用）吸入器，人工呼吸器
+  - name: halitosis
+    phonetic: ［ˌhæli'təusis］
+    mnemonic: n.【hal 呼吸，-it-，-osis 表示疾病；“口中呼出臭气”】
+    meaning: 口臭

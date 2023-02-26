@@ -32,3 +32,27 @@ children:
         phonetic: ［i'rəuʒən］
         mnemonic: n.【见上，-ion 名词后缀】
         meaning: 腐蚀；侵蚀
+  - name: corrode
+    phonetic: ［kə'rəud］
+    mnemonic: v.【cor-表加强意义，rod 咬 → 咬坏 → 侵蚀】
+    meaning: 腐蚀；侵蚀
+  - name: corrodible
+    phonetic: ［kə'rəudəbl］
+    mnemonic: adj.【见上，-ible 可…的】
+    meaning: 可腐蚀的，可侵蚀的
+  - name: corrosion
+    phonetic: ［kə'rəuʒən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 腐蚀，侵蚀
+  - name: corrosive
+    phonetic: ［kə'rəusiv］
+    mnemonic: adj.【见上，-ive …的】
+    meaning: 腐蚀的，腐蚀性的
+  - name: anticorrosion
+    phonetic: ［ˌæntikə'rəuʒən］
+    mnemonic: n.【anti-反对 → 防止，corrosion 腐蚀】
+    meaning: 防腐蚀
+  - name: anticorrosive
+    phonetic: ［ˌæntikə'rəusiv］
+    mnemonic: adj.【见上，-ive …的】
+    meaning: 防腐蚀的

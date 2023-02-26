@@ -50,3 +50,7 @@ children:
         phonetic: ［di:'vitəminaiz］
         mnemonic: v.【de-除去，去掉，vitamin 维生素，-ize 动词后缀】
         meaning: 使（食物）失去维生素
+  - name: vitamin(e)
+    phonetic: ［'vitəmin］
+    mnemonic: n.【vit 生命，amine 胺（一种化合物）；“维持生命之物” → 】
+    meaning: 维生素，维他命

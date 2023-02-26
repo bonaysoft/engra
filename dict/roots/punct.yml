@@ -18,3 +18,43 @@ children:
     meaning: 刺，穿刺，刺痕；【转为动词】（用针）刺，刺破，刺穿
     children:
       - name: punctured
+  - name: punctate
+    phonetic: ［'pʌŋkteit］
+    mnemonic: adj.【punct 点，-ate 形容词后缀，…的】
+    meaning: 缩成一点的，点状的
+  - name: punctual
+    phonetic: ［'pʌŋktʃuəl,'pʌŋktjuəl］
+    mnemonic: adj.【punct 点，-ual …的；“着于一点的”→限于一点的→不偏不差的→】
+    meaning: 精确的；准确的，准时的
+  - name: punctuality
+    phonetic: ［ˌpʌŋktʃu'æliti］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 准时，严守时刻
+  - name: punctum
+    phonetic: ［'pʌŋktəm］
+    mnemonic: n.【punct 点，-um 名词后缀】
+    meaning: 斑点
+  - name: puncturable
+    phonetic: ［'pʌŋktʃərəbl］
+    mnemonic: adj.【见上，-able 可…的】
+    meaning: 可刺穿的
+  - name: acupuncture
+    phonetic: ［'ækjuˌpʌŋktʃə］
+    mnemonic: n.【acu 针，puncture 刺】
+    meaning: 针刺，针刺疗法，针灸治疗
+  - name: compunction
+    phonetic: ［kəm'pʌŋkʃən］
+    mnemonic: n.【com-加强意义，punct 刺，-ion 名词后缀；“良心受到刺痛”】
+    meaning: 内疚，良心的责备，后悔
+  - name: compunctious
+    phonetic: ［kəm'pʌŋkʃəs］
+    mnemonic: adj.【见上，-ious…的】
+    meaning: 内疚的，使内疚的，后悔的
+  - name: pungent
+    phonetic: ［'pʌnʤənt］
+    mnemonic: adj.【pung = punct（g←ct）刺，-ent …的】
+    meaning: （气味等）刺鼻的，刺激性的，辣的；（语言等）尖刻的，辛辣的
+  - name: pungency
+    phonetic: ［'pʌŋʤənsi］
+    mnemonic: n.【见上，-ency 名词后缀】
+    meaning: （气味等的）辛辣，刺激性；（语言等的）尖刻，辛辣

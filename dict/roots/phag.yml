@@ -9,3 +9,31 @@ children:
       - name: esophageal
         children:
           - name: gastroesophageal
+  - name: anthropophagous
+    phonetic: ［ˌæθrə'pɔfəɡəs］
+    mnemonic: adj.【anthropo 人，phag 吃，-ous …的】
+    meaning: 食人肉的
+  - name: anthropophagy
+    phonetic: ［ˌæθrəu'pɔfəʤi］
+    mnemonic: n.【见上，-y 名词后缀】
+    meaning: 食人肉的习性
+  - name: dysphagia
+    phonetic: ［dis'feiʤiə］
+    mnemonic: n.【dys-困难，不良，phag 吃，咽，-ia 名词后缀】
+    meaning: 咽下困难
+  - name: zoophagous
+    phonetic: ［zəu'ɔfəɡəs］
+    mnemonic: adj.【zoo 动物，phag 吃，-ous …的】
+    meaning: 吃动物的，肉食的
+  - name: phyllophagous
+    phonetic: ［fi'lɔfəɡəs］
+    mnemonic: adj.【phyllo 叶，phag 吃，-ous …的】
+    meaning: 食叶的，以叶为食的
+  - name: phytophagous
+    phonetic: ［fai'tɔfəɡəs］
+    mnemonic: adj.【phyto 植物，phag 吃，-ous …的】
+    meaning: 食植物的
+  - name: polyphagous
+    phonetic: ［pə'lifəɡəs］
+    mnemonic: adj.【poly-多，phag 吃，-ous …的】
+    meaning: 多食性的；杂食的

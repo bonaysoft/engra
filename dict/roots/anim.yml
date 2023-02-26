@@ -25,6 +25,10 @@ children:
         meaning: 使动物化
         children:
           - name: animalization
+      - name: animalcule
+        phonetic: ［ˌæni'mælkju:l］
+        mnemonic: n.【animal 动物，-cule 名词后缀，表示小】
+        meaning: 小动物，微生物
   - name: animate
     phonetic: ［'ænimeit］
     mnemonic: v.【anim 生命，生气，-ate 动词后缀】
@@ -73,6 +77,10 @@ children:
             phonetic: ［iɡzæni'meiʃən］
             mnemonic: n.【见上，-ation 抽象名词后缀】
             meaning: 无生命，死；意志消沉
+      - name: disanimate
+        phonetic: ［dis'ænimeit］
+        mnemonic: v.【dis-取消，除去，anim 生命，生气 → 勇气】
+        meaning: 挫其勇气，使沮丧
   - name: unanimous
     phonetic: ［ju:'næniməs］
     mnemonic: adj.【un = uni，一个，anim 心神，意见，-ous …的；“一个意见的” → 】
@@ -83,3 +91,20 @@ children:
         phonetic: ［ˌju:nə'niməti］
         mnemonic: n.【见上，-ity 名词后缀】
         meaning: 全体一致；一致同意
+  - name: equanimity
+    phonetic: ［ˌi:kwə'niməti］
+    mnemonic: n.【equ 平，anim 心神，-ity 名词后缀】
+    meaning: 沉着，平静，镇定
+  - name: longanimous
+    phonetic: ［lɔŋ'ɡæniməs］
+    mnemonic: adj.【long 长，持久，anim 心神 → 意志，-ous …的；“意志能持久的” → 】
+    meaning: 坚忍的，忍耐的
+    children:
+      - name: longanimity
+        phonetic: ［ˌlɔŋɡə'niməti］
+        mnemonic: n.【见上，-tiy 名词后缀，表性质状态】
+        meaning: 坚忍，忍耐
+  - name: magnanimous
+    phonetic: ［mæɡ'næniməs］
+    mnemonic: adj.【magn 大，anim 心神 → 气量， -ous …的】
+    meaning: 宽宏大量的，大度的

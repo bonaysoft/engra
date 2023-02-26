@@ -121,3 +121,7 @@ children:
   - name: subsist
     children:
       - name: subsistence
+  - name: resistible
+    phonetic: ［ri'zistəbl］
+    mnemonic: adj.【见上，-ible 可…的】
+    meaning: 可抵抗的，抵抗得住的

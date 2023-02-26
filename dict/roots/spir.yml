@@ -85,3 +85,31 @@ children:
   - name: transpire
     children:
       - name: transpiration
+  - name: respire
+    phonetic: ［ri'spaiə］
+    mnemonic: v.【re-再，spir 呼吸】
+    meaning: （尤指连续地）呼吸
+  - name: respiration
+    phonetic: ［ˌrespə'reiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 呼吸，呼吸作用
+  - name: respirator
+    phonetic: ［'respəreitə］
+    mnemonic: n.【见上，-ator 表示物】
+    meaning: 呼吸器，防毒面具，防尘口罩
+  - name: dispirit
+    phonetic: ［di'spirit］
+    mnemonic: v.【di-= dis-取消，除掉，spirit 精神；“使失去精神”→使失去勇气→】
+    meaning: 使气馁，使沮丧
+  - name: perspire
+    phonetic: ［pə'spaiə］
+    mnemonic: v.【per-贯穿，透过，spir 呼吸；“呼透”→由毛孔呼出】
+    meaning: 出汗，排汗
+  - name: perspiration
+    phonetic: ［ˌpə:spə'reiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 排汗
+  - name: perspiratory
+    phonetic: ［pə'spaiərətəri］
+    mnemonic: adj.【见上，-atory 形容词后缀，…的】
+    meaning: 排汗的

@@ -22,3 +22,31 @@ children:
     children:
       - name: replenished
       - name: replenishment
+  - name: plenitude
+    phonetic: ［'plenitju:d，'plenitu:d］
+    mnemonic: n.【plen 满，全，-itude 表示情况、状态】
+    meaning: 丰富，充足，完全，充分
+  - name: plenary
+    phonetic: ［'pli:nəri］
+    mnemonic: adj.【plen 全，-ary …的】
+    meaning: 完全的，全部的，全体的
+  - name: plenum
+    phonetic: ［'pli:nəm］
+    mnemonic: n.【plen 满，全，-um 表示抽象名词】
+    meaning: 充满，充实，全体会议
+  - name: plenipotentiary
+    phonetic: ［ˌplenipə'tenʃəri］
+    mnemonic: n./adj.【plen 全，-i-，potent 权力，权能，-i-，ary 表示人】
+    meaning: 全权大使；【-ary…的】有全权的
+  - name: plenilune
+    phonetic: ［'pli:nəlu:n］
+    mnemonic: n.【plen 满，-i-，lun 月亮】
+    meaning: 满月，望月，月满之时
+  - name: deplenish
+    phonetic: ［di'pleniʃ］
+    mnemonic: v.【de-非，相反，plen 满，充满，-ish 动词后缀，做…事；“与充满相反”的动作 → 】
+    meaning: 倒空，弄空，使空
+  - name: replenisher
+    phonetic: ［ri'pleniʃə］
+    mnemonic: n.【见上，-er 者】
+    meaning: （再）装满者，补充者

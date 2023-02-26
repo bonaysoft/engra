@@ -12,3 +12,35 @@ children:
         phonetic: ［mi'seləni］
         mnemonic: n.【见上】
         meaning: 混杂；杂物；杂集，杂录
+  - name: miscellanist
+    phonetic: ［mi'selənist］
+    mnemonic: n.【见上，-ist 者】
+    meaning: 杂集作者，杂文家
+  - name: miscible
+    phonetic: ［'misəbl］
+    mnemonic: adj.【misc 混杂，混合，-ible 可…的】
+    meaning: 可混合的，易混合的
+  - name: miscibility
+    phonetic: ［ˌmisə'biləti］
+    mnemonic: n.【misc 混杂，混合，-ibility 名词后缀】
+    meaning: 可混合
+  - name: immiscible
+    phonetic: ［i'misibl］
+    mnemonic: adj.【im-不，见上】
+    meaning: 不能混合的
+  - name: immiscibility
+    phonetic: ［iˌmisə'biləti］
+    mnemonic: n.【见上，-ibility 名词后缀】
+    meaning: 不能混合，难融合性
+  - name: promiscuous
+    phonetic: ［prə'miskjuəs］
+    mnemonic: adj.【pro-加强意义，misc 混杂， -uous …的】
+    meaning: 混杂的；杂乱的
+  - name: promiscuity
+    phonetic: ［ˌprɔmi'skju:əti］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 混杂（性）；杂乱
+  - name: miscegenation
+    phonetic: ［ˌmisiʤi'neiʃən］
+    mnemonic: n.【misc 混杂，-e-，gen 生殖 → 种族，-ation 名词后缀】
+    meaning: 人种混杂，混血

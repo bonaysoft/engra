@@ -50,3 +50,23 @@ children:
         phonetic: ［ˌrenəu'veiʃən］
         mnemonic: n.【见上，-ion 名词后缀，表示行为】
         meaning: 更新，革新，翻新
+  - name: novation
+    phonetic: ［nəu'veiʃən］
+    mnemonic: n.【nov 新，-ation 表示行为】
+    meaning: 更新
+  - name: innovate
+    phonetic: ［'inəuveit］
+    mnemonic: v.【in-加强意义，nov 新，-ate 使…，作…】
+    meaning: 革新，创新
+  - name: innovator
+    phonetic: ［'inəuveitə］
+    mnemonic: n.【见上，-or 者】
+    meaning: 革新者，创新者
+  - name: innovative
+    phonetic: ［'inəuveitiv］
+    mnemonic: adj.【见上，-ive …的】
+    meaning: 革新的，创新的
+  - name: innovation
+    phonetic: ［ˌinəu'veiʃən］
+    mnemonic: n.【见上，-ion 名词后缀，表示行为】
+    meaning: 革新，创新，改革

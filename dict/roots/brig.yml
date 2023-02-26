@@ -12,3 +12,24 @@ children:
         phonetic: ［ˌbriɡə'diə］
         mnemonic: n.【见上，-ier 表示人】
         meaning: 旅长
+  - name: brigand
+    phonetic: ［'briɡənd］
+    mnemonic: n.【brig 打 → 劫掠，抢劫，-and 名词后缀】
+    meaning: 土匪，强盗
+    children:
+      - name: brigandism
+        phonetic: ［'briɡəndizm］
+        mnemonic: n.【见上，-ism 表示行为】
+        meaning: 土匪行为，掠夺
+      - name: brigandish
+        phonetic: ［'briɡəndiʃ］
+        mnemonic: adj.【见上，-ish …的】
+        meaning: 土匪般的
+      - name: brigandage
+        phonetic: ［'briɡəndiʤ］
+        mnemonic: n.【见上，-age 表示行为】
+        meaning: 强盗行为，行劫
+      - name: brigantine
+        phonetic: ［'briɡəntain］
+        mnemonic: n.【见上，-ine 名词后缀；土匪，强盗 → 海盗；原义为海盗船 → 】
+        meaning: 双桅帆船

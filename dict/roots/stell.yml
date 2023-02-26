@@ -12,3 +12,35 @@ children:
         phonetic: ［ˌintə'stelə］
         mnemonic: adj.【inter-中间，际，stell 星，-ar …的】
         meaning: 星际的
+  - name: stellate
+    phonetic: ［'steleit，'stelət］
+    mnemonic: adj.【stell 星，-ate 形容词后缀，…的】
+    meaning: 星形的，放射线状的
+  - name: stelliferous
+    phonetic: ［ste'lifərəs］
+    mnemonic: adj.【stell 星，-i-，fer 具有，带有， -ous …的】
+    meaning: 有星的；多星的
+  - name: stelliform
+    phonetic: ［'stelifɔ:m］
+    mnemonic: adj.【stell 星，-i-，-form 有…形状的】
+    meaning: 星形的
+  - name: stellify
+    phonetic: ［'stelifai］
+    mnemonic: v.【stell 星，-i-，-fy 使成为…】
+    meaning: 使成星状；使成明星
+  - name: stellular
+    phonetic: ［'steljələ］
+    mnemonic: adj.【stell 星，-ular 形容词后缀】
+    meaning: 小星形的，像星形放射的
+  - name: constellate
+    phonetic: ［'kɔnstəleit］
+    mnemonic: v.【con-共同，在一起，stell 星，-ate 动词后缀，使…；“使群星在一起” → 】
+    meaning: （使）形成星座；（使）群集
+  - name: constellation
+    phonetic: ［ˌkɔnste'leiʃən］
+    mnemonic: n.【见上，-ation 名词后缀】
+    meaning: 星座；（如明星般的）一群
+  - name: constellatory
+    phonetic: ［ˌkɔnste'leitəri］
+    mnemonic: adj.【见上，-ory 形容词后缀】
+    meaning: 星座的；如星座的

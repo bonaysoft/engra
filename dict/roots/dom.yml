@@ -8,6 +8,10 @@ children:
     meaning: n. 圆屋顶；大厦（诗歌用语）
     children:
       - name: domed
+      - name: domical
+        phonetic: ［'dəumikəl］
+        mnemonic: adj.【见上，-al …的】
+        meaning: 圆屋顶的
       - name: semidome
         phonetic: ［'semidəum］
         mnemonic: n.【semi-半，dome 圆屋顶】
@@ -61,3 +65,16 @@ children:
           - name: predominant
             children:
               - name: predominantly
+  - name: domicile
+    phonetic: ［'dɔmisail］
+    mnemonic: n.【见上，-ile 名词后缀】
+    meaning: 住处；户籍
+    children:
+      - name: domiciliary
+        phonetic: ［ˌdɔmi'siliəri］
+        mnemonic: adj.【见上，-ary …的】
+        meaning: 住处的；户籍的
+      - name: domiciliate
+        phonetic: ［ˌdɔmi'silieit］
+        mnemonic: v.【见上，-ate 动词后缀】
+        meaning: 定居；使定居

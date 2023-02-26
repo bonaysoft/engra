@@ -62,3 +62,27 @@ children:
         phonetic: ［ˌintəu'neiʃən］
         mnemonic: n.【见上，-ation 名词后缀】
         meaning: 声调；语调
+  - name: tonetic
+    phonetic: ［təu'netik］
+    mnemonic: adj.【ton 音，-etic 形容词后缀，…的】
+    meaning: 声调的
+  - name: tonetics
+    phonetic: ［təu'netiks］
+    mnemonic: n.【见上，-ics …学】
+    meaning: 声调学
+  - name: monotonic
+    phonetic: ［ˌmɔnə'tɔnik］
+    mnemonic: adj.【mono-单一，ton 音调，-ic …的】
+    meaning: 单调的
+  - name: atony
+    phonetic: ［'ætəni］
+    mnemonic: n.【见上，-y 表抽象名词】
+    meaning: 无声调；无重读音
+  - name: baritone
+    phonetic: ［'bæritəun］
+    mnemonic: n.【bari 重，ton 音；“重音” → 】
+    meaning: 男中音
+  - name: undertone
+    phonetic: ［'ʌndətəun］
+    mnemonic: n.【under-下，低，小，ton音】
+    meaning: 低音；小声

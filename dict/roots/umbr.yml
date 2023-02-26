@@ -44,3 +44,7 @@ children:
         meaning: 半影；（日、月食的）半影
         children:
           - name: penumbral
+  - name: inumbrate
+    phonetic: ［in'ʌmbreit］
+    mnemonic: v.【in-加强意义，umbr 影，-ate 动词后缀】
+    meaning: 投以暗影，遮暗，荫蔽

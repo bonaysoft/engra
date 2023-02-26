@@ -41,3 +41,43 @@ children:
         phonetic: ［səb'mə:ʤibl］
         mnemonic: adj.【sub-下，merg 沉，-ible 可…的】
         meaning: 可沉入水中的
+  - name: emersion
+    phonetic: ［i:'mə:ʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 浮现；出现
+  - name: immerge
+    phonetic: ［i'mə:ʤ］
+    mnemonic: v.【im-入内，merg 沉】
+    meaning: 沉入，侵入
+  - name: immerse
+    phonetic: ［i'mə:s］
+    mnemonic: v.【im-入内，mers 沉】
+    meaning: 沉浸
+  - name: immersible
+    phonetic: ［i'mə:sibl］
+    mnemonic: adj.【见上，-ible 可…的】
+    meaning: 可沉于水中的
+  - name: immersion
+    phonetic: ［i'mə:ʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 沉浸，浸没
+  - name: submersed
+    phonetic: ［səb'mə:st］
+    mnemonic: adj.【sub-下，mers 沉，-ed …的；“沉在水下的”】
+    meaning: 在水下的；（植物）生于水下的，水生的
+  - name: submersible
+    phonetic: ［səb'mə:səbl］
+    mnemonic: adj.【sub-下，mers 沉，-ible 可…的】
+    meaning: 可沉于水中的
+  - name: submersion
+    phonetic: ［səb'mə:ʃən］
+    mnemonic: n.【见上，-ion 名词后缀】
+    meaning: 沉没，没入，浸没
+  - name: demersal
+    phonetic: ［di'mə:səl］
+    mnemonic: adj.【de-向下，mers 沉，-al …的】
+    meaning: 居于水底的
+  - name: emersed
+    phonetic: ［i'mə:st］
+    mnemonic: adj.【e-外，出，mers 沉，-ed …的；“由水中浮出的”】
+    meaning: （水生植物等）伸出水面的

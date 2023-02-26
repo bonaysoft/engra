@@ -38,6 +38,10 @@ children:
             meaning: 听力测量，测听术
             children:
               - name: audiometric
+      - name: audio-visual
+        phonetic: ［'ɔ:diəu'visʒuəl］
+        mnemonic: adj.【见上，visual 视觉的】
+        meaning: 视听法的，视觉听觉的
   - name: audible
     phonetic: ［'ɔ:dəbl］
     mnemonic: adj.【aud（i）听，-ible 形容词后缀，可…的】

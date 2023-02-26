@@ -89,3 +89,31 @@ children:
   - name: innate
     children:
       - name: innately
+  - name: natal
+    phonetic: ［'neitəl］
+    mnemonic: adj.【nat 诞生，-al …的】
+    meaning: 诞生的，出生的；诞生时的
+  - name: natality
+    phonetic: ［nei'tæləti］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 出生率
+  - name: antenatal
+    phonetic: ［ˌænti'neitəl］
+    mnemonic: adj.【ante-前，nat 出生，-al …的】
+    meaning: 出生以前的
+  - name: prenatal
+    phonetic: ［ˌpri:'neitəl］
+    mnemonic: adj.【pre-前，nat 出生，-al …的】
+    meaning: 出生以前的
+  - name: postnatal
+    phonetic: ［pəust'neitəl］
+    mnemonic: adj.【post-后，nat 出生，al …的】
+    meaning: 出生以后的
+  - name: connate
+    phonetic: ［'kɔneit］
+    mnemonic: adj.【con-共同，nat 生】
+    meaning: 同生的，同族的
+  - name: neonate
+    phonetic: ［'ni:əuneit］
+    mnemonic: n.【neo-新，nat 诞生；“新出生的婴儿”】
+    meaning: 出生不满一个月的婴儿

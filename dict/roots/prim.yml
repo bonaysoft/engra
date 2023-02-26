@@ -41,3 +41,27 @@ children:
     children:
       - name: primitively
       - name: primitivism
+  - name: primipara
+    phonetic: ［prai'mipərə］
+    mnemonic: n.【prim 初，-i-，par 产，-a 名词后缀】
+    meaning: 初产妇
+  - name: primiparous
+    phonetic: ［prai'mipərəs］
+    mnemonic: adj.【prim 初，-i-，par，产，-ous …的】
+    meaning: 初产的
+  - name: primiparity
+    phonetic: ［ˌpraimi'pærəti］
+    mnemonic: n.【prim，初，-i-，par，产，-ity 名词后缀】
+    meaning: 初产
+  - name: primogenitor
+    phonetic: ［ˌpraiməu'ʤenitə］
+    mnemonic: n.【prim 最初，始，-o-，gen 生殖，-itor 者】
+    meaning: 始祖，祖先
+  - name: primeval
+    phonetic: ［prai'mi:vəl］
+    mnemonic: adj.【prim 最初 → 最早，ev 时期，-al …的】
+    meaning: 早期的，远古的，原始的
+  - name: premier
+    phonetic: ［'premjə，'pri:miə］
+    mnemonic: n.【prem=prim 第一 → 首要的， -ier 表示人；“首要的人” → 】
+    meaning: 首相，总理

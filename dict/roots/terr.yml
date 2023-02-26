@@ -38,3 +38,55 @@ children:
         phonetic: ［ˌekstrətə'restriəl］
         mnemonic: adj.【extra-外，见上】
         meaning: 地球外的
+  - name: exterritoriality
+    phonetic: ［eksˌteriˌtɔ:ri'æliti］
+    mnemonic: n.【见上，-ity 名词后缀】
+    meaning: 治外法权
+  - name: mediterranean
+    phonetic: ［ˌmeditə'reiniən］
+    mnemonic: adj.【medi 中间，terr 土地，陆地】
+    meaning: （海等）在陆地中的，被陆地包围的
+  - name: Mediterranean
+    phonetic: ［ˌmeditə'reiniən］
+    mnemonic: n.【见上】
+    meaning: 地中海
+  - name: inter
+    phonetic: ［in'tə:］
+    mnemonic: v.【in-入，内，ter = terr 土；“入土”，“埋入土内”】
+    meaning: 埋葬
+  - name: interment
+    phonetic: ［in'tə:mənt］
+    mnemonic: n.【见上，-ment 名词后缀】
+    meaning: 埋葬，葬礼
+  - name: disinter
+    phonetic: ［ˌdisin'tə:］
+    mnemonic: v.【见上，dis-不，相反；“与埋葬相反” → 】
+    meaning: 挖出，发掘出
+  - name: disinterment
+    phonetic: ［ˌdisin'tə:ment］
+    mnemonic: n.【见上，-ment 名词后缀】
+    meaning: 挖出，掘出物
+  - name: subterrane
+    phonetic: ［'sʌbtəˌren］
+    mnemonic: n.【sub-下，terr 土地，-ane 名词后缀】
+    meaning: 地下洞穴；地下室
+  - name: subterraneous
+    phonetic: ［ˌsʌbtə'reiniəus］
+    mnemonic: adj.【sub-下，terr 土地，-aneous 形容词后缀】
+    meaning: 地下的
+  - name: superterrene
+    phonetic: ［su:petə'ri:n］
+    mnemonic: adj.【-super 上面，见上】
+    meaning: 地面上的，地上的
+  - name: terrain
+    phonetic: ［'terein, tə'rein］
+    mnemonic: n.【terr 土地，-ain 名词后缀】
+    meaning: 地面；地带，地域；地形
+  - name: terraneous
+    phonetic: ［te'reiniəs］
+    mnemonic: adj.【terr 土地，-aneous 形容词后缀】
+    meaning: 地上生长的，陆生的
+  - name: terramycin
+    phonetic: ［ˌterə'maisin］
+    mnemonic: n.【terr 土，-a-，myc 菌 → 霉，-in 素】
+    meaning: 土霉素

@@ -12,6 +12,11 @@ children:
         phonetic: ［'eiʤ(ə)nsi］
         mnemonic: n.【ag 做，作，-ency 名词后缀】
         meaning: 代理，代理处，机构，作用
+        children:
+          - name: coagency
+            phonetic: ［kəu'eiʤ(ə)nsi］
+            mnemonic: n.【co- 共同，ag 做，行动，-ency 名词后缀】
+            meaning: 共事，协作，合作
       - name: agential
         phonetic: ［ei'ʤenʃəl］
         mnemonic: adj.【见上，-ial形容词后缀，…的】
@@ -21,11 +26,18 @@ children:
         phonetic: ［sʌb'eiʤənt］
         mnemonic: n.【sub- 副的，agent 代理人】
         meaning: 副代理人
-      - name: countagent
       - name: coagent
         phonetic: ［kəu'eiʤənt］
         mnemonic: n.【co- 共同，ag 做，作，-ent 表示人】
         meaning: 共事者，合作者
+      - name: counteragent
+        phonetic: ［ˌkauntə'reiʤənt］
+        mnemonic: n.【counter- 反，ag 做，作用，-ent 表示物】
+        meaning: 反作用剂，反抗力
+  - name: agenda
+    phonetic: ［ə'ʤendə］
+    mnemonic: n.【ag 做，-end 名词后缀，-a 表示复数；原义为：things to be done，“待做的事项” → 】
+    meaning: 议事日程
   - name: agile
     phonetic: ［'æʤail］
     mnemonic: adj.【ag 动 → 活动 → 灵活，-ile 形容词后缀，…的】

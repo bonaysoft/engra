@@ -33,3 +33,34 @@ children:
         children:
           - name: desalinated
           - name: desalination
+  - name: salad
+    phonetic: ［'sæləd］
+    mnemonic: n.【sal 盐，-ad 名词后缀，表示物】
+    meaning: 色拉，沙拉，一种用盐调拌的凉菜
+  - name: salify
+    phonetic: ［'sælifai］
+    mnemonic: v.【sal 盐，-i-，-fy 使成…】
+    meaning: 使成盐，使变咸
+  - name: salification
+    phonetic: ［ˌsælifi'keiʃən］
+    mnemonic: n.【见上，-fication 名词后缀】
+    meaning: （化学）成盐作用
+  - name: salt
+    phonetic: ［sɔ:lt］
+    meaning: n. 盐
+  - name: saltish
+    phonetic: ［'sɔ:ltiʃ］
+    mnemonic: adj.【salt 盐，-ish 略…的】
+    meaning: 略有咸味的
+  - name: salty
+    phonetic: ［'sɔ:lti］
+    mnemonic: adj.【salty 盐，-y…的，有…的】
+    meaning: 盐的，含盐的，咸的
+  - name: saltern
+    phonetic: ［'sɔ:ltən］
+    mnemonic: n.【salt 盐，-ern 表示场所，地点】
+    meaning: （制）盐场
+  - name: desalt
+    phonetic: ［di:'sɔ:lt］
+    mnemonic: v.【de-除去，salt 盐】
+    meaning: 除去…的盐分，脱盐
