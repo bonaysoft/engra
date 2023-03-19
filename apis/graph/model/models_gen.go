@@ -2,11 +2,6 @@
 
 package model
 
-type Result struct {
-	Self *Vocabulary `json:"self"`
-	Root *Vocabulary `json:"root"`
-}
-
 type Vocabulary struct {
 	Name       string        `json:"name"`
 	Phonetic   string        `json:"phonetic" yaml:"phonetic,omitempty"`

@@ -3,18 +3,18 @@ module github.com/bonaysoft/engra
 go 1.19
 
 require (
-	github.com/99designs/gqlgen v0.17.24
-	github.com/Khan/genqlient v0.5.0
+	github.com/99designs/gqlgen v0.17.26
 	github.com/antchfx/htmlquery v1.3.0
 	github.com/bitfield/script v0.21.4
+	github.com/bonaysoft/engra/apis v0.0.0
 	github.com/go-resty/resty/v2 v2.7.0
+	github.com/gocarina/gocsv v0.0.0-20230223115542-dc4ee9de5fe2
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/samber/lo v1.37.0
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.15.0
-	github.com/stretchr/testify v1.8.1
-	github.com/vektah/gqlparser/v2 v2.5.1
-	golang.org/x/net v0.5.0
+	github.com/stretchr/testify v1.8.2
+	golang.org/x/net v0.6.0
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/driver/mysql v1.4.0
 	gorm.io/gen v0.3.19
@@ -22,6 +22,7 @@ require (
 	gorm.io/plugin/dbresolver v1.3.0
 )
 
+replace github.com/bonaysoft/engra/apis v0.0.0 => ./apis
 
 require (
 	bitbucket.org/creachadair/shell v0.0.7 // indirect
@@ -30,10 +31,9 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/go-sql-driver/mysql v1.6.0 // indirect
-	github.com/gocarina/gocsv v0.0.0-20230223115542-dc4ee9de5fe2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/gorilla/websocket v1.5.0 // indirect
-	github.com/hashicorp/golang-lru v0.5.4 // indirect
+	github.com/hashicorp/golang-lru/v2 v2.0.1 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.1 // indirect
 	github.com/itchyny/gojq v0.12.7 // indirect
@@ -51,11 +51,12 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/subosito/gotenv v1.4.2 // indirect
+	github.com/vektah/gqlparser/v2 v2.5.1 // indirect
 	golang.org/x/exp v0.0.0-20220303212507-bbda1eaf7a17 // indirect
-	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
-	golang.org/x/sys v0.4.0 // indirect
-	golang.org/x/text v0.6.0 // indirect
-	golang.org/x/tools v0.1.12 // indirect
+	golang.org/x/mod v0.8.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/text v0.7.0 // indirect
+	golang.org/x/tools v0.6.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gorm.io/datatypes v1.0.7 // indirect
 	gorm.io/hints v1.1.0 // indirect

@@ -17,20 +17,7 @@ type Vocabulary  {
     children: [Vocabulary!] @goTag(key: "yaml",value: "children,omitempty")
 }
 
-type Result{
-    self: Vocabulary!
-    root: Vocabulary!
-}
-
 type Query {
-    vocabulary(name: String!): Result!
+    vocabularies(names: [String!]): [Vocabulary!]
+    vocabularyRootTree(name: String!): Vocabulary!
 }
-#
-#input NewTodo {
-#  text: String!
-#  userId: String!
-#}
-#
-#type Mutation {
-#  addVocabulary(input: NewTodo!): Vocabulary!
-#}

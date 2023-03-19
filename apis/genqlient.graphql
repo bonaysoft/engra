@@ -1,11 +1,12 @@
-query Find($word: String!) {
-    vocabulary(name: $word) {
-        self{
-            ...vocabularyWithChildren
-        }
-        root{
-            ...vocabularyWithChildren
-        }
+query Lookup($words: [String!]) {
+    vocabularies(names: $words) {
+        ...vocabulary
+    }
+}
+
+query LookupRoot($word: String!) {
+    vocabularyRootTree(name: $word) {
+        ...vocabularyWithChildren
     }
 }
 

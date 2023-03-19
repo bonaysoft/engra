@@ -2,6 +2,7 @@ package dict
 
 import (
 	"bytes"
+	"context"
 	"fmt"
 	"os"
 	"regexp"
@@ -30,6 +31,16 @@ func NewDict() (*Dict, error) {
 		roots:        roots,
 		LevelCounter: NewLevelCounter(),
 	}, nil
+}
+
+func (d *Dict) Lookup(ctx context.Context, name string) (*model.Vocabulary, error) {
+	v, _, err := d.Find(name)
+	return v, err
+}
+
+func (d *Dict) LookupWithRoot(ctx context.Context, name string) (*model.Vocabulary, error) {
+	_, v, err := d.Find(name)
+	return v.Vocabulary, err
 }
 
 func (d *Dict) Find(name string) (*model.Vocabulary, *WordRoot, error) {
