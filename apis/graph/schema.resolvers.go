@@ -17,9 +17,14 @@ func (r *queryResolver) Vocabulary(ctx context.Context, name string) (*model.Res
 		return nil, err
 	}
 
+	root := &model.Vocabulary{}
+	if wr != nil {
+		root = wr.Vocabulary
+	}
+
 	return &model.Result{
 		Self: v,
-		Root: wr.Vocabulary,
+		Root: root,
 	}, nil
 }
 
