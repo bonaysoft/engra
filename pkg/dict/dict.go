@@ -40,6 +40,12 @@ func (d *Dict) Lookup(ctx context.Context, name string) (*model.Vocabulary, erro
 
 func (d *Dict) LookupWithRoot(ctx context.Context, name string) (*model.Vocabulary, error) {
 	_, v, err := d.Find(name)
+	if err != nil {
+		return nil, err
+	} else if v == nil {
+		return nil, fmt.Errorf("not found root for the word: %v", name)
+	}
+
 	return v.Vocabulary, err
 }
 
