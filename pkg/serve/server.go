@@ -1,4 +1,4 @@
-package main
+package serve
 
 import (
 	"log"
@@ -9,11 +9,12 @@ import (
 	"github.com/99designs/gqlgen/graphql/playground"
 	"github.com/bonaysoft/engra/apis/graph"
 	"github.com/bonaysoft/engra/pkg/dict"
+	"github.com/spf13/cobra"
 )
 
 const defaultPort = "8081"
 
-func main() {
+func Run(cmd *cobra.Command, args []string) error {
 	port := os.Getenv("PORT")
 	if port == "" {
 		port = defaultPort
@@ -21,15 +22,13 @@ func main() {
 
 	dicts, err := dict.NewDict()
 	if err != nil {
-		log.Fatalln(err)
-		return
+		return err
 	}
 
 	srv := handler.NewDefaultServer(graph.NewExecutableSchema(graph.Config{Resolvers: &graph.Resolver{Dict: dicts}}))
-
 	http.Handle("/", playground.Handler("GraphQL playground", "/query"))
 	http.Handle("/query", srv)
 
 	log.Printf("connect to http://localhost:%s/ for GraphQL playground", port)
-	log.Fatal(http.ListenAndServe(":"+port, nil))
+	return http.ListenAndServe(":"+port, nil)
 }

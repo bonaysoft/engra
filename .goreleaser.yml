@@ -1,0 +1,24 @@
+dist: ./build/release
+before:
+  hooks:
+    - go mod download
+builds:
+  - id: server
+    main: ./main.go
+    binary: bin/{{ .ProjectName }}
+    ldflags:
+      - -s -w
+      - -X github.com/bonaysoft/{{ .ProjectName }}/cmd.release={{.Version}}
+      - -X github.com/bonaysoft/{{ .ProjectName }}/cmd.commit={{.Commit}}
+      - -X github.com/bonaysoft/{{ .ProjectName }}/cmd.repo={{.GitURL}}
+    goos:
+      - linux
+    goarch:
+      - amd64
+
+dockers:
+  - image_templates:
+      - "ghcr.io/bonaysoft/{{ .ProjectName }}:v{{ .Major }}.{{ .Minor }}"
+      - "ghcr.io/bonaysoft/{{ .ProjectName }}:latest"
+    extra_files:
+      - dict/roots
