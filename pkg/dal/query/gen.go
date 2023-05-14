@@ -17,12 +17,14 @@ import (
 
 var (
 	Q            = new(Query)
+	EcDictWord   *ecDictWord
 	RootsAffixes *rootsAffixes
 	Vocabulary   *vocabulary
 )
 
 func SetDefault(db *gorm.DB, opts ...gen.DOOption) {
 	*Q = *Use(db, opts...)
+	EcDictWord = &Q.EcDictWord
 	RootsAffixes = &Q.RootsAffixes
 	Vocabulary = &Q.Vocabulary
 }
@@ -30,6 +32,7 @@ func SetDefault(db *gorm.DB, opts ...gen.DOOption) {
 func Use(db *gorm.DB, opts ...gen.DOOption) *Query {
 	return &Query{
 		db:           db,
+		EcDictWord:   newEcDictWord(db, opts...),
 		RootsAffixes: newRootsAffixes(db, opts...),
 		Vocabulary:   newVocabulary(db, opts...),
 	}
@@ -38,6 +41,7 @@ func Use(db *gorm.DB, opts ...gen.DOOption) *Query {
 type Query struct {
 	db *gorm.DB
 
+	EcDictWord   ecDictWord
 	RootsAffixes rootsAffixes
 	Vocabulary   vocabulary
 }
@@ -47,6 +51,7 @@ func (q *Query) Available() bool { return q.db != nil }
 func (q *Query) clone(db *gorm.DB) *Query {
 	return &Query{
 		db:           db,
+		EcDictWord:   q.EcDictWord.clone(db),
 		RootsAffixes: q.RootsAffixes.clone(db),
 		Vocabulary:   q.Vocabulary.clone(db),
 	}
@@ -63,18 +68,21 @@ func (q *Query) WriteDB() *Query {
 func (q *Query) ReplaceDB(db *gorm.DB) *Query {
 	return &Query{
 		db:           db,
+		EcDictWord:   q.EcDictWord.replaceDB(db),
 		RootsAffixes: q.RootsAffixes.replaceDB(db),
 		Vocabulary:   q.Vocabulary.replaceDB(db),
 	}
 }
 
 type queryCtx struct {
+	EcDictWord   IEcDictWordDo
 	RootsAffixes IRootsAffixesDo
 	Vocabulary   IVocabularyDo
 }
 
 func (q *Query) WithContext(ctx context.Context) *queryCtx {
 	return &queryCtx{
+		EcDictWord:   q.EcDictWord.WithContext(ctx),
 		RootsAffixes: q.RootsAffixes.WithContext(ctx),
 		Vocabulary:   q.Vocabulary.WithContext(ctx),
 	}

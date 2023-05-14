@@ -451,9 +451,9 @@ func walkWords(q *query.Query) {
 			v, err := q.Vocabulary.Where(q.Vocabulary.Name.Eq(s)).Take()
 			if err != nil {
 				// return
-				v = &model.Vocabulary{Name: s, Tag: tag}
+				v = &model.Vocabulary{Name: s, Tags: tag}
 			} else {
-				v.Tag = v.Tag + "," + tag
+				v.Tags = v.Tags + "," + tag
 			}
 
 			if err := q.Vocabulary.Where(q.Vocabulary.Id.Eq(v.Id)).Save(v); err != nil {

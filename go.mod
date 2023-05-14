@@ -17,6 +17,7 @@ require (
 	golang.org/x/net v0.6.0
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/driver/mysql v1.4.0
+	gorm.io/driver/sqlite v1.4.1
 	gorm.io/gen v0.3.19
 	gorm.io/gorm v1.24.3
 	gorm.io/plugin/dbresolver v1.3.0

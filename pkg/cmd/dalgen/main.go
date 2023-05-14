@@ -16,7 +16,7 @@ func main() {
 	// g.UseDB(gormdb) // reuse your gorm db
 
 	// Generate basic type-safe DAO API for struct `model.User` following conventions
-	g.ApplyBasic(model.Vocabulary{}, model.RootsAffixes{})
+	g.ApplyBasic(model.Vocabulary{}, model.RootsAffixes{}, model.EcDictWord{})
 
 	// Generate the code
 	g.Execute()

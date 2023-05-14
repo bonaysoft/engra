@@ -17,12 +17,12 @@ import (
 )
 
 type Dict struct {
-	roots        *Roots
+	roots        *dict.Roots
 	LevelCounter *LevelCounter
 }
 
 func NewDict() (*Dict, error) {
-	roots, err := NewRoots()
+	roots, err := dict.NewRoots()
 	if err != nil {
 		return nil, err
 	}
@@ -49,7 +49,7 @@ func (d *Dict) LookupWithRoot(ctx context.Context, name string) (*model.Vocabula
 	return v.Vocabulary, err
 }
 
-func (d *Dict) Find(name string) (*model.Vocabulary, *WordRoot, error) {
+func (d *Dict) Find(name string) (*model.Vocabulary, *dict.WordRoot, error) {
 	word, ok := lo.Find(dict.GetWords(), func(item model2.Vocabulary) bool { return item.Name == name })
 	if !ok {
 		return nil, nil, fmt.Errorf("not found: %v", name)
@@ -57,10 +57,21 @@ func (d *Dict) Find(name string) (*model.Vocabulary, *WordRoot, error) {
 
 	v, wrt, _ := d.roots.Find(name)
 	if v == nil {
-		return &model.Vocabulary{Name: name, Tags: strings.Split(word.Tag, ",")}, nil, nil
+		return &model.Vocabulary{
+			Name:     name,
+			Phonetic: word.Phonetic,
+			Meaning:  word.Meaning,
+			Tags:     strings.Split(word.Tags, ","),
+		}, nil, nil
 	}
 
-	v.Tags = strings.Split(word.Tag, ",")
+	v.Phonetic = word.Phonetic
+	v.Meaning = word.Meaning
+	v.Tags = strings.Split(word.Tags, ",")
+	if len(word.Roots) > 0 {
+		v.Roots = strings.Split(word.Roots, ",")
+	}
+
 	return v, wrt, nil
 }
 
@@ -72,10 +83,10 @@ func (d *Dict) BuildWordsMd() error {
 	for idx, word := range words {
 		v, wr, _ := d.roots.Find(word.Name)
 		if wr != nil {
-			if words[idx].Root != "" {
-				words[idx].Root += "," + wr.Name
+			if words[idx].Roots != "" && !strings.Contains(words[idx].Roots, wr.Name) {
+				words[idx].Roots += "," + wr.Name
 			} else {
-				words[idx].Root += wr.Name
+				words[idx].Roots += wr.Name
 			}
 			words[idx].Status = v.Status()
 			count++
@@ -106,7 +117,7 @@ func (d *Dict) BuildWordsMd() error {
 func (d *Dict) BuildSummary() error {
 	words := dict.GetWords()
 	for _, word := range words {
-		tags := strings.Split(word.Tag, ",")
+		tags := strings.Split(word.Tags, ",")
 		_, _, err := d.roots.Find(word.Name)
 		d.LevelCounter.Count(tags, err == nil)
 	}

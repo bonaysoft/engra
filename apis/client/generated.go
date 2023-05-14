@@ -55,6 +55,7 @@ fragment vocabulary on Vocabulary {
 	mnemonic
 	meaning
 	tags
+	roots
 	constitute
 }
 `
@@ -118,6 +119,7 @@ fragment vocabulary on Vocabulary {
 	mnemonic
 	meaning
 	tags
+	roots
 	constitute
 }
 `

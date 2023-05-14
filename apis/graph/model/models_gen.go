@@ -9,5 +9,6 @@ type Vocabulary struct {
 	Constitute []string      `json:"constitute" yaml:"constitute,omitempty"`
 	Meaning    string        `json:"meaning" yaml:"meaning,omitempty"`
 	Tags       []string      `json:"tags" yaml:"tags,omitempty"`
+	Roots      []string      `json:"roots" yaml:"roots,omitempty"`
 	Children   []*Vocabulary `json:"children" yaml:"children,omitempty"`
 }

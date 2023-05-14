@@ -16,20 +16,20 @@ var wants = []model.Vocabulary{
 	// {Name: "serviceman", Words: []string{"service", "main"}},
 
 	// 前缀+根
-	{Name: "exit", Prefix: "ex", Root: "it"},
-	{Name: "interact", Prefix: "inter", Root: "act"},
-	{Name: "observe", Prefix: "ob", Root: "serv"},
+	{Name: "exit", Prefix: "ex", Roots: "it"},
+	{Name: "interact", Prefix: "inter", Roots: "act"},
+	{Name: "observe", Prefix: "ob", Roots: "serv"},
 
 	// 根+后缀
-	{Name: "hydrate", Root: "hydr", Suffix: "ate"},
-	{Name: "service", Root: "serv", Suffix: "ice"},
-	{Name: "stalling", Root: "stall", Suffix: "ing"},
+	{Name: "hydrate", Roots: "hydr", Suffix: "ate"},
+	{Name: "service", Roots: "serv", Suffix: "ice"},
+	{Name: "stalling", Roots: "stall", Suffix: "ing"},
 
 	// 前缀+根+后缀
-	{Name: "detection", Prefix: "de", Root: "tect", Suffix: "ion"},
-	{Name: "protestor", Prefix: "pro", Root: "test", Suffix: "or"},
-	{Name: "protestation", Prefix: "pro", Root: "test", Suffix: "ation"},
-	{Name: "protesting", Prefix: "pro", Root: "test", Suffix: "ing"},
+	{Name: "detection", Prefix: "de", Roots: "tect", Suffix: "ion"},
+	{Name: "protestor", Prefix: "pro", Roots: "test", Suffix: "or"},
+	{Name: "protestation", Prefix: "pro", Roots: "test", Suffix: "ation"},
+	{Name: "protesting", Prefix: "pro", Roots: "test", Suffix: "ing"},
 
 	// 根+根 TODO
 	// {Name: "technocracy", Root: "tect", Suffix: "ion"},

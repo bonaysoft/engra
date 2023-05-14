@@ -44,7 +44,7 @@ func Extract(word string) *model.Vocabulary {
 				continue
 			}
 
-			results = append(results, model.Vocabulary{Name: word, Root: root, Prefix: prefix})
+			results = append(results, model.Vocabulary{Name: word, Roots: root, Prefix: prefix})
 		}
 	}
 
@@ -55,7 +55,7 @@ func Extract(word string) *model.Vocabulary {
 				continue
 			}
 
-			results = append(results, model.Vocabulary{Name: word, Root: root, Suffix: suffix})
+			results = append(results, model.Vocabulary{Name: word, Roots: root, Suffix: suffix})
 		}
 	}
 
@@ -67,7 +67,7 @@ func Extract(word string) *model.Vocabulary {
 					continue
 				}
 
-				results = append(results, model.Vocabulary{Name: word, Root: root, Prefix: prefix, Suffix: suffix})
+				results = append(results, model.Vocabulary{Name: word, Roots: root, Prefix: prefix, Suffix: suffix})
 			}
 		}
 	}
@@ -75,15 +75,15 @@ func Extract(word string) *model.Vocabulary {
 	// 开始处理各种情况
 	// 1. 理想情况：如果拼起来的正好是目标单词则直接返回
 	greatResult, ok := lo.Find(results, func(item model.Vocabulary) bool {
-		if item.Prefix+item.Root+item.Suffix == item.Name {
+		if item.Prefix+item.Roots+item.Suffix == item.Name {
 			return true
 		}
 
-		if item.Root+item.Suffix == item.Name {
+		if item.Roots+item.Suffix == item.Name {
 			return true
 		}
 
-		if item.Prefix+item.Root == item.Name {
+		if item.Prefix+item.Roots == item.Name {
 			return true
 		}
 
@@ -98,9 +98,9 @@ func Extract(word string) *model.Vocabulary {
 	// 2. 非理想情况：拼起来的长度小于目标单词长度
 	sort.Slice(results, func(i, j int) bool {
 		v1, v2 := results[i], results[j]
-		return len(v1.Prefix+v1.Root+v1.Suffix) > len(v2.Prefix+v2.Root+v2.Suffix)
+		return len(v1.Prefix+v1.Roots+v1.Suffix) > len(v2.Prefix+v2.Roots+v2.Suffix)
 	})
-	v, ok := lo.Find(results, func(item model.Vocabulary) bool { return len(word)-len(item.Prefix+item.Root+item.Suffix) < 3 })
+	v, ok := lo.Find(results, func(item model.Vocabulary) bool { return len(word)-len(item.Prefix+item.Roots+item.Suffix) < 3 })
 	if ok {
 		return &v
 	}
